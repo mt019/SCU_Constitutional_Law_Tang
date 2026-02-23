@@ -1,0 +1,67 @@
+site_name: 1142 憲法專題研究
+site_url: "https://mt019.github.io/1141_SEMINAR_ON_CONSTITUTIONAL_LAW/"
+docs_dir: My_Notes
+site_description: "東吳大學法碩二｜憲法專題研究（四）課程筆記與研討紀錄｜湯德宗｜湯德宗憲法"
+site_author: "湯德宗"
+repo_url: "https://github.com/mt019/1141_SEMINAR_ON_CONSTITUTIONAL_LAW"
+repo_name: mt019/1141_SEMINAR_ON_CONSTITUTIONAL_LAW
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.footer        # 產生頁腳的上一頁/下一頁
+    - content.tags
+  font:
+    text: Noto Serif CJK TC
+    code: JetBrains Mono
+plugins:
+  - search
+  - awesome-pages
+  - exclude:
+      glob: ['_*/**', '*_.md']
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: iso_date
+      fallback_to_build_date: true
+  - rss:
+      match_path: ".*"
+      date_from_meta:
+        as_creation: date
+        as_update: updated
+      categories:
+        - keywords
+  - tags:
+      tags_file: tags.md
+  - sitemap:
+      changefreq: weekly
+      priority: 0.5
+  - social
+extra_css:
+  - assets/extra.css   # 若有
+
+extra_javascript:
+  - assets/keynav.js           # 我將放置的鍵盤導航腳本
+  - assets/extra.js
+
+extra:
+  social:
+    - icon: material/school
+      link: https://www.law.scu.edu.tw/
+      name: 東吳大學法學院
+  meta:
+    keywords: "湯德宗, 湯德宗憲法, 憲法專題研究, 憲法解釋方法, 東吳大學, Seminar on Constitutional Law, Constitutional Interpretation"
+    author: "湯德宗"
+    description: "東吳大學法碩二｜憲法專題研究（四）課程筆記與研討紀錄｜湯德宗｜湯德宗憲法"
+
+# mkdocs.yml（加入 markdown_extensions）
+markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2   # 允許第二層起用 2 個空白（nested item只能用2格縮排！！！嚴格！！！
+  - meta
+  - toc:
+      permalink: true

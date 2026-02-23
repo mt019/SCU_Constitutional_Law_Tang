@@ -1,0 +1,136 @@
+name: Build and Deploy MkDocs
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history for RSS dates)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install MkDocs and plugins
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          mkdocs --version
+
+      - name: Sync notebooks into mkdocs content
+        run: |
+          mkdir -p mkdocs/My_Notes/notebooks
+          rsync -av --delete notebooks/ mkdocs/My_Notes/notebooks/ || true
+          echo "Synced notebooks -> mkdocs/My_Notes/notebooks"
+          find mkdocs/My_Notes/notebooks -maxdepth 2 -type f -name "*.ipynb" -print || true
+
+
+      - name: Build site
+        run: |
+          export JUPYTER_PLATFORM_DIRS=1
+          echo "Using $(mkdocs --version)"
+          # Build inside mkdocs/ so all relative paths resolve predictably
+          cd mkdocs
+          mkdocs build -f mkdocs.yml
+          cd -
+
+      - name: Generate sitemap.xml (post-build)
+        run: |
+          python - << 'PY'
+          import os, sys, time, pathlib, re
+
+          # Use current working directory set by the runner (repo root)
+          ROOT = pathlib.Path.cwd()
+          cfg_path = ROOT / 'mkdocs' / 'mkdocs.yml'
+          site_dir = ROOT / 'mkdocs' / 'site'
+
+          # Ensure output directory exists even if build produced none
+          site_dir.mkdir(parents=True, exist_ok=True)
+
+          text = cfg_path.read_text(encoding='utf-8')
+          m = re.search(r'^\s*site_url\s*:\s*["\']?([^"\'\n]+)["\']?\s*$', text, re.MULTILINE)
+          site_url = (m.group(1).strip() if m else '')
+          if not site_url:
+              print('Error: site_url missing in mkdocs/mkdocs.yml', file=sys.stderr)
+              sys.exit(1)
+          if not site_url.endswith('/'):
+              site_url += '/'
+
+          urls = []
+          for p in site_dir.rglob('*.html'):
+              rel = p.relative_to(site_dir).as_posix()
+              if rel == '404.html' or rel.startswith('search/'):
+                  continue
+              if rel.endswith('/index.html'):
+                  loc = site_url + rel[:-len('index.html')]
+              elif rel == 'index.html':
+                  loc = site_url
+              else:
+                  loc = site_url + rel
+              lastmod = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime(p.stat().st_mtime))
+              urls.append((loc, lastmod))
+
+          out = [
+              '<?xml version="1.0" encoding="UTF-8"?>',
+              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+          ]
+          for loc, lastmod in sorted(urls):
+              out.append('  <url>')
+              out.append(f'    <loc>{loc}</loc>')
+              out.append(f'    <lastmod>{lastmod}</lastmod>')
+              out.append('  </url>')
+          out.append('</urlset>')
+          (site_dir / 'sitemap.xml').write_text('\n'.join(out), encoding='utf-8')
+          print(f'Wrote {(site_dir / "sitemap.xml").as_posix()} with {len(urls)} URLs')
+          PY
+
+      - name: List built files
+        run: |
+          echo "Files under mkdocs/site/:"
+          find mkdocs/site -maxdepth 2 -type f | sed 's/^/  /'
+          test -f mkdocs/site/index.html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: mkdocs/site
+
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

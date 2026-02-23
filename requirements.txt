@@ -1,0 +1,14 @@
+# MkDocs and plugins used to build the site
+mkdocs>=1.6.1,<2
+mkdocs-material
+mkdocs-jupyter
+mkdocs-awesome-pages-plugin
+mkdocs-exclude
+mkdocs-minify-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-rss-plugin
+mkdocs-sitemap
+mdx_truly_sane_lists
+# For mkdocs-material social cards
+pillow
+cairosvg
