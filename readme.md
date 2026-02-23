@@ -122,45 +122,45 @@ This course series strives to integrate learning and critical thinking, graduall
 第2週（3/2）  
 Part I: Introduction  
 Michael J. Perry, What is “the Constitution”?  
-LA 99~151  
+LA 99-151  
 
 第3週（3/9）  
 Jed Rubenfeld, Legitimacy and Interpretation  
-LA 194~235  
+LA 194-235  
 
 第4週（3/16）  
-Chap 1–2（BF 3~33）  
+Chap 1–2（BF 3-33）  
 釋字3  
 
 第5週（3/23）  
-Chap 3（BF 35~55）  
+Chap 3（BF 35-55）  
 Part II: Constitutional Theories  
-GAF 12~18  
+GAF 12-18  
 釋字387、419  
 
 第6週（3/30）  
-Process Theory（GAF 18~33；DB 15~25）  
-Morality-Based Approach（GAF 33~37）  
-Reconceptualizing Democracy（GAF 37~62；63~72）  
+Process Theory（GAF 18-33；DB 15-25）  
+Morality-Based Approach（GAF 33-37）  
+Reconceptualizing Democracy（GAF 37-62；63-72）  
 
 第7週（4/6）  
 學術交流週（放假）  
 
 第8週（4/13）  
 Part III: Methods  
-Chap 4–5（BF 59~78）  
+Chap 4–5（BF 59-78）  
 113憲判9、114憲判1  
 
 第9週（4/20）  
-Chap 6–7（BF 79~116）  
+Chap 6–7（BF 79-116）  
 釋字738、769、111憲判6  
 
 第10週（4/27）  
-Chap 8–9（BF 117~154）  
+Chap 8–9（BF 117-154）  
 釋字656、111憲判2  
 
 第11週（5/4）  
-Chap 10–11（BF 155~187）  
+Chap 10–11（BF 155-187）  
 釋字554、791  
 
 第12週（5/11）  
