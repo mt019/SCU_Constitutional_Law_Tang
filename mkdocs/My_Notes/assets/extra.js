@@ -84,9 +84,8 @@
 // 在頂部導覽加入「一鍵學術連結」
 (function () {
   const links = [
-    { label: "DWDS", url: "https://www.dwds.de/", emoji: "📘" },
-    { label: "德語助手", url: "https://www.godic.net/", emoji: "📙" },
-    // { label: "裁判書查詢", url: "https://judgment.judicial.gov.tw/FJUD/default.aspx", emoji: "⚖️" }
+    { label: "中華民國憲法", url: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001" },
+    { label: "憲法訴訟法", url: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030159" }
   ];
 
   function addQuickLinks() {
@@ -102,12 +101,8 @@
       a.href = l.url;
       a.target = '_blank';
       a.rel = 'noopener noreferrer';
-      const em = document.createElement('span');
-      em.className = 'qa-emoji';
-      em.textContent = l.emoji || '🔗';
       const txt = document.createElement('span');
       txt.textContent = l.label;
-      a.appendChild(em);
       a.appendChild(txt);
       wrap.appendChild(a);
     });

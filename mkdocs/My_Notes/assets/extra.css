@@ -43,7 +43,6 @@
 .qa-links a {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
   padding: 4px 8px;
   border-radius: 6px;
   text-decoration: none;
@@ -54,9 +53,6 @@
   border: 1px solid rgba(0,0,0,0.1);
 }
 .qa-links a:hover { filter: brightness(0.95); }
-.qa-links .qa-emoji {
-  font-size: 1rem;
-}
 
 /* 窄螢幕時可視需要隱藏（保留空間給搜尋） */
 @media (max-width: 700px) {
