@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://mt019.github.io/1141_SEMINAR_ON_CONSTITUTIONAL_LAW/sitemap.xml

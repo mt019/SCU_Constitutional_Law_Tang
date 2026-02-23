@@ -37,9 +37,6 @@ plugins:
         - keywords
   - tags:
       tags_file: tags.md
-  - sitemap:
-      changefreq: weekly
-      priority: 0.5
   - social
 extra_css:
   - assets/extra.css   # 若有
