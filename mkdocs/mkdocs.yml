@@ -44,6 +44,8 @@ extra_css:
 extra_javascript:
   - assets/keynav.js           # 我將放置的鍵盤導航腳本
   - assets/extra.js
+  - assets/mermaid-init.js
+  - assets/mathjax-config.js
 
 extra:
   social:
