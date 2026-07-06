@@ -1,2 +1,21 @@
 /.DS_Store
 *.docx
+# macOS
+**/.DS_Store
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.xdv
+*.run.xml
+*.synctex.gz
+# 官方打包下載與解壓 PDF（已遷移至 constitutional-court-research-data，官方站可重抓）
+*_官方下載.zip
+_Material/法源/憲法法庭/**/extracted/
+# 產生物中的字型壓縮包
+_Generated/font_compare/fonts/*.zip

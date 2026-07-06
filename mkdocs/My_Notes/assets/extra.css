@@ -58,3 +58,9 @@
 @media (max-width: 700px) {
   .qa-links { display: none; }
 }
+
+/* Academic typography: small caps for case names/book titles */
+.sc {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.04em;
+}

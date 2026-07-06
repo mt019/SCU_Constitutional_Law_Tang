@@ -1,5 +1,5 @@
-site_name: 1142 憲法專題研究
-site_url: "https://mt019.github.io/1141_SEMINAR_ON_CONSTITUTIONAL_LAW/"
+site_name: 1142 【湯德宗】憲法專題研究
+site_url: "https://mt019.github.io/1142_SCU_CONSTITUTIONAL_LAW/"
 docs_dir: My_Notes
 site_description: "東吳大學法碩二｜憲法專題研究（四）課程筆記與研討紀錄｜湯德宗｜湯德宗憲法"
 site_author: "湯德宗"
@@ -28,6 +28,10 @@ plugins:
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: true
+  - sitemap:
+      changefreq: weekly
+      priority: 0.5
+      filename: sitemap.xml
   - rss:
       match_path: ".*"
       date_from_meta:
