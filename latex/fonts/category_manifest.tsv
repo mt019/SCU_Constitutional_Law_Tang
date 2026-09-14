@@ -1,0 +1,4 @@
+category	display_name	purpose	contents_policy	primary_candidates
+elegant-intellectual	優雅知性明宋款	Readable quote cards, law/humanities notes, serious paragraph typography.	Stable open fonts and system-like Ming/Sung candidates.	HuiwenMincho-Improved.ttf; ChironSungHK-Text-R.ttf; GenWanMin2-R.ttc; GenRyuMin2-R.ttc; GenYoMin2-R.ttc
+handwriting-accent	手寫點綴款	Titles, signatures, short warm pull quotes.	Use sparingly for long text unless readability is verified.	ChenYuluoyan-2.0-Thin.ttf; Iansui-Regular.ttf
+typewriter-ink	打字機／油墨／舊印刷款	Typewriter cards, old movable type, woodblock ink, nostalgic print experiments.	Includes experimental imports from ~/Downloads/2904-复古怀旧字体; license status must be checked before publication.	xiangcui-typewriter-w35.ttf; xiangcui-typewriter-w40.ttf; qiji-combo.ttf; taisyo-katsuji-ppoi7.ttf; kinghwa-oldson.ttf

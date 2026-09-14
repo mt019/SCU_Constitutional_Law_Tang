@@ -1,0 +1,44 @@
+slug	display_name	file_pattern	license	source_url	usage_note
+huiwen-mincho	匯文明朝體修正	HuiwenMincho-Improved.ttf	CC0	https://github.com/bosswnx/huiwenmincho-improved	Old-book printed texture; strong quote-card candidate.
+chenyu-luoyan	辰宇落雁體	ChenYuluoyan-2.0-Thin.ttf	OFL-1.1	https://github.com/Chenyu-otf/chenyuluoyan_thin	Thin handwritten accent; best for titles or short quotes.
+chiron-sung-hk	昭源宋體	ChironSungHK-Text-R.ttf	OFL-1.1	https://github.com/chiron-fonts/chiron-sung-hk	Clean modern Sung; stable title/body candidate.
+iming	一點明體	I.Ming-8.10.ttf	IPA Font License	https://github.com/ichitenfont/I.Ming	Classical Ming; old movable-type feeling.
+lxgw-zhisong	霞鶩緻宋	LXGWZhiSongMN.ttf	IPA Font License	https://github.com/lxgw/LxgwZhiSong	Slender elegant Sung; quiet card candidate.
+mizuki-ming	水木明體	MizukiMing-Regular.ttf	IPA Font License	https://github.com/MEE-Developers/Mizuki-Ming	Restrained printed Ming style.
+qiji	齊伋體	qiji-combo.ttf	OFL-1.1	https://github.com/LingDong-/qiji-font	Woodblock/ink texture; use for special cards and check punctuation.
+iansui	芫荽	Iansui-Regular.ttf	OFL-1.1	https://github.com/ButTaiwan/iansui	Friendly handwritten serif; warm but less formal.
+genryu-min	源流明體	GenRyuMin2-*.ttc	OFL-1.1	https://github.com/ButTaiwan/genryu-font	Serious retro Ming; legal/humanities quote cards.
+genwan-min	源雲明體	GenWanMin2-*.ttc	OFL-1.1	https://github.com/ButTaiwan/genwan-font	Warm bookish Ming; soft quote cards.
+genyo-min	源樣明體	GenYoMin2-*.ttc	OFL-1.1	https://github.com/ButTaiwan/genyo-font	Traditional printed Ming; compare against GenRyu/GenWan.
+xiangcui-typewriter	香萃打字機體	xiangcui-typewriter-w15.ttf; xiangcui-typewriter-w35.ttf; xiangcui-typewriter-w40.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Typewriter / old ink candidate staged in categories/typewriter-ink.
+xiangcui-kesong	香萃刻宋	xiangcui-kesong.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Woodblock / engraved Song candidate staged in categories/typewriter-ink.
+huiwen-tsukiji-5	匯文筑地五號明朝體	huiwen-tsukiji-5-mincho.otf	Needs review	~/Downloads/2904-复古怀旧字体	Old print Ming candidate staged in categories/typewriter-ink.
+oradano-ming	Oradano 明朝	oradano-mingchao-cc0.ttf	CC0 indicated by filename; verify package notes	~/Downloads/2904-复古怀旧字体	Old movable-type candidate staged in categories/typewriter-ink.
+kinghwa-oldson	京華老宋體	kinghwa-oldson.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Heavy old Song candidate staged in categories/typewriter-ink.
+taisyo-katsuji	大正活字	taisyo-katsuji-ppoi7.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Old movable-type / ink candidate staged in categories/typewriter-ink.
+qiji-huanglingdong	黃令東齊伋體	qiji-huanglingdong.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Alternate Qiji-style ink candidate staged in categories/typewriter-ink.
+homura-mincho	焰明朝	homura-m-*.otf	Needs review	~/Downloads/2904-复古怀旧字体	Retro Ming weight family staged in categories/typewriter-ink.
+youyou-yisong	又又意宋	youyou-yisong.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Decorative old Song candidate staged in categories/typewriter-ink.
+runzhijia-kangxi	潤植家康熙字典美化體	runzhijia-kangxi.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Dictionary-style old print candidate staged in categories/typewriter-ink.
+xinyugong-zhengrong	新愚公崢嶸體	xinyugong-zhengrong.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Heavy display candidate staged in categories/typewriter-ink.
+maoken-kangzhong-zusong	貓啃網扛重族宋	maoken-kangzhong-zusong-full.ttf; maoken-kangzhong-zusong-sc.ttf	Needs review	~/Downloads/2904-复古怀旧字体	Heavy display Song candidate staged in categories/typewriter-ink.
+new-tegomin	特高敏 / New Tegomin	new-tegomin-regular.ttf	OFL-1.1 indicated in package; verify before publication	~/Downloads/2904-复古怀旧字体	Retro display candidate staged in categories/typewriter-ink.
+hina-mincho	ひな明朝	hina-mincho-regular.ttf	Needs review	~/Downloads/15款打字机中文/ひな明朝	Light Japanese-style Mincho with typewriter feel; staged in categories/typewriter-ink.
+tongwen-zidian	同文新字典體	tongwen-zidian.ttf	Needs review	~/Downloads/15款打字机中文/同文新字典体	Dictionary-style Sung based on classical typefaces; staged in categories/typewriter-ink.
+huan-mingchao	幻影明朝	huan-mingchao.otf	Needs review	~/Downloads/15款打字机中文/幻影明朝	Dark atmospheric Ming; poster/display candidate; staged in categories/typewriter-ink.
+teko-mincho	特高明朝	teko-mincho.ttf	Needs review	~/Downloads/15款打字机中文/特高明朝	High-contrast display Ming; distinct from New Tegomin (特高敏); staged in categories/typewriter-ink.
+essays1743	Essays 1743	essays1743.ttf; essays1743-bold.ttf	Needs review	~/Downloads/15款打字机英文/Essays	Elegant old-style Roman with typewriter character; staged in categories/typewriter-latin.
+mystery-typewriter	Mystery Typewriter	mystery-typewriter.ttf	Needs review	~/Downloads/15款打字机英文/MysteryTypewriter	Worn typewriter face; staged in categories/typewriter-latin.
+roman-antique	Roman Antique	roman-antique.ttf; roman-antique-italic.ttf; romanum-est.ttf	Needs review	~/Downloads/15款打字机英文/Roman	Antique Roman display; staged in categories/typewriter-latin.
+carbon	Carbon	carbon.ttf	Needs review	~/Downloads/15款打字机英文/carbontype	Carbon-copy typewriter texture; staged in categories/typewriter-latin.
+cuomotype	Cuomotype	cuomotype.otf	Needs review	~/Downloads/15款打字机英文/cuomotype	Mechanical typewriter face; staged in categories/typewriter-latin.
+gabriele	Gabriele	gabriele-d.ttf; gabriele-bad.ttf; gabriele-l.ttf	Needs review	~/Downloads/15款打字机英文/gabriele	Typewriter family with worn/light/dark variants; staged in categories/typewriter-latin.
+harting	Harting	harting-plain.ttf	Needs review	~/Downloads/15款打字机英文/harting	Plain typewriter monospace; staged in categories/typewriter-latin.
+holstein	Holstein	holstein.ttf; holstein-bold.ttf	Needs review	~/Downloads/15款打字机英文/holstein	Typewriter serif; staged in categories/typewriter-latin.
+jackwrite	Jackwrite	jackwrite.ttf; jackwrite-bold.ttf; jackwrite-thin.ttf	Needs review	~/Downloads/15款打字机英文/jackwrite	Typewriter family (thin/regular/bold); staged in categories/typewriter-latin.
+kingthings-trypewriter-2	Kingthings Trypewriter 2	kingthings-trypewriter-2.ttf	Needs review	~/Downloads/15款打字机英文/kingthings-trypewriter-2	Rough-hewn typewriter face; staged in categories/typewriter-latin.
+mcgarey	McGarey	mcgarey-regular.ttf	Needs review	~/Downloads/15款打字机英文/mcgarey	Classic proportional typewriter face; staged in categories/typewriter-latin.
+radio-newsman	Radio Newsman	radio-newsman.ttf	Needs review	~/Downloads/15款打字机英文/radio-newsman	Broadcast-era typewriter feel; staged in categories/typewriter-latin.
+schreibmaschine	Schreibmaschine	schreibmaschine.ttf	Needs review	~/Downloads/15款打字机英文/schreibmaschine	German typewriter face; staged in categories/typewriter-latin.
+typeo	TypeO	typeo.ttf	Needs review	~/Downloads/15款打字机英文/typeo	Slightly distressed typewriter; staged in categories/typewriter-latin.
+veteran-typewriter	Veteran Typewriter	veteran-typewriter.ttf	Needs review	~/Downloads/15款打字机英文/veteran-typewriter	Heavy-inked mechanical typewriter; staged in categories/typewriter-latin.
