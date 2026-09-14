@@ -1,0 +1,118 @@
+\documentclass{article}
+\usepackage[paperwidth=108mm,paperheight=135mm,margin=0mm]{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{setspace}
+\usepackage{ragged2e}
+\pagestyle{empty}
+
+\setmainfont{Avenir Next}
+\setsansfont{Avenir Next}
+\setCJKmainfont{Songti TC}
+\setCJKsansfont{Heiti TC}
+\setCJKfamilyfont{huiwen}[Path=/Users/iw/Documents/NTU/1142/font-lab/packs/scu-constitutional/fonts/]{HuiwenMincho-Improved.ttf}
+\setCJKfamilyfont{chenyu}[Path=/Users/iw/Documents/NTU/1142/font-lab/packs/scu-constitutional/fonts/]{ChenYuluoyan-2.0-Thin.ttf}
+\setCJKfamilyfont{songti}{Songti TC}
+
+\definecolor{ink}{HTML}{2A2724}
+\definecolor{softink}{HTML}{554D46}
+\definecolor{muted}{HTML}{81766B}
+\definecolor{paper}{HTML}{FBF6EC}
+\definecolor{paperdeep}{HTML}{EFE2D0}
+\definecolor{edge}{HTML}{B5916C}
+\definecolor{rust}{HTML}{9A5A42}
+\definecolor{roseink}{HTML}{7A4B52}
+\definecolor{warmline}{HTML}{D9C5AD}
+\definecolor{dot}{HTML}{D8CBB9}
+
+\newcommand{\papertexture}{%
+  \foreach \i in {1,...,86} {
+    \pgfmathsetmacro{\x}{2+104*rnd}
+    \pgfmathsetmacro{\y}{4+127*rnd}
+    \pgfmathsetmacro{\len}{7+30*rnd}
+    \pgfmathsetmacro{\ang}{-12+24*rnd}
+    \draw[paperdeep!58!paper,line width=0.13pt]
+      (\x mm,\y mm) -- ++(\ang:\len mm);
+  }
+  \foreach \i in {1,...,24} {
+    \pgfmathsetmacro{\x}{4+100*rnd}
+    \pgfmathsetmacro{\y}{5+125*rnd}
+    \pgfmathsetmacro{\len}{32+55*rnd}
+    \pgfmathsetmacro{\ang}{-8+16*rnd}
+    \draw[warmline!55!paper,line width=0.25pt]
+      (\x mm,\y mm) .. controls ++(\ang+10:13mm) and ++(\ang-15:-16mm) .. ++(\ang:\len mm);
+  }
+  \foreach \i in {1,...,150} {
+    \pgfmathsetmacro{\x}{3+102*rnd}
+    \pgfmathsetmacro{\y}{3+129*rnd}
+    \fill[dot!58!paper] (\x mm,\y mm) circle[radius=0.055mm];
+  }
+}
+
+\newcommand{\cardframe}[2]{%
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[#1] (current page.south west) rectangle (current page.north east);
+  \begin{scope}[shift={(current page.south west)}]
+    \papertexture
+  \end{scope}
+  \draw[#2,line width=0.55pt]
+    ([xshift=6mm,yshift=6mm]current page.south west)
+    rectangle
+    ([xshift=-6mm,yshift=-6mm]current page.north east);
+  \draw[#2!68!#1,line width=0.25pt]
+    ([xshift=8.5mm,yshift=8.5mm]current page.south west)
+    rectangle
+    ([xshift=-8.5mm,yshift=-8.5mm]current page.north east);
+\end{tikzpicture}
+}
+
+\newcommand{\huiwencard}{%
+\clearpage
+\cardframe{paper}{rust}
+\vspace*{16mm}
+\begin{center}
+\begin{minipage}{88mm}
+{\CJKfamily{huiwen}\color{rust}\fontsize{18}{25}\selectfont 讀書要先進入老師的課堂邏輯。\par}
+\vspace{9mm}
+{\CJKfamily{huiwen}\color{ink}\fontsize{13.8}{22.3}\selectfont\setstretch{1.02}\RaggedRight
+上課還是要去。\\
+因為如果你相信某個老師，\\
+他應該是認真的，\\
+那他上課的時候是經過準備的。\\
+你去上課，\\
+至少可以從上課過程中理解老師\\
+對這門課的一些想法、邏輯，\\
+他也會告訴你哪些地方\\
+是理解這門課的重點。\par}
+\end{minipage}
+\end{center}
+}
+
+\newcommand{\chenyucard}{%
+\clearpage
+\cardframe{paper}{roseink}
+\vspace*{16mm}
+\begin{center}
+\begin{minipage}{88mm}
+{\CJKfamily{chenyu}\color{roseink}\fontsize{22}{31}\selectfont 讀書要先進入\\老師的課堂邏輯。\par}
+\vspace{9mm}
+{\CJKfamily{chenyu}\color{softink}\fontsize{14.2}{24.4}\selectfont\setstretch{1.02}\RaggedRight
+上課還是要去。\\
+因為如果你相信某個老師，\\
+他應該是認真的，\\
+那他上課的時候是經過準備的。\\
+你去上課，\\
+至少可以從上課過程中理解老師\\
+對這門課的一些想法、邏輯，\\
+他也會告訴你哪些地方\\
+是理解這門課的重點。\par}
+\end{minipage}
+\end{center}
+}
+
+\begin{document}
+\huiwencard
+\chenyucard
+\end{document}

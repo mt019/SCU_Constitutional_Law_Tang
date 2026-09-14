@@ -1,0 +1,137 @@
+\documentclass{article}
+\usepackage[paperwidth=108mm,paperheight=135mm,margin=0mm]{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{setspace}
+\usepackage{ragged2e}
+\pagestyle{empty}
+
+\setmainfont{Avenir Next}
+\setsansfont{Avenir Next}
+\setCJKmainfont{Songti TC}
+\setCJKsansfont{Heiti TC}
+\setCJKfamilyfont{hei}{Heiti TC}
+
+\definecolor{ink}{HTML}{202225}
+\definecolor{muted}{HTML}{6A6258}
+\definecolor{cream}{HTML}{F6F1E8}
+\definecolor{paper}{HTML}{FFFDF8}
+\definecolor{teal}{HTML}{0F766E}
+\definecolor{wine}{HTML}{8A1F3D}
+\definecolor{indigo}{HTML}{344C8A}
+\definecolor{moss}{HTML}{54704B}
+\definecolor{bluepaper}{HTML}{F1F5FF}
+\definecolor{rosepaper}{HTML}{FFF3F5}
+\definecolor{greenpaper}{HTML}{F1F8EE}
+\definecolor{fiber}{HTML}{D9D0C2}
+\definecolor{crease}{HTML}{B8AA98}
+
+\newcommand{\papertexture}{%
+  \foreach \i in {1,...,70} {
+    \pgfmathsetmacro{\x}{2+104*rnd}
+    \pgfmathsetmacro{\y}{4+127*rnd}
+    \pgfmathsetmacro{\len}{8+22*rnd}
+    \pgfmathsetmacro{\ang}{-18+36*rnd}
+    \draw[fiber, opacity=0.16, line width=0.12pt]
+      (\x mm,\y mm) -- ++(\ang:\len mm);
+  }
+  \foreach \i in {1,...,18} {
+    \pgfmathsetmacro{\x}{4+100*rnd}
+    \pgfmathsetmacro{\y}{5+125*rnd}
+    \pgfmathsetmacro{\len}{34+58*rnd}
+    \pgfmathsetmacro{\ang}{-8+16*rnd}
+    \draw[crease, opacity=0.08, line width=0.35pt]
+      (\x mm,\y mm) .. controls ++(\ang+12:12mm) and ++(\ang-18:-18mm) .. ++(\ang:\len mm);
+  }
+  \foreach \i in {1,...,95} {
+    \pgfmathsetmacro{\x}{3+102*rnd}
+    \pgfmathsetmacro{\y}{3+129*rnd}
+    \fill[ink, opacity=0.035] (\x mm,\y mm) circle[radius=0.08mm];
+  }
+}
+
+\newcommand{\quotecard}[5]{%
+\clearpage
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[#5] (current page.south west) rectangle (current page.north east);
+  \begin{scope}[shift={(current page.south west)}]
+    \papertexture
+  \end{scope}
+  \fill[paper, rounded corners=5mm]
+    ([xshift=7mm,yshift=7mm]current page.south west)
+    rectangle
+    ([xshift=-7mm,yshift=-7mm]current page.north east);
+  \begin{scope}[shift={([xshift=7mm,yshift=7mm]current page.south west)}]
+    \clip[rounded corners=5mm] (0,0) rectangle (94mm,121mm);
+    \papertexture
+  \end{scope}
+  \fill[#4]
+    ([xshift=7mm,yshift=-23mm]current page.north west)
+    rectangle
+    ([xshift=101mm,yshift=-20mm]current page.north west);
+  \node[anchor=north west, text=#4, font=\sffamily\bfseries\fontsize{9}{12}\selectfont]
+    at ([xshift=13mm,yshift=-13mm]current page.north west) {憲法專題研究（四）｜老師金句};
+  \node[anchor=south east, text=muted, font=\sffamily\fontsize{7.5}{10}\selectfont]
+    at ([xshift=-13mm,yshift=13mm]current page.south east) {#2};
+\end{tikzpicture}
+\vspace*{32mm}
+\begin{center}
+\begin{minipage}{82mm}
+{\CJKfamily{hei}\color{#4}\fontsize{16}{22}\selectfont\bfseries #1\par}
+\vspace{9mm}
+{\color{ink}\fontsize{13.2}{21}\selectfont\setstretch{1.08}\RaggedRight #3\par}
+\end{minipage}
+\end{center}
+}
+
+\begin{document}
+
+\quotecard
+{哲學方法不是變哲學家，而是自為思考。}
+{W13｜BF Chapter 10}
+{哲學解釋要什麼？\\
+一要為自己思考，\\
+第二要自我批判地思考。\\[2mm]
+思考憲法的文本、歷史、結構，\\
+怎麼樣把它做最佳的解釋。}
+{teal}
+{cream}
+
+\quotecard
+{忠於憲法，不是忠於自己對憲法的理解。}
+{W14｜憲法解釋方法}
+{如果我說要忠於憲法，\\
+那叫忠於憲法本身，\\
+而不是忠於我對憲法的理解本身。\\[2mm]
+我的理解不夠好，\\
+有沒有辦法變得更接近真實一點？\\
+有，這是可能的。}
+{indigo}
+{bluepaper}
+
+\quotecard
+{公法不是賺錢的路，是理解與約制權力的路。}
+{W16｜湯德宗自述}
+{公法是不會賺錢，\\
+但是公法跟權力有關，\\
+是約制權力。\\[2mm]
+你靠近權力，\\
+會比較容易瞭解權力長什麼樣子。\\
+我們是研究怎麼控制權力。}
+{wine}
+{rosepaper}
+
+\quotecard
+{讀懂判決是一件事；讀懂判決用的方法，是另一件事。}
+{W14｜Dobbs 與判決先例}
+{讀懂判決是一件事。\\
+讀懂判決用的方法，\\
+是另外一件事。\\[2mm]
+我們現在是在講解釋方法，\\
+你要把眼睛放到方法。}
+{moss}
+{greenpaper}
+
+\end{document}

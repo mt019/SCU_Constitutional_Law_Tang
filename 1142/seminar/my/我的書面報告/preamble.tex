@@ -1,0 +1,340 @@
+\usepackage{geometry}
+\geometry{top=3cm, bottom=2cm, left=3cm, right=3cm}
+
+% \usepackage{bookmark}
+
+% Fonts (XeLaTeX)
+\setCJKmainfont[AutoFakeBold=4]{標楷體}
+\setCJKfamilyfont{kai}[AutoFakeBold=4]{標楷體}
+
+% Paragraph spacing
+\setlength{\parindent}{2em}
+\setlength{\parskip}{1em}
+\usepackage{indentfirst} % 确保首段缩进
+
+% Headers/footers
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Section formatting
+\usepackage{titlesec}
+\newcommand{\myparagraph}[1]{\paragraph{#1}\mbox{}\\}
+\newcommand{\mysubparagraph}[1]{\subparagraph{#1}\mbox{}\\}
+
+\titleformat{\paragraph}
+  {\normalfont\normalsize\bfseries}
+  {第\chinese{paragraph}款}
+  {1em}
+  {}
+\titlespacing*{\paragraph}{0em}{0em}{0em}
+
+\titleformat{\subparagraph}
+  {\normalfont\normalsize\bfseries}{第\chinese{subparagraph}目}{1em}{}
+\titlespacing*{\subparagraph}{1em}{0em}{0em}
+
+% 設定章節編號格式
+\ctexset{
+  section = {
+    format = \centering\zihao{-2}\CJKfamily{kai},
+    name = {第,章},
+    number = \chinese{section},
+    aftername = \quad
+  },
+  subsection = {
+    format = \zihao{3}\CJKfamily{kai},
+    name = {第,節},
+    number = \chinese{subsection},
+    aftername = \quad
+  },
+  subsubsection = {
+    format = \zihao{-3}\CJKfamily{kai},
+    name = {第,項},
+    number = \chinese{subsubsection},
+    aftername = \quad
+  },
+  paragraph = {
+    format = \zihao{5}\CJKfamily{kai},
+    name = {第,款},
+    number = \chinese{paragraph},
+    aftername = \quad,
+    indent = 0pt
+  },
+  subparagraph = {
+    format = \zihao{5}\CJKfamily{kai},
+    name = {第,目},
+    number = \chinese{subparagraph},
+    aftername = \quad,
+    indent = 0pt
+  }
+}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+% Tables
+\usepackage{longtable}   % 支持跨页表格
+\usepackage{tabularray}
+\usepackage{threeparttable} % 讓表格內 footnote 正常顯示
+\usepackage{siunitx}
+\sisetup{detect-all}
+\usepackage{arydshln}    % Provides the \hdashline command
+\usepackage{array}       % For advanced column specifications
+\usepackage{tabularx}
+\newcolumntype{H}{>{\hspace{-9999pt}}c}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\usepackage{caption}     % Enhances caption formatting
+\usepackage{booktabs} % Optional: For better-looking tables
+\usepackage{graphicx} % Optional: For including images in tables or elsewhere
+\usepackage{float}    % Optional: To control table placement
+\usepackage{multirow} % Required for multirow functionality in tables
+\usepackage{pdflscape}
+
+% Lists
+\usepackage{enumitem}
+\setlist[itemize]{topsep=0em, partopsep=0pt, parsep=0pt, itemsep=0.5em}
+
+% Bibliography
+% Fall back to a stock biblatex style when the custom NTU Law style is not
+% installed on the current machine, so the document remains compilable.
+\newif\ifhasntulawstyle
+\IfFileExists{ntulaw.bbx}{\hasntulawstyletrue}{\hasntulawstylefalse}
+
+\ifhasntulawstyle
+  \usepackage[backend=biber,style=ntulaw,citestyle=ntulaw]{biblatex}
+\else
+  \usepackage[backend=biber,style=authortitle,citestyle=authortitle]{biblatex}
+\fi
+
+\IfFileExists{My_Bib.bib}{\addbibresource{My_Bib.bib}}{}
+\IfFileExists{1121財政法.bib}{\addbibresource{1121財政法.bib}}{}
+\IfFileExists{Web_Sources.bib}{\addbibresource{Web_Sources.bib}}{}
+
+\ifhasntulawstyle
+  % Unified citation helpers for this thesis.
+  % Use these in Chinese footnotes when chaining multiple foreign full citations,
+  % so the note ends with one Chinese full stop instead of repeated English periods.
+  \DeclareCiteCommand{\zhfullciteNP}
+    {\usebibmacro{prenote}}
+    {\begingroup\renewcommand*{\addperiod}{}\renewcommand*{\ntufinalpunct}{}\usedriver{}{\thefield{entrytype}}\endgroup}
+    {\multicitedelim}
+    {\usebibmacro{postnote}}
+  \DeclareMultiCiteCommand{\zhfullcites}{\zhfullciteNP}{\printtext{；\space}}
+
+  % Chinese article helper:
+  % Use for Chinese journal articles when ntulaw's language branching is unreliable.
+  \DeclareCiteCommand{\zharticleciteNP}
+    {\usebibmacro{prenote}}
+    {\begingroup\renewcommand*{\ntufinalpunct}{}\usebibmacro{article:chinese}\endgroup}
+    {\multicitedelim}
+    {\usebibmacro{postnote}}
+  \DeclareMultiCiteCommand{\zharticlecites}{\zharticleciteNP}{\printtext{；\space}}
+\else
+  \newcommand{\zhfullciteNP}{\fullcite}
+  \newcommand{\zhfullcites}{\fullcite}
+  \newcommand{\zharticleciteNP}{\fullcite}
+  \newcommand{\zharticlecites}{\fullcite}
+\fi
+
+% TOC and hyperlinks
+\usepackage{shorttoc}
+\usepackage{hyperref}
+\usepackage{xurl}
+
+% Boxes
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+\definecolor{notered}{HTML}{F2AFC0}
+\definecolor{noteblue}{HTML}{A9C9F5}
+\definecolor{notegreen}{HTML}{B9D9A8}
+\definecolor{noteorange}{HTML}{F7E39C}
+\definecolor{notepurple}{HTML}{D8B8E8}
+\definecolor{noteteal}{HTML}{AEE1D6}
+\definecolor{notegray}{HTML}{D7DADF}
+\definecolor{critiquebg}{HTML}{F6D6DD}
+
+\tcbset{
+  noteboxbase/.style={
+    enhanced,
+    breakable,
+    coltitle=black,
+    fonttitle=\bfseries,
+    boxrule=0.5mm,
+    arc=3mm,
+    left=2mm,
+    right=2mm,
+    top=1.5mm,
+    bottom=1.5mm,
+    boxsep=2mm,
+    before skip=0.8em,
+    after skip=0.8em,
+    before upper={\setlength{\parskip}{0.6em}\setlength{\parindent}{0pt}},
+    drop shadow={fill=black!12!white}
+  }
+}
+
+\newtcolorbox{notebox}[2][]{
+  noteboxbase,
+  colframe=#1,
+  colback=white,
+  colbacktitle=#1!18!white,
+  coltitle=black,
+  title={#2}
+}
+
+% \newcommand{\noteplaceholder}{%
+%   \textit{［此框內容尚未填入］}%
+% }
+
+\newcommand{\sep}{%
+  \par\noindent
+  {\color{black!35}\leavevmode\leaders\hbox{\rule{2.2pt}{0.4pt}\hskip1.6pt}\hfill\kern0pt\par}%
+}
+
+\newcommand{\notecolor}{notegray}
+
+\newcommand{\callout}[1]{%
+  \par\vspace{0.5em}%
+  \noindent
+  \colorbox{\notecolor!18!white}{%
+    \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+      \setlength{\parindent}{0pt}%
+      #1%
+    }%
+  }%
+  \par\vspace{0.2em}%
+}
+
+\newcommand{\icallout}[1]{%
+  \tcbox[
+    on line,
+    boxrule=0pt,
+    arc=1pt,
+    boxsep=0pt,
+    left=1.5pt,
+    right=1.5pt,
+    top=1pt,
+    bottom=1pt,
+    colback=\notecolor!18!white,
+    nobeforeafter,
+    tcbox raise base
+  ]{#1}%
+}
+
+\newcommand{\inlinecallout}[1]{\icallout{#1}}
+
+\newcommand{\critique}[1]{%
+  \par\vspace{0.5em}%
+  \noindent
+  \colorbox{critiquebg}{%
+    \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+      \setlength{\parindent}{0pt}%
+      #1%
+    }%
+  }%
+  \par\vspace{0.2em}%
+}
+
+\newcommand{\icritique}[1]{%
+  \tcbox[
+    on line,
+    boxrule=0pt,
+    arc=1pt,
+    boxsep=0pt,
+    left=1.5pt,
+    right=1.5pt,
+    top=1pt,
+    bottom=1pt,
+    colback=critiquebg,
+    nobeforeafter,
+    tcbox raise base
+  ]{#1}%
+}
+
+\newcommand{\noteannotation}[2]{%
+  \par\vspace{0.5em}%
+  \noindent
+  \colorbox{#1!18!white}{%
+    \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+      \setlength{\parindent}{0pt}%
+      \footnotesize #2%
+    }%
+  }%
+}
+
+\NewDocumentCommand{\noteboxcmd}{m O{} +m g}{%
+  \def\notecolor{#1}%
+  \if\relax\detokenize{#2}\relax
+    \begin{notebox}[#1]{}%
+      #3%
+      \IfNoValueF{#4}{\noteannotation{#1}{#4}}%
+    \end{notebox}%
+  \else
+    \begin{notebox}[#1]{#2}%
+      #3%
+      \IfNoValueF{#4}{\noteannotation{#1}{#4}}%
+    \end{notebox}%
+  \fi
+}
+
+\NewDocumentCommand{\emptynoteboxcmd}{m O{}}{%
+  \if\relax\detokenize{#2}\relax
+    \begin{notebox}[#1]{}%
+      \noteplaceholder
+    \end{notebox}%
+  \else
+    \begin{notebox}[#1]{#2}%
+      \noteplaceholder
+    \end{notebox}%
+  \fi
+}
+
+\NewDocumentCommand{\rednote}{O{} +m g}{\noteboxcmd{notered}[#1]{#2}{#3}}
+\NewDocumentCommand{\bluenote}{O{} +m g}{\noteboxcmd{noteblue}[#1]{#2}{#3}}
+\NewDocumentCommand{\greennote}{O{} +m g}{\noteboxcmd{notegreen}[#1]{#2}{#3}}
+\NewDocumentCommand{\orangenote}{O{} +m g}{\noteboxcmd{noteorange}[#1]{#2}{#3}}
+\NewDocumentCommand{\purplenote}{O{} +m g}{\noteboxcmd{notepurple}[#1]{#2}{#3}}
+\NewDocumentCommand{\tealnote}{O{} +m g}{\noteboxcmd{noteteal}[#1]{#2}{#3}}
+\NewDocumentCommand{\graynote}{O{} +m g}{\noteboxcmd{notegray}[#1]{#2}{#3}}
+\NewDocumentCommand{\note}{O{} +m g}{\noteboxcmd{notegray}[#1]{#2}{#3}}
+
+\NewDocumentCommand{\emptyrednote}{O{}}{\emptynoteboxcmd{notered}[#1]}
+\NewDocumentCommand{\emptybluenote}{O{}}{\emptynoteboxcmd{noteblue}[#1]}
+\NewDocumentCommand{\emptygreennote}{O{}}{\emptynoteboxcmd{notegreen}[#1]}
+\NewDocumentCommand{\emptyorangenote}{O{}}{\emptynoteboxcmd{noteorange}[#1]}
+\NewDocumentCommand{\emptypurplenote}{O{}}{\emptynoteboxcmd{notepurple}[#1]}
+\NewDocumentCommand{\emptytealnote}{O{}}{\emptynoteboxcmd{noteteal}[#1]}
+
+% 設置 quote 框框樣式
+\tcbset{
+  myquote/.style={
+    colframe=black,
+    colback=gray!10,
+    coltitle=black,
+    fonttitle=\itshape,
+    sharp corners,
+    boxrule=0.5mm,
+    width=\linewidth,
+    leftrule=1mm,
+    title={出處：某書籍或文件},
+    before skip=1em,
+    after skip=1em
+  }
+}
+
+\renewcommand{\contentsname}{詳目}
+\renewcommand{\listfigurename}{圖目錄}
+\renewcommand{\listtablename}{表目錄}
+
+
+\usepackage{makecell}
+
+\newcommand{\celltop}[1]{%
+  \parbox[t]{\linewidth}{%
+    \raggedright
+    \strut #1\strut
+  }%
+}

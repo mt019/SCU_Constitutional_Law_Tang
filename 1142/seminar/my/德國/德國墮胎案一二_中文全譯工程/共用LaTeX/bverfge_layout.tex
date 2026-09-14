@@ -1,0 +1,1141 @@
+% bverfge_layout.tex
+% 共用排版基礎設施，供 Schwangerschaftsabbruch I 與 II 共享。
+% 由各文件以 \documentclass 後 \input{../../共用LaTeX/bverfge_layout} 載入。
+% 不含：\documentclass、\documentversion、\ggversionde/zh、\tocde/\toczh。
+% 日期與首頁版本列由本檔自動產生；各文件只需手動指定 \documentversion。
+
+\usepackage{xeCJK}
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{bookmark}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{tcolorbox}
+\usepackage{environ}
+\usepackage{pdflscape}
+\usepackage{etoolbox}
+\usepackage{ragged2e}
+\usepackage{paracol}
+\usepackage{multicol}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{zref-abspage}
+\tcbuselibrary{breakable,skins}
+\usetikzlibrary{calc}
+\usepackage{pgfcalendar}
+
+\hypersetup{
+  unicode=true,
+  bookmarksopen=true,
+  bookmarksnumbered=false,
+  hidelinks
+}
+
+% ===== 自動推導，不要手動改下面 =====
+% （\docmode 與 \bilingualpaper 由各文件在 \input{bverfge_layout} 之前設定；
+%   預設 chinese / a4）
+\ifdefined\docmode\else\def\docmode{chinese}\fi
+\ifdefined\bilingualpaper\else\def\bilingualpaper{a4}\fi
+\newif\ifshoworiginal
+\newif\ifshowtranslation
+\newif\ifbilinguallandscape
+\newif\ifbilingualcolumns
+\newif\ifintranslation
+\newif\iffirstbilingualsection
+
+\showoriginalfalse
+\showtranslationfalse
+\bilinguallandscapefalse
+\bilingualcolumnsfalse
+\intranslationfalse
+\firstbilingualsectionfalse
+
+\def\modechinese{chinese}
+\def\modegerman{german}
+\def\modebilingual{bilingual}
+\def\bilingualpaperaThree{a3}
+\def\bilingualpaperaFour{a4}
+
+\ifx\docmode\modechinese
+  \showtranslationtrue
+\fi
+
+\ifx\docmode\modegerman
+  \showoriginaltrue
+\fi
+
+\ifx\docmode\modebilingual
+  \showoriginaltrue
+  \showtranslationtrue
+  \bilinguallandscapetrue
+  \bilingualcolumnstrue
+\fi
+
+% 編排模式說明：
+% chinese  → \showoriginalfalse  \showtranslationtrue  （A4 直式，純中文）
+% german   → \showoriginaltrue   \showtranslationfalse （A4 直式，純德文）
+% bilingual→ \showoriginaltrue   \showtranslationtrue  \bilingualcolumnstrue（A3/A4 橫式對照）
+
+\ifbilingualcolumns
+  \ifx\bilingualpaper\bilingualpaperaFour
+    \geometry{
+      a4paper,
+      landscape,
+      left=1.25cm,
+      right=2.25cm,
+      top=1.25cm,
+      bottom=1.75cm,
+      footskip=8.5mm,
+      marginparwidth=0.75cm,
+      marginparsep=0.25cm
+    }
+  \else
+    \geometry{
+      a3paper,
+      landscape,
+      left=1.55cm,
+      right=2.75cm,
+      top=1.55cm,
+      bottom=2.05cm,
+      footskip=9.5mm,
+      marginparwidth=0.9cm,
+      marginparsep=0.35cm
+    }
+  \fi
+\else
+\geometry{
+  a4paper,
+  portrait,
+  left=2.2cm,
+  right=2.6cm,
+  top=2.0cm,
+  bottom=2.0cm,
+  marginparwidth=0.8cm,
+  marginparsep=0.3cm
+}
+\fi
+% ===== 時間戳基礎設施 =====
+\newcount\stamptimeval
+\newcount\stampminuteval
+\newcommand{\stamphh}{%
+  \stamptimeval=\time
+  \divide\stamptimeval by 60
+  \ifnum\stamptimeval<10 0\fi
+  \the\stamptimeval}
+\newcommand{\stampmm}{%
+  \stamptimeval=\time
+  \stampminuteval=\time
+  \divide\stampminuteval by 60
+  \multiply\stampminuteval by 60
+  \advance\stamptimeval by -\stampminuteval
+  \ifnum\stamptimeval<10 0\fi
+  \the\stamptimeval}
+\newcommand{\stampwkde}[1]{%
+  \ifcase#1Montag\or Dienstag\or Mittwoch\or Donnerstag\or Freitag\or Samstag\or Sonntag\fi}
+\newcommand{\stampwkzh}[1]{%
+  \ifcase#1 一\or 二\or 三\or 四\or 五\or 六\or 日\fi}
+\newcommand{\stampmonthde}[1]{%
+  \ifcase#1\or Januar\or Februar\or März\or April\or Mai\or Juni\or
+  Juli\or August\or September\or Oktober\or November\or Dezember\fi}
+\newcount\stampjdval
+\newcount\stampwdval
+\pgfcalendardatetojulian{\the\year-\the\month-\the\day}{\stampjdval}
+\pgfcalendarjuliantoweekday{\the\stampjdval}{\stampwdval}
+\newcommand{\timestampzh}{%
+  \songfont 最後修改：\the\year 年\the\month 月\the\day 日%
+  % （星期\stampwkzh{\the\stampwdval}）%
+  % \space\stamphh:\stampmm
+  }
+
+\newcommand{\documentdatezh}{\the\year 年 \the\month 月 \the\day 日}
+\newcommand{\documentdatede}{\the\day. \stampmonthde{\the\month} \the\year}
+\newcommand{\bverfgetranslationnote}{%
+  {\songfont 翻譯說明：初譯使用 Claude Code 與 GPT 協助迭代；仍請以德文原文為準。}%
+}
+\newcommand{\bverfgecourseinfo}{%
+  {\songfont 課程：114 學年度第 2 學期；憲法專題研究（四）；授課老師：湯德宗教授；導讀日期：115 年 6 月 1 日。}%
+}
+\newcommand{\bverfgeeditorinfo}{%
+  {\songfont 編者：王逸帆（R10A21126），國立台灣大學法律系研究所碩士班。}%
+}
+\newcommand{\bverfgetitleversionline}{%
+  \ifbilingualcolumns
+    Fassung \documentversion\enspace\textperiodcentered\enspace Stand: \documentdatede
+    \quad
+    {\songfont 版本 \documentversion\enspace\textperiodcentered\enspace 修訂日期：\documentdatezh\par}%
+  \else
+    \ifshowtranslation
+      {\songfont 版本 \documentversion\enspace\textperiodcentered\enspace 修訂日期：\documentdatezh\par}%
+    \else
+      Fassung \documentversion\enspace\textperiodcentered\enspace Stand: \documentdatede\par
+    \fi
+  \fi
+}
+\newcommand{\bverfgetitlecornerinfo}{%
+  \ifshowtranslation
+    \vspace{0.72em}%
+    \noindent\hfill
+    \begin{minipage}{0.66\textwidth}
+      \raggedleft\tiny\color{pendingink}\songfont
+      \bverfgecourseinfo\par
+      \bverfgeeditorinfo
+    \end{minipage}%
+  \fi
+}
+\newcommand{\bverfgetitlemeta}{%
+  \vfill
+  \begin{center}%
+    \footnotesize\color{pendingink}%
+    \bverfgetitleversionline
+    \ifshowtranslation
+      \vspace{0.28em}{\scriptsize\bverfgetranslationnote\par}%
+    \fi
+  \end{center}%
+  \bverfgetitlecornerinfo
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\thepage}
+\ifbilingualcolumns
+  \fancyfoot[R]{\scriptsize\color{pendingink}\timestampzh}%
+\else
+  \ifshoworiginal
+  \else
+    \fancyfoot[R]{\scriptsize\color{pendingink}\timestampzh\hspace{0.45cm}}%
+  \fi
+\fi
+\setmainfont{Times New Roman}
+\setsansfont{Helvetica Neue}
+\setmonofont{Menlo}
+\IfFileExists{~/Library/Fonts/kaiu.ttf}{
+  \setCJKmainfont[Path=~/Library/Fonts/,AutoFakeBold=4]{kaiu.ttf}
+}{
+  \IfFontExistsTF{標楷體}{
+    \setCJKmainfont[AutoFakeBold=4]{標楷體}
+  }{
+    \setCJKmainfont{Songti TC}
+  }
+}
+\IfFontExistsTF{Songti TC}{
+  \setCJKfamilyfont{song}{Songti TC}
+  \setCJKmonofont{Songti TC}
+}{
+  \setCJKfamilyfont{song}[Path=~/Library/Fonts/,AutoFakeBold=4]{kaiu.ttf}
+  \setCJKmonofont[Path=~/Library/Fonts/,AutoFakeBold=4]{kaiu.ttf}
+}
+\newcommand{\songfont}{\CJKfamily{song}}
+
+% ===== 封面／目錄專用打字機字體（僅限封面、目錄頁使用，不影響正文）=====
+\IfFontExistsTF{Radio Newsman}{%
+  \newfontfamily\bverfgetitlede{Radio Newsman}%
+}{%
+  \newfontfamily\bverfgetitlede{Courier New}%
+}
+\IfFontExistsTF{Erikas Farbband}{%
+  \newfontfamily\bverfgebodyde{Erikas Farbband}%
+}{%
+  \let\bverfgebodyde\bverfgetitlede
+}
+\IfFontExistsTF{Maoken Heavy Labourer}{%
+  \setCJKfamilyfont{bverfgetitlecjk}{Maoken Heavy Labourer}%
+}{%
+  \setCJKfamilyfont{bverfgetitlecjk}{Songti TC}%
+}
+\IfFontExistsTF{Huiwen-mincho}{%
+  \setCJKfamilyfont{bverfgebodycjk}{Huiwen-mincho}%
+}{%
+  \setCJKfamilyfont{bverfgebodycjk}{Songti TC}%
+}
+\newcommand{\bverfgetitlezh}{\bverfgetitlede\CJKfamily{bverfgetitlecjk}}
+\newcommand{\bverfgebodyzh}{\bverfgebodyde\CJKfamily{bverfgebodycjk}}
+
+\setstretch{1.35}
+\setlist{itemsep=0.2em, topsep=0.4em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.45em}
+\raggedbottom
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{2}
+
+\newcommand{\lawboxsourcefont}{\footnotesize}
+\newcommand{\lawboxtransfont}{\footnotesize}
+\newcommand{\lawboxsourcestretch}{1.02}
+\newcommand{\lawboxtransstretch}{0.92}
+
+\titleformat{\section}{\centering\Large\bfseries\songfont}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries\songfont}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\songfont}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}{\normalsize\bfseries\songfont}{\theparagraph}{1em}{}
+\titlespacing*{\section}{0pt}{1.8em}{1.0em}
+\titlespacing*{\subsection}{0pt}{1.2em}{0.6em}
+\titlespacing*{\subsubsection}{0pt}{1.0em}{0.45em}
+\titlespacing*{\paragraph}{0pt}{0.6em}{0.4em}
+
+\definecolor{noteblue}{HTML}{A9C9F5}
+\definecolor{noteteal}{HTML}{AEE1D6}
+\definecolor{notegray}{HTML}{D7DADF}
+\definecolor{caseink}{HTML}{000000}
+\definecolor{casepaper}{HTML}{FCFEFD}
+\definecolor{sourcepaper}{HTML}{FAFBF8}
+\definecolor{sourceline}{HTML}{D7DED8}
+\definecolor{sourceink}{HTML}{000000}
+\definecolor{pendingink}{HTML}{000000}
+
+\tcbset{
+  caseboxbase/.style={
+    enhanced,
+    breakable,
+    width=0.985\linewidth,
+    colback=casepaper,
+    coltitle=caseink,
+    fonttitle=\bfseries\songfont,
+    boxrule=0.28pt,
+    arc=1.2mm,
+    left=2.4mm,
+    right=2.4mm,
+    top=1.5mm,
+    bottom=1.5mm,
+    boxsep=1.5mm,
+    before skip=0.65em,
+    after skip=0.65em,
+    before upper={\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}},
+  }
+}
+
+\newcommand{\bilingualstart}{}
+\newcommand{\bilingualstop}{}
+\ifbilingualcolumns
+  \renewcommand{\bilingualstart}{\small\setlength{\columnsep}{1.25cm}\setlength{\columnseprule}{0.12pt}\columnratio{0.5,0.5}\multicolumnfootnotes\flushbottom\sloppy\interlinepenalty=80\clubpenalty=800\widowpenalty=800\displaywidowpenalty=800\begin{paracol}{2}\global\intranslationfalse\global\firstbilingualsectiontrue{\footnotesize\color{sourceink}Deutsch\par}\switchcolumn{\footnotesize\songfont\color{sourceink}中文譯文\par}\switchcolumn*}
+  \renewcommand{\bilingualstop}{\ifintranslation\switchcolumn*\global\intranslationfalse\fi\end{paracol}\clearpage\raggedbottom}
+\fi
+\newif\ifrandnumbers
+\randnumbersfalse
+\newcounter{randnumber}
+\newcounter{randnumberlocal}
+\newcounter{lastsourcerandstart}
+\newif\iflastsourcehasrandnumbers
+\lastsourcehasrandnumbersfalse
+\newif\ifinlawbox
+\inlawboxfalse
+\newif\iflawboxhaspendingrn
+\lawboxhaspendingrnfalse
+\newcommand{\lawboxpendingrn}{}
+\newcommand{\startrandnumbers}{\global\randnumberstrue\setcounter{randnumber}{1}\global\lastsourcehasrandnumbersfalse}
+\newcommand{\stoprandnumbers}{\global\randnumbersfalse\global\lastsourcehasrandnumbersfalse}
+\newlength{\randnumberwidth}
+\setlength{\randnumberwidth}{0.95cm}
+\newlength{\randnumberrightoffset}
+\setlength{\randnumberrightoffset}{0.85cm}
+\newlength{\randnumberlawboxrightoffset}
+\setlength{\randnumberlawboxrightoffset}{1.40cm}
+\newcommand{\randnumberbox}[1]{%
+  \leavevmode
+  \makebox[0pt][l]{%
+    \smash{%
+      \tikz[remember picture,overlay,baseline=(rnmark.base)]{%
+        \coordinate (rnmark) at (0,0);%
+        \ifinlawbox
+          \path let \p1=(current page.east), \p2=(rnmark.base) in
+            node[
+              anchor=base east,
+              inner sep=0pt,
+              outer sep=0pt,
+              text width=\randnumberwidth,
+              align=right,
+              text=pendingink,
+              font=\normalfont\mdseries\scriptsize\ttfamily
+            ] at (\x1-\randnumberlawboxrightoffset,\y2) {{\normalfont\mdseries\scriptsize\ttfamily #1}};%
+        \else
+          \path let \p1=(current page.east), \p2=(rnmark.base) in
+            node[
+              anchor=base east,
+              inner sep=0pt,
+              outer sep=0pt,
+              text width=\randnumberwidth,
+              align=right,
+              text=pendingink,
+              font=\normalfont\mdseries\scriptsize\ttfamily
+            ] at (\x1-\randnumberrightoffset,\y2) {{\normalfont\mdseries\scriptsize\ttfamily #1}};%
+        \fi
+      }%
+    }%
+  }%
+  \ignorespaces
+}
+\newcommand{\lawboxstorerandnumber}[1]{%
+  \gdef\lawboxpendingrn{#1}%
+  \global\lawboxhaspendingrntrue
+  \ignorespaces
+}
+\newcommand{\lawboxuserandnumber}{%
+  \iflawboxhaspendingrn
+    \randnumberbox{\lawboxpendingrn}%
+    \global\lawboxhaspendingrnfalse
+  \fi
+}
+\newcommand{\sourcern}[1]{%
+  \ifrandnumbers
+    \ifshoworiginal
+      \ifshowtranslation\else
+        \ifinlawbox\lawboxstorerandnumber{#1}\else\randnumberbox{#1}\fi
+      \fi
+    \fi
+  \fi
+}
+\newcommand{\transrn}[1]{%
+  \ifrandnumbers
+    \ifshowtranslation
+      \ifinlawbox\lawboxstorerandnumber{#1}\else\randnumberbox{#1}\fi
+    \fi
+  \fi
+}
+% ===== 課堂模式：德文原文縮寫註解 =====
+% 日常切換只改各判決檔的一行：
+%   \classroommodeon        開啟課堂版；註解掉這行即回到一般版。
+% 模板預設：
+%   1. 課堂模式關閉。
+%   2. 課堂模式開啟時，縮寫註解包含「德文全稱＋中文譯名」。
+%   3. 課堂模式開啟時，GG/條文編者註仍會自動顯示。
+% 進階微調才需要在單案檔覆寫：
+%   \classroomabbrzhoff     縮寫註解僅顯示德文全稱。
+%   \showeditornotestrue    一般版也顯示編者註。
+% 註解策略：同一實際 PDF 頁面中，同一縮寫只在第一次出現處加註。
+% 這裡用 zref-abspage 的絕對頁序，不用 \thepage，避免文件內頁碼重置時誤判。
+\newif\ifclassroommode
+\newif\ifclassroomabbrzh
+\classroommodefalse
+\classroomabbrzhtrue
+\newcommand{\classroommodeon}{\classroommodetrue}
+\newcommand{\classroommodeoff}{\classroommodefalse}
+\newcommand{\classroomabbrzhon}{\classroomabbrzhtrue}
+\newcommand{\classroomabbrzhoff}{\classroomabbrzhfalse}
+\newcommand{\abbrnotelabel}{\emph{Abk.}: }
+\newcommand{\abbrnote}[3]{%
+  \ifclassroommode
+    \ifshoworiginal
+      \ifintranslation\else
+        \footnote{\normalfont\footnotesize\abbrnotelabel #2\ifclassroomabbrzh；{\songfont #3}\fi}%
+      \fi
+    \fi
+  \fi
+}
+\newcommand{\abbrnoteonce}[4]{%
+  #2%
+  \ifclassroommode
+    \ifshoworiginal
+      \ifintranslation\else
+        \begingroup
+          \edef\abbrcurrentabspage{\number\numexpr\value{abspage}+1\relax}%
+          \ifcsname abbrnoteseen@#1@\abbrcurrentabspage\endcsname\else
+            \global\expandafter\let\csname abbrnoteseen@#1@\abbrcurrentabspage\endcsname\empty
+            \abbrnote{#1}{#3}{#4}%
+          \fi
+        \endgroup
+      \fi
+    \fi
+  \fi
+}
+\newcommand{\abbrAbs}{\abbrnoteonce{abs}{Abs.}{Absatz}{項}}
+\newcommand{\abbrAAO}{\abbrnoteonce{aao}{a.a.O.}{am angegebenen Ort}{前引處}}
+\newcommand{\abbrAE}{\abbrnoteonce{ae}{AE}{Alternativ-Entwurf}{替代草案}}
+\newcommand{\abbrArt}{\abbrnoteonce{art}{Art.}{Artikel}{條}}
+\newcommand{\abbrAufl}{\abbrnoteonce{aufl}{Aufl.}{Auflage}{版}}
+\newcommand{\abbrBd}{\abbrnoteonce{bd}{Bd.}{Band}{卷}}
+\newcommand{\abbrBGBl}{\abbrnoteonce{bgbl}{BGBl.}{Bundesgesetzblatt}{聯邦法律公報}}
+\newcommand{\abbrBGHSt}{\abbrnoteonce{bghst}{BGHSt}{Entscheidungen des Bundesgerichtshofes in Strafsachen}{聯邦普通法院刑事判決彙編}}
+\newcommand{\abbrBRDrucks}{\abbrnoteonce{brdrucks}{BRDrucks.}{Bundesrats-Drucksache}{聯邦參議院文件}}
+\newcommand{\abbrBTDrucks}{\abbrnoteonce{btdrucks}{BTDrucks.}{Bundestags-Drucksache}{聯邦議院文件}}
+\newcommand{\abbrBundesgesetzbl}{\abbrnoteonce{bundesgesetzbl}{Bundesgesetzbl.}{Bundesgesetzblatt}{聯邦法律公報}}
+\newcommand{\abbrBvF}{\abbrnoteonce{bvf}{BvF}{Bundesverfassungsgerichtsverfahren}{聯邦憲法法院程序案號}}
+\newcommand{\abbrBvL}{\abbrnoteonce{bvl}{BvL}{Bundesverfassungsgerichtsverfahren}{聯邦憲法法院程序案號}}
+\newcommand{\abbrBvR}{\abbrnoteonce{bvr}{BvR}{Bundesverfassungsgerichtsverfahren}{聯邦憲法法院程序案號}}
+\newcommand{\abbrBVerfG}{\abbrnoteonce{bverfg}{BVerfG}{Bundesverfassungsgericht}{聯邦憲法法院}}
+\newcommand{\abbrBVerfGE}{\abbrnoteonce{bverfge}{BVerfGE}{Entscheidungen des Bundesverfassungsgerichts}{聯邦憲法法院判決集}}
+\newcommand{\abbrBVerfGG}{\abbrnoteonce{bverfgg}{BVerfGG}{Bundesverfassungsgerichtsgesetz}{聯邦憲法法院法}}
+\newcommand{\abbrDDR}{\abbrnoteonce{ddr}{DDR}{Deutsche Demokratische Republik}{德意志民主共和國；東德}}
+\newcommand{\abbrDJT}{\abbrnoteonce{djt}{DJT}{Deutscher Juristentag}{德國法學家大會}}
+\newcommand{\abbrDr}{\abbrnoteonce{dr}{Dr.}{Doktor}{Dr.}}
+\newcommand{\abbrEuGRZ}{\abbrnoteonce{eugrz}{EuGRZ}{Europäische Grundrechte-Zeitschrift}{歐洲基本權期刊}}
+\newcommand{\abbrEV}{\abbrnoteonce{ev}{EV}{Einigungsvertrag}{統一條約}}
+\newcommand{\abbrF}{\abbrnoteonce{f}{f.}{folgende}{以下一頁；下一段}}
+\newcommand{\abbrFF}{\abbrnoteonce{ff}{ff.}{fortfolgende}{以下數頁；以下各段}}
+\newcommand{\abbrGBlDDR}{\abbrnoteonce{gblddr}{GBl. DDR}{Gesetzblatt der Deutschen Demokratischen Republik}{德意志民主共和國法律公報}}
+\newcommand{\abbrGG}{\abbrnoteonce{gg}{GG}{Grundgesetz}{基本法}}
+\newcommand{\abbrGVBl}{\abbrnoteonce{gvbl}{GVBl.}{Gesetz- und Verordnungsblatt}{法律及命令公報}}
+\newcommand{\abbrJR}{\abbrnoteonce{jr}{JR}{Juristische Rundschau}{法學評論}}
+\newcommand{\abbrJZ}{\abbrnoteonce{jz}{JZ}{JuristenZeitung}{法學家報}}
+\newcommand{\abbrIVm}{\abbrnoteonce{ivm}{i.V.m.}{in Verbindung mit}{結合；連同}}
+\newcommand{\abbrMdB}{\abbrnoteonce{mdb}{MdB}{Mitglied des Bundestages}{聯邦議院議員}}
+\newcommand{\abbrMwN}{\abbrnoteonce{mwn}{m.w.N.}{mit weiteren Nachweisen}{附進一步文獻／判例出處}}
+\newcommand{\abbrNF}{\abbrnoteonce{nf}{n.F.}{neue Fassung}{新版本}}
+\newcommand{\abbrAF}{\abbrnoteonce{af}{a.F.}{alte Fassung}{舊版本}}
+\newcommand{\abbrNr}{\abbrnoteonce{nr}{Nr.}{Nummer}{款、目或號，依語境}}
+\newcommand{\abbrProf}{\abbrnoteonce{prof}{Prof.}{Professor}{教授}}
+\newcommand{\abbrRdnr}{\abbrnoteonce{rdnr}{Rdnr.}{Randnummer}{邊碼；段碼}}
+\newcommand{\abbrRdnrn}{\abbrnoteonce{rdnrn}{Rdnrn.}{Randnummern}{邊碼；段碼}}
+\newcommand{\abbrRGBl}{\abbrnoteonce{rgbl}{RGBl.}{Reichsgesetzblatt}{帝國法律公報}}
+\newcommand{\abbrRGSt}{\abbrnoteonce{rgst}{RGSt}{Entscheidungen des Reichsgerichts in Strafsachen}{帝國法院刑事判決彙編}}
+\newcommand{\abbrRspr}{\abbrnoteonce{rspr}{Rspr.}{Rechtsprechung}{判例；司法實務}}
+\newcommand{\abbrRVO}{\abbrnoteonce{rvo}{RVO}{Reichsversicherungsordnung}{帝國保險法}}
+\newcommand{\abbrS}{\abbrnoteonce{s}{S.}{Seite}{頁}}
+\newcommand{\abbrSFHG}{\abbrnoteonce{sfhg}{SFHG}{Schwangeren- und Familienhilfegesetz}{孕婦及家庭扶助法}}
+\newcommand{\abbrSGBV}{\abbrnoteonce{sgbv}{SGB V}{Fünftes Buch Sozialgesetzbuch}{社會法典第五編}}
+\newcommand{\abbrStAG}{\abbrnoteonce{staeg}{StÄG}{Strafrechtsänderungsgesetz}{刑法修正法}}
+\newcommand{\abbrStenBer}{\abbrnoteonce{stenber}{StenBer.}{Stenographischer Bericht}{速記紀錄}}
+\newcommand{\abbrStGB}{\abbrnoteonce{stgb}{StGB}{Strafgesetzbuch}{刑法}}
+\newcommand{\abbrStREG}{\abbrnoteonce{streg}{StREG}{Strafrechtsreform-Ergänzungsgesetz}{刑法改革補充法}}
+\newcommand{\abbrStrRG}{\abbrnoteonce{strrg}{StrRG}{Strafrechtsreformgesetz}{刑法改革法}}
+\newcommand{\abbrUS}{\abbrnoteonce{us}{U.S.}{United States Reports}{美國最高法院判決彙編}}
+\newcommand{\abbrVgl}{\abbrnoteonce{vgl}{vgl.}{vergleiche}{參見}}
+\newcommand{\abbrVVDStRL}{\abbrnoteonce{vvdstrl}{VVDStRL}{Veröffentlichungen der Vereinigung der Deutschen Staatsrechtslehrer}{德國公法教師協會論文集}}
+\newcommand{\abbrWP}{\abbrnoteonce{wp}{WP.}{Wahlperiode}{屆期}}
+\newcommand{\abbrWp}{\abbrnoteonce{wp}{Wp.}{Wahlperiode}{屆期}}
+\newcommand{\abbrZStrW}{\abbrnoteonce{zstrw}{ZStrW}{Zeitschrift für die gesamte Strafrechtswissenschaft}{整體刑法學期刊}}
+\newcommand{\recordsourcerandstart}{%
+  \ifrandnumbers
+    \setcounter{lastsourcerandstart}{\value{randnumber}}%
+    \global\lastsourcehasrandnumberstrue
+  \else
+    \global\lastsourcehasrandnumbersfalse
+  \fi
+}
+\newlength{\biparagraphskip}
+\setlength{\biparagraphskip}{0.52em}
+\newlength{\lawboxblockbeforeskip}
+\setlength{\lawboxblockbeforeskip}{0.72em}
+\newlength{\lawboxblockafterskip}
+\setlength{\lawboxblockafterskip}{0.92em}
+\newif\iflawboxpartendedblock
+\lawboxpartendedblockfalse
+\newcommand{\sourceparstyle}{\footnotesize\color{sourceink}\setstretch{1.12}\RaggedRight\emergencystretch=3em\setlength{\parskip}{0.42em}\obeylines\selectfont}
+\newcommand{\transparstyle}{\songfont\color{caseink}\setstretch{1.12}\setlength{\parindent}{0pt}\setlength{\parskip}{0.42em}}
+\newcommand{\bilingualpairskip}{%
+  \par\addvspace{\biparagraphskip}%
+  \switchcolumn
+  \par\addvspace{\biparagraphskip}%
+  \switchcolumn*%
+  \global\intranslationfalse
+}
+\newcommand{\bilingualboxpairskip}{%
+  \par
+  \switchcolumn
+  \par
+  \switchcolumn*%
+  \global\intranslationfalse
+}
+\newcommand{\bilinguallawboxblockskip}{%
+  \switchcolumn*%
+  \par\addvspace{\lawboxblockafterskip}%
+  \switchcolumn
+  \par\addvspace{\lawboxblockafterskip}%
+  \switchcolumn*%
+  \global\intranslationfalse
+}
+\newcommand{\bikeepwithnext}[1][4]{%
+  \ifbilingualcolumns
+    \syncleft
+    \Needspace{#1\baselineskip}%
+    \switchcolumn
+    \Needspace{#1\baselineskip}%
+    \switchcolumn*%
+    \global\intranslationfalse
+  \else
+    \Needspace{#1\baselineskip}%
+  \fi
+}
+\NewEnviron{sourcepara}[1][]{
+  \recordsourcerandstart
+  \ifshoworiginal
+    \ifbilingualcolumns
+      \ifintranslation\switchcolumn*\global\intranslationfalse\fi
+    \else
+      \Needspace{5\baselineskip}
+    \fi
+    \ifbilingualcolumns\else\par\addvspace{0.35em}\fi
+    {\sourceparstyle
+    \noindent\BODY\par}
+    \ifbilingualcolumns\else\addvspace{0.25em}\fi
+    \ifbilingualcolumns
+      \switchcolumn
+      \global\intranslationtrue
+    \fi
+  \else
+    \ifrandnumbers
+      \begingroup
+        \setbox0=\vbox{\hsize=\linewidth\sourceparstyle\noindent\BODY\par}%
+      \endgroup
+    \fi
+  \fi
+}
+\NewEnviron{transpara}{
+  \ifshowtranslation
+    \setcounter{randnumberlocal}{\value{lastsourcerandstart}}%
+    \ifbilingualcolumns
+      \ifintranslation\else\switchcolumn\global\intranslationtrue\fi
+      {\transparstyle\setlength{\leftskip}{0.55em}\setlength{\rightskip}{0.15em plus 1em}\addtolength{\linewidth}{-0.55em}\BODY\par}
+      \switchcolumn*
+      \bilingualpairskip
+    \else
+      {\transparstyle\BODY\par}
+    \fi
+  \else
+    \ifbilingualcolumns
+      \ifintranslation\switchcolumn*\global\intranslationfalse\fi
+    \fi
+  \fi
+}
+\NewEnviron{sourceboxpara}[1][]{
+  \global\lawboxpartendedblockfalse
+  \recordsourcerandstart
+  \ifshoworiginal
+    \ifbilingualcolumns
+      \ifintranslation\switchcolumn*\global\intranslationfalse\fi
+    \else
+      \Needspace{3\baselineskip}
+    \fi
+    {\sourceparstyle
+    \BODY\par}
+    \ifbilingualcolumns\else
+      \iflawboxpartendedblock\addvspace{\lawboxblockafterskip}\fi
+    \fi
+    \ifbilingualcolumns
+      \switchcolumn
+      \global\intranslationtrue
+    \fi
+  \fi
+}
+\NewEnviron{transboxpara}{
+  \global\lawboxpartendedblockfalse
+  \ifshowtranslation
+    \setcounter{randnumberlocal}{\value{lastsourcerandstart}}%
+    \ifbilingualcolumns
+      \ifintranslation\else\switchcolumn\global\intranslationtrue\fi
+      {\transparstyle\BODY\par}
+      \iflawboxpartendedblock
+        \bilinguallawboxblockskip
+      \else
+        \switchcolumn*
+        \bilingualboxpairskip
+      \fi
+    \else
+      {\transparstyle\BODY\par}
+      \iflawboxpartendedblock\addvspace{\lawboxblockafterskip}\fi
+    \fi
+  \else
+    \ifbilingualcolumns
+      \ifintranslation\switchcolumn*\global\intranslationfalse\fi
+    \fi
+  \fi
+}
+\newcommand{\leitsatznum}[1]{\noindent\hangindent=3.0em\hangafter=1\makebox[2.25em][r]{\bfseries #1.}\hspace{0.55em}\ignorespaces}
+\newcommand{\syncleft}{\ifbilingualcolumns\ifintranslation\switchcolumn*\global\intranslationfalse\fi\fi}
+\pretocmd{\section}{\syncleft\clearpage}{}{}
+\pretocmd{\subsection}{\syncleft}{}{}
+\pretocmd{\subsubsection}{\syncleft}{}{}
+\newcommand{\biheadingfont}{\songfont}
+\newcommand{\bitocentry}[2]{%
+  \ifshoworiginal
+    \ifshowtranslation
+      \ifstrequal{#1}{#2}{#1}{#1\space #2}%
+    \else
+      #1%
+    \fi
+  \else
+    #2%
+  \fi
+}
+\pdfstringdefDisableCommands{%
+  \def\bitocentry#1#2{#1}%
+}
+\newcommand{\biheading}[7]{%
+  \syncleft#1\bikeepwithnext[#3]\phantomsection\addcontentsline{toc}{#2}{\bitocentry{#6}{#7}}%
+  \ifbilingualcolumns
+    {#4 #6\par}%
+    \switchcolumn
+    {#4\biheadingfont #7\par}%
+    \switchcolumn*%
+    \global\intranslationfalse
+    \par\addvspace{#5}%
+    \switchcolumn
+    \par\addvspace{#5}%
+    \switchcolumn*%
+  \else
+    \ifshoworiginal{#4 #6\par}\fi
+    \ifshowtranslation{#4\biheadingfont #7\par}\fi
+    \addvspace{#5}%
+  \fi
+}
+\newcommand{\termsectionheading}[1]{%
+  \par\Needspace{9\baselineskip}%
+  \vspace{0.65em}%
+  {\songfont\bfseries #1\par}%
+  \vspace{0.2em}%
+}
+% 章節換頁：
+%   雙語 paracol 欄內不要用 \clearpage；它會在同步兩欄時吐出只有欄線/頁碼的空頁。
+%   \newpage 足以讓下一個 section 起新頁，又不會強制清空所有待排材料。
+%   單語模式不在 paracol 內，仍可用 \clearpage。
+\newcommand{\bisectionpagebreak}{\ifbilingualcolumns\newpage\else\clearpage\fi}
+\newcommand{\bisection}[2]{%
+  \biheading{\iffirstbilingualsection\global\firstbilingualsectionfalse\else\bisectionpagebreak\fi}{section}{6}{\centering\Large\bfseries}{0.8em}{#1}{#2}%
+}
+\newcommand{\bisubsection}[2]{%
+  \biheading{}{subsection}{5}{\large\bfseries}{0.55em}{#1}{#2}%
+}
+\newcommand{\bisubsubsection}[2]{%
+  \biheading{}{subsubsection}{4}{\normalsize\bfseries}{0.45em}{#1}{#2}%
+}
+\newcommand{\bicompositeheading}[4]{%
+  \biheading{}{subsection}{5}{\large\bfseries}{0.16em}{#1}{#2}%
+  \biheading{}{subsubsection}{3}{\normalsize\bfseries}{0.45em}{#3}{#4}%
+}
+\newif\iflawboxfirstitem
+\lawboxfirstitemfalse
+\newcommand{\lawboxprespace}[1]{%
+  \par
+  \iflawboxfirstitem
+    \global\lawboxfirstitemfalse
+  \else
+    \addvspace{#1}%
+  \fi
+}
+\newtcolorbox{lawboxinner}{
+  caseboxbase,
+  colframe=sourceline!85!black,
+  colback=white,
+  left=1.05em,
+  right=1.05em,
+  top=0.62em,
+  bottom=0.62em,
+  before upper={\global\inlawboxtrue\global\lawboxfirstitemtrue\global\lawboxhaspendingrnfalse\ifintranslation\lawboxtransfont\else\lawboxsourcefont\fi\RaggedRight\setlength{\parindent}{0pt}\setlength{\parskip}{0pt}\ifintranslation\setstretch{\lawboxtransstretch}\else\setstretch{\lawboxsourcestretch}\fi},
+  after upper={\global\lawboxhaspendingrnfalse\global\inlawboxfalse}
+}
+\tcbset{
+  lawboxpartbase/.style={
+    enhanced,
+    breakable=false,
+    width=0.985\linewidth,
+    colback=white,
+    frame hidden,
+    boxrule=0pt,
+    arc=0pt,
+    left=1.05em,
+    right=1.05em,
+    boxsep=1.5mm,
+    before skip=0pt,
+    after skip=0pt,
+    before upper={\global\inlawboxtrue\global\lawboxfirstitemtrue\global\lawboxhaspendingrnfalse\ifintranslation\lawboxtransfont\else\lawboxsourcefont\fi\RaggedRight\setlength{\parindent}{0pt}\setlength{\parskip}{0pt}\ifintranslation\setstretch{\lawboxtransstretch}\else\setstretch{\lawboxsourcestretch}\fi},
+    after upper={\global\lawboxhaspendingrnfalse\global\inlawboxfalse},
+    borderline west={0.28pt}{0pt}{sourceline!85!black},
+    borderline east={0.28pt}{0pt}{sourceline!85!black},
+  },
+  lawboxpartfirst/.style={
+    lawboxpartbase,
+    top=0.62em,
+    bottom=0.04em,
+    before skip=\lawboxblockbeforeskip,
+    borderline north={0.28pt}{0pt}{sourceline!85!black},
+  },
+  lawboxpartmiddle/.style={
+    lawboxpartbase,
+    top=0.04em,
+    bottom=0.04em,
+  },
+  lawboxpartlast/.style={
+    lawboxpartbase,
+    top=0.04em,
+    bottom=0.62em,
+    after skip=0pt,
+    borderline south={0.28pt}{0pt}{sourceline!85!black},
+  }
+}
+\newtcolorbox{lawboxpartinner}[1]{#1}
+\newtcolorbox{termboxinner}{
+  caseboxbase,
+  colframe=noteblue!70!black,
+  colback=casepaper,
+  before upper={\songfont\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}}
+}
+\newtcolorbox{deboxinner}{
+  caseboxbase,
+  colframe=notegray!72!black,
+  colback=white,
+  left=1.05em,
+  right=1.05em,
+  top=0.62em,
+  bottom=0.62em,
+  before upper={\global\inlawboxtrue\global\lawboxfirstitemtrue\global\lawboxhaspendingrnfalse\small\setlength{\parindent}{0pt}\setlength{\parskip}{0.35em}},
+  after upper={\global\lawboxhaspendingrnfalse\global\inlawboxfalse}
+}
+\NewEnviron{lawbox}{
+  \begin{lawboxinner}\BODY\end{lawboxinner}
+}
+\NewEnviron{lawboxpart}[2]{
+  \begin{lawboxpartinner}{lawboxpart#1,equal height group=#2}\BODY\end{lawboxpartinner}%
+  \ifstrequal{#1}{last}{\global\lawboxpartendedblocktrue}{}%
+}
+\NewEnviron{termbox}{
+  \par\addvspace{0.55em}
+  {\color{noteblue!70!black}\rule{\linewidth}{0.28pt}}\par
+  \begingroup
+    \songfont\small\color{caseink}
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{0.24em}
+    \BODY
+    \par
+  \endgroup
+  {\color{noteblue!70!black}\rule{\linewidth}{0.28pt}}\par
+  \addvspace{0.55em}
+}
+\NewEnviron{debox}{
+  \begin{deboxinner}\BODY\end{deboxinner}
+}
+\providecommand{\paragraphmark}[1]{}
+\newcommand{\lawboxtitleafter}{\addvspace{0.06em}}
+\newcommand{\lawtitle}[1]{\lawboxprespace{0.22em}{\lawboxtransfont\bfseries\lawboxuserandnumber #1}\par\lawboxtitleafter}
+\newcommand{\absno}[2]{\lawboxprespace{0.04em}\noindent\lawboxuserandnumber\hangindent=2.6em\hangafter=1\makebox[2.6em][l]{(#1)}#2\par}
+\newcommand{\nrno}[2]{\lawboxprespace{0pt}\noindent\lawboxuserandnumber\hspace*{2.6em}\hangindent=4.4em\hangafter=1\makebox[1.8em][l]{#1.}#2\par}
+\newcommand{\letterno}[2]{\lawboxprespace{0pt}\noindent\lawboxuserandnumber\hspace*{4.4em}\hangindent=6.0em\hangafter=1\makebox[1.6em][l]{#1)}#2\par}
+\newcommand{\sourcelawtitle}[1]{\lawboxprespace{0.22em}{\lawboxsourcefont\bfseries\lawboxuserandnumber #1}\par\lawboxtitleafter}
+\newcommand{\sourcelawsubtitle}[1]{\lawboxprespace{0.04em}{\lawboxsourcefont\bfseries\lawboxuserandnumber #1}\par\lawboxtitleafter}
+\newcommand{\sourceabsno}[2]{\lawboxprespace{0.04em}\noindent\lawboxuserandnumber\hangindent=2.45em\hangafter=1\makebox[2.45em][l]{(#1)}#2\par}
+\newcommand{\sourcenrno}[2]{\lawboxprespace{0pt}\noindent\lawboxuserandnumber\hspace*{2.45em}\hangindent=4.25em\hangafter=1\makebox[1.8em][l]{#1.}#2\par}
+\newcommand{\sourceletterno}[2]{\lawboxprespace{0pt}\noindent\lawboxuserandnumber\hspace*{4.25em}\hangindent=5.85em\hangafter=1\makebox[1.6em][l]{#1)}#2\par}
+\newcommand{\sourcequotepara}[1]{\lawboxprespace{0.04em}\noindent\lawboxuserandnumber\hangindent=1.2em\hangafter=1 #1\par}
+\newcommand{\sourcelawline}[1]{\lawboxprespace{0.04em}\noindent\lawboxuserandnumber #1\par}
+\newcommand{\lawline}[1]{\lawboxprespace{0.04em}\noindent\lawboxuserandnumber #1\par}
+\newcommand{\pendingtranslation}{\par{\songfont\footnotesize\color{pendingink}（中文譯文待補。）}\par}
+\newcommand{\tocpart}[1]{\par\addvspace{0.52em}{\footnotesize\bfseries\color{pendingink}#1\par}\addvspace{0.16em}}
+\newcommand{\tocdashline}{\par\addvspace{0.48em}\noindent{\color{notegray}\xleaders\hbox to 0.82em{\hfil\rule{0.42em}{0.28pt}\hfil}\hskip\linewidth}\par\addvspace{0.38em}}
+% \tocpanel{font-cmd}{content}：將目錄置中於所在欄寬（雙語欄適用）。
+% A3 橫式使用 0.58\linewidth，A4 橫式使用 0.84\linewidth，
+% 使兩種紙張下目錄欄內容實際寬度相近（均約 100–105 mm）。
+\newcommand{\tocpanel}[2]{%
+  \makebox[\linewidth][c]{%
+    \ifx\bilingualpaper\bilingualpaperaThree
+      \begin{minipage}{0.58\linewidth}%
+    \else
+      \begin{minipage}{0.84\linewidth}%
+    \fi
+    \toccolstyle
+    #1#2%
+    \end{minipage}%
+  }%
+}
+% ===== 首頁簡目錄的兩層 description list 縮排 =====
+% enumitem 的 description list 可把每一列拆成：
+%   [label]  labelsep  body text
+% 這裡的「起點」都以所在 minipage/欄位的左緣為 0。
+%
+% 核心規則：
+%   labelindent = label 欄位從左緣開始的位置。
+%   labelwidth  = label 欄位本身寬度；標籤太長（如 Abw. Meinung）就加大它。
+%   labelsep    = label 欄位右緣到正文的距離。
+%   leftmargin  = 正文 body text 的起點。判斷層級視覺時主要看這個。
+%
+% 所以：
+%   想讓「Begründung / 判決理由」整列正文往右或往左：改 tocitems 的 leftmargin。
+%   想讓「A. Verfahren und Gegenstand / A. 程序與審查標的」正文往右或往左：
+%     改 tocsubitems 的 leftmargin。
+%   想讓 A./B./C. 這些標籤本身往右或往左，但正文不動：改 tocsubitems 的 labelindent。
+%   想讓 A./B./C. 與正文間距變大或變小：改 tocsubitems 的 labelsep。
+%
+% 層級原則：
+%   tocsubitems.leftmargin 必須大於 tocitems.leftmargin，
+%   否則子層級正文會看起來比「Gründe / 理由」還靠左。
+\newlist{tocitems}{description}{1}
+\setlist[tocitems]{%
+  labelindent=0pt,    % 第一層 label 欄位起點；0pt 表示貼齊目錄欄左緣。
+  leftmargin=2.54cm,  % 第一層正文起點；例如 Begründung / 判決理由 的左緣。
+  labelwidth=2.16cm,  % 第一層 label 欄位寬度；需容納 Leitsätze、Abw. Meinung、不同意見等。
+  labelsep=0.32cm,    % 第一層 label 與正文的水平間距；只改間距，不改正文起點。
+  itemsep=0.28em,     % 第一層各項之間的垂直距離。
+  topsep=0.20em,      % 第一層 list 上下與前後內容的垂直距離。
+  parsep=0pt,         % 同一 item 內段落之間的距離；目錄項通常不需要。
+  partopsep=0pt,      % list 若緊接段落開始時的額外距離；關閉以免目錄高度飄動。
+  align=left,         % label 欄內左對齊；長短標籤不靠右貼齊。
+  font=\normalfont\bfseries % label 的字型；正文不受這行影響。
+}
+\newlist{tocsubitems}{description}{1}
+\setlist[tocsubitems]{%
+  labelindent=1cm,    % 第二層 label 起點；只控制 A./B./C. 本身的位置。
+  leftmargin=3.00cm,  % 第二層正文起點；必須大於 2.54cm，才會比 Begründung / 判決理由更右。
+  labelwidth=0.5cm,   % 第二層 label 欄寬；A./B./C. 很短，可小於第一層。
+  labelsep=1.5cm,    % 第二層 label 與正文間距；A. 與 Verfahren / 程序 的距離看這裡。
+  itemsep=0.12em,     % 第二層各項較密，避免 A.–E. 佔太高。
+  topsep=0.04em,      % 第二層 list 與 Gründe / 理由之間的垂直距離。
+  parsep=0pt,         % 同一第二層 item 內段落距離；目錄項通常不需要。
+  partopsep=0pt,      % 關閉額外段落起始距離，避免版面不穩。
+  align=left,         % A./B./C. label 欄內左對齊。
+  font=\normalfont\bfseries, % A./B./C. label 加粗；正文不受這行影響。
+  before={}           % 不在第二層 list 前自動插入額外內容。
+}
+\newlist{termitems}{description}{1}
+\ifbilingualcolumns
+  \setlist[termitems]{%
+    leftmargin=5.2cm,
+    labelwidth=4.8cm,
+    labelsep=0.35cm,
+    itemsep=0.16em,
+    topsep=0.2em,
+    parsep=0pt,
+    partopsep=0pt,
+    font=\normalfont\bfseries,
+    style=nextline
+  }
+\else
+  \setlist[termitems]{%
+    leftmargin=0pt,
+    labelwidth=0pt,
+    labelsep=0pt,
+    itemsep=0.24em,
+    topsep=0.2em,
+    parsep=0pt,
+    partopsep=0pt,
+    font=\normalfont\bfseries,
+    style=nextline
+  }
+\fi
+\newlist{abbritems}{description}{1}
+\setlist[abbritems]{%
+  leftmargin=2.38cm,
+  labelwidth=2.02cm,
+  labelsep=0.28cm,
+  itemsep=0.16em,
+  topsep=0.2em,
+  parsep=0pt,
+  partopsep=0pt,
+  align=left,
+  font=\normalfont\bfseries
+}
+\ifbilingualcolumns
+  \newenvironment{termcolumns}{\begin{multicols}{2}}{\end{multicols}}
+\else
+  \newenvironment{termcolumns}{}{}
+\fi
+
+% ===== 編者註腳開關 =====
+% 一般版預設不顯示編者註，避免正文腳註過密。
+% 若開啟 \classroommodeon，GG/條文編者註仍會自動顯示，無需另開本開關。
+% 若一般版也要顯示編者註，可在單案檔 \input 後加 \showeditornotestrue。
+\newif\ifshoweditornotes
+\showeditornotesfalse
+
+% ===== 目錄排版輔助 =====
+\newcommand{\toccolstyle}{\raggedright\arraybackslash}
+\newcommand{\tocsingleindent}{\leftskip=1.45cm\rightskip=1.2cm}
+
+% ===== 行內引文環境（德文原文與中文譯文各一，帶左側灰色邊線）=====
+\newcommand{\quoteparbreak}{\par\addvspace{0.48em}}
+\newcommand{\sourcequoteinner}[1]{%
+  \begin{tcolorbox}[
+    enhanced, breakable, width=\dimexpr\linewidth-0.8em\relax, frame hidden,
+    colback=white, coltext=caseink, boxrule=0pt,
+    borderline west={0.55pt}{0.88em}{notegray},
+    left=1.78em, right=0.72em, top=0.18em, bottom=0.18em,
+    boxsep=0pt, before skip=0.24em, after skip=0.24em,
+    before upper={\normalfont\footnotesize\color{caseink}\setlength{\parindent}{0pt}\setlength{\parskip}{0.34em}\raggedright\setlength{\rightskip}{0pt plus 1em}}
+  ]%
+  #1\par
+  \end{tcolorbox}%
+}
+\newcommand{\transquoteinner}[1]{%
+  \begin{tcolorbox}[
+    enhanced, breakable, width=\dimexpr\linewidth-0.8em\relax, frame hidden,
+    colback=white, coltext=caseink, boxrule=0pt,
+    borderline west={0.55pt}{0.88em}{notegray},
+    left=1.78em, right=0.72em, top=0.18em, bottom=0.18em,
+    boxsep=0pt, before skip=0.24em, after skip=0.24em,
+    before upper={\songfont\small\color{caseink}\setlength{\parindent}{0pt}\setlength{\parskip}{0.34em}\raggedright\setlength{\rightskip}{0pt plus 1em}}
+  ]%
+  #1\par
+  \end{tcolorbox}%
+}
+
+% ===== 大綱（Gliederung）Rn 輔助命令 =====
+\newcommand{\outrn}[2]{\enspace{\normalfont\footnotesize\color{pendingink}(Rn\,#1–#2)}}
+\newcommand{\outrnsingle}[1]{\enspace{\normalfont\footnotesize\color{pendingink}(Rn\,#1)}}
+\newcommand{\outrnzh}[2]{\enspace{\normalfont\footnotesize\color{pendingink}（第\,#1–#2\,段）}}
+\newcommand{\outrnzhs}[1]{\enspace{\normalfont\footnotesize\color{pendingink}（第\,#1\,段）}}
+% ===== 大綱雙語對照表格輔助命令（三欄：段碼 │ 德文 │ 中文）=====
+% 欄 1：段碼（由欄定義自動格式化：小字、等寬、右對齊、pendingink）
+% 欄 2：德文標籤＋正文
+% 欄 3：中文標籤＋正文
+%
+% 無段碼的列（\omainrow、\osecrow），欄 1 以 & 空置。
+% 有段碼的列（\osecrowrn、\osubrow、\ointrow），#1 為預格式化字串
+%   例：\osubrow{2–49}{I.}{...}{I.}{...}
+%       \ointrow{107}{...}{...}
+%
+% \opartrow：段組標題（橫跨三欄）
+\newcommand{\opartrow}[2]{%
+  \noalign{\vspace{0.30em}}%
+  \multicolumn{3}{@{}l@{}}{%
+    \footnotesize\bfseries\color{pendingink}#1\hfill\songfont#2%
+  }\\[0.06em]%
+}
+% \odashrow：虛線分隔（橫跨三欄）
+\newcommand{\odashrow}{%
+  \noalign{\vspace{0.28em}}%
+  \multicolumn{3}{@{}l@{}}{\color{notegray}%
+    \xleaders\hbox to 0.82em{\hfil\rule{0.42em}{0.28pt}\hfil}\hskip 0.88\linewidth}%
+  \\[0.24em]%
+}
+% \odissentpart：不同意見書區段標頭。比一般 \opartrow 更像附錄性轉場。
+\newcommand{\odissentpart}[2]{%
+  \noalign{\vspace{0.42em}}%
+  \multicolumn{3}{@{}p{0.88\textwidth}@{}}{%
+    \color{notegray}\rule{\linewidth}{0.18pt}%
+  }\\[-0.18em]%
+  \multicolumn{3}{@{}p{0.88\textwidth}@{}}{%
+    \makebox[\linewidth][s]{%
+      \footnotesize\bfseries\color{pendingink}#1%
+      \hfill{\songfont #2}%
+    }%
+  }\\[-0.02em]%
+}
+% \odissentopinion：不同意見書的署名與一行摘要，右欄保留段碼範圍。
+\newcommand{\odissentopinion}[5]{%
+  \footnotesize\hangindent=0.52cm\hangafter=1%
+    {\bfseries\color{caseink}#2}\enspace{\color{notegray}\textperiodcentered}\enspace\color{caseink}#3%
+  &\footnotesize\hangindent=0.52cm\hangafter=1%
+    {\songfont\bfseries\color{caseink}#4}\enspace{\color{notegray}\textperiodcentered}\enspace\songfont\color{caseink}#5%
+  &#1%
+  \\[0.12em]%
+}
+% \omainrow：頂層項目，無段碼（Leitsätze、Urteil、Gründe …）
+\newcommand{\omainrow}[4]{%
+  \footnotesize\hangindent=1.92cm\hangafter=1%
+    \makebox[1.92cm][l]{\bfseries\color{caseink}#1}\color{caseink}#2%
+  &\footnotesize\hangindent=1.92cm\hangafter=1%
+    \makebox[1.92cm][l]{\bfseries\color{caseink}#3}\songfont\color{caseink}#4%
+  &%
+  \\[0.15em]%
+}
+% \omainrowrn：頂層項目，有段碼（不同意見等標籤寬於 \osecrow 框者）
+\newcommand{\omainrowrn}[5]{%
+  \footnotesize\hangindent=1.92cm\hangafter=1%
+    \makebox[1.92cm][l]{\bfseries\color{caseink}#2}\color{caseink}#3%
+  &\footnotesize\hangindent=1.92cm\hangafter=1%
+    \makebox[1.92cm][l]{\bfseries\color{caseink}#4}\songfont\color{caseink}#5%
+  &#1%
+  \\[0.15em]%
+}
+% \osecrow：一級子項，無段碼（A.、C.、D. 等有子項者）
+\newcommand{\osecrow}[4]{%
+  \footnotesize\hspace{1.10cm}\hangindent=1.98cm\hangafter=1%
+    \makebox[0.86cm][l]{\bfseries\color{caseink}#1}\color{caseink}#2%
+  &\footnotesize\hspace{1.10cm}\hangindent=1.98cm\hangafter=1%
+    \makebox[0.86cm][l]{\bfseries\color{caseink}#3}\songfont\color{caseink}#4%
+  &%
+  \\[0.11em]%
+}
+% \osecrowrn：一級子項，有段碼（B.、E. 等完整段落範圍者）
+% #1=段碼字串（如 101–106）, #2=DE標籤, #3=DE正文, #4=ZH標籤, #5=ZH正文
+\newcommand{\osecrowrn}[5]{%
+  \footnotesize\hspace{1.10cm}\hangindent=1.98cm\hangafter=1%
+    \makebox[0.86cm][l]{\bfseries\color{caseink}#2}\color{caseink}#3%
+  &\footnotesize\hspace{1.10cm}\hangindent=1.98cm\hangafter=1%
+    \makebox[0.86cm][l]{\bfseries\color{caseink}#4}\songfont\color{caseink}#5%
+  &#1%
+  \\[0.11em]%
+}
+% \osubrow：二級子項，有段碼範圍（I.、II.、A.I. …）
+% #1=段碼字串, #2=DE標籤, #3=DE正文, #4=ZH標籤, #5=ZH正文
+\newcommand{\osubrow}[5]{%
+  \footnotesize\hspace{1.40cm}\hangindent=2.30cm\hangafter=1%
+    \makebox[0.90cm][l]{\bfseries\color{caseink}#2}\color{caseink}#3%
+  &\footnotesize\hspace{1.40cm}\hangindent=2.30cm\hangafter=1%
+    \makebox[0.90cm][l]{\bfseries\color{caseink}#4}\songfont\color{caseink}#5%
+  &#1%
+  \\[0.09em]%
+}
+% \ointrow：引入段落，有單一段碼，無標籤
+% #1=段碼字串, #2=DE正文, #3=ZH正文
+\newcommand{\ointrow}[3]{%
+  \footnotesize\hspace{0.52cm}\hangindent=0.52cm\hangafter=1\color{caseink}#2%
+  &\footnotesize\hspace{0.52cm}\hangindent=0.52cm\hangafter=1\songfont\color{caseink}#3%
+  &#1%
+  \\[0.09em]%
+}
+% \osubsubrow：三級子項（1.、2.、3.）
+% #1=段碼字串, #2=DE標籤, #3=DE正文, #4=ZH標籤, #5=ZH正文
+\newcommand{\osubsubrow}[5]{%
+  \footnotesize\hspace{1.80cm}\hangindent=2.48cm\hangafter=1%
+    \makebox[0.68cm][l]{\bfseries\color{caseink}#2}\color{caseink}#3%
+  &\footnotesize\hspace{1.80cm}\hangindent=2.48cm\hangafter=1%
+    \makebox[0.68cm][l]{\bfseries\color{caseink}#4}\songfont\color{caseink}#5%
+  &#1%
+  \\[0.08em]%
+}
+% \osubsubsubrow：四級子項（a）、b））
+% #1=段碼字串, #2=DE標籤, #3=DE正文, #4=ZH標籤, #5=ZH正文
+\newcommand{\osubsubsubrow}[5]{%
+  \footnotesize\hspace{2.10cm}\hangindent=2.68cm\hangafter=1%
+    \makebox[0.58cm][l]{\bfseries\color{caseink}#2}\color{caseink}#3%
+  &\footnotesize\hspace{2.10cm}\hangindent=2.68cm\hangafter=1%
+    \makebox[0.58cm][l]{\bfseries\color{caseink}#4}\songfont\color{caseink}#5%
+  &#1%
+  \\[0.07em]%
+}
+% \osubsubsubsubrow：五級子項（aa）、bb））
+% 標籤框 0.62cm：足以容納「aa)」在 footnotesize bold 下（約 0.50cm）並留有間距
+% #1=段碼字串, #2=DE標籤, #3=DE正文, #4=ZH標籤, #5=ZH正文
+\newcommand{\osubsubsubsubrow}[5]{%
+  \footnotesize\hspace{2.38cm}\hangindent=3.06cm\hangafter=1%
+    \makebox[0.68cm][l]{\bfseries\color{caseink}#2}\color{caseink}#3%
+  &\footnotesize\hspace{2.38cm}\hangindent=3.06cm\hangafter=1%
+    \makebox[0.68cm][l]{\bfseries\color{caseink}#4}\songfont\color{caseink}#5%
+  &#1%
+  \\[0.06em]%
+}
+% \outlinepage：雙語對照大綱頁包裝環境（longtable 自動跨頁）
+% 三欄：德文欄 + 中文欄 + 段碼欄（最右，不折行）
+% 段碼欄寬度：1.80cm，足以容納最長段碼如「309–348」
+% DE/ZH 欄寬：(0.87\textwidth - 2.08cm) / 2
+%   驗算：2×欄 + 0.05\textwidth + 0.28cm gap + 1.80cm = 0.87tw - 2.08cm + 0.05tw + 2.08cm = 0.92tw ✓
+\newenvironment{outlinepage}{%
+  \vspace*{0.40cm}%
+  \setlength{\LTleft}{0.04\textwidth}%
+  \setlength{\LTright}{0.04\textwidth}%
+  \setlength{\tabcolsep}{0pt}%
+  % 大綱列距由 longtable 的 \arraystretch 與各 row macro 結尾的 \\[...em] 共同決定。
+  % 這裡控制「每一列本身的表格 strut 高度」；數值越大，A./I./1. 各項之間越像有空行。
+  % A3 原本用 0.62，視覺上沒有空行；A4 也沿用同值，避免切到 A4 後項目被撐開。
+  % 若日後覺得大綱太擠，只微調這個值（例如 0.68），不要改各 \omainrow/\osubrow 的縮排。
+  \renewcommand{\arraystretch}{0.62}%
+  \begin{longtable}{%
+    >{\vspace{0pt}\raggedright\arraybackslash}p{\dimexpr(0.87\textwidth-2.08cm)/2\relax}%
+    @{\hspace{0.025\textwidth}}%
+    !{\color{notegray}\vrule width 0.12pt}%
+    @{\hspace{0.025\textwidth}}%
+    >{\vspace{0pt}\raggedright\arraybackslash}p{\dimexpr(0.87\textwidth-2.08cm)/2\relax}%
+    @{\hspace{0.28cm}}%
+    >{\vspace{0pt}\footnotesize\normalfont\color{pendingink}\raggedright\arraybackslash}p{1.80cm}%
+    @{}%
+  }%
+  % 首頁欄標籤：不要橫跨置中；分別放在德文欄與中文欄的實際欄位起點。
+  \footnotesize\bfseries\color{sourceink}Gliederung%
+  &\footnotesize\bfseries\songfont\color{sourceink}大綱%
+  &%
+  \\[0.36em]%
+  \endfirsthead%
+  % 續頁欄標籤：同樣分欄定位，以灰色細體區分；無需標注「續」。
+  \footnotesize\color{pendingink}Gliederung%
+  &\footnotesize\songfont\color{pendingink}大綱%
+  &%
+  \\[0.24em]%
+  \endhead%
+}{%
+  \end{longtable}%
+}

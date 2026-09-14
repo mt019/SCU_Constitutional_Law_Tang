@@ -1,0 +1,618 @@
+{
+  "course_url": "https://ocw.aca.ntu.edu.tw/courses/105S104",
+  "resources_url": "https://ocw.aca.ntu.edu.tw/courses/105S104/resources",
+  "fetched_at": "2026-06-15T02:05:18.563Z",
+  "note": "Shell direct PDF download is blocked by Cloudflare; local files are Markdown conversions of the public PDF course_item_files via r.jina.ai. Original source URLs are retained for each item.",
+  "items": [
+    {
+      "id": 5744,
+      "lecture": 1,
+      "part": 1,
+      "title": "什麼是憲法 -- 立憲主義精義",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5744",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/01_part01_什麼是憲法_--_立憲主義精義__item_5744.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5744: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5745,
+      "lecture": 1,
+      "part": 2,
+      "title": "什麼是憲法 -- 立憲主義精義",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5745",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/01_part02_什麼是憲法_--_立憲主義精義__item_5745.md",
+      "status": "ok",
+      "bytes": 20659
+    },
+    {
+      "id": 5746,
+      "lecture": 2,
+      "part": 1,
+      "title": "五權分治、平等相維 -- 權力分立原則的理論與實用",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5746",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/02_part01_五權分治、平等相維_--_權力分立原則的理論與實用__item_5746.md",
+      "status": "ok",
+      "bytes": 17560
+    },
+    {
+      "id": 5747,
+      "lecture": 2,
+      "part": 2,
+      "title": "五權分治、平等相維 -- 權力分立原則的理論與實用",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5747",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/02_part02_五權分治、平等相維_--_權力分立原則的理論與實用__item_5747.md",
+      "status": "ok",
+      "bytes": 3422
+    },
+    {
+      "id": 5748,
+      "lecture": 3,
+      "part": 1,
+      "title": "比較憲法結構 -- 權力分立原則實作類型",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5748",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/03_part01_比較憲法結構_--_權力分立原則實作類型__item_5748.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5748: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5749,
+      "lecture": 3,
+      "part": 2,
+      "title": "比較憲法結構 -- 權力分立原則實作類型",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5749",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/03_part02_比較憲法結構_--_權力分立原則實作類型__item_5749.md",
+      "status": "ok",
+      "bytes": 12434
+    },
+    {
+      "id": 5750,
+      "lecture": 4,
+      "part": 1,
+      "title": "回首來時路 -- 憲改的背景、動力與結果",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5750",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/04_part01_回首來時路_--_憲改的背景、動力與結果__item_5750.md",
+      "status": "ok",
+      "bytes": 3407
+    },
+    {
+      "id": 5751,
+      "lecture": 4,
+      "part": 2,
+      "title": "回首來時路 -- 憲改的背景、動力與結果",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5751",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/04_part02_回首來時路_--_憲改的背景、動力與結果__item_5751.md",
+      "status": "ok",
+      "bytes": 13191
+    },
+    {
+      "id": 5752,
+      "lecture": 5,
+      "part": 1,
+      "title": "國民主權與國民大會 -- 釋字 499 號解釋解析",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5752",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/05_part01_國民主權與國民大會_--_釋字_499_號解釋解析__item_5752.md",
+      "status": "ok",
+      "bytes": 3412
+    },
+    {
+      "id": 5753,
+      "lecture": 5,
+      "part": 2,
+      "title": "國民主權與國民大會 -- 釋字 499 號解釋解析",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5753",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/05_part02_國民主權與國民大會_--_釋字_499_號解釋解析__item_5753.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5753: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5754,
+      "lecture": 6,
+      "part": 1,
+      "title": "總統 -- 虛位或實權國家元首的抉擇",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5754",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/06_part01_總統_--_虛位或實權國家元首的抉擇__item_5754.md",
+      "status": "ok",
+      "bytes": 3401
+    },
+    {
+      "id": 5755,
+      "lecture": 6,
+      "part": 2,
+      "title": "總統 -- 虛位或實權國家元首的抉擇",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5755",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/06_part02_總統_--_虛位或實權國家元首的抉擇__item_5755.md",
+      "status": "ok",
+      "bytes": 15472
+    },
+    {
+      "id": 5756,
+      "lecture": 7,
+      "part": 1,
+      "title": "行政院 -- 國家最高行政機關",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5756",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/07_part01_行政院_--_國家最高行政機關__item_5756.md",
+      "status": "ok",
+      "bytes": 3392
+    },
+    {
+      "id": 5757,
+      "lecture": 7,
+      "part": 2,
+      "title": "行政院 -- 國家最高行政機關",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5757",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/07_part02_行政院_--_國家最高行政機關__item_5757.md",
+      "status": "ok",
+      "bytes": 41921
+    },
+    {
+      "id": 5758,
+      "lecture": 8,
+      "part": 1,
+      "title": "立法院 -- 從「負責」到「制衡」",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5758",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/08_part01_立法院_--_從「負責」到「制衡」__item_5758.md",
+      "status": "ok",
+      "bytes": 3398
+    },
+    {
+      "id": 5759,
+      "lecture": 8,
+      "part": 2,
+      "title": "立法院 -- 從「負責」到「制衡」",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5759",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/08_part02_立法院_--_從「負責」到「制衡」__item_5759.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5759: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5760,
+      "lecture": 9,
+      "part": 1,
+      "title": "違憲審查制度 -- 宏觀定位、循序改造",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5760",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/09_part01_違憲審查制度_--_宏觀定位、循序改造__item_5760.md",
+      "status": "ok",
+      "bytes": 31936
+    },
+    {
+      "id": 5761,
+      "lecture": 9,
+      "part": 2,
+      "title": "違憲審查制度 -- 宏觀定位、循序改造",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5761",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/09_part02_違憲審查制度_--_宏觀定位、循序改造__item_5761.md",
+      "status": "ok",
+      "bytes": 48202
+    },
+    {
+      "id": 5762,
+      "lecture": 10,
+      "part": 1,
+      "title": "憲法解釋與憲法結構",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5762",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/10_part01_憲法解釋與憲法結構__item_5762.md",
+      "status": "ok",
+      "bytes": 3383
+    },
+    {
+      "id": 5763,
+      "lecture": 10,
+      "part": 2,
+      "title": "憲法解釋與憲法結構",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5763",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/10_part02_憲法解釋與憲法結構__item_5763.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5763: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5764,
+      "lecture": 11,
+      "part": 1,
+      "title": "司法院 -- 大法官與法官",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5764",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/11_part01_司法院_--_大法官與法官__item_5764.md",
+      "status": "ok",
+      "bytes": 20778
+    },
+    {
+      "id": 5765,
+      "lecture": 11,
+      "part": 2,
+      "title": "司法院 -- 大法官與法官",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5765",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/11_part02_司法院_--_大法官與法官__item_5765.md",
+      "status": "ok",
+      "bytes": 33488
+    },
+    {
+      "id": 5766,
+      "lecture": 12,
+      "part": 1,
+      "title": "考試院 -- 國家最高考試機關",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5766",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/12_part01_考試院_--_國家最高考試機關__item_5766.md",
+      "status": "ok",
+      "bytes": 3393
+    },
+    {
+      "id": 5767,
+      "lecture": 12,
+      "part": 2,
+      "title": "考試院 -- 國家最高考試機關",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5767",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/12_part02_考試院_--_國家最高考試機關__item_5767.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5767: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5768,
+      "lecture": 13,
+      "part": 1,
+      "title": "監察院 -- 國家最高監察機關",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5768",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/13_part01_監察院_--_國家最高監察機關__item_5768.md",
+      "status": "ok",
+      "bytes": 17982
+    },
+    {
+      "id": 5769,
+      "lecture": 13,
+      "part": 2,
+      "title": "監察院 -- 國家最高監察機關",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5769",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/13_part02_監察院_--_國家最高監察機關__item_5769.md",
+      "status": "ok",
+      "bytes": 24753
+    },
+    {
+      "id": 5770,
+      "lecture": 14,
+      "part": 1,
+      "title": "中央與地方權限劃分",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5770",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/14_part01_中央與地方權限劃分__item_5770.md",
+      "status": "ok",
+      "bytes": 3383
+    },
+    {
+      "id": 5771,
+      "lecture": 14,
+      "part": 2,
+      "title": "中央與地方權限劃分",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5771",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/14_part02_中央與地方權限劃分__item_5771.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5771: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5772,
+      "lecture": 15,
+      "part": 1,
+      "title": "地方制度",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5772",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/15_part01_地方制度__item_5772.md",
+      "status": "ok",
+      "bytes": 3368
+    },
+    {
+      "id": 5773,
+      "lecture": 15,
+      "part": 2,
+      "title": "地方制度",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5773",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/15_part02_地方制度__item_5773.md",
+      "status": "ok",
+      "bytes": 11390
+    },
+    {
+      "id": 5774,
+      "lecture": 16,
+      "part": 1,
+      "title": "活在憲政時代 － 自由民主憲政秩序與自我實現",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5774",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/16_part01_活在憲政時代_－_自由民主憲政秩序與自我實現__item_5774.md",
+      "status": "ok",
+      "bytes": 3418
+    },
+    {
+      "id": 5775,
+      "lecture": 16,
+      "part": 2,
+      "title": "活在憲政時代 － 自由民主憲政秩序與自我實現",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5775",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/16_part02_活在憲政時代_－_自由民主憲政秩序與自我實現__item_5775.md",
+      "status": "ok",
+      "bytes": 16672
+    },
+    {
+      "id": 5776,
+      "lecture": 17,
+      "part": 1,
+      "title": "人權的概念與分類",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5776",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/17_part01_人權的概念與分類__item_5776.md",
+      "status": "ok",
+      "bytes": 3380
+    },
+    {
+      "id": 5777,
+      "lecture": 17,
+      "part": 2,
+      "title": "人權的概念與分類",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5777",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/17_part02_人權的概念與分類__item_5777.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5777: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5778,
+      "lecture": 18,
+      "part": 1,
+      "title": "人權的保障與限制",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5778",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/18_part01_人權的保障與限制__item_5778.md",
+      "status": "ok",
+      "bytes": 3380
+    },
+    {
+      "id": 5779,
+      "lecture": 18,
+      "part": 2,
+      "title": "人權的保障與限制",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5779",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/18_part02_人權的保障與限制__item_5779.md",
+      "status": "ok",
+      "bytes": 16660
+    },
+    {
+      "id": 5780,
+      "lecture": 19,
+      "part": 1,
+      "title": "平等權真諦 － 合理的差別待遇",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5780",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/19_part01_平等權真諦_－_合理的差別待遇__item_5780.md",
+      "status": "ok",
+      "bytes": 3397
+    },
+    {
+      "id": 5781,
+      "lecture": 19,
+      "part": 2,
+      "title": "平等權真諦 － 合理的差別待遇",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5781",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/19_part02_平等權真諦_－_合理的差別待遇__item_5781.md",
+      "status": "ok",
+      "bytes": 14249
+    },
+    {
+      "id": 5782,
+      "lecture": 20,
+      "part": 1,
+      "title": "平等權指標案例演習 -- 違憲審查基準體系建構",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5782",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/20_平等權指標案例演習_--_違憲審查基準體系建構__item_5782.md",
+      "status": "ok",
+      "bytes": 3417
+    },
+    {
+      "id": 5783,
+      "lecture": 21,
+      "part": 1,
+      "title": "人身自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5783",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/21_part01_人身自由__item_5783.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5783: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5784,
+      "lecture": 21,
+      "part": 2,
+      "title": "人身自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5784",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/21_part02_人身自由__item_5784.md",
+      "status": "ok",
+      "bytes": 13864
+    },
+    {
+      "id": 5785,
+      "lecture": 22,
+      "part": 1,
+      "title": "人身自由指標案例演習 － 比例原則適用檢視",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5785",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/22_part01_人身自由指標案例演習_－_比例原則適用檢視__item_5785.md",
+      "status": "ok",
+      "bytes": 11465
+    },
+    {
+      "id": 5786,
+      "lecture": 22,
+      "part": 2,
+      "title": "人身自由指標案例演習 － 比例原則適用檢視",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5786",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/22_part02_人身自由指標案例演習_－_比例原則適用檢視__item_5786.md",
+      "status": "ok",
+      "bytes": 3415
+    },
+    {
+      "id": 5787,
+      "lecture": 23,
+      "part": 1,
+      "title": "不受軍事審判 & 居住遷徙自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5787",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/23_part01_不受軍事審判_&_居住遷徙自由__item_5787.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5787: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5788,
+      "lecture": 23,
+      "part": 2,
+      "title": "不受軍事審判 & 居住遷徙自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5788",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/23_part02_不受軍事審判_&_居住遷徙自由__item_5788.md",
+      "status": "ok",
+      "bytes": 3395
+    },
+    {
+      "id": 5789,
+      "lecture": 24,
+      "part": 1,
+      "title": "言論自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5789",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/24_言論自由__item_5789.md",
+      "status": "ok",
+      "bytes": 47446
+    },
+    {
+      "id": 5790,
+      "lecture": 25,
+      "part": 1,
+      "title": "言論自由指標案例演習",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5790",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/25_part01_言論自由指標案例演習__item_5790.md",
+      "status": "ok",
+      "bytes": 3386
+    },
+    {
+      "id": 5791,
+      "lecture": 25,
+      "part": 2,
+      "title": "言論自由指標案例演習",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5791",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/25_part02_言論自由指標案例演習__item_5791.md",
+      "status": "ok",
+      "bytes": 16135
+    },
+    {
+      "id": 5792,
+      "lecture": 26,
+      "part": 1,
+      "title": "秘密通訊、宗教信仰與集會結社自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5792",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/26_part01_秘密通訊、宗教信仰與集會結社自由__item_5792.md",
+      "status": "ok",
+      "bytes": 3404
+    },
+    {
+      "id": 5793,
+      "lecture": 26,
+      "part": 2,
+      "title": "秘密通訊、宗教信仰與集會結社自由",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5793",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/26_part02_秘密通訊、宗教信仰與集會結社自由__item_5793.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5793: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5794,
+      "lecture": 27,
+      "part": 1,
+      "title": "財產權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5794",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/27_part01_財產權__item_5794.md",
+      "status": "ok",
+      "bytes": 30612
+    },
+    {
+      "id": 5795,
+      "lecture": 27,
+      "part": 2,
+      "title": "財產權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5795",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/27_part02_財產權__item_5795.md",
+      "status": "ok",
+      "bytes": 32362
+    },
+    {
+      "id": 5796,
+      "lecture": 28,
+      "part": 1,
+      "title": "參政權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5796",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/28_part01_參政權__item_5796.md",
+      "status": "ok",
+      "bytes": 3365
+    },
+    {
+      "id": 5797,
+      "lecture": 28,
+      "part": 2,
+      "title": "參政權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5797",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/28_part02_參政權__item_5797.md",
+      "status": "failed",
+      "error": "HTTP 422: {\"data\":null,\"cause\":{},\"code\":422,\"name\":\"AssertionFailureError\",\"status\":42206,\"message\":\"Failed to goto https://ocw.aca.ntu.edu.tw/course_item_files/5797: Error: net::ERR_ABORTED at https://ocw.aca"
+    },
+    {
+      "id": 5798,
+      "lecture": 29,
+      "part": 1,
+      "title": "受益權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5798",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/29_part01_受益權__item_5798.md",
+      "status": "ok",
+      "bytes": 32231
+    },
+    {
+      "id": 5799,
+      "lecture": 29,
+      "part": 2,
+      "title": "受益權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5799",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/29_part02_受益權__item_5799.md",
+      "status": "ok",
+      "bytes": 10715
+    },
+    {
+      "id": 5800,
+      "lecture": 30,
+      "part": 1,
+      "title": "其他基本人權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5800",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/30_part01_其他基本人權__item_5800.md",
+      "status": "ok",
+      "bytes": 3374
+    },
+    {
+      "id": 5801,
+      "lecture": 30,
+      "part": 2,
+      "title": "其他基本人權",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5801",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/30_part02_其他基本人權__item_5801.md",
+      "status": "failed",
+      "error": "HTTP 503: upstream connect error or disconnect/reset before headers. reset reason: connection termination"
+    },
+    {
+      "id": 5802,
+      "lecture": 32,
+      "part": 1,
+      "title": "釋憲制度改革新議",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5802",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/32_釋憲制度改革新議__item_5802.md",
+      "status": "ok",
+      "bytes": 27372
+    },
+    {
+      "id": 5803,
+      "lecture": 33,
+      "part": 1,
+      "title": "大法官指標解釋：體制篇",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5803",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/33_大法官指標解釋：體制篇__item_5803.md",
+      "status": "ok",
+      "bytes": 53755
+    },
+    {
+      "id": 5804,
+      "lecture": 34,
+      "part": 1,
+      "title": "大法官指標解釋 (II)：人權篇",
+      "source_url": "https://ocw.aca.ntu.edu.tw/course_item_files/5804",
+      "local_markdown": "_Material/OCW/105S104_大法官講堂_中華民國憲法及政府/markdown/34_大法官指標解釋_(II)：人權篇__item_5804.md",
+      "status": "ok",
+      "bytes": 3394
+    }
+  ]
+}

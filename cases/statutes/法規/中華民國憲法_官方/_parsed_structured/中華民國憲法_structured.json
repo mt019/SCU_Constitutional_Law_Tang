@@ -1,0 +1,4285 @@
+{
+  "law_name": "中華民國憲法",
+  "pcode": "A0000001",
+  "official_all_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001",
+  "official_para_url": "https://law.moj.gov.tw/LawClass/LawAllPara.aspx?pcode=A0000001",
+  "official_pdf_url": "https://law.moj.gov.tw/LawClass/FilesType.aspx?DataId=A0000001&md=m",
+  "revision_date": "",
+  "category": "憲法",
+  "structure": [
+    {
+      "level": 2,
+      "title": "第 一 章 總綱",
+      "start_article": 1,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 二 章 人民之權利義務",
+      "start_article": 7,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 三 章 國民大會",
+      "start_article": 25,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 四 章 總統",
+      "start_article": 35,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 五 章 行政",
+      "start_article": 53,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 六 章 立法",
+      "start_article": 62,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 七 章 司法",
+      "start_article": 77,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 八 章 考試",
+      "start_article": 83,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 九 章 監察",
+      "start_article": 90,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 十 章 中央與地方之權限",
+      "start_article": 107,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 十一 章 地方制度",
+      "start_article": 112,
+      "sections": [
+        {
+          "level": 3,
+          "title": "第 一 節 省",
+          "start_article": 112
+        },
+        {
+          "level": 3,
+          "title": "第 二 節 縣",
+          "start_article": 121
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "第 十二 章 選舉、罷免、創制、複決",
+      "start_article": 129,
+      "sections": []
+    },
+    {
+      "level": 2,
+      "title": "第 十三 章 基本國策",
+      "start_article": 137,
+      "sections": [
+        {
+          "level": 3,
+          "title": "第 一 節 國防",
+          "start_article": 137
+        },
+        {
+          "level": 3,
+          "title": "第 二 節 外交",
+          "start_article": 141
+        },
+        {
+          "level": 3,
+          "title": "第 三 節 國民經濟",
+          "start_article": 142
+        },
+        {
+          "level": 3,
+          "title": "第 四 節 社會安全",
+          "start_article": 152
+        },
+        {
+          "level": 3,
+          "title": "第 五 節 教育文化",
+          "start_article": 158
+        },
+        {
+          "level": 3,
+          "title": "第 六 節 邊疆地區",
+          "start_article": 168
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "第 十四 章 憲法之施行及修改",
+      "start_article": 170,
+      "sections": []
+    }
+  ],
+  "articles": [
+    {
+      "article_no": 1,
+      "article_label": "第 1 條",
+      "chapter": "第 一 章 總綱",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國基於三民主義，為民有民治民享之民主共和國。"
+        }
+      ],
+      "text": "中華民國基於三民主義，為民有民治民享之民主共和國。",
+      "text_lines": [
+        "中華民國基於三民主義，為民有民治民享之民主共和國。"
+      ],
+      "paragraphs": [
+        "中華民國基於三民主義，為民有民治民享之民主共和國。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=1"
+    },
+    {
+      "article_no": 2,
+      "article_label": "第 2 條",
+      "chapter": "第 一 章 總綱",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國之主權屬於國民全體。"
+        }
+      ],
+      "text": "中華民國之主權屬於國民全體。",
+      "text_lines": [
+        "中華民國之主權屬於國民全體。"
+      ],
+      "paragraphs": [
+        "中華民國之主權屬於國民全體。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=2"
+    },
+    {
+      "article_no": 3,
+      "article_label": "第 3 條",
+      "chapter": "第 一 章 總綱",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "具有中華民國國籍者為中華民國國民。"
+        }
+      ],
+      "text": "具有中華民國國籍者為中華民國國民。",
+      "text_lines": [
+        "具有中華民國國籍者為中華民國國民。"
+      ],
+      "paragraphs": [
+        "具有中華民國國籍者為中華民國國民。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=3"
+    },
+    {
+      "article_no": 4,
+      "article_label": "第 4 條",
+      "chapter": "第 一 章 總綱",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國領土，依其固有之疆域，非經國民大會之決議，不得變更之。"
+        }
+      ],
+      "text": "中華民國領土，依其固有之疆域，非經國民大會之決議，不得變更之。",
+      "text_lines": [
+        "中華民國領土，依其固有之疆域，非經國民大會之決議，不得變更之。"
+      ],
+      "paragraphs": [
+        "中華民國領土，依其固有之疆域，非經國民大會之決議，不得變更之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=4"
+    },
+    {
+      "article_no": 5,
+      "article_label": "第 5 條",
+      "chapter": "第 一 章 總綱",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國各民族一律平等。"
+        }
+      ],
+      "text": "中華民國各民族一律平等。",
+      "text_lines": [
+        "中華民國各民族一律平等。"
+      ],
+      "paragraphs": [
+        "中華民國各民族一律平等。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=5"
+    },
+    {
+      "article_no": 6,
+      "article_label": "第 6 條",
+      "chapter": "第 一 章 總綱",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國國旗定為紅地，左上角青天白日。"
+        }
+      ],
+      "text": "中華民國國旗定為紅地，左上角青天白日。",
+      "text_lines": [
+        "中華民國國旗定為紅地，左上角青天白日。"
+      ],
+      "paragraphs": [
+        "中華民國國旗定為紅地，左上角青天白日。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=6"
+    },
+    {
+      "article_no": 7,
+      "article_label": "第 7 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國人民，無分男女、宗教、種族、階級、黨派，在法律上一律平等。"
+        }
+      ],
+      "text": "中華民國人民，無分男女、宗教、種族、階級、黨派，在法律上一律平等。",
+      "text_lines": [
+        "中華民國人民，無分男女、宗教、種族、階級、黨派，在法律上一律平等。"
+      ],
+      "paragraphs": [
+        "中華民國人民，無分男女、宗教、種族、階級、黨派，在法律上一律平等。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=7"
+    },
+    {
+      "article_no": 8,
+      "article_label": "第 8 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。非依法定程序之逮捕、拘禁、審問、處罰，得拒絕之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "人民因犯罪嫌疑被逮捕拘禁時，其逮捕拘禁機關應將逮捕拘禁原因，以書面告知本人及其本人指定之親友，並至遲於二十四小時內移送該管法院審問。本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "法院對於前項聲請，不得拒絕，並不得先令逮捕拘禁之機關查覆。逮捕拘禁之機關，對於法院之提審，不得拒絕或遲延。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "人民遭受任何機關非法逮捕拘禁時，其本人或他人得向法院聲請追究，法院不得拒絕，並應於二十四小時內向逮捕拘禁之機關追究，依法處理。"
+        }
+      ],
+      "text": "人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。非依法定程序之逮捕、拘禁、審問、處罰，得拒絕之。\n人民因犯罪嫌疑被逮捕拘禁時，其逮捕拘禁機關應將逮捕拘禁原因，以書面告知本人及其本人指定之親友，並至遲於二十四小時內移送該管法院審問。本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審。\n法院對於前項聲請，不得拒絕，並不得先令逮捕拘禁之機關查覆。逮捕拘禁之機關，對於法院之提審，不得拒絕或遲延。\n人民遭受任何機關非法逮捕拘禁時，其本人或他人得向法院聲請追究，法院不得拒絕，並應於二十四小時內向逮捕拘禁之機關追究，依法處理。",
+      "text_lines": [
+        "人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。非依法定程序之逮捕、拘禁、審問、處罰，得拒絕之。",
+        "人民因犯罪嫌疑被逮捕拘禁時，其逮捕拘禁機關應將逮捕拘禁原因，以書面告知本人及其本人指定之親友，並至遲於二十四小時內移送該管法院審問。本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審。",
+        "法院對於前項聲請，不得拒絕，並不得先令逮捕拘禁之機關查覆。逮捕拘禁之機關，對於法院之提審，不得拒絕或遲延。",
+        "人民遭受任何機關非法逮捕拘禁時，其本人或他人得向法院聲請追究，法院不得拒絕，並應於二十四小時內向逮捕拘禁之機關追究，依法處理。"
+      ],
+      "paragraphs": [
+        "人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。非依法定程序之逮捕、拘禁、審問、處罰，得拒絕之。 人民因犯罪嫌疑被逮捕拘禁時，其逮捕拘禁機關應將逮捕拘禁原因，以書面告知本人及其本人指定之親友，並至遲於二十四小時內移送該管法院審問。本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審。 法院對於前項聲請，不得拒絕，並不得先令逮捕拘禁之機關查覆。逮捕拘禁之機關，對於法院之提審，不得拒絕或遲延。 人民遭受任何機關非法逮捕拘禁時，其本人或他人得向法院聲請追究，法院不得拒絕，並應於二十四小時內向逮捕拘禁之機關追究，依法處理。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=8"
+    },
+    {
+      "article_no": 9,
+      "article_label": "第 9 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民除現役軍人外，不受軍事審判。"
+        }
+      ],
+      "text": "人民除現役軍人外，不受軍事審判。",
+      "text_lines": [
+        "人民除現役軍人外，不受軍事審判。"
+      ],
+      "paragraphs": [
+        "人民除現役軍人外，不受軍事審判。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=9"
+    },
+    {
+      "article_no": 10,
+      "article_label": "第 10 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有居住及遷徙之自由。"
+        }
+      ],
+      "text": "人民有居住及遷徙之自由。",
+      "text_lines": [
+        "人民有居住及遷徙之自由。"
+      ],
+      "paragraphs": [
+        "人民有居住及遷徙之自由。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=10"
+    },
+    {
+      "article_no": 11,
+      "article_label": "第 11 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有言論、講學、著作及出版之自由。"
+        }
+      ],
+      "text": "人民有言論、講學、著作及出版之自由。",
+      "text_lines": [
+        "人民有言論、講學、著作及出版之自由。"
+      ],
+      "paragraphs": [
+        "人民有言論、講學、著作及出版之自由。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=11"
+    },
+    {
+      "article_no": 12,
+      "article_label": "第 12 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有秘密通訊之自由。"
+        }
+      ],
+      "text": "人民有秘密通訊之自由。",
+      "text_lines": [
+        "人民有秘密通訊之自由。"
+      ],
+      "paragraphs": [
+        "人民有秘密通訊之自由。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=12"
+    },
+    {
+      "article_no": 13,
+      "article_label": "第 13 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有信仰宗教之自由。"
+        }
+      ],
+      "text": "人民有信仰宗教之自由。",
+      "text_lines": [
+        "人民有信仰宗教之自由。"
+      ],
+      "paragraphs": [
+        "人民有信仰宗教之自由。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=13"
+    },
+    {
+      "article_no": 14,
+      "article_label": "第 14 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有集會及結社之自由。"
+        }
+      ],
+      "text": "人民有集會及結社之自由。",
+      "text_lines": [
+        "人民有集會及結社之自由。"
+      ],
+      "paragraphs": [
+        "人民有集會及結社之自由。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=14"
+    },
+    {
+      "article_no": 15,
+      "article_label": "第 15 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民之生存權、工作權及財產權，應予保障。"
+        }
+      ],
+      "text": "人民之生存權、工作權及財產權，應予保障。",
+      "text_lines": [
+        "人民之生存權、工作權及財產權，應予保障。"
+      ],
+      "paragraphs": [
+        "人民之生存權、工作權及財產權，應予保障。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=15"
+    },
+    {
+      "article_no": 16,
+      "article_label": "第 16 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有請願、訴願及訴訟之權。"
+        }
+      ],
+      "text": "人民有請願、訴願及訴訟之權。",
+      "text_lines": [
+        "人民有請願、訴願及訴訟之權。"
+      ],
+      "paragraphs": [
+        "人民有請願、訴願及訴訟之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=16"
+    },
+    {
+      "article_no": 17,
+      "article_label": "第 17 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有選舉、罷免、創制及複決之權。"
+        }
+      ],
+      "text": "人民有選舉、罷免、創制及複決之權。",
+      "text_lines": [
+        "人民有選舉、罷免、創制及複決之權。"
+      ],
+      "paragraphs": [
+        "人民有選舉、罷免、創制及複決之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=17"
+    },
+    {
+      "article_no": 18,
+      "article_label": "第 18 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有應考試服公職之權。"
+        }
+      ],
+      "text": "人民有應考試服公職之權。",
+      "text_lines": [
+        "人民有應考試服公職之權。"
+      ],
+      "paragraphs": [
+        "人民有應考試服公職之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=18"
+    },
+    {
+      "article_no": 19,
+      "article_label": "第 19 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有依法律納稅之義務。"
+        }
+      ],
+      "text": "人民有依法律納稅之義務。",
+      "text_lines": [
+        "人民有依法律納稅之義務。"
+      ],
+      "paragraphs": [
+        "人民有依法律納稅之義務。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=19"
+    },
+    {
+      "article_no": 20,
+      "article_label": "第 20 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有依法律服兵役之義務。"
+        }
+      ],
+      "text": "人民有依法律服兵役之義務。",
+      "text_lines": [
+        "人民有依法律服兵役之義務。"
+      ],
+      "paragraphs": [
+        "人民有依法律服兵役之義務。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=20"
+    },
+    {
+      "article_no": 21,
+      "article_label": "第 21 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民有受國民教育之權利與義務。"
+        }
+      ],
+      "text": "人民有受國民教育之權利與義務。",
+      "text_lines": [
+        "人民有受國民教育之權利與義務。"
+      ],
+      "paragraphs": [
+        "人民有受國民教育之權利與義務。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=21"
+    },
+    {
+      "article_no": 22,
+      "article_label": "第 22 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "凡人民之其他自由及權利，不妨害社會秩序公共利益者，均受憲法之保障。"
+        }
+      ],
+      "text": "凡人民之其他自由及權利，不妨害社會秩序公共利益者，均受憲法之保障。",
+      "text_lines": [
+        "凡人民之其他自由及權利，不妨害社會秩序公共利益者，均受憲法之保障。"
+      ],
+      "paragraphs": [
+        "凡人民之其他自由及權利，不妨害社會秩序公共利益者，均受憲法之保障。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=22"
+    },
+    {
+      "article_no": 23,
+      "article_label": "第 23 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "以上各條列舉之自由權利，除為防止妨礙他人自由、避免緊急危難、維持社會秩序，或增進公共利益所必要者外，不得以法律限制之。"
+        }
+      ],
+      "text": "以上各條列舉之自由權利，除為防止妨礙他人自由、避免緊急危難、維持社會秩序，或增進公共利益所必要者外，不得以法律限制之。",
+      "text_lines": [
+        "以上各條列舉之自由權利，除為防止妨礙他人自由、避免緊急危難、維持社會秩序，或增進公共利益所必要者外，不得以法律限制之。"
+      ],
+      "paragraphs": [
+        "以上各條列舉之自由權利，除為防止妨礙他人自由、避免緊急危難、維持社會秩序，或增進公共利益所必要者外，不得以法律限制之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=23"
+    },
+    {
+      "article_no": 24,
+      "article_label": "第 24 條",
+      "chapter": "第 二 章 人民之權利義務",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。"
+        }
+      ],
+      "text": "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "text_lines": [
+        "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。"
+      ],
+      "paragraphs": [
+        "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=24"
+    },
+    {
+      "article_no": 25,
+      "article_label": "第 25 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會依本憲法之規定，代表全國國民行使政權。"
+        }
+      ],
+      "text": "國民大會依本憲法之規定，代表全國國民行使政權。",
+      "text_lines": [
+        "國民大會依本憲法之規定，代表全國國民行使政權。"
+      ],
+      "paragraphs": [
+        "國民大會依本憲法之規定，代表全國國民行使政權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=25"
+    },
+    {
+      "article_no": 26,
+      "article_label": "第 26 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會以左列代表組織之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　每縣市及其同等區域各選出代表一人，但其人口逾五十萬人者，每增加五十萬人，增選代表一人。縣市同等區域以法律定之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　蒙古選出代表，每盟四人，每特別旗一人。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　西藏選出代表，其名額以法律定之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四　各民族在邊疆地區選出代表，其名額以法律定之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五　僑居國外之國民選出代表，其名額以法律定之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "六　職業團體選出代表，其名額以法律定之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "七　婦女團體選出代表，其名額以法律定之。"
+        }
+      ],
+      "text": "國民大會以左列代表組織之：\n一　每縣市及其同等區域各選出代表一人，但其人口逾五十萬人者，每增加五十萬人，增選代表一人。縣市同等區域以法律定之。\n二　蒙古選出代表，每盟四人，每特別旗一人。\n三　西藏選出代表，其名額以法律定之。\n四　各民族在邊疆地區選出代表，其名額以法律定之。\n五　僑居國外之國民選出代表，其名額以法律定之。\n六　職業團體選出代表，其名額以法律定之。\n七　婦女團體選出代表，其名額以法律定之。",
+      "text_lines": [
+        "國民大會以左列代表組織之：",
+        "一　每縣市及其同等區域各選出代表一人，但其人口逾五十萬人者，每增加五十萬人，增選代表一人。縣市同等區域以法律定之。",
+        "二　蒙古選出代表，每盟四人，每特別旗一人。",
+        "三　西藏選出代表，其名額以法律定之。",
+        "四　各民族在邊疆地區選出代表，其名額以法律定之。",
+        "五　僑居國外之國民選出代表，其名額以法律定之。",
+        "六　職業團體選出代表，其名額以法律定之。",
+        "七　婦女團體選出代表，其名額以法律定之。"
+      ],
+      "paragraphs": [
+        "國民大會以左列代表組織之： 一 每縣市及其同等區域各選出代表一人，但其人口逾五十萬人者，每增加五十萬人，增選代表一人。縣市同等區域以法律定之。 二 蒙古選出代表，每盟四人，每特別旗一人。 三 西藏選出代表，其名額以法律定之。 四 各民族在邊疆地區選出代表，其名額以法律定之。 五 僑居國外之國民選出代表，其名額以法律定之。 六 職業團體選出代表，其名額以法律定之。 七 婦女團體選出代表，其名額以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=26"
+    },
+    {
+      "article_no": 27,
+      "article_label": "第 27 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "國民大會之職權如左："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　選舉總統、副總統。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　罷免總統、副總統。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　修改憲法。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四　複決立法院所提之憲法修正案。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "關於創制複決兩權，除前項第三、第四兩款規定外，俟全國有半數之縣市曾經行使創制複決兩項政權時，由國民大會制定辦法並行使之。"
+        }
+      ],
+      "text": "國民大會之職權如左：\n一　選舉總統、副總統。\n二　罷免總統、副總統。\n三　修改憲法。\n四　複決立法院所提之憲法修正案。\n關於創制複決兩權，除前項第三、第四兩款規定外，俟全國有半數之縣市曾經行使創制複決兩項政權時，由國民大會制定辦法並行使之。",
+      "text_lines": [
+        "國民大會之職權如左：",
+        "一　選舉總統、副總統。",
+        "二　罷免總統、副總統。",
+        "三　修改憲法。",
+        "四　複決立法院所提之憲法修正案。",
+        "關於創制複決兩權，除前項第三、第四兩款規定外，俟全國有半數之縣市曾經行使創制複決兩項政權時，由國民大會制定辦法並行使之。"
+      ],
+      "paragraphs": [
+        "國民大會之職權如左： 一 選舉總統、副總統。 二 罷免總統、副總統。 三 修改憲法。 四 複決立法院所提之憲法修正案。 關於創制複決兩權，除前項第三、第四兩款規定外，俟全國有半數之縣市曾經行使創制複決兩項政權時，由國民大會制定辦法並行使之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=27"
+    },
+    {
+      "article_no": 28,
+      "article_label": "第 28 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "國民大會代表每六年改選一次。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "每屆國民大會代表之任期，至次屆國民大會開會之日為止。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "現任官吏不得於其任所所在地之選舉區當選為國民大會代表。"
+        }
+      ],
+      "text": "國民大會代表每六年改選一次。\n每屆國民大會代表之任期，至次屆國民大會開會之日為止。\n現任官吏不得於其任所所在地之選舉區當選為國民大會代表。",
+      "text_lines": [
+        "國民大會代表每六年改選一次。",
+        "每屆國民大會代表之任期，至次屆國民大會開會之日為止。",
+        "現任官吏不得於其任所所在地之選舉區當選為國民大會代表。"
+      ],
+      "paragraphs": [
+        "國民大會代表每六年改選一次。 每屆國民大會代表之任期，至次屆國民大會開會之日為止。 現任官吏不得於其任所所在地之選舉區當選為國民大會代表。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=28"
+    },
+    {
+      "article_no": 29,
+      "article_label": "第 29 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會於每屆總統任滿前九十日集會，由總統召集之。"
+        }
+      ],
+      "text": "國民大會於每屆總統任滿前九十日集會，由總統召集之。",
+      "text_lines": [
+        "國民大會於每屆總統任滿前九十日集會，由總統召集之。"
+      ],
+      "paragraphs": [
+        "國民大會於每屆總統任滿前九十日集會，由總統召集之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=29"
+    },
+    {
+      "article_no": 30,
+      "article_label": "第 30 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "國民大會遇有左列情形之一時，召集臨時會："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　依本憲法第四十九條之規定，應補選總統、副總統時。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　依監察院之決議，對於總統、副總統提出彈劾案時。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　依立法院之決議，提出憲法修正案時。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四　國民大會代表五分之二以上請求召集時。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "國民大會臨時會，如依前項第一款或第二款應召集時，由立法院院長通告集會。依第三款或第四款應召集時，由總統召集之。"
+        }
+      ],
+      "text": "國民大會遇有左列情形之一時，召集臨時會：\n一　依本憲法第四十九條之規定，應補選總統、副總統時。\n二　依監察院之決議，對於總統、副總統提出彈劾案時。\n三　依立法院之決議，提出憲法修正案時。\n四　國民大會代表五分之二以上請求召集時。\n國民大會臨時會，如依前項第一款或第二款應召集時，由立法院院長通告集會。依第三款或第四款應召集時，由總統召集之。",
+      "text_lines": [
+        "國民大會遇有左列情形之一時，召集臨時會：",
+        "一　依本憲法第四十九條之規定，應補選總統、副總統時。",
+        "二　依監察院之決議，對於總統、副總統提出彈劾案時。",
+        "三　依立法院之決議，提出憲法修正案時。",
+        "四　國民大會代表五分之二以上請求召集時。",
+        "國民大會臨時會，如依前項第一款或第二款應召集時，由立法院院長通告集會。依第三款或第四款應召集時，由總統召集之。"
+      ],
+      "paragraphs": [
+        "國民大會遇有左列情形之一時，召集臨時會： 一 依本憲法第四十九條之規定，應補選總統、副總統時。 二 依監察院之決議，對於總統、副總統提出彈劾案時。 三 依立法院之決議，提出憲法修正案時。 四 國民大會代表五分之二以上請求召集時。 國民大會臨時會，如依前項第一款或第二款應召集時，由立法院院長通告集會。依第三款或第四款應召集時，由總統召集之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=30"
+    },
+    {
+      "article_no": 31,
+      "article_label": "第 31 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會之開會地點在中央政府所在地。"
+        }
+      ],
+      "text": "國民大會之開會地點在中央政府所在地。",
+      "text_lines": [
+        "國民大會之開會地點在中央政府所在地。"
+      ],
+      "paragraphs": [
+        "國民大會之開會地點在中央政府所在地。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=31"
+    },
+    {
+      "article_no": 32,
+      "article_label": "第 32 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會代表在會議時所為之言論及表決，對會外不負責任。"
+        }
+      ],
+      "text": "國民大會代表在會議時所為之言論及表決，對會外不負責任。",
+      "text_lines": [
+        "國民大會代表在會議時所為之言論及表決，對會外不負責任。"
+      ],
+      "paragraphs": [
+        "國民大會代表在會議時所為之言論及表決，對會外不負責任。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=32"
+    },
+    {
+      "article_no": 33,
+      "article_label": "第 33 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會代表，除現行犯外，在會期中，非經國民大會許可，不得逮捕或拘禁。"
+        }
+      ],
+      "text": "國民大會代表，除現行犯外，在會期中，非經國民大會許可，不得逮捕或拘禁。",
+      "text_lines": [
+        "國民大會代表，除現行犯外，在會期中，非經國民大會許可，不得逮捕或拘禁。"
+      ],
+      "paragraphs": [
+        "國民大會代表，除現行犯外，在會期中，非經國民大會許可，不得逮捕或拘禁。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=33"
+    },
+    {
+      "article_no": 34,
+      "article_label": "第 34 條",
+      "chapter": "第 三 章 國民大會",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民大會之組織，國民大會代表之選舉罷免，及國民大會行使職權之程序，以法律定之。"
+        }
+      ],
+      "text": "國民大會之組織，國民大會代表之選舉罷免，及國民大會行使職權之程序，以法律定之。",
+      "text_lines": [
+        "國民大會之組織，國民大會代表之選舉罷免，及國民大會行使職權之程序，以法律定之。"
+      ],
+      "paragraphs": [
+        "國民大會之組織，國民大會代表之選舉罷免，及國民大會行使職權之程序，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=34"
+    },
+    {
+      "article_no": 35,
+      "article_label": "第 35 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統為國家元首，對外代表中華民國。"
+        }
+      ],
+      "text": "總統為國家元首，對外代表中華民國。",
+      "text_lines": [
+        "總統為國家元首，對外代表中華民國。"
+      ],
+      "paragraphs": [
+        "總統為國家元首，對外代表中華民國。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=35"
+    },
+    {
+      "article_no": 36,
+      "article_label": "第 36 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統統率全國陸海空軍。"
+        }
+      ],
+      "text": "總統統率全國陸海空軍。",
+      "text_lines": [
+        "總統統率全國陸海空軍。"
+      ],
+      "paragraphs": [
+        "總統統率全國陸海空軍。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=36"
+    },
+    {
+      "article_no": 37,
+      "article_label": "第 37 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統依法公布法律，發布命令，須經行政院院長之副署，或行政院院長及有關部會首長之副署。"
+        }
+      ],
+      "text": "總統依法公布法律，發布命令，須經行政院院長之副署，或行政院院長及有關部會首長之副署。",
+      "text_lines": [
+        "總統依法公布法律，發布命令，須經行政院院長之副署，或行政院院長及有關部會首長之副署。"
+      ],
+      "paragraphs": [
+        "總統依法公布法律，發布命令，須經行政院院長之副署，或行政院院長及有關部會首長之副署。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=37"
+    },
+    {
+      "article_no": 38,
+      "article_label": "第 38 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統依本憲法之規定，行使締結條約及宣戰、媾和之權。"
+        }
+      ],
+      "text": "總統依本憲法之規定，行使締結條約及宣戰、媾和之權。",
+      "text_lines": [
+        "總統依本憲法之規定，行使締結條約及宣戰、媾和之權。"
+      ],
+      "paragraphs": [
+        "總統依本憲法之規定，行使締結條約及宣戰、媾和之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=38"
+    },
+    {
+      "article_no": 39,
+      "article_label": "第 39 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統依法宣布戒嚴，但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。"
+        }
+      ],
+      "text": "總統依法宣布戒嚴，但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。",
+      "text_lines": [
+        "總統依法宣布戒嚴，但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。"
+      ],
+      "paragraphs": [
+        "總統依法宣布戒嚴，但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=39"
+    },
+    {
+      "article_no": 40,
+      "article_label": "第 40 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統依法行使大赦、特赦、減刑及復權之權。"
+        }
+      ],
+      "text": "總統依法行使大赦、特赦、減刑及復權之權。",
+      "text_lines": [
+        "總統依法行使大赦、特赦、減刑及復權之權。"
+      ],
+      "paragraphs": [
+        "總統依法行使大赦、特赦、減刑及復權之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=40"
+    },
+    {
+      "article_no": 41,
+      "article_label": "第 41 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統依法任免文武官員。"
+        }
+      ],
+      "text": "總統依法任免文武官員。",
+      "text_lines": [
+        "總統依法任免文武官員。"
+      ],
+      "paragraphs": [
+        "總統依法任免文武官員。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=41"
+    },
+    {
+      "article_no": 42,
+      "article_label": "第 42 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統依法授與榮典。"
+        }
+      ],
+      "text": "總統依法授與榮典。",
+      "text_lines": [
+        "總統依法授與榮典。"
+      ],
+      "paragraphs": [
+        "總統依法授與榮典。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=42"
+    },
+    {
+      "article_no": 43,
+      "article_label": "第 43 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家遇有天然災害、癘疫，或國家財政經濟上有重大變故，須為急速處分時，總統於立法院休會期間，得經行政院會議之決議，依緊急命令法，發布緊急命令，為必要之處置。但須於發布命令後一個月內提交立法院追認。如立法院不同意時，該緊急命令立即失效。"
+        }
+      ],
+      "text": "國家遇有天然災害、癘疫，或國家財政經濟上有重大變故，須為急速處分時，總統於立法院休會期間，得經行政院會議之決議，依緊急命令法，發布緊急命令，為必要之處置。但須於發布命令後一個月內提交立法院追認。如立法院不同意時，該緊急命令立即失效。",
+      "text_lines": [
+        "國家遇有天然災害、癘疫，或國家財政經濟上有重大變故，須為急速處分時，總統於立法院休會期間，得經行政院會議之決議，依緊急命令法，發布緊急命令，為必要之處置。但須於發布命令後一個月內提交立法院追認。如立法院不同意時，該緊急命令立即失效。"
+      ],
+      "paragraphs": [
+        "國家遇有天然災害、癘疫，或國家財政經濟上有重大變故，須為急速處分時，總統於立法院休會期間，得經行政院會議之決議，依緊急命令法，發布緊急命令，為必要之處置。但須於發布命令後一個月內提交立法院追認。如立法院不同意時，該緊急命令立即失效。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=43"
+    },
+    {
+      "article_no": 44,
+      "article_label": "第 44 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統對於院與院間之爭執，除本憲法有規定者外，得召集有關各院院長會商解決之。"
+        }
+      ],
+      "text": "總統對於院與院間之爭執，除本憲法有規定者外，得召集有關各院院長會商解決之。",
+      "text_lines": [
+        "總統對於院與院間之爭執，除本憲法有規定者外，得召集有關各院院長會商解決之。"
+      ],
+      "paragraphs": [
+        "總統對於院與院間之爭執，除本憲法有規定者外，得召集有關各院院長會商解決之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=44"
+    },
+    {
+      "article_no": 45,
+      "article_label": "第 45 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國國民年滿四十歲者，得被選為總統、副總統。"
+        }
+      ],
+      "text": "中華民國國民年滿四十歲者，得被選為總統、副總統。",
+      "text_lines": [
+        "中華民國國民年滿四十歲者，得被選為總統、副總統。"
+      ],
+      "paragraphs": [
+        "中華民國國民年滿四十歲者，得被選為總統、副總統。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=45"
+    },
+    {
+      "article_no": 46,
+      "article_label": "第 46 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統、副總統之選舉，以法律定之。"
+        }
+      ],
+      "text": "總統、副總統之選舉，以法律定之。",
+      "text_lines": [
+        "總統、副總統之選舉，以法律定之。"
+      ],
+      "paragraphs": [
+        "總統、副總統之選舉，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=46"
+    },
+    {
+      "article_no": 47,
+      "article_label": "第 47 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統、副總統之任期為六年，連選得連任一次。"
+        }
+      ],
+      "text": "總統、副總統之任期為六年，連選得連任一次。",
+      "text_lines": [
+        "總統、副總統之任期為六年，連選得連任一次。"
+      ],
+      "paragraphs": [
+        "總統、副總統之任期為六年，連選得連任一次。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=47"
+    },
+    {
+      "article_no": 48,
+      "article_label": "第 48 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統應於就職時宣誓，誓詞如左：「余謹以至誠，向全國人民宣誓，余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託。如違誓言，願受國家嚴厲之制裁。謹誓」"
+        }
+      ],
+      "text": "總統應於就職時宣誓，誓詞如左：「余謹以至誠，向全國人民宣誓，余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託。如違誓言，願受國家嚴厲之制裁。謹誓」",
+      "text_lines": [
+        "總統應於就職時宣誓，誓詞如左：「余謹以至誠，向全國人民宣誓，余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託。如違誓言，願受國家嚴厲之制裁。謹誓」"
+      ],
+      "paragraphs": [
+        "總統應於就職時宣誓，誓詞如左：「余謹以至誠，向全國人民宣誓，余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託。如違誓言，願受國家嚴厲之制裁。謹誓」"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=48"
+    },
+    {
+      "article_no": 49,
+      "article_label": "第 49 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統缺位時，由副總統繼任，至總統任期屆滿為止。總統、副總統均缺位時，由行政院院長代行其職權，並依本憲法第三十條之規定，召集國民大會臨時會，補選總統、副總統，其任期以補足原任總統未滿之任期為止。總統因故不能視事時，由副總統代行其職權。總統、副總統均不能視事時，由行政院院長代行其職權。"
+        }
+      ],
+      "text": "總統缺位時，由副總統繼任，至總統任期屆滿為止。總統、副總統均缺位時，由行政院院長代行其職權，並依本憲法第三十條之規定，召集國民大會臨時會，補選總統、副總統，其任期以補足原任總統未滿之任期為止。總統因故不能視事時，由副總統代行其職權。總統、副總統均不能視事時，由行政院院長代行其職權。",
+      "text_lines": [
+        "總統缺位時，由副總統繼任，至總統任期屆滿為止。總統、副總統均缺位時，由行政院院長代行其職權，並依本憲法第三十條之規定，召集國民大會臨時會，補選總統、副總統，其任期以補足原任總統未滿之任期為止。總統因故不能視事時，由副總統代行其職權。總統、副總統均不能視事時，由行政院院長代行其職權。"
+      ],
+      "paragraphs": [
+        "總統缺位時，由副總統繼任，至總統任期屆滿為止。總統、副總統均缺位時，由行政院院長代行其職權，並依本憲法第三十條之規定，召集國民大會臨時會，補選總統、副總統，其任期以補足原任總統未滿之任期為止。總統因故不能視事時，由副總統代行其職權。總統、副總統均不能視事時，由行政院院長代行其職權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=49"
+    },
+    {
+      "article_no": 50,
+      "article_label": "第 50 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統於任滿之日解職，如屆期次任總統尚未選出，或選出後總統、副總統均未就職時，由行政院院長代行總統職權。"
+        }
+      ],
+      "text": "總統於任滿之日解職，如屆期次任總統尚未選出，或選出後總統、副總統均未就職時，由行政院院長代行總統職權。",
+      "text_lines": [
+        "總統於任滿之日解職，如屆期次任總統尚未選出，或選出後總統、副總統均未就職時，由行政院院長代行總統職權。"
+      ],
+      "paragraphs": [
+        "總統於任滿之日解職，如屆期次任總統尚未選出，或選出後總統、副總統均未就職時，由行政院院長代行總統職權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=50"
+    },
+    {
+      "article_no": 51,
+      "article_label": "第 51 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院院長代行總統職權時，其期限不得逾三個月。"
+        }
+      ],
+      "text": "行政院院長代行總統職權時，其期限不得逾三個月。",
+      "text_lines": [
+        "行政院院長代行總統職權時，其期限不得逾三個月。"
+      ],
+      "paragraphs": [
+        "行政院院長代行總統職權時，其期限不得逾三個月。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=51"
+    },
+    {
+      "article_no": 52,
+      "article_label": "第 52 條",
+      "chapter": "第 四 章 總統",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。"
+        }
+      ],
+      "text": "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。",
+      "text_lines": [
+        "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。"
+      ],
+      "paragraphs": [
+        "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=52"
+    },
+    {
+      "article_no": 53,
+      "article_label": "第 53 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院為國家最高行政機關。"
+        }
+      ],
+      "text": "行政院為國家最高行政機關。",
+      "text_lines": [
+        "行政院為國家最高行政機關。"
+      ],
+      "paragraphs": [
+        "行政院為國家最高行政機關。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=53"
+    },
+    {
+      "article_no": 54,
+      "article_label": "第 54 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院設院長、副院長各一人，各部會首長若干人，及不管部會之政務委員若干人。"
+        }
+      ],
+      "text": "行政院設院長、副院長各一人，各部會首長若干人，及不管部會之政務委員若干人。",
+      "text_lines": [
+        "行政院設院長、副院長各一人，各部會首長若干人，及不管部會之政務委員若干人。"
+      ],
+      "paragraphs": [
+        "行政院設院長、副院長各一人，各部會首長若干人，及不管部會之政務委員若干人。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=54"
+    },
+    {
+      "article_no": 55,
+      "article_label": "第 55 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "行政院院長由總統提名，經立法院同意任命之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "立法院休會期間，行政院院長辭職或出缺時，由行政院副院長代理其職務，但總統須於四十日內咨請立法院召集會議，提出行政院院長人選，徵求同意。行政院院長職務，在總統所提行政院院長人選未經立法院同意前，由行政院副院長暫行代理。"
+        }
+      ],
+      "text": "行政院院長由總統提名，經立法院同意任命之。\n立法院休會期間，行政院院長辭職或出缺時，由行政院副院長代理其職務，但總統須於四十日內咨請立法院召集會議，提出行政院院長人選，徵求同意。行政院院長職務，在總統所提行政院院長人選未經立法院同意前，由行政院副院長暫行代理。",
+      "text_lines": [
+        "行政院院長由總統提名，經立法院同意任命之。",
+        "立法院休會期間，行政院院長辭職或出缺時，由行政院副院長代理其職務，但總統須於四十日內咨請立法院召集會議，提出行政院院長人選，徵求同意。行政院院長職務，在總統所提行政院院長人選未經立法院同意前，由行政院副院長暫行代理。"
+      ],
+      "paragraphs": [
+        "行政院院長由總統提名，經立法院同意任命之。 立法院休會期間，行政院院長辭職或出缺時，由行政院副院長代理其職務，但總統須於四十日內咨請立法院召集會議，提出行政院院長人選，徵求同意。行政院院長職務，在總統所提行政院院長人選未經立法院同意前，由行政院副院長暫行代理。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=55"
+    },
+    {
+      "article_no": 56,
+      "article_label": "第 56 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院副院長，各部會首長及不管部會之政務委員，由行政院院長提請總統任命之。"
+        }
+      ],
+      "text": "行政院副院長，各部會首長及不管部會之政務委員，由行政院院長提請總統任命之。",
+      "text_lines": [
+        "行政院副院長，各部會首長及不管部會之政務委員，由行政院院長提請總統任命之。"
+      ],
+      "paragraphs": [
+        "行政院副院長，各部會首長及不管部會之政務委員，由行政院院長提請總統任命之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=56"
+    },
+    {
+      "article_no": 57,
+      "article_label": "第 57 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院依左列規定，對立法院負責："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 行政院有向立法院提出施政方針及施政報告之責。立法委員在開會時，有向行政院院長及行政院各部會首長質詢之權。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 立法院對於行政院之重要政策不贊同時，得以決議移請行政院變更之。行政院對於立法院之決議，得經總統之核可，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原決議，行政院院長應即接受該決議或辭職。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三 行政院對於立法院決議之法律案、預算案、條約案，如認為有窒礙難行時，得經總統之核可，於該決議案送達行政院十日內，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原案，行政院院長應即接受該決議或辭職。"
+        }
+      ],
+      "text": "行政院依左列規定，對立法院負責：\n一 行政院有向立法院提出施政方針及施政報告之責。立法委員在開會時，有向行政院院長及行政院各部會首長質詢之權。\n二 立法院對於行政院之重要政策不贊同時，得以決議移請行政院變更之。行政院對於立法院之決議，得經總統之核可，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原決議，行政院院長應即接受該決議或辭職。\n三 行政院對於立法院決議之法律案、預算案、條約案，如認為有窒礙難行時，得經總統之核可，於該決議案送達行政院十日內，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原案，行政院院長應即接受該決議或辭職。",
+      "text_lines": [
+        "行政院依左列規定，對立法院負責：",
+        "一 行政院有向立法院提出施政方針及施政報告之責。立法委員在開會時，有向行政院院長及行政院各部會首長質詢之權。",
+        "二 立法院對於行政院之重要政策不贊同時，得以決議移請行政院變更之。行政院對於立法院之決議，得經總統之核可，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原決議，行政院院長應即接受該決議或辭職。",
+        "三 行政院對於立法院決議之法律案、預算案、條約案，如認為有窒礙難行時，得經總統之核可，於該決議案送達行政院十日內，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原案，行政院院長應即接受該決議或辭職。"
+      ],
+      "paragraphs": [
+        "行政院依左列規定，對立法院負責： 一 行政院有向立法院提出施政方針及施政報告之責。立法委員在開會時，有向行政院院長及行政院各部會首長質詢之權。 二 立法院對於行政院之重要政策不贊同時，得以決議移請行政院變更之。行政院對於立法院之決議，得經總統之核可，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原決議，行政院院長應即接受該決議或辭職。 三 行政院對於立法院決議之法律案、預算案、條約案，如認為有窒礙難行時，得經總統之核可，於該決議案送達行政院十日內，移請立法院覆議。覆議時，如經出席立法委員三分之二維持原案，行政院院長應即接受該決議或辭職。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=57"
+    },
+    {
+      "article_no": 58,
+      "article_label": "第 58 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "行政院設行政院會議，由行政院院長、副院長、各部會首長及不管部會之政務委員組織之，以院長為主席。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "行政院院長、各部會首長，須將應行提出於立法院之法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及其他重要事項，或涉及各部會共同關係之事項，提出於行政院會議議決之。"
+        }
+      ],
+      "text": "行政院設行政院會議，由行政院院長、副院長、各部會首長及不管部會之政務委員組織之，以院長為主席。\n行政院院長、各部會首長，須將應行提出於立法院之法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及其他重要事項，或涉及各部會共同關係之事項，提出於行政院會議議決之。",
+      "text_lines": [
+        "行政院設行政院會議，由行政院院長、副院長、各部會首長及不管部會之政務委員組織之，以院長為主席。",
+        "行政院院長、各部會首長，須將應行提出於立法院之法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及其他重要事項，或涉及各部會共同關係之事項，提出於行政院會議議決之。"
+      ],
+      "paragraphs": [
+        "行政院設行政院會議，由行政院院長、副院長、各部會首長及不管部會之政務委員組織之，以院長為主席。 行政院院長、各部會首長，須將應行提出於立法院之法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及其他重要事項，或涉及各部會共同關係之事項，提出於行政院會議議決之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=58"
+    },
+    {
+      "article_no": 59,
+      "article_label": "第 59 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院於會計年度開始三個月前，應將下年度預算案提出於立法院。"
+        }
+      ],
+      "text": "行政院於會計年度開始三個月前，應將下年度預算案提出於立法院。",
+      "text_lines": [
+        "行政院於會計年度開始三個月前，應將下年度預算案提出於立法院。"
+      ],
+      "paragraphs": [
+        "行政院於會計年度開始三個月前，應將下年度預算案提出於立法院。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=59"
+    },
+    {
+      "article_no": 60,
+      "article_label": "第 60 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院於會計年度結束後四個月內，應提出決算於監察院。"
+        }
+      ],
+      "text": "行政院於會計年度結束後四個月內，應提出決算於監察院。",
+      "text_lines": [
+        "行政院於會計年度結束後四個月內，應提出決算於監察院。"
+      ],
+      "paragraphs": [
+        "行政院於會計年度結束後四個月內，應提出決算於監察院。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=60"
+    },
+    {
+      "article_no": 61,
+      "article_label": "第 61 條",
+      "chapter": "第 五 章 行政",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "行政院之組織，以法律定之。"
+        }
+      ],
+      "text": "行政院之組織，以法律定之。",
+      "text_lines": [
+        "行政院之組織，以法律定之。"
+      ],
+      "paragraphs": [
+        "行政院之組織，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=61"
+    },
+    {
+      "article_no": 62,
+      "article_label": "第 62 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院為國家最高立法機關，由人民選舉之立法委員組織之，代表人民行使立法權。"
+        }
+      ],
+      "text": "立法院為國家最高立法機關，由人民選舉之立法委員組織之，代表人民行使立法權。",
+      "text_lines": [
+        "立法院為國家最高立法機關，由人民選舉之立法委員組織之，代表人民行使立法權。"
+      ],
+      "paragraphs": [
+        "立法院為國家最高立法機關，由人民選舉之立法委員組織之，代表人民行使立法權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=62"
+    },
+    {
+      "article_no": 63,
+      "article_label": "第 63 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權。"
+        }
+      ],
+      "text": "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權。",
+      "text_lines": [
+        "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權。"
+      ],
+      "paragraphs": [
+        "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案及國家其他重要事項之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=63"
+    },
+    {
+      "article_no": 64,
+      "article_label": "第 64 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "立法院立法委員，依左列規定選出之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　各省、各直轄市選出者，其人口在三百萬以下者五人，其人口超過三百萬者，每滿一百萬人增選一人。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　蒙古各盟旗選出者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　西藏選出者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四　各民族在邊疆地區選出者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五　僑居國外之國民選出者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "六　職業團體選出者。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "立法委員之選舉及前項第二款至第六款立法委員名額之分配，以法律定之。婦女在第一項各款之名額，以法律定之。"
+        }
+      ],
+      "text": "立法院立法委員，依左列規定選出之：\n一　各省、各直轄市選出者，其人口在三百萬以下者五人，其人口超過三百萬者，每滿一百萬人增選一人。\n二　蒙古各盟旗選出者。\n三　西藏選出者。\n四　各民族在邊疆地區選出者。\n五　僑居國外之國民選出者。\n六　職業團體選出者。\n立法委員之選舉及前項第二款至第六款立法委員名額之分配，以法律定之。婦女在第一項各款之名額，以法律定之。",
+      "text_lines": [
+        "立法院立法委員，依左列規定選出之：",
+        "一　各省、各直轄市選出者，其人口在三百萬以下者五人，其人口超過三百萬者，每滿一百萬人增選一人。",
+        "二　蒙古各盟旗選出者。",
+        "三　西藏選出者。",
+        "四　各民族在邊疆地區選出者。",
+        "五　僑居國外之國民選出者。",
+        "六　職業團體選出者。",
+        "立法委員之選舉及前項第二款至第六款立法委員名額之分配，以法律定之。婦女在第一項各款之名額，以法律定之。"
+      ],
+      "paragraphs": [
+        "立法院立法委員，依左列規定選出之： 一 各省、各直轄市選出者，其人口在三百萬以下者五人，其人口超過三百萬者，每滿一百萬人增選一人。 二 蒙古各盟旗選出者。 三 西藏選出者。 四 各民族在邊疆地區選出者。 五 僑居國外之國民選出者。 六 職業團體選出者。 立法委員之選舉及前項第二款至第六款立法委員名額之分配，以法律定之。婦女在第一項各款之名額，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=64"
+    },
+    {
+      "article_no": 65,
+      "article_label": "第 65 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法委員之任期為三年，連選得連任，其選舉於每屆任滿前三個月內完成之。"
+        }
+      ],
+      "text": "立法委員之任期為三年，連選得連任，其選舉於每屆任滿前三個月內完成之。",
+      "text_lines": [
+        "立法委員之任期為三年，連選得連任，其選舉於每屆任滿前三個月內完成之。"
+      ],
+      "paragraphs": [
+        "立法委員之任期為三年，連選得連任，其選舉於每屆任滿前三個月內完成之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=65"
+    },
+    {
+      "article_no": 66,
+      "article_label": "第 66 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院設院長、副院長各一人，由立法委員互選之。"
+        }
+      ],
+      "text": "立法院設院長、副院長各一人，由立法委員互選之。",
+      "text_lines": [
+        "立法院設院長、副院長各一人，由立法委員互選之。"
+      ],
+      "paragraphs": [
+        "立法院設院長、副院長各一人，由立法委員互選之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=66"
+    },
+    {
+      "article_no": 67,
+      "article_label": "第 67 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "立法院得設各種委員會。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "各種委員會得邀請政府人員及社會上有關係人員到會備詢。"
+        }
+      ],
+      "text": "立法院得設各種委員會。\n各種委員會得邀請政府人員及社會上有關係人員到會備詢。",
+      "text_lines": [
+        "立法院得設各種委員會。",
+        "各種委員會得邀請政府人員及社會上有關係人員到會備詢。"
+      ],
+      "paragraphs": [
+        "立法院得設各種委員會。 各種委員會得邀請政府人員及社會上有關係人員到會備詢。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=67"
+    },
+    {
+      "article_no": 68,
+      "article_label": "第 68 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院會期，每年兩次，自行集會，第一次自二月至五月底，第二次自九月至十二月底，必要時得延長之。"
+        }
+      ],
+      "text": "立法院會期，每年兩次，自行集會，第一次自二月至五月底，第二次自九月至十二月底，必要時得延長之。",
+      "text_lines": [
+        "立法院會期，每年兩次，自行集會，第一次自二月至五月底，第二次自九月至十二月底，必要時得延長之。"
+      ],
+      "paragraphs": [
+        "立法院會期，每年兩次，自行集會，第一次自二月至五月底，第二次自九月至十二月底，必要時得延長之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=68"
+    },
+    {
+      "article_no": 69,
+      "article_label": "第 69 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院遇有左列情事之一時，得開臨時會："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 總統之咨請。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 立法委員四分之一以上之請求。"
+        }
+      ],
+      "text": "立法院遇有左列情事之一時，得開臨時會：\n一 總統之咨請。\n二 立法委員四分之一以上之請求。",
+      "text_lines": [
+        "立法院遇有左列情事之一時，得開臨時會：",
+        "一 總統之咨請。",
+        "二 立法委員四分之一以上之請求。"
+      ],
+      "paragraphs": [
+        "立法院遇有左列情事之一時，得開臨時會： 一 總統之咨請。 二 立法委員四分之一以上之請求。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=69"
+    },
+    {
+      "article_no": 70,
+      "article_label": "第 70 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院對於行政院所提預算案，不得為增加支出之提議。"
+        }
+      ],
+      "text": "立法院對於行政院所提預算案，不得為增加支出之提議。",
+      "text_lines": [
+        "立法院對於行政院所提預算案，不得為增加支出之提議。"
+      ],
+      "paragraphs": [
+        "立法院對於行政院所提預算案，不得為增加支出之提議。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=70"
+    },
+    {
+      "article_no": 71,
+      "article_label": "第 71 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院開會時，關係院院長及各部會首長得列席陳述意見。"
+        }
+      ],
+      "text": "立法院開會時，關係院院長及各部會首長得列席陳述意見。",
+      "text_lines": [
+        "立法院開會時，關係院院長及各部會首長得列席陳述意見。"
+      ],
+      "paragraphs": [
+        "立法院開會時，關係院院長及各部會首長得列席陳述意見。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=71"
+    },
+    {
+      "article_no": 72,
+      "article_label": "第 72 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院法律案通過後，移送總統及行政院，總統應於收到後十日內公布之，但總統得依照本憲法第五十七條之規定辦理。"
+        }
+      ],
+      "text": "立法院法律案通過後，移送總統及行政院，總統應於收到後十日內公布之，但總統得依照本憲法第五十七條之規定辦理。",
+      "text_lines": [
+        "立法院法律案通過後，移送總統及行政院，總統應於收到後十日內公布之，但總統得依照本憲法第五十七條之規定辦理。"
+      ],
+      "paragraphs": [
+        "立法院法律案通過後，移送總統及行政院，總統應於收到後十日內公布之，但總統得依照本憲法第五十七條之規定辦理。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=72"
+    },
+    {
+      "article_no": 73,
+      "article_label": "第 73 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法委員在院內所為之言論及表決，對院外不負責任。"
+        }
+      ],
+      "text": "立法委員在院內所為之言論及表決，對院外不負責任。",
+      "text_lines": [
+        "立法委員在院內所為之言論及表決，對院外不負責任。"
+      ],
+      "paragraphs": [
+        "立法委員在院內所為之言論及表決，對院外不負責任。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=73"
+    },
+    {
+      "article_no": 74,
+      "article_label": "第 74 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法委員，除現行犯外，非經立法院許可，不得逮捕或拘禁。"
+        }
+      ],
+      "text": "立法委員，除現行犯外，非經立法院許可，不得逮捕或拘禁。",
+      "text_lines": [
+        "立法委員，除現行犯外，非經立法院許可，不得逮捕或拘禁。"
+      ],
+      "paragraphs": [
+        "立法委員，除現行犯外，非經立法院許可，不得逮捕或拘禁。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=74"
+    },
+    {
+      "article_no": 75,
+      "article_label": "第 75 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法委員不得兼任官吏。"
+        }
+      ],
+      "text": "立法委員不得兼任官吏。",
+      "text_lines": [
+        "立法委員不得兼任官吏。"
+      ],
+      "paragraphs": [
+        "立法委員不得兼任官吏。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=75"
+    },
+    {
+      "article_no": 76,
+      "article_label": "第 76 條",
+      "chapter": "第 六 章 立法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "立法院之組織，以法律定之。"
+        }
+      ],
+      "text": "立法院之組織，以法律定之。",
+      "text_lines": [
+        "立法院之組織，以法律定之。"
+      ],
+      "paragraphs": [
+        "立法院之組織，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=76"
+    },
+    {
+      "article_no": 77,
+      "article_label": "第 77 條",
+      "chapter": "第 七 章 司法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "司法院為國家最高司法機關，掌理民事、刑事、行政訴訟之審判及公務員之懲戒。"
+        }
+      ],
+      "text": "司法院為國家最高司法機關，掌理民事、刑事、行政訴訟之審判及公務員之懲戒。",
+      "text_lines": [
+        "司法院為國家最高司法機關，掌理民事、刑事、行政訴訟之審判及公務員之懲戒。"
+      ],
+      "paragraphs": [
+        "司法院為國家最高司法機關，掌理民事、刑事、行政訴訟之審判及公務員之懲戒。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=77"
+    },
+    {
+      "article_no": 78,
+      "article_label": "第 78 條",
+      "chapter": "第 七 章 司法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "司法院解釋憲法，並有統一解釋法律及命令之權。"
+        }
+      ],
+      "text": "司法院解釋憲法，並有統一解釋法律及命令之權。",
+      "text_lines": [
+        "司法院解釋憲法，並有統一解釋法律及命令之權。"
+      ],
+      "paragraphs": [
+        "司法院解釋憲法，並有統一解釋法律及命令之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=78"
+    },
+    {
+      "article_no": 79,
+      "article_label": "第 79 條",
+      "chapter": "第 七 章 司法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "司法院設院長、副院長各一人，由總統提名，經監察院同意任命之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "司法院設大法官若干人，掌理本憲法第七十八條規定事項，由總統提名，經監察院同意任命之。"
+        }
+      ],
+      "text": "司法院設院長、副院長各一人，由總統提名，經監察院同意任命之。\n司法院設大法官若干人，掌理本憲法第七十八條規定事項，由總統提名，經監察院同意任命之。",
+      "text_lines": [
+        "司法院設院長、副院長各一人，由總統提名，經監察院同意任命之。",
+        "司法院設大法官若干人，掌理本憲法第七十八條規定事項，由總統提名，經監察院同意任命之。"
+      ],
+      "paragraphs": [
+        "司法院設院長、副院長各一人，由總統提名，經監察院同意任命之。 司法院設大法官若干人，掌理本憲法第七十八條規定事項，由總統提名，經監察院同意任命之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=79"
+    },
+    {
+      "article_no": 80,
+      "article_label": "第 80 條",
+      "chapter": "第 七 章 司法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。"
+        }
+      ],
+      "text": "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。",
+      "text_lines": [
+        "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。"
+      ],
+      "paragraphs": [
+        "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=80"
+    },
+    {
+      "article_no": 81,
+      "article_label": "第 81 條",
+      "chapter": "第 七 章 司法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "法官為終身職，非受刑事或懲戒處分，或禁治產之宣告，不得免職。非依法律，不得停職、轉任或減俸。"
+        }
+      ],
+      "text": "法官為終身職，非受刑事或懲戒處分，或禁治產之宣告，不得免職。非依法律，不得停職、轉任或減俸。",
+      "text_lines": [
+        "法官為終身職，非受刑事或懲戒處分，或禁治產之宣告，不得免職。非依法律，不得停職、轉任或減俸。"
+      ],
+      "paragraphs": [
+        "法官為終身職，非受刑事或懲戒處分，或禁治產之宣告，不得免職。非依法律，不得停職、轉任或減俸。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=81"
+    },
+    {
+      "article_no": 82,
+      "article_label": "第 82 條",
+      "chapter": "第 七 章 司法",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "司法院及各級法院之組織，以法律定之。"
+        }
+      ],
+      "text": "司法院及各級法院之組織，以法律定之。",
+      "text_lines": [
+        "司法院及各級法院之組織，以法律定之。"
+      ],
+      "paragraphs": [
+        "司法院及各級法院之組織，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=82"
+    },
+    {
+      "article_no": 83,
+      "article_label": "第 83 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "考試院為國家最高考試機關，掌理考試、任用、銓敘、考績、級俸、陞遷、保障、褒獎、撫卹、退休、養老等事項。"
+        }
+      ],
+      "text": "考試院為國家最高考試機關，掌理考試、任用、銓敘、考績、級俸、陞遷、保障、褒獎、撫卹、退休、養老等事項。",
+      "text_lines": [
+        "考試院為國家最高考試機關，掌理考試、任用、銓敘、考績、級俸、陞遷、保障、褒獎、撫卹、退休、養老等事項。"
+      ],
+      "paragraphs": [
+        "考試院為國家最高考試機關，掌理考試、任用、銓敘、考績、級俸、陞遷、保障、褒獎、撫卹、退休、養老等事項。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=83"
+    },
+    {
+      "article_no": 84,
+      "article_label": "第 84 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "考試院設院長、副院長各一人，考試委員若干人，由總統提名，經監察院同意任命之。"
+        }
+      ],
+      "text": "考試院設院長、副院長各一人，考試委員若干人，由總統提名，經監察院同意任命之。",
+      "text_lines": [
+        "考試院設院長、副院長各一人，考試委員若干人，由總統提名，經監察院同意任命之。"
+      ],
+      "paragraphs": [
+        "考試院設院長、副院長各一人，考試委員若干人，由總統提名，經監察院同意任命之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=84"
+    },
+    {
+      "article_no": 85,
+      "article_label": "第 85 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "公務人員之選拔，應實行公開競爭之考試制度，並應按省區分別規定名額，分區舉行考試。非經考試及格者，不得任用。"
+        }
+      ],
+      "text": "公務人員之選拔，應實行公開競爭之考試制度，並應按省區分別規定名額，分區舉行考試。非經考試及格者，不得任用。",
+      "text_lines": [
+        "公務人員之選拔，應實行公開競爭之考試制度，並應按省區分別規定名額，分區舉行考試。非經考試及格者，不得任用。"
+      ],
+      "paragraphs": [
+        "公務人員之選拔，應實行公開競爭之考試制度，並應按省區分別規定名額，分區舉行考試。非經考試及格者，不得任用。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=85"
+    },
+    {
+      "article_no": 86,
+      "article_label": "第 86 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "左列資格，應經考試院依法考選銓定之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 公務人員任用資格。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 專門職業及技術人員執業資格。"
+        }
+      ],
+      "text": "左列資格，應經考試院依法考選銓定之：\n一 公務人員任用資格。\n二 專門職業及技術人員執業資格。",
+      "text_lines": [
+        "左列資格，應經考試院依法考選銓定之：",
+        "一 公務人員任用資格。",
+        "二 專門職業及技術人員執業資格。"
+      ],
+      "paragraphs": [
+        "左列資格，應經考試院依法考選銓定之： 一 公務人員任用資格。 二 專門職業及技術人員執業資格。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=86"
+    },
+    {
+      "article_no": 87,
+      "article_label": "第 87 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "考試院關於所掌事項，得向立法院提出法律案。"
+        }
+      ],
+      "text": "考試院關於所掌事項，得向立法院提出法律案。",
+      "text_lines": [
+        "考試院關於所掌事項，得向立法院提出法律案。"
+      ],
+      "paragraphs": [
+        "考試院關於所掌事項，得向立法院提出法律案。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=87"
+    },
+    {
+      "article_no": 88,
+      "article_label": "第 88 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "考試委員須超出黨派以外，依據法律獨立行使職權。"
+        }
+      ],
+      "text": "考試委員須超出黨派以外，依據法律獨立行使職權。",
+      "text_lines": [
+        "考試委員須超出黨派以外，依據法律獨立行使職權。"
+      ],
+      "paragraphs": [
+        "考試委員須超出黨派以外，依據法律獨立行使職權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=88"
+    },
+    {
+      "article_no": 89,
+      "article_label": "第 89 條",
+      "chapter": "第 八 章 考試",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "考試院之組織，以法律定之。"
+        }
+      ],
+      "text": "考試院之組織，以法律定之。",
+      "text_lines": [
+        "考試院之組織，以法律定之。"
+      ],
+      "paragraphs": [
+        "考試院之組織，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=89"
+    },
+    {
+      "article_no": 90,
+      "article_label": "第 90 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院為國家最高監察機關，行使同意、彈劾、糾舉及審計權。"
+        }
+      ],
+      "text": "監察院為國家最高監察機關，行使同意、彈劾、糾舉及審計權。",
+      "text_lines": [
+        "監察院為國家最高監察機關，行使同意、彈劾、糾舉及審計權。"
+      ],
+      "paragraphs": [
+        "監察院為國家最高監察機關，行使同意、彈劾、糾舉及審計權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=90"
+    },
+    {
+      "article_no": 91,
+      "article_label": "第 91 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院設監察委員，由各省市議會，蒙古西藏地方議會及華僑團體選舉之。其名額分配，依左列之規定："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 每省五人。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 每直轄市二人。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三 蒙古各盟旗共八人。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四 西藏八人。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五 僑居國外之國民八人。"
+        }
+      ],
+      "text": "監察院設監察委員，由各省市議會，蒙古西藏地方議會及華僑團體選舉之。其名額分配，依左列之規定：\n一 每省五人。\n二 每直轄市二人。\n三 蒙古各盟旗共八人。\n四 西藏八人。\n五 僑居國外之國民八人。",
+      "text_lines": [
+        "監察院設監察委員，由各省市議會，蒙古西藏地方議會及華僑團體選舉之。其名額分配，依左列之規定：",
+        "一 每省五人。",
+        "二 每直轄市二人。",
+        "三 蒙古各盟旗共八人。",
+        "四 西藏八人。",
+        "五 僑居國外之國民八人。"
+      ],
+      "paragraphs": [
+        "監察院設監察委員，由各省市議會，蒙古西藏地方議會及華僑團體選舉之。其名額分配，依左列之規定： 一 每省五人。 二 每直轄市二人。 三 蒙古各盟旗共八人。 四 西藏八人。 五 僑居國外之國民八人。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=91"
+    },
+    {
+      "article_no": 92,
+      "article_label": "第 92 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院設院長、副院長各一人，由監察委員互選之。"
+        }
+      ],
+      "text": "監察院設院長、副院長各一人，由監察委員互選之。",
+      "text_lines": [
+        "監察院設院長、副院長各一人，由監察委員互選之。"
+      ],
+      "paragraphs": [
+        "監察院設院長、副院長各一人，由監察委員互選之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=92"
+    },
+    {
+      "article_no": 93,
+      "article_label": "第 93 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察委員之任期為六年，連選得連任。"
+        }
+      ],
+      "text": "監察委員之任期為六年，連選得連任。",
+      "text_lines": [
+        "監察委員之任期為六年，連選得連任。"
+      ],
+      "paragraphs": [
+        "監察委員之任期為六年，連選得連任。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=93"
+    },
+    {
+      "article_no": 94,
+      "article_label": "第 94 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院依本憲法行使同意權時，由出席委員過半數之議決行之。"
+        }
+      ],
+      "text": "監察院依本憲法行使同意權時，由出席委員過半數之議決行之。",
+      "text_lines": [
+        "監察院依本憲法行使同意權時，由出席委員過半數之議決行之。"
+      ],
+      "paragraphs": [
+        "監察院依本憲法行使同意權時，由出席委員過半數之議決行之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=94"
+    },
+    {
+      "article_no": 95,
+      "article_label": "第 95 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院為行使監察權，得向行政院及其各部會調閱其所發布之命令及各種有關文件。"
+        }
+      ],
+      "text": "監察院為行使監察權，得向行政院及其各部會調閱其所發布之命令及各種有關文件。",
+      "text_lines": [
+        "監察院為行使監察權，得向行政院及其各部會調閱其所發布之命令及各種有關文件。"
+      ],
+      "paragraphs": [
+        "監察院為行使監察權，得向行政院及其各部會調閱其所發布之命令及各種有關文件。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=95"
+    },
+    {
+      "article_no": 96,
+      "article_label": "第 96 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院得按行政院及其各部會之工作，分設若干委員會，調查一切設施，注意其是否違法或失職。"
+        }
+      ],
+      "text": "監察院得按行政院及其各部會之工作，分設若干委員會，調查一切設施，注意其是否違法或失職。",
+      "text_lines": [
+        "監察院得按行政院及其各部會之工作，分設若干委員會，調查一切設施，注意其是否違法或失職。"
+      ],
+      "paragraphs": [
+        "監察院得按行政院及其各部會之工作，分設若干委員會，調查一切設施，注意其是否違法或失職。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=96"
+    },
+    {
+      "article_no": 97,
+      "article_label": "第 97 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "監察院經各該委員會之審查及決議，得提出糾正案，移送行政院及其有關部會，促其注意改善。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "監察院對於中央及地方公務人員，認為有失職或違法情事，得提出糾舉案或彈劾案，如涉及刑事，應移送法院辦理。"
+        }
+      ],
+      "text": "監察院經各該委員會之審查及決議，得提出糾正案，移送行政院及其有關部會，促其注意改善。\n監察院對於中央及地方公務人員，認為有失職或違法情事，得提出糾舉案或彈劾案，如涉及刑事，應移送法院辦理。",
+      "text_lines": [
+        "監察院經各該委員會之審查及決議，得提出糾正案，移送行政院及其有關部會，促其注意改善。",
+        "監察院對於中央及地方公務人員，認為有失職或違法情事，得提出糾舉案或彈劾案，如涉及刑事，應移送法院辦理。"
+      ],
+      "paragraphs": [
+        "監察院經各該委員會之審查及決議，得提出糾正案，移送行政院及其有關部會，促其注意改善。 監察院對於中央及地方公務人員，認為有失職或違法情事，得提出糾舉案或彈劾案，如涉及刑事，應移送法院辦理。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=97"
+    },
+    {
+      "article_no": 98,
+      "article_label": "第 98 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院對於中央及地方公務人員之彈劾案，須經監察委員一人以上之提議，九人以上之審查及決定，始得提出。"
+        }
+      ],
+      "text": "監察院對於中央及地方公務人員之彈劾案，須經監察委員一人以上之提議，九人以上之審查及決定，始得提出。",
+      "text_lines": [
+        "監察院對於中央及地方公務人員之彈劾案，須經監察委員一人以上之提議，九人以上之審查及決定，始得提出。"
+      ],
+      "paragraphs": [
+        "監察院對於中央及地方公務人員之彈劾案，須經監察委員一人以上之提議，九人以上之審查及決定，始得提出。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=98"
+    },
+    {
+      "article_no": 99,
+      "article_label": "第 99 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院對於司法院或考試院人員失職或違法之彈劾，適用本憲法第九十五條、第九十七條及第九十八條之規定。"
+        }
+      ],
+      "text": "監察院對於司法院或考試院人員失職或違法之彈劾，適用本憲法第九十五條、第九十七條及第九十八條之規定。",
+      "text_lines": [
+        "監察院對於司法院或考試院人員失職或違法之彈劾，適用本憲法第九十五條、第九十七條及第九十八條之規定。"
+      ],
+      "paragraphs": [
+        "監察院對於司法院或考試院人員失職或違法之彈劾，適用本憲法第九十五條、第九十七條及第九十八條之規定。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=99"
+    },
+    {
+      "article_no": 100,
+      "article_label": "第 100 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院對於總統、副總統之彈劾案，須有全體監察委員四分之一以上之提議，全體監察委員過半數之審查及決議，向國民大會提出之。"
+        }
+      ],
+      "text": "監察院對於總統、副總統之彈劾案，須有全體監察委員四分之一以上之提議，全體監察委員過半數之審查及決議，向國民大會提出之。",
+      "text_lines": [
+        "監察院對於總統、副總統之彈劾案，須有全體監察委員四分之一以上之提議，全體監察委員過半數之審查及決議，向國民大會提出之。"
+      ],
+      "paragraphs": [
+        "監察院對於總統、副總統之彈劾案，須有全體監察委員四分之一以上之提議，全體監察委員過半數之審查及決議，向國民大會提出之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=100"
+    },
+    {
+      "article_no": 101,
+      "article_label": "第 101 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察委員在院內所為之言論及表決，對院外不負責任。"
+        }
+      ],
+      "text": "監察委員在院內所為之言論及表決，對院外不負責任。",
+      "text_lines": [
+        "監察委員在院內所為之言論及表決，對院外不負責任。"
+      ],
+      "paragraphs": [
+        "監察委員在院內所為之言論及表決，對院外不負責任。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=101"
+    },
+    {
+      "article_no": 102,
+      "article_label": "第 102 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察委員，除現行犯外，非經監察院許可，不得逮捕或拘禁。"
+        }
+      ],
+      "text": "監察委員，除現行犯外，非經監察院許可，不得逮捕或拘禁。",
+      "text_lines": [
+        "監察委員，除現行犯外，非經監察院許可，不得逮捕或拘禁。"
+      ],
+      "paragraphs": [
+        "監察委員，除現行犯外，非經監察院許可，不得逮捕或拘禁。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=102"
+    },
+    {
+      "article_no": 103,
+      "article_label": "第 103 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察委員不得兼任其他公職或執行業務。"
+        }
+      ],
+      "text": "監察委員不得兼任其他公職或執行業務。",
+      "text_lines": [
+        "監察委員不得兼任其他公職或執行業務。"
+      ],
+      "paragraphs": [
+        "監察委員不得兼任其他公職或執行業務。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=103"
+    },
+    {
+      "article_no": 104,
+      "article_label": "第 104 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院設審計長，由總統提名，經立法院同意任命之。"
+        }
+      ],
+      "text": "監察院設審計長，由總統提名，經立法院同意任命之。",
+      "text_lines": [
+        "監察院設審計長，由總統提名，經立法院同意任命之。"
+      ],
+      "paragraphs": [
+        "監察院設審計長，由總統提名，經立法院同意任命之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=104"
+    },
+    {
+      "article_no": 105,
+      "article_label": "第 105 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "審計長應於行政院提出決算後三個月內，依法完成其審核，並提出審核報告於立法院。"
+        }
+      ],
+      "text": "審計長應於行政院提出決算後三個月內，依法完成其審核，並提出審核報告於立法院。",
+      "text_lines": [
+        "審計長應於行政院提出決算後三個月內，依法完成其審核，並提出審核報告於立法院。"
+      ],
+      "paragraphs": [
+        "審計長應於行政院提出決算後三個月內，依法完成其審核，並提出審核報告於立法院。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=105"
+    },
+    {
+      "article_no": 106,
+      "article_label": "第 106 條",
+      "chapter": "第 九 章 監察",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "監察院之組織，以法律定之。"
+        }
+      ],
+      "text": "監察院之組織，以法律定之。",
+      "text_lines": [
+        "監察院之組織，以法律定之。"
+      ],
+      "paragraphs": [
+        "監察院之組織，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=106"
+    },
+    {
+      "article_no": 107,
+      "article_label": "第 107 條",
+      "chapter": "第 十 章 中央與地方之權限",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "左列事項，由中央立法並執行之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 外交。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 國防與國防軍事。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三 國籍法及刑事、民事、商事之法律。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四 司法制度。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五 航空、國道、國有鐵路、航政、郵政及電政。"
+        },
+        {
+          "class": "line-0004",
+          "text": "六 中央財政與國稅。"
+        },
+        {
+          "class": "line-0004",
+          "text": "七 國稅與省稅、縣稅之劃分。"
+        },
+        {
+          "class": "line-0004",
+          "text": "八 國營經濟事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "九 幣制及國家銀行。"
+        },
+        {
+          "class": "line-0004",
+          "text": "十 度量衡。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十一 國際貿易政策。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十二 涉外之財政經濟事項。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十三 其他依本憲法所定關於中央之事項。"
+        }
+      ],
+      "text": "左列事項，由中央立法並執行之：\n一 外交。\n二 國防與國防軍事。\n三 國籍法及刑事、民事、商事之法律。\n四 司法制度。\n五 航空、國道、國有鐵路、航政、郵政及電政。\n六 中央財政與國稅。\n七 國稅與省稅、縣稅之劃分。\n八 國營經濟事業。\n九 幣制及國家銀行。\n十 度量衡。\n十一 國際貿易政策。\n十二 涉外之財政經濟事項。\n十三 其他依本憲法所定關於中央之事項。",
+      "text_lines": [
+        "左列事項，由中央立法並執行之：",
+        "一 外交。",
+        "二 國防與國防軍事。",
+        "三 國籍法及刑事、民事、商事之法律。",
+        "四 司法制度。",
+        "五 航空、國道、國有鐵路、航政、郵政及電政。",
+        "六 中央財政與國稅。",
+        "七 國稅與省稅、縣稅之劃分。",
+        "八 國營經濟事業。",
+        "九 幣制及國家銀行。",
+        "十 度量衡。",
+        "十一 國際貿易政策。",
+        "十二 涉外之財政經濟事項。",
+        "十三 其他依本憲法所定關於中央之事項。"
+      ],
+      "paragraphs": [
+        "左列事項，由中央立法並執行之： 一 外交。 二 國防與國防軍事。 三 國籍法及刑事、民事、商事之法律。 四 司法制度。 五 航空、國道、國有鐵路、航政、郵政及電政。 六 中央財政與國稅。 七 國稅與省稅、縣稅之劃分。 八 國營經濟事業。 九 幣制及國家銀行。 十 度量衡。 十一 國際貿易政策。 十二 涉外之財政經濟事項。 十三 其他依本憲法所定關於中央之事項。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=107"
+    },
+    {
+      "article_no": 108,
+      "article_label": "第 108 條",
+      "chapter": "第 十 章 中央與地方之權限",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "左列事項，由中央立法並執行之，或交由省縣執行之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 省縣自治通則。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 行政區劃 。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三 森林、工礦及商業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四 教育制度。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五 銀行及交易所制度。"
+        },
+        {
+          "class": "line-0004",
+          "text": "六 航業及海洋漁業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "七 公用事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "八 合作事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "九 二省以上之水陸交通運輸。"
+        },
+        {
+          "class": "line-0004",
+          "text": "十 二省以上之水利、河道及農牧事業。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十一 中央及地方官吏之銓敘、任用、糾察及保障。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十二 土地法。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十三 勞動法及其他社會立法。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十四 公用徵收。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十五 全國戶口調查及統計。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十六 移民及墾殖。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十七 警察制度。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十八 公共衛生。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十九 振濟、撫卹及失業救濟。"
+        },
+        {
+          "class": "line-0006",
+          "text": "二十 有關文化之古籍、古物及古蹟之保存。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "前項各款，省於不牴觸國家法律內，得制定單行法規。"
+        }
+      ],
+      "text": "左列事項，由中央立法並執行之，或交由省縣執行之：\n一 省縣自治通則。\n二 行政區劃 。\n三 森林、工礦及商業。\n四 教育制度。\n五 銀行及交易所制度。\n六 航業及海洋漁業。\n七 公用事業。\n八 合作事業。\n九 二省以上之水陸交通運輸。\n十 二省以上之水利、河道及農牧事業。\n十一 中央及地方官吏之銓敘、任用、糾察及保障。\n十二 土地法。\n十三 勞動法及其他社會立法。\n十四 公用徵收。\n十五 全國戶口調查及統計。\n十六 移民及墾殖。\n十七 警察制度。\n十八 公共衛生。\n十九 振濟、撫卹及失業救濟。\n二十 有關文化之古籍、古物及古蹟之保存。\n前項各款，省於不牴觸國家法律內，得制定單行法規。",
+      "text_lines": [
+        "左列事項，由中央立法並執行之，或交由省縣執行之：",
+        "一 省縣自治通則。",
+        "二 行政區劃 。",
+        "三 森林、工礦及商業。",
+        "四 教育制度。",
+        "五 銀行及交易所制度。",
+        "六 航業及海洋漁業。",
+        "七 公用事業。",
+        "八 合作事業。",
+        "九 二省以上之水陸交通運輸。",
+        "十 二省以上之水利、河道及農牧事業。",
+        "十一 中央及地方官吏之銓敘、任用、糾察及保障。",
+        "十二 土地法。",
+        "十三 勞動法及其他社會立法。",
+        "十四 公用徵收。",
+        "十五 全國戶口調查及統計。",
+        "十六 移民及墾殖。",
+        "十七 警察制度。",
+        "十八 公共衛生。",
+        "十九 振濟、撫卹及失業救濟。",
+        "二十 有關文化之古籍、古物及古蹟之保存。",
+        "前項各款，省於不牴觸國家法律內，得制定單行法規。"
+      ],
+      "paragraphs": [
+        "左列事項，由中央立法並執行之，或交由省縣執行之： 一 省縣自治通則。 二 行政區劃 。 三 森林、工礦及商業。 四 教育制度。 五 銀行及交易所制度。 六 航業及海洋漁業。 七 公用事業。 八 合作事業。 九 二省以上之水陸交通運輸。 十 二省以上之水利、河道及農牧事業。 十一 中央及地方官吏之銓敘、任用、糾察及保障。 十二 土地法。 十三 勞動法及其他社會立法。 十四 公用徵收。 十五 全國戶口調查及統計。 十六 移民及墾殖。 十七 警察制度。 十八 公共衛生。 十九 振濟、撫卹及失業救濟。 二十 有關文化之古籍、古物及古蹟之保存。 前項各款，省於不牴觸國家法律內，得制定單行法規。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=108"
+    },
+    {
+      "article_no": 109,
+      "article_label": "第 109 條",
+      "chapter": "第 十 章 中央與地方之權限",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "左列事項，由省立法並執行之，或交由縣執行之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一 省教育、衛生、實業及交通。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二 省財產之經營及處分。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三 省市政。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四 省公營事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五 省合作事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "六 省農林、水利、漁牧及工程。"
+        },
+        {
+          "class": "line-0004",
+          "text": "七 省財政及省稅。"
+        },
+        {
+          "class": "line-0004",
+          "text": "八 省債。"
+        },
+        {
+          "class": "line-0004",
+          "text": "九 省銀行。"
+        },
+        {
+          "class": "line-0004",
+          "text": "十 省警政之實施。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十一　省慈善及公益事項。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十二　其他依國家法律賦予之事項。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "前項各款，有涉及二省以上者，除法律別有規定外，得由有關各省共同辦理。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "各省辦理第一項各款事務，其經費不足時，經立法院議決，由國庫補助之。"
+        }
+      ],
+      "text": "左列事項，由省立法並執行之，或交由縣執行之：\n一 省教育、衛生、實業及交通。\n二 省財產之經營及處分。\n三 省市政。\n四 省公營事業。\n五 省合作事業。\n六 省農林、水利、漁牧及工程。\n七 省財政及省稅。\n八 省債。\n九 省銀行。\n十 省警政之實施。\n十一　省慈善及公益事項。\n十二　其他依國家法律賦予之事項。\n前項各款，有涉及二省以上者，除法律別有規定外，得由有關各省共同辦理。\n各省辦理第一項各款事務，其經費不足時，經立法院議決，由國庫補助之。",
+      "text_lines": [
+        "左列事項，由省立法並執行之，或交由縣執行之：",
+        "一 省教育、衛生、實業及交通。",
+        "二 省財產之經營及處分。",
+        "三 省市政。",
+        "四 省公營事業。",
+        "五 省合作事業。",
+        "六 省農林、水利、漁牧及工程。",
+        "七 省財政及省稅。",
+        "八 省債。",
+        "九 省銀行。",
+        "十 省警政之實施。",
+        "十一　省慈善及公益事項。",
+        "十二　其他依國家法律賦予之事項。",
+        "前項各款，有涉及二省以上者，除法律別有規定外，得由有關各省共同辦理。",
+        "各省辦理第一項各款事務，其經費不足時，經立法院議決，由國庫補助之。"
+      ],
+      "paragraphs": [
+        "左列事項，由省立法並執行之，或交由縣執行之： 一 省教育、衛生、實業及交通。 二 省財產之經營及處分。 三 省市政。 四 省公營事業。 五 省合作事業。 六 省農林、水利、漁牧及工程。 七 省財政及省稅。 八 省債。 九 省銀行。 十 省警政之實施。 十一 省慈善及公益事項。 十二 其他依國家法律賦予之事項。 前項各款，有涉及二省以上者，除法律別有規定外，得由有關各省共同辦理。 各省辦理第一項各款事務，其經費不足時，經立法院議決，由國庫補助之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=109"
+    },
+    {
+      "article_no": 110,
+      "article_label": "第 110 條",
+      "chapter": "第 十 章 中央與地方之權限",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "左列事項，由縣立法並執行之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　縣教育、衛生、實業及交通。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　縣財產之經營及處分。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　縣公營事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四　縣合作事業。"
+        },
+        {
+          "class": "line-0004",
+          "text": "五　縣農林、水利、漁牧及工程。"
+        },
+        {
+          "class": "line-0004",
+          "text": "六　縣財政及縣稅。"
+        },
+        {
+          "class": "line-0004",
+          "text": "七　縣債。"
+        },
+        {
+          "class": "line-0004",
+          "text": "八　縣銀行。"
+        },
+        {
+          "class": "line-0004",
+          "text": "九　縣警衛之實施。"
+        },
+        {
+          "class": "line-0004",
+          "text": "十　縣慈善及公益事項。"
+        },
+        {
+          "class": "line-0006",
+          "text": "十一　其他依國家法律及省自治法賦予之事項。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "前項各款，有涉及二縣以上者，除法律別有規定外，得由有關各縣共同辦理。"
+        }
+      ],
+      "text": "左列事項，由縣立法並執行之：\n一　縣教育、衛生、實業及交通。\n二　縣財產之經營及處分。\n三　縣公營事業。\n四　縣合作事業。\n五　縣農林、水利、漁牧及工程。\n六　縣財政及縣稅。\n七　縣債。\n八　縣銀行。\n九　縣警衛之實施。\n十　縣慈善及公益事項。\n十一　其他依國家法律及省自治法賦予之事項。\n前項各款，有涉及二縣以上者，除法律別有規定外，得由有關各縣共同辦理。",
+      "text_lines": [
+        "左列事項，由縣立法並執行之：",
+        "一　縣教育、衛生、實業及交通。",
+        "二　縣財產之經營及處分。",
+        "三　縣公營事業。",
+        "四　縣合作事業。",
+        "五　縣農林、水利、漁牧及工程。",
+        "六　縣財政及縣稅。",
+        "七　縣債。",
+        "八　縣銀行。",
+        "九　縣警衛之實施。",
+        "十　縣慈善及公益事項。",
+        "十一　其他依國家法律及省自治法賦予之事項。",
+        "前項各款，有涉及二縣以上者，除法律別有規定外，得由有關各縣共同辦理。"
+      ],
+      "paragraphs": [
+        "左列事項，由縣立法並執行之： 一 縣教育、衛生、實業及交通。 二 縣財產之經營及處分。 三 縣公營事業。 四 縣合作事業。 五 縣農林、水利、漁牧及工程。 六 縣財政及縣稅。 七 縣債。 八 縣銀行。 九 縣警衛之實施。 十 縣慈善及公益事項。 十一 其他依國家法律及省自治法賦予之事項。 前項各款，有涉及二縣以上者，除法律別有規定外，得由有關各縣共同辦理。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=110"
+    },
+    {
+      "article_no": 111,
+      "article_label": "第 111 條",
+      "chapter": "第 十 章 中央與地方之權限",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "除第一百零七條、第一百零八條、第一百零九條及第一百十條列舉事項外，如有未列舉事項發生時，其事務有全國一致之性質者屬於中央，有全省一致之性質者屬於省，有一縣之性質者屬於縣。遇有爭議時，由立法院解決之。"
+        }
+      ],
+      "text": "除第一百零七條、第一百零八條、第一百零九條及第一百十條列舉事項外，如有未列舉事項發生時，其事務有全國一致之性質者屬於中央，有全省一致之性質者屬於省，有一縣之性質者屬於縣。遇有爭議時，由立法院解決之。",
+      "text_lines": [
+        "除第一百零七條、第一百零八條、第一百零九條及第一百十條列舉事項外，如有未列舉事項發生時，其事務有全國一致之性質者屬於中央，有全省一致之性質者屬於省，有一縣之性質者屬於縣。遇有爭議時，由立法院解決之。"
+      ],
+      "paragraphs": [
+        "除第一百零七條、第一百零八條、第一百零九條及第一百十條列舉事項外，如有未列舉事項發生時，其事務有全國一致之性質者屬於中央，有全省一致之性質者屬於省，有一縣之性質者屬於縣。遇有爭議時，由立法院解決之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=111"
+    },
+    {
+      "article_no": 112,
+      "article_label": "第 112 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "省得召集省民代表大會，依據省縣自治通則，制定省自治法，但不得與憲法牴觸。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "省民代表大會之組織及選舉，以法律定之。"
+        }
+      ],
+      "text": "省得召集省民代表大會，依據省縣自治通則，制定省自治法，但不得與憲法牴觸。\n省民代表大會之組織及選舉，以法律定之。",
+      "text_lines": [
+        "省得召集省民代表大會，依據省縣自治通則，制定省自治法，但不得與憲法牴觸。",
+        "省民代表大會之組織及選舉，以法律定之。"
+      ],
+      "paragraphs": [
+        "省得召集省民代表大會，依據省縣自治通則，制定省自治法，但不得與憲法牴觸。 省民代表大會之組織及選舉，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=112"
+    },
+    {
+      "article_no": 113,
+      "article_label": "第 113 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "省自治法應包含左列各款："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　省設省議會，省議會議員由省民選舉之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　省設省政府，置省長一人。省長由省民選舉之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　省與縣之關係。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "屬於省之立法權，由省議會行之。"
+        }
+      ],
+      "text": "省自治法應包含左列各款：\n一　省設省議會，省議會議員由省民選舉之。\n二　省設省政府，置省長一人。省長由省民選舉之。\n三　省與縣之關係。\n屬於省之立法權，由省議會行之。",
+      "text_lines": [
+        "省自治法應包含左列各款：",
+        "一　省設省議會，省議會議員由省民選舉之。",
+        "二　省設省政府，置省長一人。省長由省民選舉之。",
+        "三　省與縣之關係。",
+        "屬於省之立法權，由省議會行之。"
+      ],
+      "paragraphs": [
+        "省自治法應包含左列各款： 一 省設省議會，省議會議員由省民選舉之。 二 省設省政府，置省長一人。省長由省民選舉之。 三 省與縣之關係。 屬於省之立法權，由省議會行之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=113"
+    },
+    {
+      "article_no": 114,
+      "article_label": "第 114 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "省自治法制定後，須即送司法院。司法院如認為有違憲之處，應將違憲條文宣布無效。"
+        }
+      ],
+      "text": "省自治法制定後，須即送司法院。司法院如認為有違憲之處，應將違憲條文宣布無效。",
+      "text_lines": [
+        "省自治法制定後，須即送司法院。司法院如認為有違憲之處，應將違憲條文宣布無效。"
+      ],
+      "paragraphs": [
+        "省自治法制定後，須即送司法院。司法院如認為有違憲之處，應將違憲條文宣布無效。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=114"
+    },
+    {
+      "article_no": 115,
+      "article_label": "第 115 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "省自治法施行中，如因其中某條發生重大障礙，經司法院召集有關方面陳述意見後，由行政院院長、立法院院長、司法院院長、考試院院長與監察院院長組織委員會，以司法院院長為主席，提出方案解決之。"
+        }
+      ],
+      "text": "省自治法施行中，如因其中某條發生重大障礙，經司法院召集有關方面陳述意見後，由行政院院長、立法院院長、司法院院長、考試院院長與監察院院長組織委員會，以司法院院長為主席，提出方案解決之。",
+      "text_lines": [
+        "省自治法施行中，如因其中某條發生重大障礙，經司法院召集有關方面陳述意見後，由行政院院長、立法院院長、司法院院長、考試院院長與監察院院長組織委員會，以司法院院長為主席，提出方案解決之。"
+      ],
+      "paragraphs": [
+        "省自治法施行中，如因其中某條發生重大障礙，經司法院召集有關方面陳述意見後，由行政院院長、立法院院長、司法院院長、考試院院長與監察院院長組織委員會，以司法院院長為主席，提出方案解決之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=115"
+    },
+    {
+      "article_no": 116,
+      "article_label": "第 116 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "省法規與國家法律牴觸者無效。"
+        }
+      ],
+      "text": "省法規與國家法律牴觸者無效。",
+      "text_lines": [
+        "省法規與國家法律牴觸者無效。"
+      ],
+      "paragraphs": [
+        "省法規與國家法律牴觸者無效。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=116"
+    },
+    {
+      "article_no": 117,
+      "article_label": "第 117 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "省法規與國家法律有無牴觸發生疑義時，由司法院解釋之。"
+        }
+      ],
+      "text": "省法規與國家法律有無牴觸發生疑義時，由司法院解釋之。",
+      "text_lines": [
+        "省法規與國家法律有無牴觸發生疑義時，由司法院解釋之。"
+      ],
+      "paragraphs": [
+        "省法規與國家法律有無牴觸發生疑義時，由司法院解釋之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=117"
+    },
+    {
+      "article_no": 118,
+      "article_label": "第 118 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "直轄市之自治，以法律定之。"
+        }
+      ],
+      "text": "直轄市之自治，以法律定之。",
+      "text_lines": [
+        "直轄市之自治，以法律定之。"
+      ],
+      "paragraphs": [
+        "直轄市之自治，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=118"
+    },
+    {
+      "article_no": 119,
+      "article_label": "第 119 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "蒙古各盟旗地方自治制度，以法律定之。"
+        }
+      ],
+      "text": "蒙古各盟旗地方自治制度，以法律定之。",
+      "text_lines": [
+        "蒙古各盟旗地方自治制度，以法律定之。"
+      ],
+      "paragraphs": [
+        "蒙古各盟旗地方自治制度，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=119"
+    },
+    {
+      "article_no": 120,
+      "article_label": "第 120 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 一 節 省",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "西藏自治制度，應予以保障。"
+        }
+      ],
+      "text": "西藏自治制度，應予以保障。",
+      "text_lines": [
+        "西藏自治制度，應予以保障。"
+      ],
+      "paragraphs": [
+        "西藏自治制度，應予以保障。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=120"
+    },
+    {
+      "article_no": 121,
+      "article_label": "第 121 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "縣實行縣自治。"
+        }
+      ],
+      "text": "縣實行縣自治。",
+      "text_lines": [
+        "縣實行縣自治。"
+      ],
+      "paragraphs": [
+        "縣實行縣自治。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=121"
+    },
+    {
+      "article_no": 122,
+      "article_label": "第 122 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "縣得召集縣民代表大會，依據省縣自治通則，制定縣自治法，但不得與憲法及省自治法牴觸。"
+        }
+      ],
+      "text": "縣得召集縣民代表大會，依據省縣自治通則，制定縣自治法，但不得與憲法及省自治法牴觸。",
+      "text_lines": [
+        "縣得召集縣民代表大會，依據省縣自治通則，制定縣自治法，但不得與憲法及省自治法牴觸。"
+      ],
+      "paragraphs": [
+        "縣得召集縣民代表大會，依據省縣自治通則，制定縣自治法，但不得與憲法及省自治法牴觸。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=122"
+    },
+    {
+      "article_no": 123,
+      "article_label": "第 123 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "縣民關於縣自治事項，依法律行使創制、複決之權，對於縣長及其他縣自治人員，依法律行使選舉、罷免之權。"
+        }
+      ],
+      "text": "縣民關於縣自治事項，依法律行使創制、複決之權，對於縣長及其他縣自治人員，依法律行使選舉、罷免之權。",
+      "text_lines": [
+        "縣民關於縣自治事項，依法律行使創制、複決之權，對於縣長及其他縣自治人員，依法律行使選舉、罷免之權。"
+      ],
+      "paragraphs": [
+        "縣民關於縣自治事項，依法律行使創制、複決之權，對於縣長及其他縣自治人員，依法律行使選舉、罷免之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=123"
+    },
+    {
+      "article_no": 124,
+      "article_label": "第 124 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "縣設縣議會，縣議會議員由縣民選舉之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "屬於縣之立法權，由縣議會行之。"
+        }
+      ],
+      "text": "縣設縣議會，縣議會議員由縣民選舉之。\n屬於縣之立法權，由縣議會行之。",
+      "text_lines": [
+        "縣設縣議會，縣議會議員由縣民選舉之。",
+        "屬於縣之立法權，由縣議會行之。"
+      ],
+      "paragraphs": [
+        "縣設縣議會，縣議會議員由縣民選舉之。 屬於縣之立法權，由縣議會行之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=124"
+    },
+    {
+      "article_no": 125,
+      "article_label": "第 125 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "縣單行規章，與國家法律或省法規牴觸者無效。"
+        }
+      ],
+      "text": "縣單行規章，與國家法律或省法規牴觸者無效。",
+      "text_lines": [
+        "縣單行規章，與國家法律或省法規牴觸者無效。"
+      ],
+      "paragraphs": [
+        "縣單行規章，與國家法律或省法規牴觸者無效。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=125"
+    },
+    {
+      "article_no": 126,
+      "article_label": "第 126 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "縣設縣政府，置縣長一人。縣長由縣民選舉之。"
+        }
+      ],
+      "text": "縣設縣政府，置縣長一人。縣長由縣民選舉之。",
+      "text_lines": [
+        "縣設縣政府，置縣長一人。縣長由縣民選舉之。"
+      ],
+      "paragraphs": [
+        "縣設縣政府，置縣長一人。縣長由縣民選舉之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=126"
+    },
+    {
+      "article_no": 127,
+      "article_label": "第 127 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "縣長辦理縣自治，並執行中央及省委辦事項。"
+        }
+      ],
+      "text": "縣長辦理縣自治，並執行中央及省委辦事項。",
+      "text_lines": [
+        "縣長辦理縣自治，並執行中央及省委辦事項。"
+      ],
+      "paragraphs": [
+        "縣長辦理縣自治，並執行中央及省委辦事項。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=127"
+    },
+    {
+      "article_no": 128,
+      "article_label": "第 128 條",
+      "chapter": "第 十一 章 地方制度",
+      "section": "第 二 節 縣",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "市準用縣之規定。"
+        }
+      ],
+      "text": "市準用縣之規定。",
+      "text_lines": [
+        "市準用縣之規定。"
+      ],
+      "paragraphs": [
+        "市準用縣之規定。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=128"
+    },
+    {
+      "article_no": 129,
+      "article_label": "第 129 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "本憲法所規定之各種選舉，除本憲法別有規定外，以普通、平等、直接及無記名投票之方法行之。"
+        }
+      ],
+      "text": "本憲法所規定之各種選舉，除本憲法別有規定外，以普通、平等、直接及無記名投票之方法行之。",
+      "text_lines": [
+        "本憲法所規定之各種選舉，除本憲法別有規定外，以普通、平等、直接及無記名投票之方法行之。"
+      ],
+      "paragraphs": [
+        "本憲法所規定之各種選舉，除本憲法別有規定外，以普通、平等、直接及無記名投票之方法行之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=129"
+    },
+    {
+      "article_no": 130,
+      "article_label": "第 130 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國國民年滿二十歲者，有依法選舉之權，除本憲法及法律別有規定者外，年滿二十三歲者，有依法被選舉之權。"
+        }
+      ],
+      "text": "中華民國國民年滿二十歲者，有依法選舉之權，除本憲法及法律別有規定者外，年滿二十三歲者，有依法被選舉之權。",
+      "text_lines": [
+        "中華民國國民年滿二十歲者，有依法選舉之權，除本憲法及法律別有規定者外，年滿二十三歲者，有依法被選舉之權。"
+      ],
+      "paragraphs": [
+        "中華民國國民年滿二十歲者，有依法選舉之權，除本憲法及法律別有規定者外，年滿二十三歲者，有依法被選舉之權。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=130"
+    },
+    {
+      "article_no": 131,
+      "article_label": "第 131 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "本憲法所規定各種選舉之候選人，一律公開競選。"
+        }
+      ],
+      "text": "本憲法所規定各種選舉之候選人，一律公開競選。",
+      "text_lines": [
+        "本憲法所規定各種選舉之候選人，一律公開競選。"
+      ],
+      "paragraphs": [
+        "本憲法所規定各種選舉之候選人，一律公開競選。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=131"
+    },
+    {
+      "article_no": 132,
+      "article_label": "第 132 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "選舉應嚴禁威脅利誘。選舉訴訟，由法院審判之。"
+        }
+      ],
+      "text": "選舉應嚴禁威脅利誘。選舉訴訟，由法院審判之。",
+      "text_lines": [
+        "選舉應嚴禁威脅利誘。選舉訴訟，由法院審判之。"
+      ],
+      "paragraphs": [
+        "選舉應嚴禁威脅利誘。選舉訴訟，由法院審判之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=132"
+    },
+    {
+      "article_no": 133,
+      "article_label": "第 133 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "被選舉人得由原選舉區依法罷免之。"
+        }
+      ],
+      "text": "被選舉人得由原選舉區依法罷免之。",
+      "text_lines": [
+        "被選舉人得由原選舉區依法罷免之。"
+      ],
+      "paragraphs": [
+        "被選舉人得由原選舉區依法罷免之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=133"
+    },
+    {
+      "article_no": 134,
+      "article_label": "第 134 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "各種選舉，應規定婦女當選名額，其辦法以法律定之。"
+        }
+      ],
+      "text": "各種選舉，應規定婦女當選名額，其辦法以法律定之。",
+      "text_lines": [
+        "各種選舉，應規定婦女當選名額，其辦法以法律定之。"
+      ],
+      "paragraphs": [
+        "各種選舉，應規定婦女當選名額，其辦法以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=134"
+    },
+    {
+      "article_no": 135,
+      "article_label": "第 135 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "內地生活習慣特殊之國民代表名額及選舉，其辦法以法律定之。"
+        }
+      ],
+      "text": "內地生活習慣特殊之國民代表名額及選舉，其辦法以法律定之。",
+      "text_lines": [
+        "內地生活習慣特殊之國民代表名額及選舉，其辦法以法律定之。"
+      ],
+      "paragraphs": [
+        "內地生活習慣特殊之國民代表名額及選舉，其辦法以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=135"
+    },
+    {
+      "article_no": 136,
+      "article_label": "第 136 條",
+      "chapter": "第 十二 章 選舉、罷免、創制、複決",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "創制複決兩權之行使，以法律定之。"
+        }
+      ],
+      "text": "創制複決兩權之行使，以法律定之。",
+      "text_lines": [
+        "創制複決兩權之行使，以法律定之。"
+      ],
+      "paragraphs": [
+        "創制複決兩權之行使，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=136"
+    },
+    {
+      "article_no": 137,
+      "article_label": "第 137 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 一 節 國防",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "中華民國之國防，以保衛國家安全，維護世界和平為目的。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "國防之組織，以法律定之。"
+        }
+      ],
+      "text": "中華民國之國防，以保衛國家安全，維護世界和平為目的。\n國防之組織，以法律定之。",
+      "text_lines": [
+        "中華民國之國防，以保衛國家安全，維護世界和平為目的。",
+        "國防之組織，以法律定之。"
+      ],
+      "paragraphs": [
+        "中華民國之國防，以保衛國家安全，維護世界和平為目的。 國防之組織，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=137"
+    },
+    {
+      "article_no": 138,
+      "article_label": "第 138 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 一 節 國防",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "全國陸海空軍，須超出個人、地域及黨派關係以外，效忠國家，愛護人民。"
+        }
+      ],
+      "text": "全國陸海空軍，須超出個人、地域及黨派關係以外，效忠國家，愛護人民。",
+      "text_lines": [
+        "全國陸海空軍，須超出個人、地域及黨派關係以外，效忠國家，愛護人民。"
+      ],
+      "paragraphs": [
+        "全國陸海空軍，須超出個人、地域及黨派關係以外，效忠國家，愛護人民。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=138"
+    },
+    {
+      "article_no": 139,
+      "article_label": "第 139 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 一 節 國防",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "任何黨派及個人不得以武裝力量為政爭之工具。"
+        }
+      ],
+      "text": "任何黨派及個人不得以武裝力量為政爭之工具。",
+      "text_lines": [
+        "任何黨派及個人不得以武裝力量為政爭之工具。"
+      ],
+      "paragraphs": [
+        "任何黨派及個人不得以武裝力量為政爭之工具。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=139"
+    },
+    {
+      "article_no": 140,
+      "article_label": "第 140 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 一 節 國防",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "現役軍人不得兼任文官。"
+        }
+      ],
+      "text": "現役軍人不得兼任文官。",
+      "text_lines": [
+        "現役軍人不得兼任文官。"
+      ],
+      "paragraphs": [
+        "現役軍人不得兼任文官。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=140"
+    },
+    {
+      "article_no": 141,
+      "article_label": "第 141 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 二 節 外交",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國之外交，應本獨立自主之精神，平等互惠之原則，敦睦邦交，尊重條約及聯合國憲章，以保護僑民權益，促進國際合作，提倡國際正義，確保世界和平。"
+        }
+      ],
+      "text": "中華民國之外交，應本獨立自主之精神，平等互惠之原則，敦睦邦交，尊重條約及聯合國憲章，以保護僑民權益，促進國際合作，提倡國際正義，確保世界和平。",
+      "text_lines": [
+        "中華民國之外交，應本獨立自主之精神，平等互惠之原則，敦睦邦交，尊重條約及聯合國憲章，以保護僑民權益，促進國際合作，提倡國際正義，確保世界和平。"
+      ],
+      "paragraphs": [
+        "中華民國之外交，應本獨立自主之精神，平等互惠之原則，敦睦邦交，尊重條約及聯合國憲章，以保護僑民權益，促進國際合作，提倡國際正義，確保世界和平。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=141"
+    },
+    {
+      "article_no": 142,
+      "article_label": "第 142 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民經濟應以民生主義為基本原則，實施平均地權，節制資本，以謀國計民生之均足。"
+        }
+      ],
+      "text": "國民經濟應以民生主義為基本原則，實施平均地權，節制資本，以謀國計民生之均足。",
+      "text_lines": [
+        "國民經濟應以民生主義為基本原則，實施平均地權，節制資本，以謀國計民生之均足。"
+      ],
+      "paragraphs": [
+        "國民經濟應以民生主義為基本原則，實施平均地權，節制資本，以謀國計民生之均足。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=142"
+    },
+    {
+      "article_no": 143,
+      "article_label": "第 143 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "中華民國領土內之土地屬於國民全體。人民依法取得之土地所有權，應受法律之保障與限制。私有土地應照價納稅，政府並得照價收買。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "土地價值非因施以勞力資本而增加者，應由國家徵收土地增值稅，歸人民共享之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則，並規定其適當經營之面積。"
+        }
+      ],
+      "text": "中華民國領土內之土地屬於國民全體。人民依法取得之土地所有權，應受法律之保障與限制。私有土地應照價納稅，政府並得照價收買。\n附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。\n土地價值非因施以勞力資本而增加者，應由國家徵收土地增值稅，歸人民共享之。\n國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則，並規定其適當經營之面積。",
+      "text_lines": [
+        "中華民國領土內之土地屬於國民全體。人民依法取得之土地所有權，應受法律之保障與限制。私有土地應照價納稅，政府並得照價收買。",
+        "附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。",
+        "土地價值非因施以勞力資本而增加者，應由國家徵收土地增值稅，歸人民共享之。",
+        "國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則，並規定其適當經營之面積。"
+      ],
+      "paragraphs": [
+        "中華民國領土內之土地屬於國民全體。人民依法取得之土地所有權，應受法律之保障與限制。私有土地應照價納稅，政府並得照價收買。 附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。 土地價值非因施以勞力資本而增加者，應由國家徵收土地增值稅，歸人民共享之。 國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則，並規定其適當經營之面積。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=143"
+    },
+    {
+      "article_no": 144,
+      "article_label": "第 144 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "公用事業及其他有獨佔性之企業，以公營為原則，其經法律許可者，得由國民經營之。"
+        }
+      ],
+      "text": "公用事業及其他有獨佔性之企業，以公營為原則，其經法律許可者，得由國民經營之。",
+      "text_lines": [
+        "公用事業及其他有獨佔性之企業，以公營為原則，其經法律許可者，得由國民經營之。"
+      ],
+      "paragraphs": [
+        "公用事業及其他有獨佔性之企業，以公營為原則，其經法律許可者，得由國民經營之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=144"
+    },
+    {
+      "article_no": 145,
+      "article_label": "第 145 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "國家對於私人財富及私營事業，認為有妨害國計民生之平衡發展者，應以法律限制之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "合作事業應受國家之獎勵與扶助。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "國民生產事業及對外貿易，應受國家之獎勵、指導及保護。"
+        }
+      ],
+      "text": "國家對於私人財富及私營事業，認為有妨害國計民生之平衡發展者，應以法律限制之。\n合作事業應受國家之獎勵與扶助。\n國民生產事業及對外貿易，應受國家之獎勵、指導及保護。",
+      "text_lines": [
+        "國家對於私人財富及私營事業，認為有妨害國計民生之平衡發展者，應以法律限制之。",
+        "合作事業應受國家之獎勵與扶助。",
+        "國民生產事業及對外貿易，應受國家之獎勵、指導及保護。"
+      ],
+      "paragraphs": [
+        "國家對於私人財富及私營事業，認為有妨害國計民生之平衡發展者，應以法律限制之。 合作事業應受國家之獎勵與扶助。 國民生產事業及對外貿易，應受國家之獎勵、指導及保護。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=145"
+    },
+    {
+      "article_no": 146,
+      "article_label": "第 146 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家應運用科學技術，以興修水利，增進地力，改善農業環境，規劃土地利用，開發農業資源，促成農業之工業化。"
+        }
+      ],
+      "text": "國家應運用科學技術，以興修水利，增進地力，改善農業環境，規劃土地利用，開發農業資源，促成農業之工業化。",
+      "text_lines": [
+        "國家應運用科學技術，以興修水利，增進地力，改善農業環境，規劃土地利用，開發農業資源，促成農業之工業化。"
+      ],
+      "paragraphs": [
+        "國家應運用科學技術，以興修水利，增進地力，改善農業環境，規劃土地利用，開發農業資源，促成農業之工業化。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=146"
+    },
+    {
+      "article_no": 147,
+      "article_label": "第 147 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "中央為謀省與省間之經濟平衡發展，對於貧瘠之省，應酌予補助。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "省為謀縣與縣間之經濟平衡發展，對於貧瘠之縣，應酌予補助。"
+        }
+      ],
+      "text": "中央為謀省與省間之經濟平衡發展，對於貧瘠之省，應酌予補助。\n省為謀縣與縣間之經濟平衡發展，對於貧瘠之縣，應酌予補助。",
+      "text_lines": [
+        "中央為謀省與省間之經濟平衡發展，對於貧瘠之省，應酌予補助。",
+        "省為謀縣與縣間之經濟平衡發展，對於貧瘠之縣，應酌予補助。"
+      ],
+      "paragraphs": [
+        "中央為謀省與省間之經濟平衡發展，對於貧瘠之省，應酌予補助。 省為謀縣與縣間之經濟平衡發展，對於貧瘠之縣，應酌予補助。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=147"
+    },
+    {
+      "article_no": 148,
+      "article_label": "第 148 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "中華民國領域內，一切貨物應許自由流通。"
+        }
+      ],
+      "text": "中華民國領域內，一切貨物應許自由流通。",
+      "text_lines": [
+        "中華民國領域內，一切貨物應許自由流通。"
+      ],
+      "paragraphs": [
+        "中華民國領域內，一切貨物應許自由流通。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=148"
+    },
+    {
+      "article_no": 149,
+      "article_label": "第 149 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "金融機構，應依法受國家之管理。"
+        }
+      ],
+      "text": "金融機構，應依法受國家之管理。",
+      "text_lines": [
+        "金融機構，應依法受國家之管理。"
+      ],
+      "paragraphs": [
+        "金融機構，應依法受國家之管理。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=149"
+    },
+    {
+      "article_no": 150,
+      "article_label": "第 150 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家應普設平民金融機構，以救濟失業。"
+        }
+      ],
+      "text": "國家應普設平民金融機構，以救濟失業。",
+      "text_lines": [
+        "國家應普設平民金融機構，以救濟失業。"
+      ],
+      "paragraphs": [
+        "國家應普設平民金融機構，以救濟失業。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=150"
+    },
+    {
+      "article_no": 151,
+      "article_label": "第 151 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 三 節 國民經濟",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家對於僑居國外之國民，應扶助並保護其經濟事業之發展。"
+        }
+      ],
+      "text": "國家對於僑居國外之國民，應扶助並保護其經濟事業之發展。",
+      "text_lines": [
+        "國家對於僑居國外之國民，應扶助並保護其經濟事業之發展。"
+      ],
+      "paragraphs": [
+        "國家對於僑居國外之國民，應扶助並保護其經濟事業之發展。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=151"
+    },
+    {
+      "article_no": 152,
+      "article_label": "第 152 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 四 節 社會安全",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "人民具有工作能力者，國家應予以適當之工作機會。"
+        }
+      ],
+      "text": "人民具有工作能力者，國家應予以適當之工作機會。",
+      "text_lines": [
+        "人民具有工作能力者，國家應予以適當之工作機會。"
+      ],
+      "paragraphs": [
+        "人民具有工作能力者，國家應予以適當之工作機會。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=152"
+    },
+    {
+      "article_no": 153,
+      "article_label": "第 153 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 四 節 社會安全",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "國家為改良勞工及農民之生活，增進其生產技能，應制定保護勞工及農民之法律，實施保護勞工及農民之政策。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "婦女兒童從事勞動者，應按其年齡及身體狀態，予以特別之保護。"
+        }
+      ],
+      "text": "國家為改良勞工及農民之生活，增進其生產技能，應制定保護勞工及農民之法律，實施保護勞工及農民之政策。\n婦女兒童從事勞動者，應按其年齡及身體狀態，予以特別之保護。",
+      "text_lines": [
+        "國家為改良勞工及農民之生活，增進其生產技能，應制定保護勞工及農民之法律，實施保護勞工及農民之政策。",
+        "婦女兒童從事勞動者，應按其年齡及身體狀態，予以特別之保護。"
+      ],
+      "paragraphs": [
+        "國家為改良勞工及農民之生活，增進其生產技能，應制定保護勞工及農民之法律，實施保護勞工及農民之政策。 婦女兒童從事勞動者，應按其年齡及身體狀態，予以特別之保護。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=153"
+    },
+    {
+      "article_no": 154,
+      "article_label": "第 154 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 四 節 社會安全",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "勞資雙方應本協調合作原則，發展生產事業。勞資糾紛之調解與仲裁，以法律定之。"
+        }
+      ],
+      "text": "勞資雙方應本協調合作原則，發展生產事業。勞資糾紛之調解與仲裁，以法律定之。",
+      "text_lines": [
+        "勞資雙方應本協調合作原則，發展生產事業。勞資糾紛之調解與仲裁，以法律定之。"
+      ],
+      "paragraphs": [
+        "勞資雙方應本協調合作原則，發展生產事業。勞資糾紛之調解與仲裁，以法律定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=154"
+    },
+    {
+      "article_no": 155,
+      "article_label": "第 155 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 四 節 社會安全",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家為謀社會福利，應實施社會保險制度。人民之老弱殘廢，無力生活，及受非常災害者，國家應予以適當之扶助與救濟。"
+        }
+      ],
+      "text": "國家為謀社會福利，應實施社會保險制度。人民之老弱殘廢，無力生活，及受非常災害者，國家應予以適當之扶助與救濟。",
+      "text_lines": [
+        "國家為謀社會福利，應實施社會保險制度。人民之老弱殘廢，無力生活，及受非常災害者，國家應予以適當之扶助與救濟。"
+      ],
+      "paragraphs": [
+        "國家為謀社會福利，應實施社會保險制度。人民之老弱殘廢，無力生活，及受非常災害者，國家應予以適當之扶助與救濟。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=155"
+    },
+    {
+      "article_no": 156,
+      "article_label": "第 156 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 四 節 社會安全",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家為奠定民族生存發展之基礎，應保護母性，並實施婦女兒童福利政策。"
+        }
+      ],
+      "text": "國家為奠定民族生存發展之基礎，應保護母性，並實施婦女兒童福利政策。",
+      "text_lines": [
+        "國家為奠定民族生存發展之基礎，應保護母性，並實施婦女兒童福利政策。"
+      ],
+      "paragraphs": [
+        "國家為奠定民族生存發展之基礎，應保護母性，並實施婦女兒童福利政策。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=156"
+    },
+    {
+      "article_no": 157,
+      "article_label": "第 157 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 四 節 社會安全",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家為增進民族健康，應普遍推行衛生保健事業及公醫制度。"
+        }
+      ],
+      "text": "國家為增進民族健康，應普遍推行衛生保健事業及公醫制度。",
+      "text_lines": [
+        "國家為增進民族健康，應普遍推行衛生保健事業及公醫制度。"
+      ],
+      "paragraphs": [
+        "國家為增進民族健康，應普遍推行衛生保健事業及公醫制度。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=157"
+    },
+    {
+      "article_no": 158,
+      "article_label": "第 158 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "教育文化，應發展國民之民族精神、自治精神、國民道德、健全體格、科學及生活智能。"
+        }
+      ],
+      "text": "教育文化，應發展國民之民族精神、自治精神、國民道德、健全體格、科學及生活智能。",
+      "text_lines": [
+        "教育文化，應發展國民之民族精神、自治精神、國民道德、健全體格、科學及生活智能。"
+      ],
+      "paragraphs": [
+        "教育文化，應發展國民之民族精神、自治精神、國民道德、健全體格、科學及生活智能。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=158"
+    },
+    {
+      "article_no": 159,
+      "article_label": "第 159 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國民受教育之機會，一律平等。"
+        }
+      ],
+      "text": "國民受教育之機會，一律平等。",
+      "text_lines": [
+        "國民受教育之機會，一律平等。"
+      ],
+      "paragraphs": [
+        "國民受教育之機會，一律平等。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=159"
+    },
+    {
+      "article_no": 160,
+      "article_label": "第 160 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "六歲至十二歲之學齡兒童，一律受基本教育，免納學費。其貧苦者，由政府供給書籍。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "已逾學齡未受基本教育之國民，一律受補習教育，免納學費，其書籍亦由政府供給。"
+        }
+      ],
+      "text": "六歲至十二歲之學齡兒童，一律受基本教育，免納學費。其貧苦者，由政府供給書籍。\n已逾學齡未受基本教育之國民，一律受補習教育，免納學費，其書籍亦由政府供給。",
+      "text_lines": [
+        "六歲至十二歲之學齡兒童，一律受基本教育，免納學費。其貧苦者，由政府供給書籍。",
+        "已逾學齡未受基本教育之國民，一律受補習教育，免納學費，其書籍亦由政府供給。"
+      ],
+      "paragraphs": [
+        "六歲至十二歲之學齡兒童，一律受基本教育，免納學費。其貧苦者，由政府供給書籍。 已逾學齡未受基本教育之國民，一律受補習教育，免納學費，其書籍亦由政府供給。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=160"
+    },
+    {
+      "article_no": 161,
+      "article_label": "第 161 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "各級政府應廣設獎學金名額，以扶助學行俱優無力升學之學生。"
+        }
+      ],
+      "text": "各級政府應廣設獎學金名額，以扶助學行俱優無力升學之學生。",
+      "text_lines": [
+        "各級政府應廣設獎學金名額，以扶助學行俱優無力升學之學生。"
+      ],
+      "paragraphs": [
+        "各級政府應廣設獎學金名額，以扶助學行俱優無力升學之學生。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=161"
+    },
+    {
+      "article_no": 162,
+      "article_label": "第 162 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "全國公私立之教育文化機關，依法律受國家之監督。"
+        }
+      ],
+      "text": "全國公私立之教育文化機關，依法律受國家之監督。",
+      "text_lines": [
+        "全國公私立之教育文化機關，依法律受國家之監督。"
+      ],
+      "paragraphs": [
+        "全國公私立之教育文化機關，依法律受國家之監督。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=162"
+    },
+    {
+      "article_no": 163,
+      "article_label": "第 163 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家應注重各地區教育之均衡發展，並推行社會教育，以提高一般國民之文化水準，邊遠及貧瘠地區之教育文化經費，由國庫補助之。其重要之教育文化事業，得由中央辦理或補助之。"
+        }
+      ],
+      "text": "國家應注重各地區教育之均衡發展，並推行社會教育，以提高一般國民之文化水準，邊遠及貧瘠地區之教育文化經費，由國庫補助之。其重要之教育文化事業，得由中央辦理或補助之。",
+      "text_lines": [
+        "國家應注重各地區教育之均衡發展，並推行社會教育，以提高一般國民之文化水準，邊遠及貧瘠地區之教育文化經費，由國庫補助之。其重要之教育文化事業，得由中央辦理或補助之。"
+      ],
+      "paragraphs": [
+        "國家應注重各地區教育之均衡發展，並推行社會教育，以提高一般國民之文化水準，邊遠及貧瘠地區之教育文化經費，由國庫補助之。其重要之教育文化事業，得由中央辦理或補助之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=163"
+    },
+    {
+      "article_no": 164,
+      "article_label": "第 164 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "教育、科學、文化之經費，在中央不得少於其預算總額百分之十五，在省不得少於其預算總額百分之二十五，在市縣不得少於其預算總額百分之三十五。其依法設置之教育文化基金及產業，應予以保障。"
+        }
+      ],
+      "text": "教育、科學、文化之經費，在中央不得少於其預算總額百分之十五，在省不得少於其預算總額百分之二十五，在市縣不得少於其預算總額百分之三十五。其依法設置之教育文化基金及產業，應予以保障。",
+      "text_lines": [
+        "教育、科學、文化之經費，在中央不得少於其預算總額百分之十五，在省不得少於其預算總額百分之二十五，在市縣不得少於其預算總額百分之三十五。其依法設置之教育文化基金及產業，應予以保障。"
+      ],
+      "paragraphs": [
+        "教育、科學、文化之經費，在中央不得少於其預算總額百分之十五，在省不得少於其預算總額百分之二十五，在市縣不得少於其預算總額百分之三十五。其依法設置之教育文化基金及產業，應予以保障。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=164"
+    },
+    {
+      "article_no": 165,
+      "article_label": "第 165 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家應保障教育、科學、藝術工作者之生活，並依國民經濟之進展，隨時提高其待遇。"
+        }
+      ],
+      "text": "國家應保障教育、科學、藝術工作者之生活，並依國民經濟之進展，隨時提高其待遇。",
+      "text_lines": [
+        "國家應保障教育、科學、藝術工作者之生活，並依國民經濟之進展，隨時提高其待遇。"
+      ],
+      "paragraphs": [
+        "國家應保障教育、科學、藝術工作者之生活，並依國民經濟之進展，隨時提高其待遇。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=165"
+    },
+    {
+      "article_no": 166,
+      "article_label": "第 166 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家應獎勵科學之發明與創造，並保護有關歷史、文化、藝術之古蹟、古物。"
+        }
+      ],
+      "text": "國家應獎勵科學之發明與創造，並保護有關歷史、文化、藝術之古蹟、古物。",
+      "text_lines": [
+        "國家應獎勵科學之發明與創造，並保護有關歷史、文化、藝術之古蹟、古物。"
+      ],
+      "paragraphs": [
+        "國家應獎勵科學之發明與創造，並保護有關歷史、文化、藝術之古蹟、古物。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=166"
+    },
+    {
+      "article_no": 167,
+      "article_label": "第 167 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 五 節 教育文化",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家對於左列事業或個人，予以獎勵或補助："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　國內私人經營之教育事業成績優良者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　僑居國外國民之教育事業成績優良者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "三　於學術或技術有發明者。"
+        },
+        {
+          "class": "line-0004",
+          "text": "四　從事教育久於其職而成績優良者。"
+        }
+      ],
+      "text": "國家對於左列事業或個人，予以獎勵或補助：\n一　國內私人經營之教育事業成績優良者。\n二　僑居國外國民之教育事業成績優良者。\n三　於學術或技術有發明者。\n四　從事教育久於其職而成績優良者。",
+      "text_lines": [
+        "國家對於左列事業或個人，予以獎勵或補助：",
+        "一　國內私人經營之教育事業成績優良者。",
+        "二　僑居國外國民之教育事業成績優良者。",
+        "三　於學術或技術有發明者。",
+        "四　從事教育久於其職而成績優良者。"
+      ],
+      "paragraphs": [
+        "國家對於左列事業或個人，予以獎勵或補助： 一 國內私人經營之教育事業成績優良者。 二 僑居國外國民之教育事業成績優良者。 三 於學術或技術有發明者。 四 從事教育久於其職而成績優良者。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=167"
+    },
+    {
+      "article_no": 168,
+      "article_label": "第 168 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 六 節 邊疆地區",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家對於邊疆地區各民族之地位，應予以合法之保障，並於其地方自治事業，特別予以扶植。"
+        }
+      ],
+      "text": "國家對於邊疆地區各民族之地位，應予以合法之保障，並於其地方自治事業，特別予以扶植。",
+      "text_lines": [
+        "國家對於邊疆地區各民族之地位，應予以合法之保障，並於其地方自治事業，特別予以扶植。"
+      ],
+      "paragraphs": [
+        "國家對於邊疆地區各民族之地位，應予以合法之保障，並於其地方自治事業，特別予以扶植。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=168"
+    },
+    {
+      "article_no": 169,
+      "article_label": "第 169 條",
+      "chapter": "第 十三 章 基本國策",
+      "section": "第 六 節 邊疆地區",
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "國家對於邊疆地區各民族之教育、文化、交通、水利、衛生及其他經濟、社會事業，應積極舉辦，並扶助其發展，對於土地使用，應依其氣候、土壤性質，及人民生活習慣之所宜，予以保障及發展。"
+        }
+      ],
+      "text": "國家對於邊疆地區各民族之教育、文化、交通、水利、衛生及其他經濟、社會事業，應積極舉辦，並扶助其發展，對於土地使用，應依其氣候、土壤性質，及人民生活習慣之所宜，予以保障及發展。",
+      "text_lines": [
+        "國家對於邊疆地區各民族之教育、文化、交通、水利、衛生及其他經濟、社會事業，應積極舉辦，並扶助其發展，對於土地使用，應依其氣候、土壤性質，及人民生活習慣之所宜，予以保障及發展。"
+      ],
+      "paragraphs": [
+        "國家對於邊疆地區各民族之教育、文化、交通、水利、衛生及其他經濟、社會事業，應積極舉辦，並扶助其發展，對於土地使用，應依其氣候、土壤性質，及人民生活習慣之所宜，予以保障及發展。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=169"
+    },
+    {
+      "article_no": 170,
+      "article_label": "第 170 條",
+      "chapter": "第 十四 章 憲法之施行及修改",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "本憲法所稱之法律，謂經立法院通過，總統公布之法律。"
+        }
+      ],
+      "text": "本憲法所稱之法律，謂經立法院通過，總統公布之法律。",
+      "text_lines": [
+        "本憲法所稱之法律，謂經立法院通過，總統公布之法律。"
+      ],
+      "paragraphs": [
+        "本憲法所稱之法律，謂經立法院通過，總統公布之法律。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=170"
+    },
+    {
+      "article_no": 171,
+      "article_label": "第 171 條",
+      "chapter": "第 十四 章 憲法之施行及修改",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "法律與憲法牴觸者無效。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "法律與憲法有無牴觸發生疑義時，由司法院解釋之。"
+        }
+      ],
+      "text": "法律與憲法牴觸者無效。\n法律與憲法有無牴觸發生疑義時，由司法院解釋之。",
+      "text_lines": [
+        "法律與憲法牴觸者無效。",
+        "法律與憲法有無牴觸發生疑義時，由司法院解釋之。"
+      ],
+      "paragraphs": [
+        "法律與憲法牴觸者無效。 法律與憲法有無牴觸發生疑義時，由司法院解釋之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=171"
+    },
+    {
+      "article_no": 172,
+      "article_label": "第 172 條",
+      "chapter": "第 十四 章 憲法之施行及修改",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "命令與憲法或法律牴觸者無效。"
+        }
+      ],
+      "text": "命令與憲法或法律牴觸者無效。",
+      "text_lines": [
+        "命令與憲法或法律牴觸者無效。"
+      ],
+      "paragraphs": [
+        "命令與憲法或法律牴觸者無效。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=172"
+    },
+    {
+      "article_no": 173,
+      "article_label": "第 173 條",
+      "chapter": "第 十四 章 憲法之施行及修改",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "憲法之解釋，由司法院為之。"
+        }
+      ],
+      "text": "憲法之解釋，由司法院為之。",
+      "text_lines": [
+        "憲法之解釋，由司法院為之。"
+      ],
+      "paragraphs": [
+        "憲法之解釋，由司法院為之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=173"
+    },
+    {
+      "article_no": 174,
+      "article_label": "第 174 條",
+      "chapter": "第 十四 章 憲法之施行及修改",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000",
+          "text": "憲法之修改，應依左列程序之一為之："
+        },
+        {
+          "class": "line-0004",
+          "text": "一　由國民大會代表總額五分之一之提議，三分之二之出席，及出席代表四分之三之決議，得修改之。"
+        },
+        {
+          "class": "line-0004",
+          "text": "二　由立法院立法委員四分之一之提議，四分之三之出席，及出席委員四分之三之決議，擬定憲法修正案，提請國民大會複決。此項憲法修正案，應於國民大會開會前半年公告之。"
+        }
+      ],
+      "text": "憲法之修改，應依左列程序之一為之：\n一　由國民大會代表總額五分之一之提議，三分之二之出席，及出席代表四分之三之決議，得修改之。\n二　由立法院立法委員四分之一之提議，四分之三之出席，及出席委員四分之三之決議，擬定憲法修正案，提請國民大會複決。此項憲法修正案，應於國民大會開會前半年公告之。",
+      "text_lines": [
+        "憲法之修改，應依左列程序之一為之：",
+        "一　由國民大會代表總額五分之一之提議，三分之二之出席，及出席代表四分之三之決議，得修改之。",
+        "二　由立法院立法委員四分之一之提議，四分之三之出席，及出席委員四分之三之決議，擬定憲法修正案，提請國民大會複決。此項憲法修正案，應於國民大會開會前半年公告之。"
+      ],
+      "paragraphs": [
+        "憲法之修改，應依左列程序之一為之： 一 由國民大會代表總額五分之一之提議，三分之二之出席，及出席代表四分之三之決議，得修改之。 二 由立法院立法委員四分之一之提議，四分之三之出席，及出席委員四分之三之決議，擬定憲法修正案，提請國民大會複決。此項憲法修正案，應於國民大會開會前半年公告之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=174"
+    },
+    {
+      "article_no": 175,
+      "article_label": "第 175 條",
+      "chapter": "第 十四 章 憲法之施行及修改",
+      "section": null,
+      "lines": [
+        {
+          "class": "line-0000 show-number",
+          "text": "本憲法規定事項，有另定實施程序之必要者，以法律定之。"
+        },
+        {
+          "class": "line-0000 show-number",
+          "text": "本憲法施行之準備程序，由制定憲法之國民大會議定之。"
+        }
+      ],
+      "text": "本憲法規定事項，有另定實施程序之必要者，以法律定之。\n本憲法施行之準備程序，由制定憲法之國民大會議定之。",
+      "text_lines": [
+        "本憲法規定事項，有另定實施程序之必要者，以法律定之。",
+        "本憲法施行之準備程序，由制定憲法之國民大會議定之。"
+      ],
+      "paragraphs": [
+        "本憲法規定事項，有另定實施程序之必要者，以法律定之。 本憲法施行之準備程序，由制定憲法之國民大會議定之。"
+      ],
+      "official_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=175"
+    }
+  ],
+  "article_count": 175
+}

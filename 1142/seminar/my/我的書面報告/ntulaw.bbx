@@ -1,0 +1,465 @@
+\ProvidesFile{ntulaw.bbx}[2026/03/05 NTU law style]
+
+\RequireBibliographyStyle{numeric}
+
+% Legal-like entry types fallback.
+\DeclareBibliographyAlias{legislation}{misc}
+\DeclareBibliographyAlias{jurisdiction}{misc}
+\DeclareBibliographyAlias{legal}{misc}
+\DeclareBibliographyAlias{case}{misc}
+
+\DeclareFieldFormat{url}{\url{#1}}
+\newcommand{\bbxtwodigits}[1]{\ifnum#1<10 0#1\else #1\fi}
+\newcommand{\ifchineselang}[2]{%
+  \ifboolexpr{
+    test {\iffieldequalstr{langid}{chinese}}
+    or
+    test {\iffieldequalstr{langid}{chinese-traditional}}
+  }{#1}{#2}}
+\newcommand{\ifgermanlang}[2]{%
+  \ifboolexpr{
+    test {\iffieldequalstr{langid}{german}}
+    or
+    test {\iffieldequalstr{langid}{ngerman}}
+  }{#1}{#2}}
+\newcommand{\ifdynamicpage}[2]{%
+  \ifboolexpr{
+    test {\iffieldequalstr{entrysubtype}{dynamic}}
+  }{#1}{#2}}
+\newcommand{\ifentryhasdate}[2]{%
+  \ifboolexpr{
+    not test {\iffieldundef{date}}
+    or
+    not test {\iffieldundef{year}}
+  }{#1}{#2}}
+
+\DeclareFieldFormat{urldate}{%
+  \ifchineselang
+    {（最後瀏覽日：\thefield{urlyear}/\bbxtwodigits{\thefield{urlmonth}}/\bbxtwodigits{\thefield{urlday}}）}%
+    {(last visited \thefield{urlyear}/\bbxtwodigits{\thefield{urlmonth}}/\bbxtwodigits{\thefield{urlday}})}%
+}
+
+\newbibmacro*{ntu:urldate:zhparen}{%
+  \iffieldundef{urlyear}{}%
+    {（最後瀏覽日：\thefield{urlyear}/\bbxtwodigits{\thefield{urlmonth}}/\bbxtwodigits{\thefield{urlday}}）}}
+
+\newbibmacro*{ntu:urldate:deparen}{%
+  \iffieldundef{urlyear}{}%
+    {(zuletzt besucht am \thefield{urlyear}/\bbxtwodigits{\thefield{urlmonth}}/\bbxtwodigits{\thefield{urlday}})}}
+
+% We control punctuation in each driver.
+\renewcommand*{\finentrypunct}{}
+\providecommand*{\ntufinalpunct}{。}
+\newcommand{\cjkcomma}{，}
+\newcommand{\cjkcolon}{：}
+
+\newbibmacro*{ntu:author}{%
+  \ifnameundef{author}
+    {\ifnameundef{editor}
+       {\ifboolexpr{ not test {\iffieldundef{organization}} }
+          {\printfield{organization}}
+          {\printfield{publisher}}}
+       {\printnames{editor}}}
+    {\printnames{author}}}
+
+\newbibmacro*{ntu:authoronly}{%
+  \ifnameundef{author}
+    {\ifnameundef{editor}
+       {}
+       {\printnames{editor}}}
+    {\printnames{author}}}
+
+\newbibmacro*{ntu:site}{%
+  \iffieldundef{organization}
+    {\iffieldundef{journaltitle}
+       {\printfield{publisher}}
+       {\printfield{journaltitle}}}
+    {\printfield{organization}}}
+
+\newbibmacro*{ntu:publisher+institution}{%
+  \iffieldundef{institution}
+    {\iffieldundef{publisher}{}{\printfield{publisher}}}
+    {\printfield{institution}}}
+
+\newbibmacro*{ntu:officialsite}{%
+  \iffieldundef{organization}
+    {\iffieldundef{institution}
+       {\iffieldundef{publisher}{}{\printfield{publisher}}}
+       {\printfield{institution}}}
+    {\printfield{organization}}}
+
+\newbibmacro*{ntu:year:zh}{%
+  \iffieldundef{year}{}{
+    \printfield{year}年}}
+
+\newbibmacro*{ntu:year:en}{%
+  \iffieldundef{year}{}{
+    \printfield{year}}}
+
+\newbibmacro*{ntu:date:ymd:zh}{%
+  \iffieldundef{year}{}{%
+    \thefield{year}年%
+    \iffieldundef{month}{}{\thefield{month}月%
+      \iffieldundef{day}{}{\thefield{day}日}}}}
+
+\newbibmacro*{ntu:date:ymd:en}{%
+  \iffieldundef{year}{}{%
+    \thefield{year}%
+    \iffieldundef{month}{}{/\bbxtwodigits{\thefield{month}}%
+      \iffieldundef{day}{}{/\bbxtwodigits{\thefield{day}}}}}}
+
+\newbibmacro*{ntu:pages:zh}{%
+  \iffieldundef{pages}{}{頁\printfield{pages}}}
+
+\newbibmacro*{ntu:volnum:zh}{%
+  \iffieldundef{volume}{}{\printfield{volume} 卷}%
+  \iffieldundef{number}{}{\space\printfield{number} 期}}
+
+\newbibmacro*{ntu:edition:zh}{%
+  \iffieldundef{edition}{}{
+    \printfield{edition}版}}
+
+\newbibmacro*{ntu:edition:en}{%
+  \iffieldundef{edition}{}{
+    \printfield{edition}\space ed.}}
+
+\newbibmacro*{online:foreign}{%
+  \ifnameundef{author}
+    {\ifnameundef{editor}
+       {}
+       {\usebibmacro{ntu:authoronly}\setunit{\addcomma\space}}}
+    {\usebibmacro{ntu:authoronly}\setunit{\addcomma\space}}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \iffieldundef{organization}
+    {\ifboolexpr{ test {\iffieldundef{institution}} and test {\iffieldundef{publisher}} }
+       {}
+       {\setunit{\addcomma\space}\printtext{\textsc{\usebibmacro{ntu:officialsite}}}}}
+    {\setunit{\addcomma\space}\printtext{\textsc{\usebibmacro{ntu:officialsite}}}}%
+  \iffieldundef{year}{}{\setunit{\addspace}\mkbibparens{\usebibmacro{ntu:date:ymd:en}}}%
+  \setunit{\addcomma\space}%
+  \printfield{url}%
+  \ifboolexpr{
+    not test {\iffieldequalstr{entrysubtype}{dynamic}}
+  }{\ifentryhasdate{}{\setunit{\addcomma\space}\printurldate}}%
+   {\setunit{\addcomma\space}\printurldate}%
+  \addperiod}
+
+\newbibmacro*{online:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:site}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:date:ymd:zh}%
+  \setunit{\cjkcomma}%
+  \printfield{url}%
+  \ifboolexpr{
+    not test {\iffieldequalstr{entrysubtype}{dynamic}}
+  }{\ifentryhasdate{}{\setunit{}\printurldate}}%
+   {\setunit{}\printurldate}}
+
+\newbibmacro*{online:german}{%
+  \usebibmacro{ntu:author}%
+  \iffieldundef{year}{}{\printtext{\space(\printfield{year})}}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \setunit{\addcomma\space}%
+  \printtext{in:\space}%
+  \printfield{url}%
+  \ifboolexpr{
+    not test {\iffieldequalstr{entrysubtype}{dynamic}}
+  }{\ifentryhasdate{}{\setunit{}\usebibmacro{ntu:urldate:deparen}}}%
+   {\setunit{}\usebibmacro{ntu:urldate:deparen}}%
+  \addperiod}
+
+\newbibmacro*{article:foreign}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \iffieldundef{journaltitle}{}{\setunit{\addcomma\space}\printfield{journaltitle}}%
+  \iffieldundef{volume}{}{\setunit{\addcomma\space}\printfield{volume}}%
+  \iffieldundef{number}{}{\setunit{\addspace}\mkbibparens{\printfield{number}}}%
+  \iffieldundef{pages}{}{\setunit{\addcomma\space}\printfield{pages}}%
+  \iffieldundef{year}{}{\setunit{\addcomma\space}\usebibmacro{ntu:year:en}}%
+  \addperiod}
+
+\newbibmacro*{article:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \setunit{\cjkcomma}%
+  \printfield{journaltitle}%
+  \iffieldundef{volume}{}{\setunit{\cjkcomma}\usebibmacro{ntu:volnum:zh}}%
+  \iffieldundef{pages}{}{\setunit{\cjkcomma}\usebibmacro{ntu:pages:zh}}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:year:zh}%
+  \printtext{\ntufinalpunct}}
+
+\newbibmacro*{article:german}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \setunit{\addcomma\space}%
+  \printfield{journaltitle}%
+  \setunit{\addspace}%
+  \printfield{year}%
+  \iffieldundef{number}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{number}}%
+  \iffieldundef{pages}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{pages}}%
+  \addperiod}
+
+\newbibmacro*{book:foreign}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \iffieldundef{edition}{}{\setunit{\addcomma\space}\usebibmacro{ntu:edition:en}}%
+  \iffieldundef{year}{}{\setunit{\addcomma\space}\usebibmacro{ntu:year:en}}%
+  \addperiod}
+
+\newbibmacro*{book:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \iffieldundef{edition}{}{\setunit{\cjkcomma}\usebibmacro{ntu:edition:zh}}%
+  \iffieldundef{pages}{}{\setunit{\cjkcomma}\usebibmacro{ntu:pages:zh}}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:year:zh}%
+  \printtext{\ntufinalpunct}}
+
+\newbibmacro*{book:german}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \iffieldundef{edition}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{edition}\space Aufl.}%
+  \iffieldundef{year}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{year}}%
+  \iffieldundef{pages}{}{%
+    \setunit{\addcomma\space}%
+    \printtext{S.\space\printfield{pages}}}%
+  \addperiod}
+
+\newbibmacro*{incollection:foreign}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \setunit{\addcomma\space}%
+  \printtext{in\space\printfield{booktitle}}%
+  \ifnameundef{editor}{}{\setunit{\addcomma\space}\printnames{editor}\printtext{\space ed.}}%
+  \iffieldundef{pages}{}{\setunit{\addspace}\printfield{pages}}%
+  \iffieldundef{year}{}{\setunit{\addcomma\space}\usebibmacro{ntu:year:en}}%
+  \addperiod}
+
+\newbibmacro*{incollection:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \setunit{\cjkcomma}%
+  \printtext{收於\cjkcolon}%
+  \printnames{editor}%
+  \printtext{編}%
+  \setunit{\cjkcomma}%
+  \printfield{booktitle}%
+  \iffieldundef{pages}{}{\setunit{\cjkcomma}\usebibmacro{ntu:pages:zh}}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:year:zh}%
+  \printtext{\ntufinalpunct}}
+
+\newbibmacro*{incollection:german}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \setunit{\addcomma\space}%
+  \printtext{in:\space}%
+  \printnames{editor}%
+  \printtext{\space(Hrsg.),\space}%
+  \printfield{booktitle}%
+  \iffieldundef{edition}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{edition}\space Aufl.}%
+  \iffieldundef{year}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{year}}%
+  \iffieldundef{pages}{}{%
+    \setunit{\addcomma\space}%
+    \printtext{S.\space\printfield{pages}}}%
+  \addperiod}
+
+\newbibmacro*{thesis:foreign}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \iffieldundef{type}{}{\setunit{\addcomma\space}\printfield{type}}%
+  \iffieldundef{institution}{}{\setunit{\addcomma\space}\printfield{institution}}%
+  \iffieldundef{year}{}{\setunit{\addcomma\space}\usebibmacro{ntu:year:en}}%
+  \addperiod}
+
+\newbibmacro*{thesis:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \iffieldundef{type}{}{\setunit{\cjkcomma}\printfield{type}}%
+  \iffieldundef{institution}{}{\setunit{\cjkcomma}\printfield{institution}}%
+  \iffieldundef{pages}{}{\setunit{\cjkcomma}\usebibmacro{ntu:pages:zh}}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:year:zh}%
+  \printtext{\ntufinalpunct}}
+
+\newbibmacro*{thesis:german}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \iffieldundef{type}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{type}}%
+  \iffieldundef{institution}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{institution}}%
+  \iffieldundef{year}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{year}}%
+  \iffieldundef{pages}{}{%
+    \setunit{\addcomma\space}%
+    \printtext{S.\space\printfield{pages}}}%
+  \addperiod}
+
+\newbibmacro*{report:foreign}{%
+  \ifnameundef{author}
+    {\ifnameundef{editor}
+       {}
+       {\usebibmacro{ntu:authoronly}\setunit{\addcomma\space}}}
+    {\usebibmacro{ntu:authoronly}\setunit{\addcomma\space}}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \iffieldundef{type}{}{\setunit{\addcomma\space}\printfield{type}}%
+  \iffieldundef{number}{}{\setunit{\addcomma\space}\printfield{number}}%
+  \iffieldundef{institution}
+    {\iffieldundef{publisher}{}{\setunit{\addcomma\space}\printtext{\textsc{\usebibmacro{ntu:publisher+institution}}}}}
+    {\setunit{\addcomma\space}\printtext{\textsc{\usebibmacro{ntu:publisher+institution}}}}%
+  \iffieldundef{year}{}{\setunit{\addcomma\space}\usebibmacro{ntu:year:en}}%
+  \addperiod}
+
+\newbibmacro*{report:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \iffieldundef{type}{}{\setunit{\cjkcomma}\printfield{type}}%
+  \iffieldundef{number}{}{\setunit{\cjkcomma}\printfield{number}}%
+  \iffieldundef{institution}{}{\setunit{\cjkcomma}\printfield{institution}}%
+  \setunit{\cjkcomma}%
+  \usebibmacro{ntu:year:zh}%
+  \printtext{\ntufinalpunct}}
+
+\newbibmacro*{report:german}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \iffieldundef{type}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{type}}%
+  \iffieldundef{number}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{number}}%
+  \iffieldundef{institution}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{institution}}%
+  \iffieldundef{year}{}{%
+    \setunit{\addcomma\space}%
+    \printfield{year}}%
+  \addperiod}
+
+\newbibmacro*{misc:foreign}{%
+  \ifnameundef{author}
+    {\ifnameundef{editor}
+       {}
+       {\usebibmacro{ntu:authoronly}\setunit{\addcomma\space}}}
+    {\usebibmacro{ntu:authoronly}\setunit{\addcomma\space}}%
+  \printtext{\mkbibemph{\printfield{title}}}%
+  \iffieldundef{organization}
+    {\ifboolexpr{ test {\iffieldundef{institution}} and test {\iffieldundef{publisher}} }
+       {}
+       {\setunit{\addcomma\space}\printtext{\textsc{\usebibmacro{ntu:officialsite}}}}}
+    {\setunit{\addcomma\space}\printtext{\usebibmacro{ntu:officialsite}}}%
+  \iffieldundef{year}{}{\setunit{\addspace}\mkbibparens{\usebibmacro{ntu:date:ymd:en}}}%
+  \iffieldundef{url}{}{\setunit{\addcomma\space}\printfield{url}}%
+  \iffieldundef{year}{\iffieldundef{urlyear}{}{\setunit{\addcomma\space}\printurldate}}{}%
+  \addperiod}
+
+\newbibmacro*{misc:chinese}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\cjkcomma}%
+  \printfield{title}%
+  \iffieldundef{year}{}{\setunit{\cjkcomma}\usebibmacro{ntu:year:zh}}%
+  \iffieldundef{url}{}{\setunit{\cjkcomma}\printfield{url}}%
+  \iffieldundef{urlyear}{}{\setunit{}\printurldate}%
+  \printtext{\ntufinalpunct}}
+
+\newbibmacro*{misc:german}{%
+  \usebibmacro{ntu:author}%
+  \setunit{\addcomma\space}%
+  \printfield{title}%
+  \iffieldundef{year}{}{\setunit{\addcomma\space}\printfield{year}}%
+  \iffieldundef{url}{}{\setunit{\addcomma\space}\printtext{in\space}\printfield{url}}%
+  \iffieldundef{urlyear}{}{\setunit{}\printurldate}%
+  \addperiod}
+
+\DeclareBibliographyDriver{online}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{online:chinese}\printtext{\ntufinalpunct}}
+    {\ifgermanlang{\usebibmacro{online:german}}{\usebibmacro{online:foreign}}}%
+  \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{article}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{article:chinese}}
+    {\ifgermanlang{\usebibmacro{article:german}}{\usebibmacro{article:foreign}}}%
+  \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{book}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{book:chinese}}
+    {\ifgermanlang{\usebibmacro{book:german}}{\usebibmacro{book:foreign}}}%
+  \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{incollection}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{incollection:chinese}}
+    {\ifgermanlang{\usebibmacro{incollection:german}}{\usebibmacro{incollection:foreign}}}%
+  \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{thesis}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{thesis:chinese}}
+    {\ifgermanlang{\usebibmacro{thesis:german}}{\usebibmacro{thesis:foreign}}}%
+  \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{report}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{report:chinese}}
+    {\ifgermanlang{\usebibmacro{report:german}}{\usebibmacro{report:foreign}}}%
+  \usebibmacro{finentry}}
+
+\DeclareBibliographyDriver{misc}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \ifchineselang
+    {\usebibmacro{misc:chinese}}
+    {\ifgermanlang{\usebibmacro{misc:german}}{\usebibmacro{misc:foreign}}}%
+  \usebibmacro{finentry}}

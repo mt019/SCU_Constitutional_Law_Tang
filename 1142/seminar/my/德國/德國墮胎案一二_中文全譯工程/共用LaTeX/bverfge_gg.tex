@@ -1,0 +1,172 @@
+% bverfge_gg.tex — 德國墮胎案 GG 條文腳註共用定義
+% 使用方式：在各案 .tex 中先定義 \ggversionde/\ggversionzh，再 \input{../../共用LaTeX/bverfge_gg}
+
+% ===== GG 版本旗標（\ggversionde/zh 由各案在 \input{../../共用LaTeX/bverfge_gg} 之前定義）=====
+\newif\ifggversionnotede
+\newif\ifggversionnotezh
+
+% ===== 編者註腳基礎設施（首次標記模式）=====
+\newif\ifeditornotelabelde
+\newif\ifeditornotelabelzh
+\newcommand{\editornotelabelde}{\ifeditornotelabelde\else\emph{Hrsg.-Anm. (nachfolgend ohne Kennzeichnung)}: \global\editornotelabeldetrue\fi}
+\newcommand{\editornotelabelzh}{\ifeditornotelabelzh\else 編者註（下同）：\global\editornotelabelzhtrue\fi}
+\newcommand{\editornotede}[1]{\ifshoweditornotes\footnote{\normalfont\footnotesize\editornotelabelde #1}\else\ifclassroommode\footnote{\normalfont\footnotesize\editornotelabelde #1}\fi\fi}
+\newcommand{\editornotezh}[1]{\ifshoweditornotes\footnote{\normalfont\footnotesize\editornotelabelzh #1}\else\ifclassroommode\footnote{\normalfont\footnotesize\editornotelabelzh #1}\fi\fi}
+
+% ===== GG 引用系統（\ggversionde/zh 由各案在 \input 前定義）=====
+\newcommand{\ggmarknotede}[1]{\global\expandafter\let\csname ggnoteseen@de@#1\endcsname\empty}
+\newcommand{\ggmarknotezh}[1]{\global\expandafter\let\csname ggnoteseen@zh@#1\endcsname\empty}
+\newcommand{\ggnotedeonce}[2]{\ifcsname ggnoteseen@de@#1\endcsname\else\global\expandafter\let\csname ggnoteseen@de@#1\endcsname\empty\ggnotede{#2}\fi}
+\newcommand{\ggnotezhonce}[2]{\ifcsname ggnoteseen@zh@#1\endcsname\else\global\expandafter\let\csname ggnoteseen@zh@#1\endcsname\empty\ggnotezh{#2}\fi}
+\newcommand{\ggnotede}[1]{\editornotede{\ggversionde #1}}
+\newcommand{\ggnotezh}[1]{\editornotezh{\ggversionzh #1}}
+
+% ===== Art. 1 =====
+\newcommand{\ggfnArtOneOneDE}{\ggnotedeonce{art-1-1}{Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.''}}
+\newcommand{\ggfnArtOneOneZH}{\ggnotezhonce{art-1-1}{第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」}}
+\newcommand{\ggfnArtOneOneTwoDE}{\ggnotedeonce{art-1-1-2}{Art. 1 Abs. 1 Satz 2: ``Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.''}}
+\newcommand{\ggfnArtOneOneTwoZH}{\ggnotezhonce{art-1-1-2}{第1條第1項第2句：「尊重及保護之，為一切國家權力之義務。」}}
+
+% ===== Art. 2 =====
+\newcommand{\ggfnArtTwoOneDE}{\ggnotedeonce{art-2-1}{Art. 2 Abs. 1: ``Jeder hat das Recht auf die freie Entfaltung seiner Persoenlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmaessige Ordnung oder das Sittengesetz verstoesst.''}}
+\newcommand{\ggfnArtTwoOneZH}{\ggnotezhonce{art-2-1}{第2條第1項：「人人有自由發展其人格之權利，但不得侵害他人權利，亦不得違反合憲秩序或道德律。」}}
+% 簡易預設版（墮胎一案以 \renewcommand 覆寫為含條件邏輯之版本）
+\newcommand{\ggfnArtTwoTwoDE}{\ggnotedeonce{art-2-2}{Art. 2 Abs. 2: ``Jeder hat das Recht auf Leben und koerperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.''}\ggmarknotede{art-2-2-1}}
+\newcommand{\ggfnArtTwoTwoZH}{\ggnotezhonce{art-2-2}{第2條第2項：「人人有生命與身體完整性之權利。人身自由不可侵犯。此等權利僅得依法律加以干預。」}\ggmarknotezh{art-2-2-1}}
+\newcommand{\ggfnArtTwoTwoOneDE}{\ggnotedeonce{art-2-2-1}{Art. 2 Abs. 2 Satz 1: ``Jeder hat das Recht auf Leben und koerperliche Unversehrtheit.''}}
+\newcommand{\ggfnArtTwoTwoOneZH}{\ggnotezhonce{art-2-2-1}{第2條第2項第1句：「人人有生命與身體完整性之權利。」}}
+\newcommand{\ggfnArtTwoTwoThreeDE}{\ggnotedeonce{art-2-2-3}{Art. 2 Abs. 2 Satz 3: ``In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.''}}
+\newcommand{\ggfnArtTwoTwoThreeZH}{\ggnotezhonce{art-2-2-3}{第2條第2項第3句：「此等權利僅得依法律加以干預。」}}
+% 墮胎一案特有：第2條第2項第2–3句（Art. 2(2) 去掉第1句後的「餘文」）
+\newcommand{\ggfnArtTwoTwoRestDE}{\ggnotedeonce{art-2-2-rest}{Art. 2 Abs. 2 Saetze 2-3: ``Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.''}\ggmarknotede{art-2-2}}
+\newcommand{\ggfnArtTwoTwoRestZH}{\ggnotezhonce{art-2-2-rest}{第2條第2項第2、3句：「人身自由不可侵犯。此等權利僅得依法律加以干預。」}\ggmarknotezh{art-2-2}}
+
+% ===== Art. 3 =====
+\newcommand{\ggfnArtThreeDE}{\ggnotedeonce{art-3}{Art. 3: ``Alle Menschen sind vor dem Gesetz gleich. Maenner und Frauen sind gleichberechtigt. Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religioesen oder politischen Anschauungen benachteiligt oder bevorzugt werden.''}}
+\newcommand{\ggfnArtThreeZH}{\ggnotezhonce{art-3}{第3條：「所有人在法律前一律平等。男女享有平等權利。任何人不得因其性別、血統、種族、語言、故鄉及出身、信仰、宗教或政治見解而受不利益或優惠。」}}
+\newcommand{\ggfnArtThreeTwoDE}{\ggnotedeonce{art-3-2}{Art. 3 Abs. 2: ``Maenner und Frauen sind gleichberechtigt.''}}
+\newcommand{\ggfnArtThreeTwoZH}{\ggnotezhonce{art-3-2}{第3條第2項：「男女享有平等權利。」}}
+
+% ===== Art. 4 =====
+\newcommand{\ggfnArtFourOneDE}{\ggnotedeonce{art-4-1}{Art. 4 Abs. 1: ``Die Freiheit des Glaubens, des Gewissens und die Freiheit des religioesen und weltanschaulichen Bekenntnisses sind unverletzlich.''}}
+\newcommand{\ggfnArtFourOneZH}{\ggnotezhonce{art-4-1}{第4條第1項：「信仰自由、良心自由，以及宗教與世界觀信念自由，不可侵犯。」}}
+
+% ===== Art. 5 =====
+\newcommand{\ggfnArtFiveOneDE}{\ggnotedeonce{art-5-1}{Art. 5 Abs. 1: ``Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu aeussern und zu verbreiten und sich aus allgemein zugaenglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewaehrleistet. Eine Zensur findet nicht statt.''}}
+\newcommand{\ggfnArtFiveOneZH}{\ggnotezhonce{art-5-1}{第5條第1項：「人人有以言語、文字及圖像自由表達及傳播其意見，並由一般可接近來源不受阻礙獲取資訊之權利。新聞自由及廣播、電影報導自由受保障。不設審查制度。」}}
+
+% ===== Art. 6 =====
+\newcommand{\ggfnArtSixDE}{\ggnotedeonce{art-6}{Art. 6 Abs. 1: ``Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.'' Abs. 2 Satz 1: ``Pflege und Erziehung der Kinder sind das natuerliche Recht der Eltern und die zuvoerderst ihnen obliegende Pflicht.'' Abs. 4: ``Jede Mutter hat Anspruch auf den Schutz und die Fuersorge der Gemeinschaft.''}}
+\newcommand{\ggfnArtSixZH}{\ggnotezhonce{art-6}{第6條第1項：「婚姻與家庭受國家秩序之特別保護。」第2項第1句：「照護及教育子女，為父母之自然權利，並為首先由其承擔之義務。」第4項：「每一母親均有請求共同體保護與照顧之權利。」}}
+\newcommand{\ggfnArtSixOneDE}{\ggnotedeonce{art-6-1}{Art. 6 Abs. 1: ``Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.''}}
+\newcommand{\ggfnArtSixOneZH}{\ggnotezhonce{art-6-1}{第6條第1項：「婚姻與家庭受國家秩序之特別保護。」}}
+\newcommand{\ggfnArtSixTwoDE}{\ggnotedeonce{art-6-2}{Art. 6 Abs. 2: ``Pflege und Erziehung der Kinder sind das natuerliche Recht der Eltern und die zuvoerderst ihnen obliegende Pflicht. Ueber ihre Betaetigung wacht die staatliche Gemeinschaft.''}}
+\newcommand{\ggfnArtSixTwoZH}{\ggnotezhonce{art-6-2}{第6條第2項：「照護及教育子女，為父母之自然權利，並為首先由其承擔之義務。國家共同體監督其行使。」}}
+\newcommand{\ggfnArtSixTwoOneDE}{\ggnotedeonce{art-6-2-1}{Art. 6 Abs. 2 Satz 1: ``Pflege und Erziehung der Kinder sind das natuerliche Recht der Eltern und die zuvoerderst ihnen obliegende Pflicht.''}}
+\newcommand{\ggfnArtSixTwoOneZH}{\ggnotezhonce{art-6-2-1}{第6條第2項第1句：「照護及教育子女，為父母之自然權利，並為首先由其承擔之義務。」}}
+\newcommand{\ggfnArtSixFourDE}{\ggnotedeonce{art-6-4}{Art. 6 Abs. 4: ``Jede Mutter hat Anspruch auf den Schutz und die Fuersorge der Gemeinschaft.''}}
+\newcommand{\ggfnArtSixFourZH}{\ggnotezhonce{art-6-4}{第6條第4項：「每一母親均有請求共同體保護與照顧之權利。」}}
+
+% ===== Art. 12 =====
+\newcommand{\ggfnArtTwelveOneDE}{\ggnotedeonce{art-12-1}{Art. 12 Abs. 1: ``Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstaette frei zu waehlen. Die Berufsausuebung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.''}}
+\newcommand{\ggfnArtTwelveOneZH}{\ggnotezhonce{art-12-1}{第12條第1項：「所有德國人均有自由選擇職業、工作場所及訓練場所之權利。職業行使得以法律或基於法律加以規範。」}}
+
+% ===== Art. 19 =====
+\newcommand{\ggfnArtNineteenTwoDE}{\ggnotedeonce{art-19-2}{Art. 19 Abs. 2: ``In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden.''}}
+\newcommand{\ggfnArtNineteenTwoZH}{\ggnotezhonce{art-19-2}{第19條第2項：「任何情形下，基本權利之本質內容均不得受到侵害。」}}
+
+% ===== Art. 20 =====
+\newcommand{\ggfnArtTwentyOneDE}{\ggnotedeonce{art-20-1}{Art. 20 Abs. 1: ``Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.''}}
+\newcommand{\ggfnArtTwentyOneZH}{\ggnotezhonce{art-20-1}{第20條第1項：「德意志聯邦共和國為民主及社會之聯邦國。」}}
+\newcommand{\ggfnArtTwentyThreeDE}{\ggnotedeonce{art-20-3}{Art. 20 Abs. 3: ``Die Gesetzgebung ist an die verfassungsmaessige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.''}}
+\newcommand{\ggfnArtTwentyThreeZH}{\ggnotezhonce{art-20-3}{第20條第3項：「立法受合憲秩序拘束；行政權與司法權受法律與法拘束。」}}
+
+% ===== Art. 26 + Art. 143（墮胎一案特有）=====
+\newcommand{\ggfnArtTwoSixAndOneFourThreeDE}{\ggnotedeonce{art-26-143}{Art. 26 Abs. 1 Satz 2: ``Sie sind unter Strafe zu stellen.'' Art. 143 in der urspruenglichen Fassung (24. Mai 1949 bis 1. September 1951) enthielt Strafvorschriften zum Hochverrat; 1975 war Art. 143 bereits weggefallen.}}
+\newcommand{\ggfnArtTwoSixAndOneFourThreeZH}{\ggnotezhonce{art-26-143}{第26條第1項第2句：「此等行為應規定為犯罪處罰。」第143條原始版本（1949年5月24日至1951年9月1日）含有關於叛國罪之刑罰規定；至1975年時，第143條已廢止。}}
+
+% ===== Art. 28 =====
+\newcommand{\ggfnArtTwentyEightOneDE}{\ggnotedeonce{art-28-1-1}{Art. 28 Abs. 1 Satz 1: ``Die verfassungsmaessige Ordnung in den Laendern muss den Grundsaetzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen.''}}
+\newcommand{\ggfnArtTwentyEightOneZH}{\ggnotezhonce{art-28-1-1}{第28條第1項第1句：「各邦之合憲秩序，須符合本基本法意義下共和、民主及社會法治國之原則。」}}
+
+% ===== Art. 30 =====
+\newcommand{\ggfnArtThirtyDE}{\ggnotedeonce{art-30}{Art. 30: ``Die Ausuebung der staatlichen Befugnisse und die Erfuellung der staatlichen Aufgaben ist Sache der Laender, soweit dieses Grundgesetz keine andere Regelung trifft oder zulaesst.''}}
+\newcommand{\ggfnArtThirtyZH}{\ggnotezhonce{art-30}{第30條：「國家權限之行使與國家任務之履行，屬於各邦，但本基本法另有規定或容許者，不在此限。」}}
+
+% ===== Art. 74 =====
+\newcommand{\ggfnArtSeventyFourOneDE}{\ggnotedeonce{art-74-1}{Art. 74 Nr. 1: Die konkurrierende Gesetzgebung erstreckt sich auf ``das buergerliche Recht, das Strafrecht und den Strafvollzug, die Gerichtsverfassung, das gerichtliche Verfahren, die Rechtsanwaltschaft, das Notariat und die Rechtsberatung''.}}
+\newcommand{\ggfnArtSeventyFourOneZH}{\ggnotezhonce{art-74-1}{第74條第1款：競合立法及於「民法、刑法及刑罰執行、法院組織、訴訟程序、律師制度、公證制度及法律諮詢」。}}
+\newcommand{\ggfnArtSeventyFourSevenDE}{\ggnotedeonce{art-74-7}{Art. 74 Nr. 7: Die konkurrierende Gesetzgebung erstreckt sich auf ``die oeffentliche Fuersorge''.}}
+\newcommand{\ggfnArtSeventyFourSevenZH}{\ggnotezhonce{art-74-7}{第74條第7款：競合立法及於「公共扶助」。}}
+\newcommand{\ggfnArtSeventyFourTwelveDE}{\ggnotedeonce{art-74-12}{Art. 74 Nr. 12: Die konkurrierende Gesetzgebung erstreckt sich auf ``das Arbeitsrecht einschliesslich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschliesslich der Arbeitslosenversicherung''.}}
+\newcommand{\ggfnArtSeventyFourTwelveZH}{\ggnotezhonce{art-74-12}{第74條第12款：競合立法及於「勞動法，包括企業組織、勞動保護及就業媒合，以及社會保險，包括失業保險」。}}
+
+% ===== Art. 77（墮胎一案特有）=====
+\newcommand{\ggfnArtSevenSevenThreeDE}{\ggnotedeonce{art-77-3}{Art. 77 Abs. 3 Satz 1: ``Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht erforderlich ist, kann der Bundesrat, wenn das Verfahren nach Absatz 2 beendigt ist, gegen ein vom Bundestage beschlossenes Gesetz binnen zwei Wochen Einspruch einlegen.''}}
+\newcommand{\ggfnArtSevenSevenThreeZH}{\ggnotezhonce{art-77-3}{第77條第3項第1句：「法律無須聯邦參議院同意者，於第2項程序終了後，聯邦參議院得於二週內對聯邦議院通過之法律提出異議。」}}
+
+% ===== Art. 80 =====
+\newcommand{\ggfnArtEightyOneOneDE}{\ggnotedeonce{art-80-1-1}{Art. 80 Abs. 1 Satz 1: ``Durch Gesetz koennen die Bundesregierung, ein Bundesminister oder die Landesregierungen ermaechtigt werden, Rechtsverordnungen zu erlassen.''}}
+\newcommand{\ggfnArtEightyOneOneZH}{\ggnotezhonce{art-80-1-1}{第80條第1項第1句：「得以法律授權聯邦政府、聯邦部長或邦政府發布法規命令。」}}
+
+% ===== Art. 83 =====
+\newcommand{\ggfnArtEightyThreeDE}{\ggnotedeonce{art-83}{Art. 83: ``Die Laender fuehren die Bundesgesetze als eigene Angelegenheit aus, soweit dieses Grundgesetz nichts anderes bestimmt oder zulaesst.''}}
+\newcommand{\ggfnArtEightyThreeZH}{\ggnotezhonce{art-83}{第83條：「各邦以自己事務執行聯邦法律，但本基本法另有規定或容許者，不在此限。」}}
+
+% ===== Art. 84 =====
+\newcommand{\ggfnArtEightyFourOneDE}{\ggnotedeonce{art-84-1}{Art. 84 Abs. 1: ``Fuehren die Laender die Bundesgesetze als eigene Angelegenheit aus, so regeln sie die Einrichtung der Behoerden und das Verwaltungsverfahren, soweit nicht Bundesgesetze mit Zustimmung des Bundesrates etwas anderes bestimmen.''}}
+\newcommand{\ggfnArtEightyFourOneZH}{\ggnotezhonce{art-84-1}{第84條第1項：「各邦以自己事務執行聯邦法律時，除聯邦法律經聯邦參議院同意另有規定外，由各邦規範機關之設置及行政程序。」}}
+% 別名（墮胎一案使用之縮寫命名）
+\let\ggfnArtEightFourOneDE\ggfnArtEightyFourOneDE
+\let\ggfnArtEightFourOneZH\ggfnArtEightyFourOneZH
+
+% ===== Art. 93 =====
+\newcommand{\ggfnArtNinetyThreeOneTwoDE}{\ggnotedeonce{art-93-1-2}{Art. 93 Abs. 1 Nr. 2: Das Bundesverfassungsgericht entscheidet ``bei Meinungsverschiedenheiten oder Zweifeln ueber die foermliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetze ... auf Antrag der Bundesregierung, einer Landesregierung oder eines Drittels der Mitglieder des Bundestages''.}}
+\newcommand{\ggfnArtNinetyThreeOneTwoZH}{\ggnotezhonce{art-93-1-2}{第93條第1項第2款：聯邦憲法法院就「聯邦法或邦法在形式及實質上是否與本基本法相容之意見分歧或疑義……依聯邦政府、邦政府或聯邦議院三分之一議員之聲請」作成裁判。}}
+% 別名（墮胎一案使用之縮寫命名）
+\let\ggfnArtNineThreeOneTwoDE\ggfnArtNinetyThreeOneTwoDE
+\let\ggfnArtNineThreeOneTwoZH\ggfnArtNinetyThreeOneTwoZH
+
+% ===== Art. 102 =====
+\newcommand{\ggfnArtOneZeroTwoDE}{\ggnotedeonce{art-102}{Art. 102: ``Die Todesstrafe ist abgeschafft.''}}
+\newcommand{\ggfnArtOneZeroTwoZH}{\ggnotezhonce{art-102}{第102條：「死刑廢止。」}}
+
+% ===== Art. 103 =====
+\newcommand{\ggfnArtOneZeroThreeTwoDE}{\ggnotedeonce{art-103-2}{Art. 103 Abs. 2: ``Eine Tat kann nur bestraft werden, wenn die Strafbarkeit gesetzlich bestimmt war, bevor die Tat begangen wurde.''}}
+\newcommand{\ggfnArtOneZeroThreeTwoZH}{\ggnotezhonce{art-103-2}{第103條第2項：「行為之可罰性，須於行為前以法律定之，始得處罰。」}}
+
+% ===== Art. 104 =====
+\newcommand{\ggfnArtOneZeroFourOneDE}{\ggnotedeonce{art-104-1}{Art. 104 Abs. 1: ``Die Freiheit der Person kann nur auf Grund eines foermlichen Gesetzes und nur unter Beachtung der darin vorgeschriebenen Formen beschraenkt werden.''}}
+\newcommand{\ggfnArtOneZeroFourOneZH}{\ggnotezhonce{art-104-1}{第104條第1項：「人身自由僅得基於形式法律，並遵守其中規定之形式加以限制。」}}
+
+% ===== 組合腳註：Art. 3 + Art. 6（墮胎一案特有）=====
+\newcommand{\ggfnArtThreeSixDE}{\ggnotedeonce{art-3-6}{Art. 3: ``Alle Menschen sind vor dem Gesetz gleich. Maenner und Frauen sind gleichberechtigt. Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religioesen oder politischen Anschauungen benachteiligt oder bevorzugt werden.'' Art. 6 Abs. 1: ``Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.'' Abs. 2 Satz 1: ``Pflege und Erziehung der Kinder sind das natuerliche Recht der Eltern und die zuvoerderst ihnen obliegende Pflicht.'' Abs. 4: ``Jede Mutter hat Anspruch auf den Schutz und die Fuersorge der Gemeinschaft.''}\ggmarknotede{art-3}\ggmarknotede{art-6}\ggmarknotede{art-6-1-4}}
+\newcommand{\ggfnArtThreeSixZH}{\ggnotezhonce{art-3-6}{第3條：「所有人在法律前一律平等。男女享有平等權利。任何人不得因其性別、血統、種族、語言、故鄉及出身、信仰、宗教或政治見解而受不利益或優惠。」第6條第1項：「婚姻與家庭受國家秩序之特別保護。」第2項第1句：「照護及教育子女，為父母之自然權利，並為首先由其承擔之義務。」第4項：「每一母親均有請求共同體保護與照顧之權利。」}\ggmarknotezh{art-3}\ggmarknotezh{art-6}\ggmarknotezh{art-6-1-4}}
+
+% ===== 組合腳註：Art. 6(1) + Art. 6(4)（墮胎一案特有）=====
+\newcommand{\ggfnArtSixOneFourDE}{\ggnotedeonce{art-6-1-4}{Art. 6 Abs. 1: ``Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.'' Art. 6 Abs. 4: ``Jede Mutter hat Anspruch auf den Schutz und die Fuersorge der Gemeinschaft.''}\ggmarknotede{art-6}}
+\newcommand{\ggfnArtSixOneFourZH}{\ggnotezhonce{art-6-1-4}{第6條第1項：「婚姻與家庭受國家秩序之特別保護。」第4項：「每一母親均有請求共同體保護與照顧之權利。」}\ggmarknotezh{art-6}}
+
+% ===== 組合腳註：Art. 1(1) + Art. 2(2)(1)（墮胎二案特有）=====
+\newcommand{\ggfnArtOneOneTwoTwoOneDE}{\ggnotedeonce{art-1-1+2-2-1}{Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.'' Art. 2 Abs. 2 Satz 1: ``Jeder hat das Recht auf Leben und koerperliche Unversehrtheit.''}\ggmarknotede{art-1-1}\ggmarknotede{art-2-2-1}}
+\newcommand{\ggfnArtOneOneTwoTwoOneZH}{\ggnotezhonce{art-1-1+2-2-1}{第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」第2條第2項第1句：「人人有生命與身體完整性之權利。」}\ggmarknotezh{art-1-1}\ggmarknotezh{art-2-2-1}}
+
+% ===== 組合腳註：Art. 1(1) + Art. 2(2)（墮胎二案特有）=====
+\newcommand{\ggfnArtOneOneTwoTwoDE}{\ggnotedeonce{art-1-1+2-2}{Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.'' Art. 2 Abs. 2: ``Jeder hat das Recht auf Leben und koerperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.''}\ggmarknotede{art-1-1}\ggmarknotede{art-2-2}\ggmarknotede{art-2-2-1}}
+\newcommand{\ggfnArtOneOneTwoTwoZH}{\ggnotezhonce{art-1-1+2-2}{第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」第2條第2項：「人人有生命與身體完整性之權利。人身自由不可侵犯。此等權利僅得依法律加以干預。」}\ggmarknotezh{art-1-1}\ggmarknotezh{art-2-2}\ggmarknotezh{art-2-2-1}}
+
+% ===== 組合腳註：Art. 1(1) + Art. 2(1)（墮胎二案特有）=====
+\newcommand{\ggfnArtOneOneTwoOneDE}{\ggnotedeonce{art-1-1+2-1}{Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.'' Art. 2 Abs. 1: ``Jeder hat das Recht auf die freie Entfaltung seiner Persoenlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmaessige Ordnung oder das Sittengesetz verstoesst.''}\ggmarknotede{art-1-1}\ggmarknotede{art-2-1}}
+\newcommand{\ggfnArtOneOneTwoOneZH}{\ggnotezhonce{art-1-1+2-1}{第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」第2條第1項：「人人有自由發展其人格之權利，但不得侵害他人權利，亦不得違反合憲秩序或道德律。」}\ggmarknotezh{art-1-1}\ggmarknotezh{art-2-1}}
+
+% ===== 組合腳註：Art. 2(2)(1) + Art. 1(1)（墮胎一案特有，含交叉標記）=====
+\newcommand{\ggfnLifeDignityDE}{\ggnotedeonce{life-dignity}{Art. 2 Abs. 2 Satz 1: ``Jeder hat das Recht auf Leben und koerperliche Unversehrtheit.'' Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.''}\ggmarknotede{art-2-2-1}\ggmarknotede{art-1-1}\ggmarknotede{art-1-1-2}}
+\newcommand{\ggfnLifeDignityZH}{\ggnotezhonce{life-dignity}{第2條第2項第1句：「人人有生命與身體完整性之權利。」第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」}\ggmarknotezh{art-2-2-1}\ggmarknotezh{art-1-1}\ggmarknotezh{art-1-1-2}}
+
+% ===== 組合腳註：Art. 1(1) + Art. 2(2)（墮胎一案特有，條件判斷版）=====
+\newcommand{\ggfnArtOneTwoTwoDE}{\ifcsname ggnoteseen@de@life-dignity\endcsname\ggfnArtTwoTwoRestDE{}\else\ggnotedeonce{art-1-2-2}{Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.'' Art. 2 Abs. 2: ``Jeder hat das Recht auf Leben und koerperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.''}\ggmarknotede{art-1-1}\ggmarknotede{art-1-1-2}\ggmarknotede{art-2-2}\ggmarknotede{art-2-2-1}\fi}
+\newcommand{\ggfnArtOneTwoTwoZH}{\ifcsname ggnoteseen@zh@life-dignity\endcsname\ggfnArtTwoTwoRestZH{}\else\ggnotezhonce{art-1-2-2}{第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」第2條第2項：「人人有生命與身體完整性之權利。人身自由不可侵犯。此等權利僅得依法律加以干預。」}\ggmarknotezh{art-1-1}\ggmarknotezh{art-1-1-2}\ggmarknotezh{art-2-2}\ggmarknotezh{art-2-2-1}\fi}
+
+% ===== 組合腳註：Art. 1(1) + Art. 19(2)（墮胎一案特有，條件判斷版）=====
+\newcommand{\ggfnArtOneNineteenDE}{\ifcsname ggnoteseen@de@art-1-1\endcsname\ggfnArtNineteenTwoDE{}\else\ggnotedeonce{art-1-19}{Art. 1 Abs. 1: ``Die Wuerde des Menschen ist unantastbar. Sie zu achten und zu schuetzen ist Verpflichtung aller staatlichen Gewalt.'' Art. 19 Abs. 2: ``In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden.''}\ggmarknotede{art-1-1}\ggmarknotede{art-1-1-2}\ggmarknotede{art-19-2}\fi}
+\newcommand{\ggfnArtOneNineteenZH}{\ifcsname ggnoteseen@zh@art-1-1\endcsname\ggfnArtNineteenTwoZH{}\else\ggnotezhonce{art-1-19}{第1條第1項：「人之尊嚴不可侵犯。尊重及保護之，為一切國家權力之義務。」第19條第2項：「任何情形下，基本權利之本質內容均不得受到侵害。」}\ggmarknotezh{art-1-1}\ggmarknotezh{art-1-1-2}\ggmarknotezh{art-19-2}\fi}
