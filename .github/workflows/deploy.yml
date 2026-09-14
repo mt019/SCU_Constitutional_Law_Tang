@@ -46,20 +46,20 @@ jobs:
           pip install -r requirements.txt
           mkdocs --version
 
-      - name: Sync notebooks into mkdocs content
+      - name: Sync notebooks into notes content
         run: |
-          mkdir -p mkdocs/My_Notes/notebooks
-          rsync -av --delete notebooks/ mkdocs/My_Notes/notebooks/ || true
-          echo "Synced notebooks -> mkdocs/My_Notes/notebooks"
-          find mkdocs/My_Notes/notebooks -maxdepth 2 -type f -name "*.ipynb" -print || true
+          mkdir -p notes/docs/notebooks
+          rsync -av --delete notebooks/ notes/docs/notebooks/ || true
+          echo "Synced notebooks -> notes/docs/notebooks"
+          find notes/docs/notebooks -maxdepth 2 -type f -name "*.ipynb" -print || true
 
 
       - name: Build site
         run: |
           export JUPYTER_PLATFORM_DIRS=1
           echo "Using $(mkdocs --version)"
-          # Build inside mkdocs/ so all relative paths resolve predictably
-          cd mkdocs
+          # Build inside notes/ so all relative paths resolve predictably
+          cd notes
           mkdocs build -f mkdocs.yml
           cd -
 
@@ -70,8 +70,8 @@ jobs:
 
           # Use current working directory set by the runner (repo root)
           ROOT = pathlib.Path.cwd()
-          cfg_path = ROOT / 'mkdocs' / 'mkdocs.yml'
-          site_dir = ROOT / 'mkdocs' / 'site'
+          cfg_path = ROOT / 'notes' / 'mkdocs.yml'
+          site_dir = ROOT / 'notes' / 'site'
 
           # Ensure output directory exists even if build produced none
           site_dir.mkdir(parents=True, exist_ok=True)
@@ -80,7 +80,7 @@ jobs:
           m = re.search(r'^\s*site_url\s*:\s*["\']?([^"\'\n]+)["\']?\s*$', text, re.MULTILINE)
           site_url = (m.group(1).strip() if m else '')
           if not site_url:
-              print('Error: site_url missing in mkdocs/mkdocs.yml', file=sys.stderr)
+              print('Error: site_url missing in notes/mkdocs.yml', file=sys.stderr)
               sys.exit(1)
           if not site_url.endswith('/'):
               site_url += '/'
@@ -115,14 +115,14 @@ jobs:
 
       - name: List built files
         run: |
-          echo "Files under mkdocs/site/:"
-          find mkdocs/site -maxdepth 2 -type f | sed 's/^/  /'
-          test -f mkdocs/site/index.html
+          echo "Files under notes/site/:"
+          find notes/site -maxdepth 2 -type f | sed 's/^/  /'
+          test -f notes/site/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: mkdocs/site
+          path: notes/site
 
 
   deploy:

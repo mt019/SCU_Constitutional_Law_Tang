@@ -1,10 +1,10 @@
-site_name: 1142 【湯德宗】憲法專題研究
-site_url: "https://mt019.github.io/1142_SCU_CONSTITUTIONAL_LAW/"
-docs_dir: My_Notes
-site_description: "東吳大學法碩二｜憲法專題研究（四）課程筆記與研討紀錄｜湯德宗｜湯德宗憲法"
+site_name: 湯德宗 東吳憲法課程筆記
+site_url: "https://mt019.github.io/SCU_Constitutional_Law_Tang/"
+docs_dir: docs
+site_description: "東吳大學湯德宗老師憲法課程筆記：憲法專題研究（一）（四）與大學部憲法案例解析"
 site_author: "湯德宗"
-repo_url: "https://github.com/mt019/1141_SEMINAR_ON_CONSTITUTIONAL_LAW"
-repo_name: mt019/1141_SEMINAR_ON_CONSTITUTIONAL_LAW
+repo_url: "https://github.com/mt019/SCU_Constitutional_Law_Tang"
+repo_name: mt019/SCU_Constitutional_Law_Tang
 
 theme:
   name: material
@@ -16,7 +16,7 @@ theme:
     - navigation.footer        # 產生頁腳的上一頁/下一頁
     - content.tags
   font:
-    text: Noto Serif CJK TC
+    text: Noto Serif TC
     code: JetBrains Mono
 plugins:
   - search
@@ -28,10 +28,6 @@ plugins:
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: true
-  - sitemap:
-      changefreq: weekly
-      priority: 0.5
-      filename: sitemap.xml
   - rss:
       match_path: ".*"
       date_from_meta:
@@ -39,8 +35,7 @@ plugins:
         as_update: updated
       categories:
         - keywords
-  - tags:
-      tags_file: tags.md
+  - tags
   - social
 extra_css:
   - assets/extra.css   # 若有
@@ -66,5 +61,6 @@ markdown_extensions:
   - mdx_truly_sane_lists:
       nested_indent: 2   # 允許第二層起用 2 個空白（nested item只能用2格縮排！！！嚴格！！！
   - meta
+  - footnotes
   - toc:
       permalink: true

@@ -20,3 +20,6 @@ _Material/法源/憲法法庭/**/extracted/
 # 斷點檔與其本機歷史（見 ~/.claude/rules/斷點續作.md）
 .claude/CHECKPOINT*.md
 .claude/history/
+notes/.venv/
+notes/site/
+notes/.cache/

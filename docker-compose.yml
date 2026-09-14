@@ -1,9 +1,9 @@
 services:
   docs:
-    build: ./mkdocs
+    build: ./notes
     volumes:
-      - ./mkdocs:/docs
-      - ./notebooks:/docs/My_Notes/notebooks:ro 
+      - ./notes:/docs
+      - ./notebooks:/docs/docs/notebooks:ro 
     ports:
       - "127.0.0.1:11417:8000" #修改端口
     command: serve -a 0.0.0.0:8000

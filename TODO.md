@@ -2,23 +2,35 @@
 
 ## 這是什麼
 
-東吳大學「憲法專題研究（四）」課程材料整理（授課教師：湯德宗），含 OCW 講義 PDF 蒐集、Seminar 導讀筆記與 LaTeX 大綱、IIAS 論文集相關素材。體量 7.9G，主要是 PDF／講義檔案，非逐字翻譯或逐條研究產出。
+東吳大學法律學系湯德宗老師憲法課程的材料與筆記，按學期收。目錄體系見 `README.md`。
 
-## 目前未提交變更盤點（2026-07-05，共 53 項，`git status --porcelain` 實查）
+## git 歷史 3.2 GiB 的清理方式
 
-| 類別 | 數量 | 內容 |
-|---|---|---|
-| 新增 PDF（`_Material/OCW/.../pdf/`） | 34 | 大法官講堂中華民國憲法及政府課程講義掃描（第 28～39 講），約 34M |
-| 新增文件 | 2 | `PDF_README.md`、一份 `.json`（OCW 目錄下） |
-| 修改：`.DS_Store` | 2 | `_Generated/`、`_Material/` 各一，系統雜訊 |
-| 修改：README/RESUME | 2 | OCW 課程說明文件內容更新 |
-| 修改：Seminar LaTeX 產出鏈 | 10 | `Outline.tex` 及其編譯副產物（`.aux/.bbl/.bcf/.blg/.fdb_latexmk/.fls/.log/.out/.pdf/.xdv`）、`references.bib`、一份導讀筆記 `.md`——「政府體制與副署權」主題 |
+工作樹 2026-09-14 整理後約 612 MB，`.git` 3,337 MB。歷史裡的大宗：
 
-## 建議收口步驟
+- 113 年憲判字第 2 號彙編 314 MB，兩份。
+- 字型壓縮包 176 MB。
+- `_Assets/fonts/` 的 121 個字型檔，2026-09-14 已移出工作樹，歷史仍在。
+- 2026-07-11 遷出中研院法研所出版品快照 533 MB，歷史仍在。
 
-1. `.DS_Store`：加入 `.gitignore` 全域排除，不需要每次手動處理。
-2. LaTeX 編譯副產物（`.aux/.bbl/.bcf/.blg/.fdb_latexmk/.fls/.log/.out/.xdv`）：加入 `.gitignore`，只保留 `.tex` 原始檔與最終 `.pdf`。
-3. 34 個新增 OCW PDF：確認是否為合法課程材料（授課教師提供或公開講堂錄影逐字稿），非侵權疑慮後即可正常 commit；本次盤點未發現檔名含個資或敏感字樣。
-4. `Outline.tex` 與 `references.bib` 的內容修改：待該篇導讀筆記作者（本人）確認内容已穩定後 commit，目前未強制要求。
-5. IIAS 論文集狀態：本次盤點未在目前變更中發現 IIAS 論文集相關新增/修改，如仍在進行需另立追蹤項。
-6. 本次任務**不代為 commit**，上述變更保留在工作樹，由使用者自行決定分批或整批提交。
+兩種清法，各有代價：
+
+1. `git filter-repo` 剔除上列路徑後 force push。所有 commit 的 hash 會變，clone 過這個倉的地方都要
+   重新 clone；GitHub 上的舊物件要等垃圾回收或開 support ticket 才會真的消失。
+2. 另開一個乾淨的新倉，以目前工作樹作第一個 commit，舊倉改為 private 封存。歷史查得到，但不在新倉裡。
+
+由站主決定採哪一種、何時做。
+
+## 1151 指定文獻取件
+
+`1151/seminar/readings/index.md` 登記的 20 篇，17 篇未取。可走的路：學校圖書館電子資源（Oxford
+Journals、HeinOnline、Westlaw）、館際合作。取得後放進該週資料夾並回填該表的「本機路徑」與「狀態」。
+
+## 1151 指定書採購
+
+湯德宗《釋憲學思心路》（上、中、下冊）二版（2026）、《違憲審查與動態平衡：權力分立新論 卷二》
+增訂五版（2026），本機沒有。
+
+## 站台 site_author 欄位
+
+`notes/mkdocs.yml` 的 `site_author` 寫「湯德宗」。站上的筆記是我寫的，這個欄位應寫誰，待站主決定。

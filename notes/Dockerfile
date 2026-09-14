@@ -10,4 +10,8 @@ RUN pip install --no-cache-dir \
     mkdocs-exclude \
     mkdocs-minify-plugin \
     mkdocs-git-revision-date-localized-plugin \
-    mdx_truly_sane_lists
+    mkdocs-jupyter \
+    mkdocs-rss-plugin \
+    mdx_truly_sane_lists \
+    pillow \
+    cairosvg

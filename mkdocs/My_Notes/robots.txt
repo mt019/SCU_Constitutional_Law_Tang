@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://mt019.github.io/1142_SCU_CONSTITUTIONAL_LAW/sitemap.xml
