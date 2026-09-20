@@ -1,0 +1,20 @@
+# 校正詞典的語料。一列四欄（tab 分隔）：規則名、該被改的句、改好之後該長的樣子、不該被動的句。
+# 句子取自 1142 四份逐字稿的實際脈絡，不造抽象例句。第四欄留空表示這條沒有反例要守。
+# 跑法：.venv311/bin/python tools/asr_check_terms.py --terms terms.json --fixtures terms-fixtures.tsv
+correction_map/省略	這一段的審略要補回去	這一段的省略要補回去	他把細節省略了沒有講
+en_case_map/Dworkin	這主要是講Dorking的理論	這主要是講 Dworkin 的理論	Dworkin 主張法律有唯一正解
+en_case_map/Dworkin	然後我們要看看Dawkin本人怎麼回應	然後我們要看看 Dworkin 本人怎麼回應	
+en_case_map/Dobbs	因為多數意見Dops認為這個非常重要	因為多數意見 Dobbs 認為這個非常重要	Dobbs 推翻了先前的判決先例
+en_case_map/Dobbs	憲法上有沒有保障墮胎權，DOS認為沒有	憲法上有沒有保障墮胎權，Dobbs 認為沒有	
+en_case_map/Casey	他違反了在Roe案和Cassie案所保障的墮胎權	他違反了在 Roe 案和 Casey 案所保障的墮胎權	Casey 案保留了核心的權利
+en_case_map/Breyer	對他來講Brier自己認為他是一個實用主義者	對他來講 Breyer 自己認為他是一個實用主義者	Breyer 那本書列了五個因素
+en_case_map/Sartori	我們權力分立裡面讀的那個算不算是Satory的經典	我們權力分立裡面讀的那個算不算是 Sartori 的經典	Sartori 的比較憲政工程學
+en_case_map/fetus	那一點跟怎麼樣定義那個feeders沒有關係	那一點跟怎麼樣定義那個 fetus 沒有關係	the viability of the fetus
+en_case_map/spouse	主文要在or husband後面加上or sparse	主文要在 or husband 後面加上 or spouse	the words or spouse after the words or husband
+en_case_map/invalidity	判決宣告的是declaration of Invertebrate	判決宣告的是 declaration of invalidity	the declaration of invalidity is suspended
+en_case_map/amici curiae	那一節的標題是A Missing Curie	那一節的標題是 amici curiae	amici curiae 在這件案子裡提出了意見
+regex_correction_map/Roe	廢棄Rose案所造成的成本	廢棄 Roe 案所造成的成本	那位交換生的英文名字是 Rose，今天請假沒有來
+regex_correction_map/Fish	波斯納跟FISH這兩個人	波斯納跟 Fish 這兩個人	報告最後那張圖的說明只寫了 fish 一個字
+transliteration_map/Posner	沒有人去質疑布斯納的立場	沒有人去質疑 Posner 的立場	Posner 把他的立場精簡成一句話
+transliteration_map/Posner	好所以奧斯納跟史丹利這兩個人	好所以 Posner 跟史丹利這兩個人	
+transliteration_map/胎兒	Tyrer脫離了母親的子宮能不能存活	胎兒脫離了母親的子宮能不能存活	胎兒的存活能力隨著科技而改變

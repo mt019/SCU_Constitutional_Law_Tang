@@ -1,0 +1,27 @@
+{
+  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。",
+  "policy": "條目一律取自上列稿件裡實際出現過的錯法，不從課綱的人名猜。1151 指定文獻的作者（Bickel、Waldron、Tushnet、Kelsen、Schmitt 等）只寫進 prompt.txt，等實際轉出錯法再進本檔。改詞典就跑 asr_check_terms.py。",
+  "note": "Tyrer 在 1142 的錄音裡是「胎兒」的誤辨，而 Tyrer v. United Kingdom 是歐洲人權法院的真案名；老師若提到該案，這條會把案名改成胎兒，屆時改成帶上下文的 regex。Rose 與 FISH 兩條為此已經收窄成 regex。",
+  "correction_map": {
+    "省略": ["審略"]
+  },
+  "regex_correction_map": {
+    "Roe": ["Rose(?=案|判決|這)"],
+    "Fish": ["(?<![A-Za-z])FISH(?![A-Za-z])"]
+  },
+  "en_case_map": {
+    "Dworkin": ["Dorking", "Dawkin"],
+    "Dobbs": ["Dops", "DOS"],
+    "Casey": ["Cassie"],
+    "Breyer": ["Brier"],
+    "Sartori": ["Satory"],
+    "fetus": ["feeders"],
+    "spouse": ["sparse"],
+    "invalidity": ["Invertebrate"],
+    "amici curiae": ["A Missing Curie"]
+  },
+  "transliteration_map": {
+    "Posner": ["布斯納", "奧斯納"],
+    "胎兒": ["Tyrer"]
+  }
+}
