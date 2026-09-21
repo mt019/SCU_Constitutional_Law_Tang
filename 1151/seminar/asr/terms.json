@@ -1,5 +1,5 @@
 {
-  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。 2026-09-21 的十分鐘試轉另外核出三個：Parrott、Romanfield 與 Barbara and the Flaming，對應 Perry、Rubenfeld、Barber and Fleming，三個名字在 library/text/alexander/pages.json 與 library/text/barber_fleming/ 都查得到。 2026-09-21 W01 兩份稿另核出同音字六組：限法、非一法定、非一法律、來不拘禁、中華英國；憲法第 8 條原文見 cases/statutes/中華民國憲法.pdf。 W01 兩份稿再核出：微線審查（10 處，違憲審查 0 處）、Bickle、Hanskelson／Hanskielsen、Karl Schmidt／Kar Shun、Decitional privacy。 2026-09-21 續核 W01 兩份稿：人名（許中立／許中利→許宗力、黃照源→黃昭元、左龍泰→卓榮泰、賴金德／亂清德→賴清德、林濟東→林紀東、楊綠然→楊日然、湯德忠→湯德宗、許新娘→許信良）依大法官意見書檔名與課綱核；書名（四線／世線／事件學師心路→釋憲學思心路）依 1151/seminar/syllabus.md 指定教科書核；違憲審查另兩種錯法為危險審查、回憲審查；縣判→憲判、縣法／現法→憲法。",
+  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。 2026-09-21 的十分鐘試轉另外核出三個：Parrott、Romanfield 與 Barbara and the Flaming，對應 Perry、Rubenfeld、Barber and Fleming，三個名字在 library/text/alexander/pages.json 與 library/text/barber_fleming/ 都查得到。 2026-09-21 W01 兩份稿另核出同音字六組：限法、非一法定、非一法律、來不拘禁、中華英國；憲法第 8 條原文見 cases/statutes/中華民國憲法.pdf。 W01 兩份稿再核出：微線審查（10 處，違憲審查 0 處）、Bickle、Hanskelson／Hanskielsen、Karl Schmidt／Kar Shun、Decitional privacy。 2026-09-21 續核 W01 兩份稿：人名（許中立／許中利→許宗力、黃照源→黃昭元、左龍泰→卓榮泰、賴金德／亂清德→賴清德、林濟東→林紀東、楊綠然→楊日然、湯德忠→湯德宗、許新娘→許信良）依大法官意見書檔名與課綱核；書名（四線／世線／事件學師心路→釋憲學思心路）依 1151/seminar/syllabus.md 指定教科書核；違憲審查另兩種錯法為危險審查、回憲審查；縣判→憲判、縣法／現法→憲法。 2026-09-22 站主核聽 constitution W01 00:08:35 一段，訂正「談古論經」為「談古論今」、「論經就是論清朝發生的事情」為「論今就是論今朝發生的事情」（他的原話：「論今就是論今朝發生的事情」）。",
   "policy": "條目一律取自上列稿件裡實際出現過的錯法，不從課綱的人名猜。1151 指定文獻的作者（Bickel、Waldron、Tushnet、Kelsen、Schmitt 等）只寫進 prompt.txt，等實際轉出錯法再進本檔。改詞典就跑 asr_check_terms.py。",
   "note": "Tyrer 在 1142 的錄音裡是「胎兒」的誤辨，而 Tyrer v. United Kingdom 是歐洲人權法院的真案名；老師若提到該案，這條會把案名改成胎兒，屆時改成帶上下文的 regex。Rose 與 FISH 兩條為此已經收窄成 regex。 Parrott、Romanfield、Barbara and the Flaming 三條修的是 1142 校訂稿裡留著的錯；2026-09-21 的試轉顯示 turbo 自己把 Michael J. Perry 轉對了，這三條可能長期沒有東西可改，照零命中的規矩處理。 「程式」那一組不進詞典：成因是 opencc 的 s2twp 詞彙層把原稿正確的「程序」轉成「程式」，2026-09-21 已把產線改用 s2tw。",
   "correction_map": {
@@ -96,6 +96,12 @@
     ],
     "楊日然": [
       "楊綠然"
+    ],
+    "談古論今": [
+      "談古論經"
+    ],
+    "論今就是論今朝": [
+      "論經就是論清朝"
     ]
   },
   "regex_correction_map": {
