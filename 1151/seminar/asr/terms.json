@@ -1,27 +1,68 @@
 {
-  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。",
+  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。 2026-09-21 的十分鐘試轉另外核出三個：Parrott、Romanfield 與 Barbara and the Flaming，對應 Perry、Rubenfeld、Barber and Fleming，三個名字在 library/text/alexander/pages.json 與 library/text/barber_fleming/ 都查得到。",
   "policy": "條目一律取自上列稿件裡實際出現過的錯法，不從課綱的人名猜。1151 指定文獻的作者（Bickel、Waldron、Tushnet、Kelsen、Schmitt 等）只寫進 prompt.txt，等實際轉出錯法再進本檔。改詞典就跑 asr_check_terms.py。",
-  "note": "Tyrer 在 1142 的錄音裡是「胎兒」的誤辨，而 Tyrer v. United Kingdom 是歐洲人權法院的真案名；老師若提到該案，這條會把案名改成胎兒，屆時改成帶上下文的 regex。Rose 與 FISH 兩條為此已經收窄成 regex。",
+  "note": "Tyrer 在 1142 的錄音裡是「胎兒」的誤辨，而 Tyrer v. United Kingdom 是歐洲人權法院的真案名；老師若提到該案，這條會把案名改成胎兒，屆時改成帶上下文的 regex。Rose 與 FISH 兩條為此已經收窄成 regex。 Parrott、Romanfield、Barbara and the Flaming 三條修的是 1142 校訂稿裡留著的錯；2026-09-21 的試轉顯示 turbo 自己把 Michael J. Perry 轉對了，這三條可能長期沒有東西可改，照零命中的規矩處理。",
   "correction_map": {
-    "省略": ["審略"]
+    "省略": [
+      "審略"
+    ]
   },
   "regex_correction_map": {
-    "Roe": ["Rose(?=案|判決|這)"],
-    "Fish": ["(?<![A-Za-z])FISH(?![A-Za-z])"]
+    "Roe": [
+      "Rose(?=案|判決|這)"
+    ],
+    "Fish": [
+      "(?<![A-Za-z])FISH(?![A-Za-z])"
+    ],
+    "Barber and Fleming": [
+      "Barbara and (?:the )?Flaming",
+      "[Bb]alber and [Ff]leming"
+    ]
   },
   "en_case_map": {
-    "Dworkin": ["Dorking", "Dawkin"],
-    "Dobbs": ["Dops", "DOS"],
-    "Casey": ["Cassie"],
-    "Breyer": ["Brier"],
-    "Sartori": ["Satory"],
-    "fetus": ["feeders"],
-    "spouse": ["sparse"],
-    "invalidity": ["Invertebrate"],
-    "amici curiae": ["A Missing Curie"]
+    "Dworkin": [
+      "Dorking",
+      "Dawkin"
+    ],
+    "Dobbs": [
+      "Dops",
+      "DOS"
+    ],
+    "Casey": [
+      "Cassie"
+    ],
+    "Breyer": [
+      "Brier"
+    ],
+    "Sartori": [
+      "Satory"
+    ],
+    "fetus": [
+      "feeders"
+    ],
+    "spouse": [
+      "sparse"
+    ],
+    "invalidity": [
+      "Invertebrate"
+    ],
+    "amici curiae": [
+      "A Missing Curie"
+    ],
+    "Perry": [
+      "Parrott"
+    ],
+    "Rubenfeld": [
+      "Romanfield"
+    ]
   },
   "transliteration_map": {
-    "Posner": ["布斯納", "奧斯納"],
-    "胎兒": ["Tyrer"]
+    "Posner": [
+      "布斯納",
+      "奧斯納"
+    ],
+    "胎兒": [
+      "Tyrer"
+    ]
   }
 }

@@ -18,3 +18,7 @@ regex_correction_map/Fish	波斯納跟FISH這兩個人	波斯納跟 Fish 這兩�
 transliteration_map/Posner	沒有人去質疑布斯納的立場	沒有人去質疑 Posner 的立場	Posner 把他的立場精簡成一句話
 transliteration_map/Posner	好所以奧斯納跟史丹利這兩個人	好所以 Posner 跟史丹利這兩個人	
 transliteration_map/胎兒	Tyrer脫離了母親的子宮能不能存活	胎兒脫離了母親的子宮能不能存活	胎兒的存活能力隨著科技而改變
+en_case_map/Perry	第一篇文章的作者是Michael J. Parrott	第一篇文章的作者是 Michael J. Perry	Perry 與 Alexander 各寫了一章
+en_case_map/Rubenfeld	第二篇文章就是Romanfield那一篇	第二篇文章就是 Rubenfeld 那一篇	Rubenfeld 寫的是 legitimacy and interpretation
+regex_correction_map/Barber and Fleming	就是剛才講的那本書Barbara and the Flaming	就是剛才講的那本書 Barber and Fleming	芭芭拉是另一個人的名字
+regex_correction_map/Barber and Fleming	就是那本書balber and fleming那本書	就是那本書 Barber and Fleming 那本書	理髮師的英文是 barber

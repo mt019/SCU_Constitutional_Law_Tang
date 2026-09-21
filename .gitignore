@@ -26,3 +26,4 @@ notes/.cache/
 # 1151 逐字稿產線：wav 中間產物與快取不進版控
 1151/seminar/asr/**/*.wav
 1151/seminar/asr/.cache/
+1151/seminar/asr/trial/
