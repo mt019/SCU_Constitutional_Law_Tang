@@ -16,6 +16,11 @@
     Dobbs、Cassie → Casey、Brier → Breyer、Satory → Sartori、布斯納／奧斯納 → Posner 等。
     Rose 與 FISH 同時是英文常用字，收窄成帶上下文的 regex。
   - 1142 學期的四份校訂稿另有殘餘錯誤（Sartori 寫成 Satory），當參考文本可以，當真值不行。
+  - 2026-09-21 補：W01 兩份錄音已轉出（`1151/seminar/asr/W01_0914/`，正文各 40,545 與
+    36,609 字，參數與雜湊見 `manifest.json`）。下午那份帶 prompt 轉出來在 01:18 之後的
+    八分鐘重複同一句 178 段，改以不帶 prompt 重轉該段、用 `asr_splice.py` 接回。共用層
+    因此多兩支：`asr_check_output.py`（重複迴圈、時間碼倒退、末段對不對得上音檔長度，
+    由 `asr_transcribe.sh` 轉完自動呼叫）與 `asr_splice.py`。
 - 2026-09-14：倉庫改成跨學期結構，收 1151 學期材料。
   - 目錄：`library/`（五本指定書與一篇指定論文、文字層一本一夾）、`cases/`（釋字 31 件、憲判 4 件、法規）、
     `ocw/`（大法官講堂講義 114 份）、`1142/`、`1151/`、`notes/`（原 `mkdocs/`）、`latex/`、`scripts/`。
