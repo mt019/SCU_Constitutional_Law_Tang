@@ -1,5 +1,21 @@
 # WORKLOG
 
+- 2026-09-21：1151 每週課堂錄音的逐字稿產線落在 `1151/seminar/asr/`。
+  - 目錄體例：`terms.json`（校正詞典）、`terms-fixtures.tsv`（詞典的語料）、`prompt.txt`
+    （whisper 的初始提示，每週換成該週指定文獻的作者與案名，上限 224 個 token）放在目錄
+    底下；每週一個 `W<週次>_<月日>/` 收該週的 srt、json、corrected.txt、corrections.tsv
+    與 manifest.json。`.cache/` 與 `*.wav` 已寫進 `.gitignore`。
+  - 每週的順序：`asr_find.sh` 按日期與標題找錄音、量峰值決定要不要加增益、改 prompt、
+    跑 `batch-preflight.sh`、`asr_transcribe.sh` 轉全長、`asr_correct.py` 套詞典、站主核聽、
+    `asr_mine_pairs.py` 挖候選、寫回詞典並補語料、`asr_check_terms.py` 過了才提交。
+    六支腳本在 `~/Documents/NTU/1141/whisper/whisper-rt-full/whisper-realtime/tools/`，
+    四支 Python 一律用該倉 `.venv311` 的直譯器跑（opencc 在那裡）。流程寫成 skill
+    `course-asr-dictionary`，全域 `CLAUDE.md` 路由表已加一行。
+  - 詞典首版 14 條規則、17 個錯字變體，條目取自 1142 四份人工校訂逐字稿與
+    `W13_0518_實際用到材料校訂索引.md` 第四節：Dorking／Dawkin → Dworkin、Dops／DOS →
+    Dobbs、Cassie → Casey、Brier → Breyer、Satory → Sartori、布斯納／奧斯納 → Posner 等。
+    Rose 與 FISH 同時是英文常用字，收窄成帶上下文的 regex。
+  - 1142 學期的四份校訂稿另有殘餘錯誤（Sartori 寫成 Satory），當參考文本可以，當真值不行。
 - 2026-09-14：倉庫改成跨學期結構，收 1151 學期材料。
   - 目錄：`library/`（五本指定書與一篇指定論文、文字層一本一夾）、`cases/`（釋字 31 件、憲判 4 件、法規）、
     `ocw/`（大法官講堂講義 114 份）、`1142/`、`1151/`、`notes/`（原 `mkdocs/`）、`latex/`、`scripts/`。
