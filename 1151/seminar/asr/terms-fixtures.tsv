@@ -22,3 +22,8 @@ en_case_map/Perry	第一篇文章的作者是Michael J. Parrott	第一篇文章�
 en_case_map/Rubenfeld	第二篇文章就是Romanfield那一篇	第二篇文章就是 Rubenfeld 那一篇	Rubenfeld 寫的是 legitimacy and interpretation
 regex_correction_map/Barber and Fleming	就是剛才講的那本書Barbara and the Flaming	就是剛才講的那本書 Barber and Fleming	芭芭拉是另一個人的名字
 regex_correction_map/Barber and Fleming	就是那本書balber and fleming那本書	就是那本書 Barber and Fleming 那本書	理髮師的英文是 barber
+regex_correction_map/憲法	我們限法裡面沒有明文	我們憲法裡面沒有明文	這是職權限法的問題
+correction_map/非依法定	非一法定程序不得逮捕拘禁	非依法定程序不得逮捕拘禁	依法定程序作成的處分
+correction_map/非依法律	非一法律正當程序四個字	非依法律正當程序四個字	依法律規定辦理
+correction_map/逮捕拘禁	非依法定程序不得來不拘禁	非依法定程序不得逮捕拘禁	逮捕拘禁的機關應以書面告知
+correction_map/中華民國	在中華英國憲法裡面	在中華民國憲法裡面	中華民國憲法第 8 條

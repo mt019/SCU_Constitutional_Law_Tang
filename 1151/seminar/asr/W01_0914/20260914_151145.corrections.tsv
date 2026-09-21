@@ -1,14 +1,11 @@
 # 時間碼	原字	改字	規則
-00:00:01,060	第一件事情,幫老師插桌子,這個我給你提包,我給你提包,芝子巾。幫老師來之前的小事情,另一件事情就是,我們等一下課堂上會有	第一件事情,幫老師插桌子,這個我給你提包,我給你提包,芝子巾。幫老師來之前的小事情,另一件事情就是,我們等一下課堂上會有	opencc/s2twp
-00:04:13,430	反正學習會有一些書要用,但是這個,蘇來呢,再說,現在還在,老師應該在做最后的修訂	反正學習會有一些書要用,但是這個,蘇來呢,再說,現在還在,老師應該在做最後的修訂	opencc/s2twp
+00:04:13,430	反正學習會有一些書要用,但是這個,蘇來呢,再說,現在還在,老師應該在做最后的修訂	反正學習會有一些書要用,但是這個,蘇來呢,再說,現在還在,老師應該在做最後的修訂	opencc/s2tw
 00:04:32,110	大概是500,現在在我再講的,指定教科書,特別是第一的,倦意的部分	大概是 500,現在在我再講的,指定教科書,特別是第一的,倦意的部分	spacing/pangu
-00:06:49,160	我們現在手機打開了,你打到四個名字	我們現在手機開啟了,你打到四個名字	opencc/s2twp
-00:07:16,470	你最多只能看到一個圖片	你最多隻能看到一個圖片	opencc/s2twp
-00:07:29,530	因為我做同學會用手機的文件	因為我做同學會用手機的檔案	opencc/s2twp
+00:07:16,470	你最多只能看到一個圖片	你最多隻能看到一個圖片	opencc/s2tw
 00:08:08,810	今年的11月18日期寫下來	今年的 11 月 18 日期寫下來	spacing/pangu
-00:08:35,800	總標題大法官谈古論經	總標題大法官談古論經	opencc/s2twp
-00:09:24,090	在台大這邊我也是這樣做的	在臺大這邊我也是這樣做的	opencc/s2twp
-00:12:30,450	不是只有這個	不是隻有這個	opencc/s2twp
+00:08:35,800	總標題大法官谈古論經	總標題大法官談古論經	opencc/s2tw
+00:09:24,090	在台大這邊我也是這樣做的	在臺大這邊我也是這樣做的	opencc/s2tw
+00:12:30,450	不是只有這個	不是隻有這個	opencc/s2tw
 00:13:59,640	11月18號星期三	11 月 18 號星期三	spacing/pangu
 00:14:51,930	從55歲做到63歲	從 55 歲做到 63 歲	spacing/pangu
 00:16:11,510	108課到改立法古文	108 課到改立法古文	spacing/pangu
@@ -17,22 +14,21 @@
 00:16:57,870	10歲以後說	10 歲以後說	spacing/pangu
 00:19:07,630	你們有看過老師的YouTube的舉手	你們有看過老師的 YouTube 的舉手	spacing/pangu
 00:19:09,630	好 老師的YouTube到現在為止	好 老師的 YouTube 到現在為止	spacing/pangu
-00:21:14,650	還有跟學長之間很少聯繫	還有跟學長之間很少聯絡	opencc/s2twp
-00:21:17,750	跟你們的學弟妹也很少聯繫	跟你們的學弟妹也很少聯絡	opencc/s2twp
+00:21:51,950	限法	憲法	regex_correction_map/憲法
+00:22:00,230	限法	憲法	regex_correction_map/憲法
+00:22:02,190	限法	憲法	regex_correction_map/憲法
 00:23:10,200	老師2019年從十八年到晚卸了一個	老師 2019 年從十八年到晚卸了一個	spacing/pangu
 00:25:30,690	建法22條	建法 22 條	spacing/pangu
 00:25:34,850	建法22條	建法 22 條	spacing/pangu
 00:25:39,190	建法22條	建法 22 條	spacing/pangu
 00:26:22,320	老師的YouTube	老師的 YouTube	spacing/pangu
-00:26:37,960	就可以講高級的一半	就可以講高階的一半	opencc/s2twp
 00:27:54,510	603號解釋講的	603 號解釋講的	spacing/pangu
 00:27:55,510	603號解釋	603 號解釋	spacing/pangu
 00:28:03,050	603號解釋	603 號解釋	spacing/pangu
 00:28:20,410	603講什麼	603 講什麼	spacing/pangu
-00:28:56,520	不干	不幹	opencc/s2twp
-00:28:57,510	干清合適	幹清合適	opencc/s2twp
-00:28:58,510	干裹事	幹裹事	opencc/s2twp
-00:29:24,000	註銷	登出	opencc/s2twp
+00:28:56,520	不干	不幹	opencc/s2tw
+00:28:57,510	干清合適	幹清合適	opencc/s2tw
+00:28:58,510	干裹事	幹裹事	opencc/s2tw
 00:29:31,170	英文叫information	英文叫 information	spacing/pangu
 00:29:32,960	也叫information	也叫 information	spacing/pangu
 00:29:33,980	也叫information	也叫 information	spacing/pangu
@@ -41,14 +37,14 @@
 00:29:57,960	line的社群裡面講的話	line 的社群裡面講的話	spacing/pangu
 00:30:02,210	那你在line的族群	那你在 line 的族群	spacing/pangu
 00:30:07,290	social media的族群	social media 的族群	spacing/pangu
-00:33:05,150	但是在台灣	但是在臺灣	opencc/s2twp
+00:33:05,150	但是在台灣	但是在臺灣	opencc/s2tw
 00:33:37,510	最多老師講100個	最多老師講 100 個	spacing/pangu
 00:34:05,830	或是有CD	或是有 CD	spacing/pangu
 00:34:06,920	後來老師就是有YouTube	後來老師就是有 YouTube	spacing/pangu
-00:34:16,810	你們可以在網路平台	你們可以在網路平臺	opencc/s2twp
-00:34:21,920	在台大好幾年的憲法課	在臺大好幾年的憲法課	opencc/s2twp
+00:34:16,810	你們可以在網路平台	你們可以在網路平臺	opencc/s2tw
+00:34:21,920	在台大好幾年的憲法課	在臺大好幾年的憲法課	opencc/s2tw
 00:34:26,050	中間有一些碰到的Coding IT	中間有一些碰到的 Coding IT	spacing/pangu
-00:34:35,330	往來台大有個開放式客序	往來臺大有個開放式客序	opencc/s2twp
+00:34:35,330	往來台大有個開放式客序	往來臺大有個開放式客序	opencc/s2tw
 00:34:40,410	那是2016年	那是 2016 年	spacing/pangu
 00:34:41,460	現在2020年	現在 2020 年	spacing/pangu
 00:35:49,150	是Open Book	是 Open Book	spacing/pangu
@@ -57,25 +53,18 @@
 00:37:06,020	等一下會給你們討論解例跟YouTube	等一下會給你們討論解例跟 YouTube	spacing/pangu
 00:37:11,940	928一的方向	928 一的方向	spacing/pangu
 00:37:13,320	921就是這樣	921 就是這樣	spacing/pangu
-00:37:32,200	台灣發生的問題	臺灣發生的問題	opencc/s2twp
-00:37:50,540	他心仪	他心儀	opencc/s2twp
-00:38:26,730	現在是國會通過的法律	現在是國會透過的法律	opencc/s2twp
+00:37:32,200	台灣發生的問題	臺灣發生的問題	opencc/s2tw
+00:37:50,540	他心仪	他心儀	opencc/s2tw
 00:40:49,060	我學 Trump講話	我學 Trump 講話	spacing/pangu
-00:41:05,060	那台灣的情況很像	那臺灣的情況很像	opencc/s2twp
-00:41:06,900	台灣表面上說	臺灣表面上說	opencc/s2twp
-00:41:07,900	立法院隨時可以通過不信任案	立法院隨時可以透過不信任案	opencc/s2twp
-00:41:12,120	你通過啊	你透過啊	opencc/s2twp
-00:41:13,240	通過的現在問題很多	透過的現在問題很多	opencc/s2twp
-00:41:16,740	誰通過立法院通過	誰透過立法院透過	opencc/s2twp
-00:41:20,300	立法院通過	立法院透過	opencc/s2twp
-00:41:26,830	行政院長他必須在通過以後	行政院長他必須在透過以後	opencc/s2twp
+00:41:05,060	那台灣的情況很像	那臺灣的情況很像	opencc/s2tw
+00:41:06,900	台灣表面上說	臺灣表面上說	opencc/s2tw
 00:41:30,170	10天內辭職	10 天內辭職	spacing/pangu
 00:41:36,090	賺100元	賺 100 元	spacing/pangu
 00:42:51,200	10天內還是要	10 天內還是要	spacing/pangu
-00:42:52,200	下台	下臺	opencc/s2twp
-00:42:53,390	下台以後	下臺以後	opencc/s2twp
-00:42:56,520	這就台灣的一面遊戲去看	這就臺灣的一面遊戲去看	opencc/s2twp
-00:44:34,960	你這里滑	你這裡滑	opencc/s2twp
+00:42:52,200	下台	下臺	opencc/s2tw
+00:42:53,390	下台以後	下臺以後	opencc/s2tw
+00:42:56,520	這就台灣的一面遊戲去看	這就臺灣的一面遊戲去看	opencc/s2tw
+00:44:34,960	你這里滑	你這裡滑	opencc/s2tw
 00:45:44,640	一直到10月12號開始	一直到 10 月 12 號開始	spacing/pangu
 00:45:55,860	341號解釋	341 號解釋	spacing/pangu
 00:45:58,750	261號解釋	261 號解釋	spacing/pangu
@@ -127,56 +116,46 @@
 00:53:17,300	考試成績仍然是100	考試成績仍然是 100	spacing/pangu
 00:53:19,330	那在這個100做清楚	那在這個 100 做清楚	spacing/pangu
 00:53:35,190	你的課堂成績的10分	你的課堂成績的 10 分	spacing/pangu
-00:53:47,760	那只要過分	那隻要過分	opencc/s2twp
+00:53:47,760	那只要過分	那隻要過分	opencc/s2tw
 00:54:37,450	卷子最高分94	卷子最高分 94	spacing/pangu
 00:54:41,020	這個卷分100	這個卷分 100	spacing/pangu
 00:55:46,510	Broadcast還是什麼	Broadcast 還是什麼	spacing/pangu
 00:58:02,190	11月18號	11 月 18 號	spacing/pangu
-00:58:03,190	請你們把時間登錄起來	請你們把時間登入起來	opencc/s2twp
-00:58:06,390	請你們現在把老師的簡歷打開	請你們現在把老師的簡歷開啟	opencc/s2twp
-00:59:01,230	或者你想要通過講師	或者你想要透過講師	opencc/s2twp
-00:59:07,960	讓老師了解你的時候	讓老師瞭解你的時候	opencc/s2twp
+00:59:07,960	讓老師了解你的時候	讓老師瞭解你的時候	opencc/s2tw
 01:01:39,810	法武C	法武 C	spacing/pangu
 01:02:28,420	沒有你可以S	沒有你可以 S	spacing/pangu
 01:03:00,320	法山B	法山 B	spacing/pangu
 01:03:39,070	小孩子從小就會很有ambition	小孩子從小就會很有 ambition	spacing/pangu
-01:03:57,620	因為我們台灣整個就是這種風力士	因為我們臺灣整個就是這種風力士	opencc/s2twp
+01:03:57,620	因為我們台灣整個就是這種風力士	因為我們臺灣整個就是這種風力士	opencc/s2tw
 01:04:32,490	法三A	法三 A	spacing/pangu
 01:04:52,980	馬三A	馬三 A	spacing/pangu
 01:06:25,920	斯卡三D	斯卡三 D	spacing/pangu
 01:07:14,860	R2A郭明彥	R2A 郭明彥	spacing/pangu
-01:07:49,090	郭采琪	郭採琪	opencc/s2twp
-01:08:48,450	你是台灣人	你是臺灣人	opencc/s2twp
-01:09:00,840	在台海有個新他們沒有	在臺海有個新他們沒有	opencc/s2twp
+01:07:49,090	郭采琪	郭採琪	opencc/s2tw
+01:08:48,450	你是台灣人	你是臺灣人	opencc/s2tw
+01:09:00,840	在台海有個新他們沒有	在臺海有個新他們沒有	opencc/s2tw
 01:09:42,140	在YouTube上	在 YouTube 上	spacing/pangu
 01:10:29,090	法二B	法二 B	spacing/pangu
 01:10:48,700	法二B	法二 B	spacing/pangu
 01:11:04,850	通法二B	通法二 B	spacing/pangu
-01:11:25,610	不是只有在哈佛	不是隻有在哈佛	opencc/s2twp
+01:11:25,610	不是只有在哈佛	不是隻有在哈佛	opencc/s2tw
 01:12:49,990	我怪你為什麼不想去Hurber	我怪你為什麼不想去 Hurber	spacing/pangu
 01:13:06,090	Hurber離都市也很近	Hurber 離都市也很近	spacing/pangu
-01:17:45,510	有正當程序的時候	有正當程式的時候	opencc/s2twp
-01:17:51,020	正當程序的根基	正當程式的根基	opencc/s2twp
-01:17:55,760	因為我們限法裡面沒有正當程序	因為我們限法裡面沒有正當程式	opencc/s2twp
-01:18:28,210	非一法律正當程序不得來不拘禁	非一法律正當程式不得來不拘禁	opencc/s2twp
-01:18:31,170	非一法律正當程序	非一法律正當程式	opencc/s2twp
-01:18:33,170	非一法定程序不得來不拘禁	非一法定程式不得來不拘禁	opencc/s2twp
-01:18:36,550	非一法定程序	非一法定程式	opencc/s2twp
-01:18:38,600	比如法定程序	比如法定程式	opencc/s2twp
-01:18:43,780	法定程序意義往上提升	法定程式意義往上提升	opencc/s2twp
-01:18:46,850	法定程序	法定程式	opencc/s2twp
-01:18:52,030	是不是法律所規定的程序	是不是法律所規定的程式	opencc/s2twp
-01:18:54,060	就叫法定程序	就叫法定程式	opencc/s2twp
-01:18:59,370	那也是個程序啊	那也是個程式啊	opencc/s2twp
-01:19:10,580	這種才叫做法定程序	這種才叫做法定程式	opencc/s2twp
-01:19:15,890	它沒有符合正當法律程序	它沒有符合正當法律程式	opencc/s2twp
-01:19:18,620	不是單獨的法律程序規定	不是單獨的法律程式規定	opencc/s2twp
+01:17:48,860	中華英國	中華民國	correction_map/中華民國
+01:17:53,610	限法	憲法	regex_correction_map/憲法
+01:17:55,760	限法	憲法	regex_correction_map/憲法
+01:18:28,210	非一法律	非依法律	correction_map/非依法律
+01:18:28,210	來不拘禁	逮捕拘禁	correction_map/逮捕拘禁
+01:18:31,170	非一法律	非依法律	correction_map/非依法律
+01:18:33,170	非一法定	非依法定	correction_map/非依法定
+01:18:33,170	來不拘禁	逮捕拘禁	correction_map/逮捕拘禁
+01:18:36,550	非一法定	非依法定	correction_map/非依法定
 01:19:22,370	就只有DUE	就只有 DUE	spacing/pangu
 01:19:31,790	法二C,李冠儀	法二 C,李冠儀	spacing/pangu
 01:19:44,470	等一下加個9	等一下加個 9	spacing/pangu
 01:19:45,620	法二C,李冠儀請說	法二 C,李冠儀請說	spacing/pangu
 01:20:13,430	好,法二C,歐乘佑	好,法二 C,歐乘佑	spacing/pangu
-01:23:48,760	我都全部念完了	我都全部唸完了	opencc/s2twp
+01:23:48,760	我都全部念完了	我都全部唸完了	opencc/s2tw
 01:25:35,310	他不可能再維持A+	他不可能再維持 A+	spacing/pangu
 01:25:39,560	每年都都是A	每年都都是 A	spacing/pangu
 01:25:46,520	他們叫JD	他們叫 JD	spacing/pangu
@@ -185,9 +164,9 @@
 01:26:15,820	所以如果沒有給你D	所以如果沒有給你 D	spacing/pangu
 01:26:18,380	用JD	用 JD	spacing/pangu
 01:26:32,200	叫LLB	叫 LLB	spacing/pangu
-01:26:37,970	在台灣也是LL	在臺灣也是LL	opencc/s2twp
+01:26:37,970	在台灣也是LL	在臺灣也是LL	opencc/s2tw
 01:26:37,970	在臺灣也是LL	在臺灣也是 LL	spacing/pangu
-01:26:39,530	在美國你JD念完	在美國你JD唸完	opencc/s2twp
+01:26:39,530	在美國你JD念完	在美國你JD唸完	opencc/s2tw
 01:26:39,530	在美國你JD唸完	在美國你 JD 唸完	spacing/pangu
 01:26:43,340	那也是LL	那也是 LL	spacing/pangu
 01:26:46,240	是在LL開始	是在 LL 開始	spacing/pangu
@@ -195,8 +174,8 @@
 01:27:08,530	那你如果要進SJD	那你如果要進 SJD	spacing/pangu
 01:27:10,840	他是Doctor of Juridical Science	他是 Doctor of Juridical Science	spacing/pangu
 01:27:16,410	那LM不一定要有論文	那 LM 不一定要有論文	spacing/pangu
-01:27:20,740	在台大經驗的都說的事情	在臺大經驗的都說的事情	opencc/s2twp
-01:27:24,490	台大的說是考慮了三年	臺大的說是考慮了三年	opencc/s2twp
+01:27:20,740	在台大經驗的都說的事情	在臺大經驗的都說的事情	opencc/s2tw
+01:27:24,490	台大的說是考慮了三年	臺大的說是考慮了三年	opencc/s2tw
 01:27:37,260	但是很多學校的LM	但是很多學校的 LM	spacing/pangu
 01:27:47,930	所有人各都是JD	所有人各都是 JD	spacing/pangu
 01:27:50,120	都是JD的學生	都是 JD 的學生	spacing/pangu
@@ -209,38 +188,36 @@
 01:28:38,330	老師是民國66年	老師是民國 66 年	spacing/pangu
 01:28:57,810	這就是我的CD	這就是我的 CD	spacing/pangu
 01:28:58,750	那我們是跟請LM的人	那我們是跟請 LM 的人	spacing/pangu
-01:29:14,720	比方說我在台大的碩士論文	比方說我在臺大的碩士論文	opencc/s2twp
+01:29:14,720	比方說我在台大的碩士論文	比方說我在臺大的碩士論文	opencc/s2tw
 01:29:21,320	像我現在來Hawler	像我現在來 Hawler	spacing/pangu
 01:30:18,940	他們叫SGE Proposal	他們叫 SGE Proposal	spacing/pangu
 01:30:26,370	但如果你在美國要念JD	但如果你在美國要念 JD	spacing/pangu
 01:30:29,730	他可能會合成GRE的成績	他可能會合成 GRE 的成績	spacing/pangu
 01:30:31,730	JD本身可能要搞GRE	JD 本身可能要搞 GRE	spacing/pangu
-01:30:34,330	但他有一個特别的	但他有一個特別的	opencc/s2twp
+01:30:34,330	但他有一個特别的	但他有一個特別的	opencc/s2tw
 01:30:35,330	叫做LSAT	叫做 LSAT	spacing/pangu
 01:30:43,980	適不適合念JD	適不適合念 JD	spacing/pangu
 01:31:30,880	那我那一年的LM	那我那一年的 LM	spacing/pangu
 01:31:34,610	HARB來講	HARB 來講	spacing/pangu
 01:31:35,630	我紀錄是80的	我紀錄是 80 的	spacing/pangu
-01:31:41,070	那台灣一年大概就五課	那臺灣一年大概就五課	opencc/s2twp
-01:31:49,260	你在台灣也如果是TOW	你在臺灣也如果是TOW	opencc/s2twp
+01:31:41,070	那台灣一年大概就五課	那臺灣一年大概就五課	opencc/s2tw
+01:31:49,260	你在台灣也如果是TOW	你在臺灣也如果是TOW	opencc/s2tw
 01:31:49,260	你在臺灣也如果是TOW	你在臺灣也如果是 TOW	spacing/pangu
 01:31:52,730	我那一年是有HARB	我那一年是有 HARB	spacing/pangu
 01:31:54,790	跟EOA	跟 EOA	spacing/pangu
 01:32:08,430	或者是為LM	或者是為 LM	spacing/pangu
-01:36:55,680	一周年院	一週年院	opencc/s2twp
-01:37:42,560	就看到大家講這些消息	就看到大家講這些訊息	opencc/s2twp
+01:36:55,680	一周年院	一週年院	opencc/s2tw
 01:37:48,920	大概到8點55分左右	大概到 8 點 55 分左右	spacing/pangu
 01:37:54,350	反正9點前後	反正 9 點前後	spacing/pangu
-01:40:34,070	不是正式公布	不是正式公佈	opencc/s2twp
-01:40:35,160	正式公布是你那天開機子的那個時候	正式公佈是你那天開機子的那個時候	opencc/s2twp
-01:41:57,280	但是對外公布的	但是對外公佈的	opencc/s2twp
-01:47:20,210	第一不准入依	第一不準入依	opencc/s2twp
-01:47:21,210	第二出去以後	第二齣去以後	opencc/s2twp
-01:51:19,260	所以字體不要太多長	所以字型不要太多長	opencc/s2twp
-01:53:19,600	其實不是只有你	其實不是隻有你	opencc/s2twp
+01:40:34,070	不是正式公布	不是正式公佈	opencc/s2tw
+01:40:35,160	正式公布是你那天開機子的那個時候	正式公佈是你那天開機子的那個時候	opencc/s2tw
+01:41:57,280	但是對外公布的	但是對外公佈的	opencc/s2tw
+01:47:20,210	第一不准入依	第一不準入依	opencc/s2tw
+01:47:21,210	第二出去以後	第二齣去以後	opencc/s2tw
+01:53:19,600	其實不是只有你	其實不是隻有你	opencc/s2tw
 01:54:08,830	我是1985年	我是 1985 年	spacing/pangu
 01:54:14,570	1985年	1985 年	spacing/pangu
-01:54:38,440	然後我去念	然後我去唸	opencc/s2twp
+01:54:38,440	然後我去念	然後我去唸	opencc/s2tw
 01:54:42,940	而且我考到我們TLATE去	而且我考到我們 TLATE 去	spacing/pangu
 01:54:45,110	TLATE對我非常好	TLATE 對我非常好	spacing/pangu
 01:54:59,640	550頁	550 頁	spacing/pangu
@@ -250,18 +227,17 @@
 01:55:35,380	叫Administrative Law Review	叫 Administrative Law Review	spacing/pangu
 01:55:37,380	在第37選	在第 37 選	spacing/pangu
 01:59:54,730	我從回來1989年	我從回來 1989 年	spacing/pangu
-01:59:56,730	我在台南	我在臺南	opencc/s2twp
+01:59:56,730	我在台南	我在臺南	opencc/s2tw
 02:00:02,110	東武也是1989年就來了	東武也是 1989 年就來了	spacing/pangu
-02:00:38,570	因為我也沒有在這裏面碰過	因為我也沒有在這裡面碰過	opencc/s2twp
-02:00:43,330	台灣的實務界	臺灣的實務界	opencc/s2twp
-02:00:45,130	特別是指法官的權限	特別是指法官的許可權	opencc/s2twp
+02:00:38,570	因為我也沒有在這裏面碰過	因為我也沒有在這裡面碰過	opencc/s2tw
+02:00:43,330	台灣的實務界	臺灣的實務界	opencc/s2tw
 02:01:02,810	就升到第38期	就升到第 38 期	spacing/pangu
 02:01:03,870	那你到了38期	那你到了 38 期	spacing/pangu
 02:01:10,100	38期過了	38 期過了	spacing/pangu
-02:01:44,090	所以動物應該不會占平	所以動物應該不會佔平	opencc/s2twp
-02:02:12,690	有的是台大的	有的是臺大的	opencc/s2twp
-02:02:22,800	我認為台大還是在大體上	我認為臺大還是在大體上	opencc/s2twp
-02:03:03,230	就是在台大的時候	就是在臺大的時候	opencc/s2twp
-02:03:25,300	台大的法律研究所	臺大的法律研究所	opencc/s2twp
+02:01:44,090	所以動物應該不會占平	所以動物應該不會佔平	opencc/s2tw
+02:02:12,690	有的是台大的	有的是臺大的	opencc/s2tw
+02:02:22,800	我認為台大還是在大體上	我認為臺大還是在大體上	opencc/s2tw
+02:03:03,230	就是在台大的時候	就是在臺大的時候	opencc/s2tw
+02:03:25,300	台大的法律研究所	臺大的法律研究所	opencc/s2tw
 02:03:34,440	學分數0	學分數 0	spacing/pangu
-02:03:41,410	影響台灣重大	影響臺灣重大	opencc/s2twp
+02:03:41,410	影響台灣重大	影響臺灣重大	opencc/s2tw
