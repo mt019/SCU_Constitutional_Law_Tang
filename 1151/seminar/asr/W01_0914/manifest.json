@@ -1,0 +1,69 @@
+{
+  "週次": "W01",
+  "上課日": "2026-09-14",
+  "模型": "ggml-large-v3-turbo-q5_0.bin",
+  "VAD": "ggml-silero-v5.1.2.bin",
+  "參數": "--lang zh --prompt-file prompt.txt（不加 --carry-initial-prompt），threads 6",
+  "變體的選法": {
+    "試轉音檔": "1142 W01（20260223 101114-7386D908.m4a）第 1800 至 2400 秒",
+    "參考稿": "notes/docs/1142/seminar/W01_0223_逐字稿.md",
+    "turbo -l zh": {
+      "字元錯誤率": 0.154,
+      "英文詞召回": 0.844,
+      "srt 段數": 131
+    },
+    "turbo -l auto": {
+      "字元錯誤率": 0.154,
+      "英文詞召回": 0.844,
+      "備註": "txt 與 -l zh 逐位元組相同"
+    },
+    "turbo -l zh --carry-initial-prompt": {
+      "字元錯誤率": 0.158,
+      "英文詞召回": 0.844,
+      "srt 段數": 26,
+      "備註": "段落過粗，人工核聽不好定位"
+    },
+    "large-v3-q5_0": "未測，2026-09-21 下載中止",
+    "選用": "turbo -l zh",
+    "英文詞召回的限制": "參考稿自己把 Perry 寫成 Parrott、Rubenfeld 寫成 Romanfield、Barber and Fleming 寫成 Barbara and the Flaming，轉對的反而算成沒召回；下一輪改用核過的詞表當分母。"
+  },
+  "錄音": [
+    {
+      "原檔": "/Users/iw/Library/Group Containers/group.com.apple.VoiceMemos.shared/Recordings/20260914 101946.m4a",
+      "sha256": "97273da14bacde1fd6a088691f527c4788ba44c5f7427966df4de9945ef21b25",
+      "長度秒": 7632.3,
+      "峰值dB": -7.2,
+      "增益": "不加",
+      "產物前綴": "W01_0914/20260914_101946",
+      "正文字數": 40545
+    },
+    {
+      "原檔": "/Users/iw/Library/Group Containers/group.com.apple.VoiceMemos.shared/Recordings/20260914 151145.m4a",
+      "sha256": "c8faeadfa7a282a4dd6e39875d3c8714d38173015d18589cd5d0273b2bdf2e71",
+      "長度秒": 7465.1,
+      "峰值dB": -0.4,
+      "增益": "不加",
+      "產物前綴": "W01_0914/20260914_151145",
+      "正文字數": 36609,
+      "重轉與接回": {
+        "成因": "帶 prompt 轉出來在 01:18:27 至 01:26:39 重複同一句「法律正當程序不得來不拘禁」178 段，八分鐘的內容掉了。",
+        "重轉": "同一段（音檔第 4650 至 5270 秒）不帶 prompt 重轉，得 294 段、無重複。",
+        "接回": "asr_splice.py --from 4700 --to 5210 --fix-start 4650，換掉 187 段、補進 239 段，全長 4155 段。接點兩側同為「這不只是大法官自己解釋的問題而已」。",
+        "原稿": "20260914_151145.srt.orig"
+      }
+    }
+  ],
+  "詞典": {
+    "檔": "terms.json",
+    "規則": 21,
+    "錯字變體": 21,
+    "本輪命中": 0
+  },
+  "腳本": {
+    "倉": "~/Documents/NTU/1141/whisper/whisper-rt-full/whisper-realtime",
+    "轉錄": "tools/asr_transcribe.sh",
+    "套詞典": "tools/asr_correct.py",
+    "接回": "tools/asr_splice.py",
+    "評分": "tools/asr_score.py"
+  }
+}
