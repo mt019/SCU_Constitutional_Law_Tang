@@ -38,3 +38,35 @@ transliteration_map/Hans Kelsen	如果你們非常喜歡看Hanskielsen那一篇	
 transliteration_map/Carl Schmitt	牽涉到誰是憲法的守護者，Karl Schmidt 的立場	牽涉到誰是憲法的守護者，Carl Schmitt 的立場	Carl Schmitt 的憲法學說
 transliteration_map/Carl Schmitt	看 Kar Shun 這個事蹟論	看 Carl Schmitt 這個事蹟論	
 regex_correction_map/幾	我上课的学长几年	我上課的學長幾年	客廳那張茶几
+# 2026-09-21 續核 W01 兩份稿新增的條目。句子取自 W01_0914 的兩份稿，人名與書名的正字依大法官意見書檔名與 1151/seminar/syllabus.md 核。
+correction_map/違憲審查	叫做美國司法危險審查正當性論辯脈絡的分析	叫做美國司法違憲審查正當性論辯脈絡的分析	這個工程的危險性要先評估
+correction_map/違憲審查	這個學期我就是專門做回憲審查制度正當性討論	這個學期我就是專門做違憲審查制度正當性討論	
+correction_map/憲判	好這個又反映到 113 縣判球	好這個又反映到 113 憲判球	
+correction_map/釋憲學思心路	剩下來是老師的四線學師心路上中下三冊	剩下來是老師的釋憲學思心路上中下三冊	
+correction_map/釋憲學思心路	就是我這個世線學師心路送給楊綠然老師	就是我這個釋憲學思心路送給楊日然老師	
+correction_map/釋憲學思心路	老師的書裡面有提事件學師心路	老師的書裡面有提釋憲學思心路	
+correction_map/學思心路	看過學師心路的舉手	看過學思心路的舉手	
+correction_map/許宗力	一直到了許中立當主席才打破這個慣例	一直到了許宗力當主席才打破這個慣例	
+correction_map/許宗力	抱歉許中利把這個廢掉	抱歉許宗力把這個廢掉	
+correction_map/黃昭元	我覺得這個黃照源很好我們請黃照源	我覺得這個黃昭元很好我們請黃昭元	
+correction_map/許信良	那應該要問許新娘你認為這個合理嗎	那應該要問許信良你認為這個合理嗎	
+correction_map/卓榮泰	你現在倒得了左龍泰	你現在倒得了卓榮泰	
+correction_map/賴清德	現在賴金德更會說那你們自己說的啊	現在賴清德更會說那你們自己說的啊	
+correction_map/賴清德	聽說亂清德他不要再提了	聽說賴清德他不要再提了	
+correction_map/湯德宗	有什麼不理的湯德忠的字	有什麼不理的湯德宗的字	
+correction_map/林紀東	很多人不會去上林濟東的課	很多人不會去上林紀東的課	
+correction_map/王羲之	你為什麼不寫別的字要寫王羨之的字	你為什麼不寫別的字要寫王羲之的字	
+correction_map/顏真卿	要寫顏真心的字	要寫顏真卿的字	
+correction_map/古文觀止	你要讀古文觀子背到滾瓜爛熟你就會了	你要讀古文觀止背到滾瓜爛熟你就會了	
+correction_map/唐詩三百首	你熟讀堂詩三百首不會作詩也會吟	你熟讀唐詩三百首不會作詩也會吟	
+correction_map/旁聽	羅阿雅你要來龐聽的話請說一下	羅阿雅你要來旁聽的話請說一下	
+correction_map/旁聽	你為什麼要來龐丁	你為什麼要來旁聽	
+correction_map/迎新會	我那天去看了你們的營興會	我那天去看了你們的迎新會	
+correction_map/迎新會	反正吧銀心會將大家見不見	反正吧迎新會將大家見不見	
+correction_map/官箴	設置監察院就是要維護官針	設置監察院就是要維護官箴	他用針縫的
+correction_map/貪腐	我認為最大的問題是探服	我認為最大的問題是貪腐	他探訪了幾個單位
+correction_map/速記錄	我們每一次開會都有大法官第幾次會議的數記錄	我們每一次開會都有大法官第幾次會議的速記錄	
+correction_map/速記官	數記官當中有很厲害的	速記官當中有很厲害的	
+correction_map/楊日然	楊綠然老師當時是臺大法律研究所的所長	楊日然老師當時是臺大法律研究所的所長	
+regex_correction_map/憲法	為什麼我們現法課的時數越來越少	為什麼我們憲法課的時數越來越少	我發現法律規定得很清楚
+regex_correction_map/憲法	你們的縣法必修課從每個學期兩個學分	你們的憲法必修課從每個學期兩個學分	

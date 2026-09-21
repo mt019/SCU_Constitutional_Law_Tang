@@ -1,6 +1,10 @@
 # 時間碼	原字	改字	規則
 00:04:32,110	大概是500,現在在我再講的,指定教科書,特別是第一的,倦意的部分	大概是 500,現在在我再講的,指定教科書,特別是第一的,倦意的部分	spacing/pangu
+00:04:45,380	四線學師心路	釋憲學思心路	correction_map/釋憲學思心路
+00:05:06,530	四線學師心路	釋憲學思心路	correction_map/釋憲學思心路
+00:05:06,530	學師心路	學思心路	correction_map/學思心路
 00:08:08,810	今年的11月18日期寫下來	今年的 11 月 18 日期寫下來	spacing/pangu
+00:09:57,420	現法	憲法	regex_correction_map/憲法
 00:13:59,640	11月18號星期三	11 月 18 號星期三	spacing/pangu
 00:14:51,930	從55歲做到63歲	從 55 歲做到 63 歲	spacing/pangu
 00:16:11,510	108課到改立法古文	108 課到改立法古文	spacing/pangu
@@ -12,11 +16,17 @@
 00:21:51,950	限法專題	憲法專題	correction_map/憲法專題
 00:22:00,230	限法	憲法	regex_correction_map/憲法
 00:22:02,190	限法	憲法	regex_correction_map/憲法
+00:22:24,480	現法	憲法	regex_correction_map/憲法
+00:22:39,510	現法	憲法	regex_correction_map/憲法
+00:23:02,880	現法	憲法	regex_correction_map/憲法
 00:23:10,200	老師2019年從十八年到晚卸了一個	老師 2019 年從十八年到晚卸了一個	spacing/pangu
+00:23:30,350	現法	憲法	regex_correction_map/憲法
 00:25:30,690	建法22條	建法 22 條	spacing/pangu
 00:25:34,850	建法22條	建法 22 條	spacing/pangu
 00:25:39,190	建法22條	建法 22 條	spacing/pangu
 00:26:22,320	老師的YouTube	老師的 YouTube	spacing/pangu
+00:26:25,540	現法	憲法	regex_correction_map/憲法
+00:26:26,540	現法	憲法	regex_correction_map/憲法
 00:27:05,740	Decitional	decisional	en_case_map/decisional
 00:27:50,140	Decitional	decisional	en_case_map/decisional
 00:27:54,510	603號解釋講的	603 號解釋講的	spacing/pangu
