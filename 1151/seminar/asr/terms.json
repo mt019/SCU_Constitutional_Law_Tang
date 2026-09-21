@@ -1,5 +1,5 @@
 {
-  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。 2026-09-21 的十分鐘試轉另外核出三個：Parrott、Romanfield 與 Barbara and the Flaming，對應 Perry、Rubenfeld、Barber and Fleming，三個名字在 library/text/alexander/pages.json 與 library/text/barber_fleming/ 都查得到。 2026-09-21 W01 兩份稿另核出同音字六組：限法、非一法定、非一法律、來不拘禁、中華英國；憲法第 8 條原文見 cases/statutes/中華民國憲法.pdf。",
+  "source": "1142 學期同一門課的四份人工校訂逐字稿：notes/docs/1142/seminar/{W01_0223,W13_0518,W14_0525,W17_0615}_逐字稿.md，以及 W13_0518_實際用到材料校訂索引.md 第四節的誤辨字校正表。 2026-09-21 的十分鐘試轉另外核出三個：Parrott、Romanfield 與 Barbara and the Flaming，對應 Perry、Rubenfeld、Barber and Fleming，三個名字在 library/text/alexander/pages.json 與 library/text/barber_fleming/ 都查得到。 2026-09-21 W01 兩份稿另核出同音字六組：限法、非一法定、非一法律、來不拘禁、中華英國；憲法第 8 條原文見 cases/statutes/中華民國憲法.pdf。 W01 兩份稿再核出：微線審查（10 處，違憲審查 0 處）、Bickle、Hanskelson／Hanskielsen、Karl Schmidt／Kar Shun、Decitional privacy。",
   "policy": "條目一律取自上列稿件裡實際出現過的錯法，不從課綱的人名猜。1151 指定文獻的作者（Bickel、Waldron、Tushnet、Kelsen、Schmitt 等）只寫進 prompt.txt，等實際轉出錯法再進本檔。改詞典就跑 asr_check_terms.py。",
   "note": "Tyrer 在 1142 的錄音裡是「胎兒」的誤辨，而 Tyrer v. United Kingdom 是歐洲人權法院的真案名；老師若提到該案，這條會把案名改成胎兒，屆時改成帶上下文的 regex。Rose 與 FISH 兩條為此已經收窄成 regex。 Parrott、Romanfield、Barbara and the Flaming 三條修的是 1142 校訂稿裡留著的錯；2026-09-21 的試轉顯示 turbo 自己把 Michael J. Perry 轉對了，這三條可能長期沒有東西可改，照零命中的規矩處理。 「程式」那一組不進詞典：成因是 opencc 的 s2twp 詞彙層把原稿正確的「程序」轉成「程式」，2026-09-21 已把產線改用 s2tw。",
   "correction_map": {
@@ -17,6 +17,14 @@
     ],
     "中華民國": [
       "中華英國"
+    ],
+    "違憲審查": [
+      "微線審查",
+      "微憲審查",
+      "違線審查"
+    ],
+    "憲法專題": [
+      "限法專題"
     ]
   },
   "regex_correction_map": {
@@ -69,6 +77,12 @@
     ],
     "Rubenfeld": [
       "Romanfield"
+    ],
+    "Bickel": [
+      "Bickle"
+    ],
+    "decisional": [
+      "Decitional"
     ]
   },
   "transliteration_map": {
@@ -78,6 +92,14 @@
     ],
     "胎兒": [
       "Tyrer"
+    ],
+    "Hans Kelsen": [
+      "Hanskielsen",
+      "Hanskelson"
+    ],
+    "Carl Schmitt": [
+      "Karl Schmidt",
+      "Kar Shun"
     ]
   }
 }
