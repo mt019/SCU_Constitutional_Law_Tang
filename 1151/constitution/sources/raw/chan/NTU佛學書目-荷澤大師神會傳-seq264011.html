@@ -1,0 +1,1365 @@
+
+
+
+
+
+
+
+<html>
+<head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-W1HN00TY2L"></script>
+	<script src="https://dlbs.liberal.ntu.edu.tw/common/gtag.js" type="text/javascript"></script>
+	<base href="https://dlbs.liberal.ntu.edu.tw/" >
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+<link rel="canonical" href="https://dlbs.liberal.ntu.edu.tw/search/search_detail.jsp?seq=264011" />
+ 	<link rel="SHORTCUT ICON" href="images/weblogo.ico">
+	<script src="jquery.js" type="text/javascript"></script>
+	<script src="jquery-ui.js"></script>
+	<script src="javascript.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="jquery-ui.css" />
+	
+	<link rel=stylesheet type="text/css" href="style_v1.css">
+	<link type="text/css" rel="stylesheet" href="lightbox.css">
+	<link rel=stylesheet type="text/css" href="dropdown-menu.css">
+	<script type="text/javascript" src="dropdown-menu.js"></script>
+	<link rel=stylesheet type="text/css" href="scrollup.css">
+	<script src="scrollup.js" type="text/javascript"></script>
+	<script src="jquery.cookie.js"></script>
+	<script type="text/javascript" src="jquery.numeric.js"></script>
+	<link rel=stylesheet type="text/css" href="style.css"> 
+	<link rel=stylesheet type="text/css" href="search/style_rwd_search_detail_m.css">
+	
+	<!--  citation information for google scholar Start-->
+	
+	
+	<link rel="schema.DC" href="http://purl.org/DC/elements/1.1/" />
+	<meta name="citation_title" content="神會和尚遺集 -- 胡適校敦煌唐寫本" \><meta name="DC.title" content="神會和尚遺集 -- 胡適校敦煌唐寫本" \>
+	<meta name="citation_author" content="胡適" \><meta name="DC.creator" content="胡適" />
+	
+	
+	<meta name="citation_date" content="1968" \><meta name="DC.date" content="1968" />
+	
+	<meta name="citation_publisher" content="中央研究院" \><meta name="DC.publisher" content="中央研究院" />
+	<meta name="citation_language" content="zh" \><meta name="DC.language" content="zh" />
+	<meta name="citation_keywords" content="頓悟=Immediate Enlightenment=Immediate Understanding; 菩提達摩=菩提達磨=達摩=達磨=Bodhidharma; 般若波羅密多=般若=Prajnaparamita=Prajna=Perfection of Wisdom; 公案=語錄=Koan" \><meta name="DC.subject" content="頓悟=Immediate Enlightenment=Immediate Understanding; 菩提達摩=菩提達磨=達摩=達磨=Bodhidharma; 般若波羅密多=般若=Prajnaparamita=Prajna=Perfection of Wisdom; 公案=語錄=Koan" />
+	
+	
+	<!--  citation information for google scholar End  -->
+
+	<title>神會和尚遺集 -- 胡適校敦煌唐寫本</title>
+    <script src="common/dexie.js"></script>
+ 
+<script> 
+	// 檢索歷史 indexDB 功能
+	// 1.開啟 indexedDB
+	var db = new Dexie("DLMBS-3");
+	db.version(1).stores({
+	    searchlist: 'seq,sh,link'
+	});
+	db.open();
+	//db.searchlist.clear(); //清除
+	
+	// 2.檢核是否有初始值，若沒有自動加入
+	var isNoData="N";
+	db.searchlist.toCollection().count(function (count) {
+		if(count==0){
+			isNoData="Y";
+		}
+	}).then(function () {
+		if(isNoData=="Y"){
+			db.searchlist.put({seq: "1", sh: "", link:""});
+		}
+	})
+</script> 
+
+	<style>
+table thead tr th {color:#000000}
+table tbody tr td {color:#000000}
+.filter-gif{position:absolute;top:4px;left:15px;}
+.filter-content{position:relative;padding:3px 10px 2px 35px;color:#000000;line-height:1.5;}
+
+	.guide-header {
+		border: 1px solid #cccccc;
+		background-color:#f6f6f6;
+		line-height:30px;color:#000000;
+		/*border: #cccccc 1px solid;background-color:#f6f6f6;line-height:30px;color:#000000;*/
+	}
+.header{display:inline-block;margin:1px 3px 1px 3px;width:160px;line-height:30px;
+		text-align:center;
+		background: #fffefc; /* Old browsers */
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIzMyUiIHN0b3AtY29sb3I9IiNmZmZlZmMiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiNkZWRlZGUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+		background: -moz-linear-gradient(top,  #fffefc 33%, #dedede 75%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(33%,#fffefc), color-stop(75%,#dedede)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #fffefc 33%,#dedede 75%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #fffefc 33%,#dedede 75%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #fffefc 33%,#dedede 75%); /* IE10+ */
+		background: linear-gradient(to bottom,  #fffefc 33%,#dedede 75%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#dedede',GradientType=0 ); /* IE6-8 */
+		padding:2px 4px 2px 4px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:1px solid #CCCCCC;color:#000000;
+		/*cursor: pointer;*/
+		}
+
+.header:hover{display:inline-block;margin:1px 3px 1px 3px;width:160px;;line-height:30px;
+		background: #fffefc; /* Old browsers */
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIzMyUiIHN0b3AtY29sb3I9IiNmZmZlZmMiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI3NSUiIHN0b3AtY29sb3I9IiNkZWRlZGUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+		background: -moz-linear-gradient(top,  #efefef 33%, #fffefc 75%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(33%,#efefef), color-stop(75%,#fffefc)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #efefef 33%,#fffefc 75%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #efefef 33%,#fffefc 75%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #efefef 33%,#fffefc 75%); /* IE10+ */
+		background: linear-gradient(to bottom,  #efefef 33%,#fffefc 75%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efefef', endColorstr='#fffefc',GradientType=0 ); /* IE6-8 */
+		padding:2px 4px 2px 4px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:1px solid #CCCCCC;color:#222222;
+		/*cursor: pointer;*/
+		}
+
+.line_gray{height:1px;background-color:#868575}
+table.classShadowBoxTB tr th{
+	line-height:35px;text-align:center; background-color: #E2E4E2;
+}
+.classtitle{cursor:pointer;color:#000000}
+.classdot {position:relative;float:right;top:5px;line-height: 31px;}
+a.showclassshadow			{position:relative;float:right;padding-top:5px;font-size: 10pt;color:#0074d8;decoration:none;}
+a.showclassshadow:link		{color:#0074d8;text-decoration:none}
+a.showclassshadow:hover		{color:#0074d8;text-decoration:underline;}
+a.showclassshadow:active	{color:#0074d8;text-decoration:underline;}
+a.showclassshadow:visited	{color:#0074d8}
+.classshadow{display:none;}
+.input {
+	color:#000000;font-size:16px;height:28px;font-family: arial, ,新細明體 , sans-serif, Microsoft JhengHei;
+	/*color:#000000;font-size: 16px;height:24px;font-family: arial, ,新細明體 , sans-serif, Microsoft JhengHei;*/
+}
+	</style>
+<script language="javascript">
+<!--
+	$(function(){
+			$(document).on("click","#correctkeywordbutton", function (e) {
+
+		        if($("#othormemo").val()==""){
+		            alert("請輸入您的說明！");
+		            $("#othormemo").focus();
+		            return false;
+		        }
+				
+				if($("#username").val()==""){
+					alert("請輸入您的姓名!");  
+					$("#username").focus();
+					return false;	
+				}
+				
+				if($("#useremail").val()==""){
+					alert("請輸入電子信箱!");  
+					$("#useremail").focus();
+					return false;	
+				}
+                
+                //$('#modifybox').css('display','none');
+                //$('#shadowing').css('display','none');
+
+			  	$.ajax({
+			  		url:"correctbibliography",
+			  		//data:{"lan":"tw","fixinfo":"all","seq":$("#correctseq").val(),"topic":encodeURI($("#topic").val()),"author":encodeURI($("#author").val()),"source_topic":encodeURI($("#source_topic").val()),"archive":encodeURI($("#archive").val()),"press_time":encodeURI($("#press_time").val()),"page":encodeURI($("#page").val()),"seriesname":encodeURI($("#seriesname").val()),"seriessubsidiary":encodeURI($("#seriessubsidiary").val()),"seriesno":encodeURI($("#seriesno").val()),"publisher":encodeURI($("#publisher").val()),"publisherurl":encodeURI($("#publisherurl").val()),"publisher_location":encodeURI($("#publisher_location").val()),"media_type":encodeURI($("#media_type").val()),"biliography_language":encodeURI($("#biliography_language").val()),"remark":encodeURI($("#remark").val()),"remarkcontent":encodeURI($("#remarkcontent").val()),"keyword":encodeURI($("#keyword").val()),"summary":encodeURI($("#summary").val()),"tablecontent":encodeURI($("#tablecontent").val()),"pressmark":encodeURI($("#pressmark").val()),"othormemo":encodeURI($("#othormemo").val()),"username":encodeURI($("#username").val()),"useremail":encodeURI($("#useremail").val()),"usertel":encodeURI($("#usertel").val()),"isbn":encodeURI($("#isbn").val()),"issn":encodeURI($("#issn").val()),"isrc":encodeURI($("#isrc").val()),"edition":encodeURI($("#edition").val()),"doi":encodeURI($("#doi").val())},
+			  		data:{"lan":"tw","fixinfo":"all","seq":$("#correctseq").val(),"othormemo":encodeURI($("#othormemo").val()),"username":encodeURI($("#username").val()),"useremail":encodeURI($("#useremail").val()),"usertel":encodeURI($("#usertel").val())},
+			  		type:"post",
+			  		dateType:"jason",
+			  		error:function(){console.log("")},
+			  		success:function(){console.log("")}
+			  	}).done(function(data) {
+			  		
+	  	  			var jsonInfo = $.parseJSON("["+unescape(data)+"]");
+					var msg=jsonInfo[0].msg;
+					var errormsg=jsonInfo[0].errormsg;
+					var erroritemid=jsonInfo[0].erroritemid;
+
+					//有錯誤訊息就停住
+					if(errormsg!=undefined && errormsg!=""){
+	                    alert(errormsg);
+	                    if(erroritemid!=undefined && erroritemid!="") $("#"+erroritemid).focus();
+                    }else{
+                        $('#modifybox').css('display','none');
+                        $('#shadowing').css('display','none');
+                    	alert(msg);
+                    }
+					
+			  	});
+			});
+
+			
+			$("#checkallSearchHistory").click(function() {
+				checkAllBox($(this).prop('checked'),$("#classShadowBoxSearchHistory"),"checkboxHistorys");
+			})
+	} );
+
+	var isADV=false;	
+//-->
+</script>
+<link rel="stylesheet" href="/common/sidebar-drawer.css?v=20261003-2">
+</head>
+<body id="page-search-detail-m">
+<div class="site-wrapper">
+    <div id="page-search-detail-m-header">
+        
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FJ7CL7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div align='center'><input type='hidden' name='choose' id='choose' value='SearchForm1'>
+	<table border='0' width='995' cellspacing='0' cellpadding='4' height='148'>
+		<tr>
+			<td height='25' colspan='3' align="right">
+			<table border='0' cellpadding='0' cellspacing='0' style='margin-right:10px;'>
+			     <tr>
+			         <td style='font-size:10pt' align='right'>
+			             <font size='2' color='#FFFFFF'><acronym title='Copyright'><a class='topheader' href='aboutus/sitemap.jsp'>網站導覽</a></acronym></font><font color='#676767'>．<a class='topheader' href='aboutus/aboutus.jsp'>關於本館</a>．<a class='topheader' href='aboutus/consultants.jsp'>諮詢委員會</a>．<a class='topheader' href='aboutus/contactus.jsp'>聯絡我們</a>．<a class='topheader' href='aboutus/search_reg.jsp'>書目提供</a>．<a class='topheader' href='aboutus/copyright.jsp'>版權聲明</a>．<a class='topheader' href='aboutus/cite.jsp'>引用本站</a>．<a class='topheader' href="aboutus/donate.jsp"><font size='2' color='#AA2211'><b>捐款贊助</b></font></a>．<a class='topheader' href='./index.jsp'>回首頁</a>．
+			         </td>
+			         <td width="13px"><a href='https://www.facebook.com/DLMBS/' target='_blank'><img src='images/dot/facebooklogo.png' width='100%'></a></td>
+			     </tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width='549' rowspan='2'><a href='https://ccbs.ntu.edu.tw/index.jsp'><img src='https://ccbs.ntu.edu.tw/images/headlogolink.gif' border=0></a></td>
+			<td valign='bottom' height='45'><font style='font-size:10pt' color='#FFFFFF'>｜<span id='S1' style='color:yellow'>書目</span>｜<span id='S2'>佛學著者</span>｜<!-- <span id='S3'>中國佛教美術論文</span>｜ --><span id='S4'>站內</span>｜</font><br>
+			<div id='searchpanel'>
+				<form name='SearchForm1' id='SearchForm1' method='get' action='search/default.jsp' style='margin-top:0px;margin-bottom:0px;'>
+				<table border='0' cellspacing='0' cellpadding='0'>
+					<tr><td width='250' height='25' background='https://ccbs.ntu.edu.tw/images/search-input.gif' align='left'><input name='q' type='text' size='33' style='border: 0px none;background-color: transparent;font-size: 12; margin-left:25' onkeydown='if(window.event.keyCode==13) $("#SearchForm1").submit()' placeholder='請輸入查詢字串'></td>
+						<td><button type='submit' onclick='$('#SearchForm1').submit()' onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='auto';" style="border:0px solid #000000;width:40px;height:25px;background-image:url('https://ccbs.ntu.edu.tw/images/search-submit.gif');">&nbsp;</button></td>
+					</tr>
+				</table>
+				</form>
+			</div>
+			</td>
+			<td width='65' valign='top' align=center>
+				<div style='margin-top: 7'><b><font size='2' color='#FFFFFF' face='Arial'>
+                	<span class="badge-version"><a href='../jp/index.jsp'>日</a></span><span class="badge-version"><a href='../en/index.jsp'>EN</a></span></font></b>
+					<!--<a class='select' href='../DLMBS/en/'>English</a></font></b>-->
+                    <br><br><a class='select' href='javascript:history.go(-1);'>上一頁</a></div>
+			</td>
+		</tr>
+		<tr>
+			<td width='426' colspan='2' height='40' style='font-size:10pt'><font color='#FFFFFF'><a class='select' href='./search/'>檢索系統</a>．<a class='select' href='./fulltext/'>全文專區</a>．<a class='select' href='./sutra/'>數位佛典</a>．<a class='select' href='./lesson/'>語言教學</a>．<a class='select' href='./website/'>相關連結</a></font></td>
+		</tr>
+		<tr>
+			<td width='549' height='15'></td>
+			<td width='426' height='15' colspan='2'></td>
+		</tr>
+	</table>
+</div>
+
+        
+
+<script language="javascript">
+function setChoose(span){
+	$("#S1").css("color","#FFFFFF");
+	$("#S2").css("color","#FFFFFF");
+	$("#S3").css("color","#FFFFFF");
+	$("#S4").css("color","#FFFFFF");
+	$("#"+span).css("color","yellow");
+}
+
+$(function(){	
+	$("#S1").click(function(){
+		$("#choose").val("SearchForm1");
+		setChoose("S1");
+		$("#searchpanel").html("<form name='SearchForm1' id='SearchForm1' method='get' style=\"margin-top:0px;margin-bottom:0px;\" action='search/default.jsp'><table border='0' cellspacing='0' cellpadding='0'><tr><td width='250' height='25' background='https://ccbs.ntu.edu.tw/images/search-input.gif' align='left'><input name='q' type='text' size='33' style='border: 0px none;background-color: transparent;font-size: 12; margin-left:25' onkeydown='if(window.event.keyCode==13) $(\"#SearchForm1\").submit()' placeholder=\"請輸入查詢字串\"></td><td><button type='submit' onclick=\"$('#SearchForm1').submit()\" onmouseover=\"this.style.cursor='pointer';\" onmouseout=\"this.style.cursor='auto';\" style=\"border:0px solid #000000;width:40px;height:25px;background-image:url('https://ccbs.ntu.edu.tw/images/search-submit.gif');\">&nbsp;</button></td></tr></table></form>");
+	});
+	$("#S1").mouseover(function() {
+		this.style.color="yellow";
+		this.style.cursor="pointer";
+	});
+	$("#S1").mouseout(function() {
+		if($("#choose").val()!="SearchForm1") this.style.color="#FFFFFF";
+	});
+	
+	$("#S2").click(function(){
+		$("#choose").val("SearchForm2");
+		setChoose("S2");
+		$("#searchpanel").html("<form name='SearchForm2' id='SearchForm2' method='POST' style=\"margin-top:0px;margin-bottom:0px;\" action='https://dlbs.liberal.ntu.edu.tw//author/authorlist.jsp'><table border='0' cellspacing='0' cellpadding='0'><input type='hidden' name='cboAuthorQryRule' value='part'><tr><td width='250' height='25' background='https://ccbs.ntu.edu.tw/images/search-input.gif' align='left'><input name='txtAuthorQryString' id='txtAuthorQryString' type='text' size='33' style='border: 0px none;background-color: transparent;font-size: 12; margin-left:25' onkeydown='if(window.event.keyCode==13) $(\"#SearchForm2\").submit()' placeholder=\"請輸入查詢字串\"></td><td><button type='submit' onclick=\"$('#SearchForm2').submit()\" onmouseover=\"this.style.cursor='pointer';\" onmouseout=\"this.style.cursor='auto';\" style=\"border:0px solid #000000;width:40px;height:25px;background-image:url('https://ccbs.ntu.edu.tw/images/search-submit.gif');\">&nbsp;</button></td></tr></table></form>");
+	});
+	$("#S2").mouseover(function() {
+		this.style.color="yellow";
+		this.style.cursor="pointer";
+	});
+	$("#S2").mouseout(function() {
+		if($("#choose").val()!="SearchForm2") this.style.color="#FFFFFF";
+	});
+	
+	$("#S3").click(function(){
+		$("#choose").val("SearchForm3");
+		setChoose("S3");
+		$("#searchpanel").html("<form name='SearchForm3' id='SearchForm3' method='POST' style=\"margin-top:0px;margin-bottom:0px;\" action='http://140.112.115.46/paper/user/general_01.asp'><table border='0' cellspacing='0' cellpadding='0'><input type='hidden' name='step' value='1'><input type='hidden' name='search_type' value='不限欄位'><tr><td width='250' height='25' background='https://ccbs.ntu.edu.tw/images/search-input.gif' align='left'><input name='search_text' id='search_text' type='text' size='33' style='border: 0px none;background-color: transparent;font-size: 12; margin-left:25' onkeydown='if(window.event.keyCode==13) $(\"#SearchForm3\").submit()' placeholder=\"請輸入查詢字串\"></td><td><button type='submit' onclick=\"$('#SearchForm3').submit()\" onmouseover=\"this.style.cursor='pointer';\" onmouseout=\"this.style.cursor='auto';\" style=\"border:0px solid #000000;width:40px;height:25px;background-image:url('https://ccbs.ntu.edu.tw/images/search-submit.gif');\">&nbsp;</button></td></tr></table></form>");
+	});
+	$("#S3").mouseover(function() {
+		this.style.color="yellow";
+		this.style.cursor="pointer";
+	});
+	$("#S3").mouseout(function() {
+		if($("#choose").val()!="SearchForm3") this.style.color="#FFFFFF";
+	});
+	
+	$("#S4").click(function(){
+		$("#choose").val("SearchForm4");
+		setChoose("S4");
+		$("#searchpanel").html("<form name='SearchForm4' id='SearchForm4' method='get' style=\"margin-top:0px;margin-bottom:0px;\" action='https://www.google.com/search'><table border='0' cellspacing='0' cellpadding='0'><input type=hidden name=sitesearch value='http://ccbs.ntu.edu.tw'><tr><td width='250' height='25' background='https://ccbs.ntu.edu.tw/images/search-input.gif' align='left'><input name='as_q' id='as_q' type='text' size='33' style='border: 0px none;background-color: transparent;font-size: 12; margin-left:25' onkeydown='if(window.event.keyCode==13) $(\"#SearchForm4\").submit()' placeholder=\"請輸入查詢字串\"></td><td><button type='submit' onclick=\"$('#SearchForm4').submit()\" onmouseover=\"this.style.cursor='pointer';\" onmouseout=\"this.style.cursor='auto';\" style=\"border:0px solid #000000;width:40px;height:25px;background-image:url('https://ccbs.ntu.edu.tw/images/search-submit.gif');\">&nbsp;</button></td></tr></table></form>");
+	});
+	$("#S4").mouseover(function() {
+		this.style.color="yellow";
+		this.style.cursor="pointer";
+	});
+	$("#S4").mouseout(function() {
+		if($("#choose").val()!="SearchForm4") this.style.color="#FFFFFF";
+	});
+})
+</script>
+
+        <button type="button" id="mobileNavToggle" aria-label="開啟選單" aria-expanded="false" aria-controls="mobileNav"><span></span><span></span><span></span></button>
+        <nav id="mobileNav" aria-hidden="true"></nav>
+    </div>
+    <div class="site-content">
+        <!------------------------------ 主要網頁內容 Start ------------------------------>
+        <!------------------------------ 1.指南 Start ------------------------------>
+        <div class="guide">．<a href="./index.jsp" class="guide">首頁</a> > <a class="guide" href="search">檢索系統</a> > <a class="guide" href="search/default.jsp">書目檢索</a> > <a class="guide" href="search/search_detail.jsp?seq=264011">書目明細</a></div>
+                        
+        <!------------------------------ 1.指南  End  ------------------------------>
+        <!------------------------------ 2.單元功能選單 Start ------------------------------>
+		<table class="detail-section-title" border="0" width="100%">
+			<tr>
+				<td><a href="search/default.jsp"><img src="images/title/Title_FulltextSearch.gif" border="0"></a></td>
+				<td width="85%" valign="bottom">
+				<div class="pagetitle">
+					&nbsp;</div></td>
+				<td width="130" valign="bottom" align="right">
+
+				</td>
+			</tr>
+		</table><br>
+        <!------------------------------ 2.單元功能選單  End  ------------------------------>
+        <!------------------------------ 3.單元內容 Start ------------------------------>
+				<!------------------------------ 3.2 單元內容  (中) Start ------------------------------>
+			
+        <!------------------------------ 1.輸入檢索條件、檢索歷史 Start ------------------------------>
+        <form id="formFulltext" method="get" action="search/default.jsp" target="_blank">	
+		<div id="isAllowIndexedDBInfo" style="width:810px;margin-left:80px;margin-bottom:10px;display:none;"></div>
+		<div class="search-bar-links" align="right" style="margin-right:156px;"><a href="search/searchadvance.jsp" class="extendsearch">進階查詢</a>．<a class="extendsearch" href="javascript:void(0);" onclick="setClassShadowBoxSearchHistory3();showshadow('classShadowBoxSearchHistory');">查詢歷史</a>．<a class="extendsearch" href="search/help.jsp" target="_blank">使用說明</a></div>
+		<div class="search-bar"><!-- margin-left:10px;min-width:1000px;max-width:1000px; -->
+			<div class="search-bar-item">
+					<select aria-label="搜尋欄位" id="qf" name="qf" class="input">
+							<option value="TOPIC">題名(書名)</option>
+							<option value="SOURCETOPIC">出處題名</option>
+							<option value="AUTHOR">著者</option>
+							<option value="KEYWORD">關鍵詞</option>
+							<option value="SUMMARY">摘要</option>
+							<option value="TABLECONTENT">目次</option>
+							<option value="SERIESNAME">叢書名</option>
+							<option value="PRESSMARK">ISBN/ISSN</option>
+							<option value="all">不限欄位</option>
+							<!-- <option value="ARCHIVE">卷期</option> -->
+					</select>
+			</div>
+			<div class="search-bar-item">
+				<input aria-label="搜尋關鍵詞" type="text" name="q" id="q" value="" height="30px" class="input" style="width:640px;">
+					<!-- style="color:#000000;font-size: 22px;height:40px;font-weight: bold;font-family: arial, ,新細明體 , sans-serif, Microsoft JhengHei;" -->
+			</div>
+			<div class="search-bar-item"><input type="submit" id="submit" value="查詢" style="font-size: 16px; height:28px; width:60px; font-weight: normal;"><input type="button" name="reset" value="清除" onClick="$('#qf').val('all');$('#q').val('');$('#q').focus()" style="font-size: 16px; height:28px; width:60px; font-weight: normal;"></div>
+		</div>
+		</form>
+        <!------------------------------ 1.輸入檢索條件、檢索歷史   End  ------------------------------>
+        
+				<!------------------------------ 3.2 單元內容  (中) End ------------------------------>
+		<hr style="width: 98%; border-top:0.3px #D5D5D5 solid;" noshade="noshade" >
+        
+        
+                      
+		<div class="detail-grid">
+			<div class="grid-actions">
+				<!------------------------------ 3.1 單元內容 (左) Start ------------------------------>
+				
+				<table id="fulltextpanel" style="display:none" border="0" cellspacing="0" cellpadding="0" width="100%" style="margin-bottom:30px;">
+					<tr><td style="width:3px;background-color:#7C7F63;"></td>
+						<td style="width:7px;background-color:#C6C8B8;"></td>
+						<td style="background-color:#C6C8B8;height:21px;line-height:18px;font-size:10pt;font-weight:bold;color:#000000">閱讀本文</td></tr>
+					<tr><td colspan="3" style="background-color:#FFFCD9" valign="middle">
+					<div id="fulltextdownload" style="margin-top:10px;margin-left:10px;line-height:30px;display:none;text-align:center"></div><br>
+					</td></tr>
+				</table>
+
+				<button type="button" class="grid-actions-toggle" aria-expanded="false" aria-controls="grid-actions-panel">加值服務／書目管理</button>
+				<div id="grid-actions-panel" class="grid-actions-panel">
+				<button type="button" class="grid-actions-close" aria-label="關閉">✕</button>
+
+				<table border=0 cellspacing=0 cellpadding=0  width=100%>
+					<tr><td style="width:3px;background-color:#7C7F63;"></td>
+						<td style="width:7px;background-color:#C6C8B8;"></td>
+						<td style="background-color:#C6C8B8;height:21px;line-height:18px;font-size:10pt;font-weight:bold;color:#000000">加值服務</td></tr>
+				</table>
+				
+				<div style="margin-bottom:40px;margin-top:10px;">
+					<table border=0>
+						<tr><td><a id="worldcat1" target="_blank" class="extendsearch" title="WorldCat" style="display:none;margin-left:10px;"><img src="images/logo/worldcat.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:10px;"></a></td></tr>
+						<tr><td><a id="metadatancl" target="_blank" class="extendsearch" title="臺灣書目整合查詢系統" style="display:none;margin-left:10px;"><img src="images/logo/metadatancl.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:15px;"></a></td></tr>
+						<!-- <tr><td><a id="muse1" target="_blank" class="extendsearch" title="MUSE 電子資源整合檢索系統" style="display:none;margin-left:10px;"><img src="images/logo/ntumuse.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:15px;"></a></td></tr> -->
+						<tr><td><a id="metacat1" target="_blank" class="extendsearch" title="Met@Cat 整合查詢館藏服務系統(臺灣)" style="display:none;margin-left:10px;"><img src="images/logo/metacat2017.png" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:15px;"></a></td></tr>
+						<tr><td><a id="ntulib1" target="_blank" class="extendsearch" title="NTULIB 國立臺灣大學圖書館" style="display:none;margin-left:10px;"><img src="images/logo/bg-btn-ntulib.png" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:15px;"></a></td></tr>
+						<tr><td><a id="libjoin" target="_blank" class="extendsearch" title="佛教圖書館館藏聯合目錄" style="display:none;margin-left:10px;"><img src="images/logo/logo-joinlib.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:15px;"></a></td></tr>
+						<tr><td><a id="ndds" target="_blank" class="extendsearch" title="NDDS 全國文獻傳遞系統" style="margin-left:10px;" href="https://ndds.stpi.narl.org.tw/"><img src="images/logo/NDDS.png" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:15px;"></a></td></tr>						
+					</table>
+					<!-- 
+					<a id="worldcat" target="_blank" class="extendsearch" title="WorldCat" style="display:none;margin-left:30px;"><img src="images/logo/worldcat.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:3px;"> WorldCat</a>
+					<a id="muse" target="_blank" class="extendsearch" title="MUSE" style="display:none;margin-left:30px;"><img src="images/logo/ntumuse.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:3px;"> MUSE電子資源整合檢索系統</a>
+					<a id="union" target="_blank" class="extendsearch" title="Union List of Serials 全國西文期刊聯合目錄" style="display:none;margin-left:30px;"><img src="images/logo/union.gif" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:3px;"> Union List of Serials (Taiwan)</a>
+					<a id="metacat" target="_blank" class="extendsearch" title="Met@Cat" style="display:none;margin-left:30px;"><img src="images/logo/metacat.png" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:3px;"> 臺灣圖書館整合查詢系統</a>
+					<a id="ntulib" target="_blank" class="extendsearch" title="NTULIB 國立臺灣大學圖書館" style="display:none;margin-left:30px;"><img src="images/logo/ntulib.png" style="border:#cccccc 1px solid;width:105px;height:30px;margin-top:3px;"> 國立臺灣大學圖書館</a>
+					 -->
+				</div>
+
+				<table border=0 cellspacing=0 cellpadding=0  width=100%>
+					<tr><td style="width:3px;background-color:#7C7F63;"></td>
+						<td style="width:7px;background-color:#C6C8B8;"></td>
+						<td style="background-color:#C6C8B8;height:21px;line-height:18px;font-size:10pt;font-weight:bold;color:#000000">書目管理<!-- 及分享 --></td></tr>
+				</table>
+				<table border=0 cellspacing=2 cellpadding=3  style="margin-top:10px;">
+					<tr><td><img style="margin-left:10px;width:18px;" src="images/logo/logo-export.png"></td><td><a name="btn-bookexport" href="javascript:void(0)" onclick="exportbooks()" class="extendsearch">書目匯出</a></td></tr>
+				</table>
+				</div><!-- close grid-actions-panel -->
+				<!------------------------------ 3.1 單元內容 (左)  End  ------------------------------>
+			</div>
+			<div class="grid-detail">
+				<!------------------------------ 3.2 單元內容  (中) Start ------------------------------>
+                <table border=0 cellspacing=0 cellpadding=0 width=100%>
+                    <tr><td></td>
+                        <td></td>
+                        <td style="height:40px;line-height:40px;font-size:16pt;font-weight:bold;color:#000000"><!-- 書目明細 -->神會和尚遺集 -- 胡適校敦煌唐寫本</td></tr> 
+                    <tr><td style="width:3px;background-color:#7C7F63;"></td>
+                        <td style="width:7px;background-color:#C6C8B8;"></td>
+                        <td style="background-color:#C6C8B8;height:3px;"></td></tr>
+                </table>
+
+                 <table class="detail-metadata" width="100%" border=0 cellpadding="6" cellspacing="6" bordercolor="#CCCCCC" style="BORDER-COLLAPSE: collapse;color:#000000">
+                  <tbody>
+                          <tr><th width="120px"  valign="top" align="right">作者</th><td  valign="top">
+                                  
+                                                <a href="author/authorinfo.jsp?ID=44637&comefrom=bookdetail" target="_blank" class="extendsearch">胡適</a>
+                                     
+                          </td></tr>
+        
+                      
+	                  
+	                      
+                      
+                          
+
+                      
+    	                  <tr><th width="120px"  valign="top" align="right">出版日期</th><td  valign="top">1968</td></tr>
+                        
+                      
+                        
+	                  
+                            
+	                       <tr><th width="120px"  valign="top" align="right">出版者</th><td  valign="top">中央研究院</td></tr>
+                        
+	                  
+                        
+	                  
+                           
+	                       <tr><th width="120px"  valign="top" align="right">出版地</th><td  valign="top">臺北市, 臺灣 [Taipei shih, Taiwan]</td></tr>
+                        
+
+                           
+	                       <tr><th width="120px"  valign="top" align="right">叢書名</th><td  valign="top">胡適紀念館單刊</td></tr>
+                        
+                      
+                        
+                      
+                        
+                      
+                           
+	                       <tr><th width="120px"  valign="top" align="right">資料類型</th><td  valign="top">書籍=Book</td></tr>
+                        
+                      
+                           
+	                       <tr><th width="120px"  valign="top" align="right">使用語言</th><td  valign="top">中文=Chinese</td></tr>
+                        
+                      
+                        
+                      
+                        
+                      
+                      
+                      
+                      
+                      
+                      
+
+                      
+
+                      
+
+                           
+			                  <tr><th width="120px"  valign="top" align="right">關鍵詞</th><td  valign="top" id="POOL_keyword">頓悟=Immediate Enlightenment=Immediate Understanding; 菩提達摩=菩提達磨=達摩=達磨=Bodhidharma; 般若波羅密多=般若=Prajnaparamita=Prajna=Perfection of Wisdom; 公案=語錄=Koan</td></tr>
+                      
+	                  
+                           
+                            <tr><th width="120px"  valign="top" align="right">摘要</th><td  valign="top">第三種</td></tr>
+                      
+                      
+                           
+                            <tr><th width="120px"  valign="top" align="right">目次</th><td  valign="top">一、荷澤大師神會傳<br>二、神會和尚遺集<br>1. 神會語錄第一殘卷<br>2. 神會語錄第二殘卷 -- 菩提達摩南宗定是非論<br>3. 神會語錄第三殘卷 -- 疑是南宗定是非論的後半<br>4. 頓悟無生般若頌殘卷 -- 即荷澤大師顯宗記</td></tr>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+ 
+                      
+		      
+                      
+		      
+                                           
+                    
+                      
+                     
+                      
+
+                        
+                      
+
+                      
+                        
+
+                     
+                      
+
+                        
+                      
+	                 <tr><th width="120px"  valign="top" align="right">點閱次數</th><td  valign="top">1004</td></tr>
+
+
+                       
+                           
+	                       <tr><th width="120px"  valign="top" align="right">建檔日期</th><td  valign="top">1998.07.22
+</td></tr>
+                      
+	                  
+                           
+                           <tr><th width="120px"  valign="top" align="right">更新日期</th><td  valign="top">2014.06.16</td></tr>
+                        
+	                 
+
+	                        
+                 </tbody>
+                </table>
+                
+                <br><br><br>
+
+
+
+				<style>
+				table #bookdetail {color:#000000};
+				table TBODY TR TH span {color:#000000};
+				table #bookdetail TBODY TR TD span {color:#000000};
+				</style>
+				
+				 <TABLE id="bookdetail" width="100%" border=0 cellpadding="6" cellspacing="6" bordercolor="#CCCCCC" style="BORDER-COLLAPSE: collapse;color:#000000">
+				  <TBODY>
+				  <TR valign="top"><!-- 
+				    <TH width="120px"><div align="right" style="color:#000000">序號</div></TH>
+				    <TD><span id="seq" style="color:#000000">264011</span></TD> -->
+				 </TR>
+				 </TBODY>
+				</TABLE>
+				
+				<div align="right" style="margin-right:12px;"><a href="javascript:void(0)" onclick="scrollto(0);$('#modifybox').css('display','block');$('#shadowing').css('display','block');$('#othormemo').focus();" class="extendsearch"><!-- 資料修正 <img src="images\dot\supplyinfo.jpg"> --><img style="margin-left:30px;margin-top:10px;" src="images/logo/bg-btn-edit.png"></a></div>
+
+                <!-- 募款資訊 start -->
+                <br><br><br><br><div align="left"><a href="aboutus/donate.jsp"><img alt="" src="images/banner/donatebanner2017.png" style="border: 1px solid #8E8E8E" width="80%"></a></div>
+                <!-- 募款資訊 end -->
+        
+				<!------------------------------ 3.2 單元內容  (中) End ------------------------------>
+			</div><!-- close grid-detail -->
+		</div><!-- close detail-grid -->
+        <!------------------------------ 3.單元內容 Start ------------------------------>
+
+        <br><br><br>
+
+        <!------------------------------ 主要網頁內容  End  ------------------------------>
+	
+		<form name="formQuery" id="formQuery" method="get" action="search/default.jsp" target="_blank">
+		<input type="hidden" name="q" id="qq" >
+		</form>
+			<div align="center">建議您使用 Chrome, Firefox, Safari(Mac) 瀏覽器能獲得較好的檢索效果，IE不支援本檢索系統。</div><br>
+    </div>
+    <div id="page-search-detail-m-footer"><script src="footer.js" type="text/javascript"></script></div>
+</div>
+<div id="shadowing"></div>
+<div id="msgbox" class="loginbox">
+	<p align=center id="msgboxtitle"><b>提示訊息</b></p>
+	<p style="line-height:20px;padding-left:15px;padding-right:15px;text-align:left;color:#000000" align="center">您即將離開本網站，連結到<span id="ExternalFulltextSite"></span>，此資料庫或電子期刊所提供之全文資源，當遇有網域限制或需付費下載情形時，將可能無法呈現。
+	<p align="center"><input type="button" id="gotoFulltextLink" value="確定前往" onclick="$('#msgbox').css('display','none');$('#shadowing').css('display','none');window.open($('#ExternalFulltextURL').html(),'_blank');" class="ui-button"><input type="button" value="取消前往" onclick="$('#msgbox').css('display','none');$('#shadowing').css('display','none')" class="ui-button"><!-- <br><br><input type="checkbox" value="">我已詳閱訊息，請不用再提醒！ --></p>
+	<span id="ExternalFulltextURL" style="display:none"></span>
+</div>
+<div id="modifybox" class="modifybox">
+<div style="position:relative;float:right;top:10px;right:10px;cursor:pointer;line-height: 31px;"><img src="images/dot/cancel.png" onclick="$('#modifybox').css('display','none');$('#shadowing').css('display','none');"></div>
+	<form>
+	<p align=center id="msgboxtitle"><font size="2" color="#000000"><b>修正書目錯誤</b></font></p>
+	<p align=center><font size="2" color="#000000">請直接於下方表格內刪改修正，填寫完正確資訊後，點擊下方送出鍵即可。<br>(您的指正將交管理者處理並儘快更正)</font></p>
+	<p style="line-height:20px;padding-left:15px;padding-right:15px;text-align:left;color:#000000" align="center">
+				 <TABLE id="bookdetailmodify" width="100%" border=0 cellpadding="2" cellspacing="0" bordercolor="#CCCCCC" style="BORDER-COLLAPSE: collapse;color:#000000">
+				  <TR valign="top">
+				    <TH width="120px"><div align="right" style="color:#000000">序號</div></TH>
+				    <TD><span id="seq" style="color:#000000">264011</span></TD>
+				  </TR>
+				</TABLE>
+	</p><input type="hidden" id="correctseq" name="correctseq" value="264011"><input type="hidden" id="lan" name="lan" value="tw">
+	<p align="center"><input id="correctkeywordbutton" type="button" value="送出" class="ui-button"><input type="reset" value="復原" class="ui-button"></p>
+	</form>
+</div>
+<style>
+		
+
+
+	.loginboxheader{
+	background-color: #AA2211;
+	padding: 2;
+	text-align:center;
+	margin:1;
+	width:100%;
+	height:40px;
+	line-height:40px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	}
+	.loginbox{
+	display: none;
+	position: fixed;
+	top: 20%;
+	left: 35%;
+	width: 400px;
+	height: 200px;
+	padding: 0;
+	margin:0;
+	border: 1px solid #DEDEDE;
+	background-color: white;
+	z-index:11;
+	line-height:24px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:10px;
+
+}
+.modifybox{
+	display: none;
+	position: absolute;
+	top: 10%;
+	left: 20%;
+	width: 750px;
+	padding: 0;
+	margin:0;
+	border: 1px solid #DEDEDE;
+	background-color: white;
+	z-index:11;
+	line-height:24px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:10px;
+
+}
+</style>
+
+<div id="classShadowBoxSearchHistory" class="classShadowBox">
+	<div class="classShadowBoxHeader">查詢歷史<span class="classShadowBoxClose" onClick="closeshadow('classShadowBoxSearchHistory');"></span></div>
+	<div class="classShadowBoxHeaderContent">
+		<div align="right"><a href="search/searchlibrary.jsp" target="_blank" class="extendsearch">檢索欄位代碼說明</a></div>
+		<table width="100%" cellpadding="0" cellspacing="1" class="classShadowBoxTB">
+			<thead>
+			<tr><td colspan="3"  class="line_gray"></td></tr>
+			<tr><th style="width:50px;"><input type="checkbox" id="checkallSearchHistory"></th><th>檢索策略<!-- 查詢條件 --></th><th style="width:50px;">瀏覽</th></tr>
+			<tr><td colspan="3"  class="line_gray"></td></tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+	</div><br><br><br>
+	<div style="text-align:center">
+		<input type="button" value="刪除" onClick="removeIndexedDBValues()" class="ui-button"><input type="button" value="取消" name="cancel" onClick="$('#checkallSearchHistory').prop('checked',false);checkAllBox(false,$('#classShadowBoxSearchHistory'),'checkboxHistorys');" class="ui-button">
+	</div><br>
+</div>	
+
+<script>
+
+$("#q").val("");
+$("#q").focus();
+$("#isAllowIndexedDBInfo").html(isAllowIndexedDBInfo);
+$("#isAllowIndexedDBInfo").css("display","block");
+
+if(""==""){
+	$("#qf").selectedIndex = 0;
+}else{
+	$("#qf").val("");
+}
+
+
+//共用涵式：尋找classShadowBox內的checkbox,設定所有的checkbox被勾選或取消勾選
+function checkAllBox(isChecked,classShadowBox,checkBoxName){
+    classShadowBox.each(function() {  
+    	classShadowBox.find("input[name='" + checkBoxName + "']").prop('checked', isChecked);                 
+    })	
+}
+
+function closeshadow(classShadow){
+	document.getElementById(classShadow).style.display='none';
+	document.getElementById('shadowing').style.display='none';
+}
+
+function showshadow(classShadow){		
+	document.getElementById(classShadow).style.display='block';
+	document.getElementById('shadowing').style.display='block';
+}
+
+function setClassShadowBoxSearchHistory3(){
+	var stringSH=$("#currentSH").val();
+	var stringLINK=$("#currentLINK").val();
+  	var tbodyinfo="";
+
+    if(stringSH!="" && stringSH!=null){
+  	    var arraySH=stringSH.split("$$$");
+  	    var arrayLINK=stringLINK.split("$$$");
+		for(i=0;i<arraySH.length;i++){
+			var advcookieseq="";
+			if(arrayLINK[i].indexOf("&adv=true")>0) advcookieseq="&advcookieseq="+i;	//若是進階檢索，則加入進階檢索的cookie序號，以便進行處理，來顯示檢索策略
+			tbodyinfo=tbodyinfo+"<tr><td style=\"height:35px;text-align:center\">"+(i+1)+"<input type=\"checkbox\" name=\"checkboxHistorys\" value=\""+i+"\"></td><td style=\"line-height:18px;\">"+arraySH[i]+"</td><td style=\"text-align:center\"><a href=\""+arrayLINK[i]+advcookieseq+"\" class=\"extendsearch\">瀏覽</a></td></tr>";	
+			tbodyinfo=tbodyinfo+"<tr><td colspan=\"3\"  class=\"line_gray\"></td></tr>";
+		}
+		$("#classShadowBoxSearchHistory table tbody").html(tbodyinfo);
+    }else{//沒有資料
+    	$("#classShadowBoxSearchHistory table tbody").html("<tr><td colspan=\"3\" style=\"height:150px\" align=\"center\">查無資料</td></tr>");
+    }
+}
+
+</script>
+
+        <!------------ 以下隱藏 input text 用來處理 indexedDB 資料 start------------>
+        <!-- currentCount: --><input type="hidden" name="currentCOUNT" id="currentCOUNT" /><br>
+       	<!-- currentSH:  -->  <input type="hidden" name="currentSH" id="currentSH" /><br>
+        <!-- currentLINK: --><input type="hidden" name="currentLINK" id="currentLINK" /><br>
+        <!------------ 以下隱藏 input text 用來處理 indexedDB 資料 e n d------------>
+<script type="text/javascript">
+
+
+         window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB || window.msIndexedDB;
+         //var request, db; 
+
+         if(!window.indexedDB){
+         	isAllowIndexedDB="0";
+         	isAllowIndexedDBInfo="<font size='3' color='#FF0000'>您的瀏覽器不支援儲存資料功能(IndexedDB)，因此無法儲存查詢歷史，請｢更新瀏覽器｣ 或是｢使用其他瀏覽器｣。</font>";
+         }
+         
+       	 //設定檢索歷史初始值
+         var arrayIndexedValues;
+         db.searchlist.get('1').then(function (searchlist) {	
+         	if(searchlist.sh!=undefined){
+             	var arraySH=searchlist.sh.split("$$$");
+             	var arrayLINK=searchlist.link.split("$$$");
+             	$("#currentSH").val(searchlist.sh);
+             	$("#currentLINK").val(searchlist.link);
+             	if(arraySH.sh!="" && isADV==true){
+             		sh=searchlist.sh.split("$$$")[0];
+             		showSearchTactics(sh);
+             	}
+         	}else{
+         		console.log("undefined");
+         	}
+         })
+
+         function removeIndexedDBValues(){
+
+        		if(window.indexedDB==undefined) return false;
+
+        		var SearchIndex=""; //記錄勾選了哪些查詢歷史
+        		$("input[name='checkboxHistorys']:checkbox:checked").each(function(i) {
+        			SearchIndex=SearchIndex+(SearchIndex==""?"":";")+this.value;
+        		});
+        		
+        		//0.查無資料
+        		if(SearchIndex=="") return false;
+        		
+        		//1.將勾選的資料，從 indexedDB 移除
+        		var arraySearchIndex=SearchIndex.split(";");
+
+        		db.searchlist.get('1').then(function (searchlist) {
+        			var arraySH=searchlist.sh.split("$$$");
+        			var arrayLINK=searchlist.link.split("$$$");
+
+        			
+        			for(k=arraySearchIndex.length-1;k>=0;k--){
+        				arraySH.splice(arraySearchIndex[k],1);
+        				arrayLINK.splice(arraySearchIndex[k],1);
+        			}
+
+        			
+        			//2.重新組合
+        	       	var stringSH="";
+        	       	var stringLINK="";
+        			for(xyz=0;xyz<arraySH.length;xyz++){
+        				stringSH=stringSH+(stringSH==""?"":"$$$")+arraySH[xyz];
+        				stringLINK=stringLINK+(stringLINK==""?"":"$$$")+arrayLINK[xyz];				
+        			}
+        			
+        			//3.存入indexedDB
+        			$("#currentSH").val(stringSH);
+        			$("#currentLINK").val(stringLINK);
+        			db.searchlist.put({seq: "1", sh: stringSH, link:stringLINK})
+
+        			//4.重新列出來
+        			setClassShadowBoxSearchHistory3();
+        		});
+
+
+        	 } // end removeIndexedDBValues
+ 
+ </script>
+<script language="javascript">
+<!--
+
+	$(function(){
+		//點選檢索歷史，顯示出相關的查詢關鍵
+		//從cookie中找出查詢的關鍵字，放到searchhistory中
+		/*
+		var searchhistoryinfo="";
+		var searchkeywordhistoryinfo="";
+		var arrayCookie="";
+		
+		if($.cookie("DLMBS.search.fulltextsearch.searchhistory")!=null && $.cookie("DLMBS.search.fulltextsearch.searchhistory").length>0){
+			arrayCookie=$.cookie("DLMBS.search.fulltextsearch.searchhistory").split(",");
+		}
+
+		if(arrayCookie.length>0 && arrayCookie[0]!=""){
+			for(var i=0;i<arrayCookie.length;i++){
+				searchkeywordhistoryinfo="<li class=\"cat-item\"><a href=\"javascript:void(0);\"><img src='images/dot/cancel.png' border='0' class='cursorhand' id='removekeyword' onclick='removesearchhistory(\"" + i + "\")'> <span onclick=\"$('#qq').val('" + arrayCookie[i] + "');$('#formQuery').submit(); \">"+arrayCookie[i]+ "</span></a></li>"+searchkeywordhistoryinfo;
+			}					
+		}else{
+			searchkeywordhistoryinfo="<li class=\"cat-item\"><a href=\"javascript:void(0);\"><br>尚無查詢結果<br><br></a></li>";
+		}
+	
+		$("#searchkeywordhistory").html(searchkeywordhistoryinfo);
+		*/
+		//===================================================================
+			
+		var url="jsonbibliography?seq=264011";
+		var topic="";
+		var arrayauthorseqs;
+		var arrayauthors;
+		//var authorseq="";
+		//var author="";
+		var sourcetopic="";
+		var seq_journal="";
+		var seriesname="";
+		var seriessubsidiary="";
+		var seriesno="";
+		var archive="";
+		var presstime="";
+		var page="";
+
+		var publisher="";
+		var publisherlocation="";
+		var publisherurl="";
+		var mediatype="";
+		var language="";
+		var createtime="";
+		var modifiedtime="";
+		var remark="";
+		var remarkcontent="";
+		//var arraykeywords="";
+		var keyword="";
+		var summary="";
+		var tablecontent="";
+		//var pressmark="";
+		var supplier="";
+		var seinfo="";
+		var bfulltext="";
+		var path="";
+		
+		//2016.9.19加入博碩士論文欄位
+		var degree="";
+		var seq_school="";
+		var institution="";
+		var department="";
+		var advisor="";
+		var publicationyear="";
+		
+		//2016.12.01 加入isbn,issn,isrc,版本項資訊
+		var isbn="";
+		var issn="";
+		var isrc="";
+		var edition="";
+		
+		var category="";
+		var period="";
+		var area="";
+		var place="";
+		var doi="";
+        var hits="";
+        //console.log(url);
+		$.getJSON(url,function(bibliographyData){
+
+			if(bibliographyData.size==0) window.location="search/default.jsp?q="+encodeURI("");
+	        topic=bibliographyData.topic;
+	        arrayauthorseqs=bibliographyData.authorseq.split(";");
+	        arrayauthors=bibliographyData.author.split(";");
+	        //authorseq=bibliographyData.authorseq;
+	        //author=bibliographyData.author;
+	        sourcetopic=bibliographyData.source_topic;
+	        seq_journal=bibliographyData.seq_journal;
+			seriesname=bibliographyData.seriesname;
+			seriessubsidiary=bibliographyData.seriessubsidiary;
+			seriesno=bibliographyData.seriesno;
+			archive=bibliographyData.archive;
+			presstime=bibliographyData.press_time;
+			page=bibliographyData.page;
+			publisher=bibliographyData.publisher;
+			publisherlocation=bibliographyData.publisher_location;
+			publisherurl=bibliographyData.publisher_url;
+			mediatype=bibliographyData.media_type;
+			language=bibliographyData.biliography_language;
+			createtime=bibliographyData.create_time;
+			modifiedtime=bibliographyData.modified_time;
+			remark=bibliographyData.remark;
+			remarkcontent=bibliographyData.remarkcontent;
+			//arraykeywords=bibliographyData.keyword.split(";");
+	        keyword=bibliographyData.keyword;
+	        summary=bibliographyData.summary;
+	        tablecontent=bibliographyData.tablecontent;
+	        //pressmark=bibliographyData.pressmark;
+	        supplier=bibliographyData.supplier;
+	        bfulltext=bibliographyData.bfulltext;
+	        path=bibliographyData.relative_fulltext_path;
+	      	//2016.9.19加入博碩士論文欄位
+			degree=bibliographyData.degree;
+	      	if(degree=="doctor") degree="博士";
+	      	if(degree=="master") degree="碩士";
+	      	if(degree=="bachelor") degree="學士";
+	      		
+			seq_school=bibliographyData.seq_school;
+			institution=bibliographyData.institution;
+			department=bibliographyData.department;
+			advisor=bibliographyData.advisor;
+			publicationyear=bibliographyData.publicationyear;
+			
+			//2016.12.01 加入isbn,issn,isrc,版本項資訊
+			isbn=bibliographyData.isbn;
+			issn=bibliographyData.issn;
+			isrc=bibliographyData.isrc;
+			edition=bibliographyData.edition;
+			
+			category=bibliographyData.category;
+			period=bibliographyData.period;
+			area=bibliographyData.area;
+			place=bibliographyData.place;
+			doi=bibliographyData.doi;
+	        hits=bibliographyData.hits;
+	        sourceitem=bibliographyData.sourceitem;
+	         
+
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TH><div align=\"right\" style=\"color:#000000\">題名</div></TH><TD>"+ topic +"</TD>");			
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TH><div align=\"right\" style=\"color:#000000\">作者</div></TH><TD>"+ bibliographyData.author +"</TD>");
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TH><div align=\"right\" style=\"color:#000000\">說明</div></TH><TD>請將校正的建議，填寫於下方，若有參考網址請一併提供，感謝您！<br><textarea id=\"othormemo\" name=\"othormemo\" rows=\"10\"  style='width:90%'></textarea> <font color=\"red\">*</font></TD>");
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TD align=center  colspan=2><div align=\"center\" style=\"color:#000000\"><b>聯絡資訊：</b></div></TD></TR>");
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TH><div align=\"right\" style=\"color:#000000\">姓名</div></TH><TD><input type=text id=\"username\" name=\"username\" style='width:90%'> <font color=\"red\">*</font></TD>");
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TH><div align=\"right\" style=\"color:#000000\">信箱</div></TH><TD><input type=text id=\"useremail\" name=\"useremail\" style='width:90%'> <font color=\"red\">*</font></TD>");
+			$("#bookdetailmodify").append("<TR valign=\"top\"><TH><div align=\"right\" style=\"color:#000000\">電話</div></TH><TD><input type=text id=\"usertel\" name=\"usertel\" style='width:90%'></TD>");
+
+			
+			
+			//======================================================
+			//主題書目 2014/12/26 新增
+			url="jsondata?action=getTopicListFromBioSeq&seq=264011";
+			var topicHTML="";
+			$.getJSON(url,function(topicData){
+				if(topicData.source!=undefined){
+					for(k=0;k<topicData.source.length;k++){
+						//資料格式三個連成一組，分別為(1)主題序號(2)主題中文名稱(3)主題英文名稱
+						var topiclist=topicData.source[k].topic.split(";");
+						for(z=0;z<topiclist.length;z=z+3){
+							if(z!=0) topicHTML=topicHTML+" / ";
+							if((z+1)<topiclist.length && (z+4)>topiclist.length){
+								topicHTML=topicHTML+"<a target='_blank' class='extendsearch' href='search/subjectbooklist.jsp?topicid=" + topiclist[z] + "'>"+topiclist[z+1]+"</a>";	
+							}else{
+								topicHTML=topicHTML+topiclist[z+1];
+							}
+						}
+						topicHTML=topicHTML+"<br>";
+					}
+					if(topicHTML!="") $("table tbody #bookdetail").append("<TR valign=\"top\"><TH width=\"100px\"><div align=\"right\" style=\"color:#000000;\">主題分類</div></TH><TD><span>"+ topicHTML +"</span></TD>");
+				}
+			});	
+			//======================================================
+			var pathinfo="";
+			if(bfulltext==1){
+				if(path.length>0){
+					if(path.substring(0,10)=="/FULLTEXT/")	path="https://buddhism.lib.ntu.edu.tw"+path;
+					if(path.substring(0,4)=="/FT/") path="https://buddhism.lib.ntu.edu.tw"+path;
+					if(path.substring(0,30)=="http://buddhism.lib.ntu.edu.tw") path=path.replace("http://buddhism.lib.ntu.edu.tw","https://buddhism.lib.ntu.edu.tw");	
+					if(path.substring(0,31)=="https://buddhism.lib.ntu.edu.tw"){
+						//pathinfo = "<a href=\"" + path + "\" target=\"_blank\" class=\"extendsearch\"><img src=\"images/dot/download.png\" width=\"15px\" style=\"position:relative;float:none;top:3px;\" border=\"0\"> 全文下載</a>";
+						pathinfo = "<span onclick=\"setStatClickItem('tw','search_detail','fulltext','264011')\"><a href=\"" + path + "\" target=\"_blank\" class=\"extendsearch\"><img src=\"images/dot/icon_pdf1.png\" width=\"50px\" style=\"position:relative;float:none;top:3px;\" border=\"0\"><br></a></span>";
+					}else{
+						//pathinfo = "<a href=\"javascript:void(0);\" onclick=\"gotoExternalFulltext('"+ path +"');\" class=\"extendsearch\"><img src=\"images/dot/link.png\" width=\"18px\" style=\"position:relative;float:none;top:3px;\" border=\"0\"> 外部資源連結</a>";	
+						pathinfo = "<span onclick=\"setStatClickItem('tw','search_detail','fulltext','264011')\"><a href=\"javascript:void(0);\" onclick=\"gotoExternalFulltext('"+ path +"');\" class=\"extendsearch\"><img src=\"images/dot/icon_pdf1.png\" width=\"50px\" style=\"position:relative;float:none;top:3px;\" border=\"0\"><br></a></span>";
+					}
+				}
+			}else{
+				pathinfo="<div align='center' style='line-height:15px;margin-left:-10px;'><u><b>作者或出版者未授權</b></u><br>無法提供閱讀</div>"
+			}
+            $("#fulltextdownload").html(pathinfo);
+            $("#fulltextdownload").css("display","block");  
+            $("#fulltextpanel").css("display","inline-table");  
+            
+            //======================================================
+            //書目引用經律論資訊連結CBETA 2020/12/09 新增
+            url="jsonbibliographycite?seq=264011";
+            var topicHTML="";
+            $.getJSON(url,function(citeData){
+            	//console.log(citeData.source);
+                if(citeData.source!=undefined && citeData.source.length>0){
+                	//$("table tbody #bookdetail").append("<TR valign=\"top\"><TH width=\"100px\"><div align=\"right\" style=\"color:#000000;\">引用經律論</div></TH><TD><span></span></TD>");
+                	var ATreeContent="<div id=\"ATree\" class=\"orgchart\" style=\"margin-top:-10px;margin-left:0px;border:0px;background-color:#FFFFFF\"><ul>";
+                	var colTitle="漢文佛經<br>原典引用";  //引用經律論<br>的本文段落
+                	var thisSid="";
+                    for(k=0;k<citeData.source.length;k++){
+                    	var citePart=citeData.source[k].part;
+                    	var sid=citeData.source[k].sid;
+                    	var ssid=citeData.source[k].ssid;
+                    	var sutraname=citeData.source[k].sutraname;
+                    	var num=citeData.source[k].num;
+                    	//console.log(k+"="+citePart);
+                        //if(k==0) colTitle="引用經律論";    
+                        //ATreeContent=ATreeContent+"<ul style=\"margin-top:-6px;\">"+ sid +' '+sutraname+'('+num+")</ul>";
+                        //$("table tbody #bookdetail").append("<TR valign=\"top\"><TH width=\"100px\"><div align=\"right\" style=\"color:#000000;\">"+colTitle+"</div></TH><TD><span>"+ sid +' '+sutraname+'('+num+")</span></TD>");                    	
+                    	if(thisSid!=sid) ATreeContent=ATreeContent+"<li style='background-color:#EEEEEE;list-style:none;margin-top:10px;margin-botton:5px;line-height:24px;'>&nbsp;&nbsp;"+ssid+" <a href='https://cbetaonline.dila.edu.tw/zh/"+sid+"' target='_blank' class='extendsearch'><b>"+ sutraname +"</b></a> ( "+num+" )</li>";
+                    	ATreeContent=ATreeContent+"<li style='margin-left:30px;line-height:16px;'>"+citePart+"</li>";
+                    	thisSid=sid;
+                    }
+                  
+                    ATreeContent=ATreeContent+"</ul></div>";
+                    $("table tbody #bookdetail").append("<TR valign=\"top\"><TH width=\"100px\"><div align=\"right\" style=\"color:#000000;\">"+colTitle+"</div></TH><TD>"+ATreeContent+"</TD>");
+                }
+            }); 
+            
+			//加值服務======================================================
+			var advanceserviceKeyword="";
+			if(sourcetopic!="" ){
+				advanceserviceKeyword=sourcetopic.replace("="," ");
+			}
+			if(sourcetopic=="" && topic !="") advanceserviceKeyword=topic.replace("="," ") ;
+			
+			$("#worldcat1").attr("href","http://www.worldcat.org/search?q="+encodeURI(advanceserviceKeyword));
+			$("#worldcat1").css("display","block");
+
+			$("#metadatancl").attr("href","https://metadata.ncl.edu.tw/blstkmc/blstkm");
+			$("#metadatancl").css("display","block");
+
+			$("#metacat1").attr("href","http://metacat.ntu.edu.tw/?t=KEYWORD&q="+ encodeURI(advanceserviceKeyword));
+			$("#metacat1").css("display","block");
+			
+			$("#ntulib1").attr("href","https://ntu.primo.exlibrisgroup.com/discovery/search?query=any,contains,"+encodeURI(advanceserviceKeyword)+"&tab=Everything&search_scope=MyInst_and_CI&vid=886NTU_INST:886NTU_INST&lang=zh-tw&offset=0");
+			$("#ntulib1").css("display","block");
+			
+			$("#libjoin").attr("href","http://www.gaya.org.tw/library/lib_join/index.asp");
+			$("#libjoin").css("display","block");	
+
+	        /*
+	        if(supplier!="" && supplier!=null) seinfo=" <font size=2 color=#000000>本書目資訊由 <b>"+ supplier +"</b> 提供</font>";
+	        $("#SupplierEditorInfo").html(seinfo);
+
+	        
+	        $("table tbody #bookdetail").append("<TR valign=\"top\"><TH width=\"100px\"><div align=\"right\" style=\"color:#000000;\">建檔日期</div></TH><TD><span>"+ createtime +"</span></TD>");
+	        if(modifiedtime>createtime){
+	        	$("table tbody #bookdetail").append("<TR valign=\"top\"><TH width=\"100px\"><div align=\"right\" style=\"color:#000000;\">更新日期</div></TH><TD><span>"+ modifiedtime +"</span></TD>");
+	        }
+	        */
+		});
+});		
+
+		
+
+
+
+
+function openFulltext(URL){
+	$('#msgbox').css('display','none');
+	$('#shadowing').css('display','none');
+	window.open(URL,'_blank');
+}
+	
+function gotoExternalFulltext(URL){
+	var urlinfo="";
+	var	url_sitename="";
+	url_sitename=URL.substring(0,URL.indexOf("/",8));
+	urlinfo=" [<a href='" + URL + "' target='_blank' class='extendsearch'>" + url_sitename + "</a>] ";
+
+	$("#gotoFulltextLink").attr("onClick","openFulltext(\"" + URL + "\")") ;
+	$("#ExternalFulltextSite").html(urlinfo);
+	
+	$("#msgbox").css("display","block");
+	$("#shadowing").css("display","block");
+}
+
+	//讓書目明細畫面移到適當位置
+	function scrollto(height){
+		var $body = (window.opera) ? (document.compatMode == "CSS1Compat" ? $('html') : $('body')) : $('html,body');
+		$body.animate({
+			scrollTop: height
+		}, 900);
+		return false;
+	}
+
+	
+
+		//當點選書目匯出時進行處理======================================
+		function exportbooks(){
+			//$.cookie("DLMBS.search.fulltextsearch.exportbooks", "264011", {expires: 60});
+			//$.cookie("DLMBS.search.fulltextsearch.searchkeyword", "", {expires: 60});
+			//setCookie("DLMBS.search.fulltextsearch.exportbooks", "264011", 60);
+			//setCookie("DLMBS.search.fulltextsearch.searchkeyword", "", 60);
+			$.cookie("DLMBS.search.fulltextsearch.exportbooks", "264011", {expires: 60});
+			window.open("search/export.jsp?q=","");
+		}
+	
+        function getBibliographyReference(){
+            
+            url="jsondata?action=getBibliographyReference&seq=264011&lan=tw";
+            var theHTML="";
+            $.getJSON(url,function(data){
+                source=data.source;
+                
+                if(source.length != 0){    //source!=undefined
+                    if(source.length>0){
+                        var thisCategory="";
+                        var theHTML="";
+                        
+                        theHTML="";
+                         for(i=0;i<source.length;i++){
+
+                             if(thisCategory!=source[i].category) {
+                                  if(theHTML!="") theHTML=theHTML+"</ol>";  //第二層的結束
+                                  //theHTML=theHTML+"<br><li style='font-size:16px;'><b>▌"+source[i].category+"</b>";
+                                  theHTML=theHTML+"<br><div style='font-size:16px;'><b>▌"+source[i].category+"</b>";
+                                  theHTML=theHTML+"<ol  style='margin-left:-10px;'>";  //第二層的開始
+                             }
+
+                            
+
+                             if( source[i].categoryid=="1" && source[i].linkseq!=""){
+                                 theHTML=theHTML+"<li><a class='extendsearch' href='search/search_detailCitation.jsp?seq="+source[i].linkseq+"' target='_blank'>"+ source[i].topicinfo+"</a></li>";
+                             //}else if( source[i].categoryid=="2" && source[i].linkseq!="0"){
+                             //        theHTML=theHTML+"<li><a class='extendsearch' href='search/search_detailCitation.jsp?seq="+source[i].linkseq+"' target='_blank'>"+ source[i].topicinfo+"</a></li>";
+                             //}else if( source[i].categoryid=="3" && source[i].linkseq!="0"){
+                             //    theHTML=theHTML+"<li>"+source[i].topicinfo+"</li>";
+                             }else{
+                                 theHTML=theHTML+"<li>"+source[i].topicinfo+"</li>";
+                             }
+                             
+                             if(i==(source.length-1)) theHTML=theHTML+"</ol></div>";
+                             thisCategory=source[i].category;
+                             
+                         }
+                         
+                         
+                         $("#referencePool").html(theHTML);
+                         
+                          //$("#referencePool").html("<ul style='margin-left:5px;'>"+theHTML+"</ul>");
+                    }
+                }
+
+            }); 
+            
+        }
+        
+        //getBibliographyReference();
+		
+//-->
+</script>
+
+  <script>
+<!--//
+
+//cookie 的 function start
+jQuery.cookie = function(name, value, options) {
+	if (typeof value != 'undefined') {
+		options = options || {};
+		if (value === null) {
+			value = '';
+			options = $.extend({}, options);
+			options.expires = -1;
+		}
+		var expires = '';
+		if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+			var date;
+			if (typeof options.expires == 'number') {
+				date = new Date();
+				date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+			} else {
+				date = options.expires;
+			}
+			expires = '; expires=' + date.toUTCString();
+		}
+		var path = options.path ? '; path=' + (options.path) : '';
+		var domain = options.domain ? '; domain=' + (options.domain) : '';
+		var secure = options.secure ? '; secure' : '';
+		document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+		} else {
+			var cookieValue = null;
+			if (document.cookie && document.cookie != '') {
+			var cookies = document.cookie.split(';');
+			for (var i = 0; i < cookies.length; i++) {
+				var cookie = jQuery.trim(cookies[i]);
+				if (cookie.substring(0, name.length + 1) == (name + '=')) {
+					cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+					break;
+				}
+			}
+		}
+		return cookieValue;
+	}
+};
+
+
+		//去除cookie中查詢的關鍵字到
+		function removesearchhistory(index,language){
+
+			var searchhistoryinfo="";
+			var searchkeywordhistoryinfo="";
+			var arrayCookie=$.cookie("DLMBS.search.fulltextsearch.searchhistory").split(",");
+			arrayCookie.splice(index,1);
+			$.cookie("DLMBS.search.fulltextsearch.searchhistory", arrayCookie, {expires: 60});
+
+			if(arrayCookie.length>0 && arrayCookie[0]!=""){
+				for(var i=0;i<arrayCookie.length;i++){
+					searchhistoryinfo=searchhistoryinfo+"<div class='filter-box-blue'><span onclick=\"$('#q').val('" + arrayCookie[i] + "');showBooksInfo(1);\">"+arrayCookie[i]+ "</span> <img src='images/dot/remove-blue.gif' width='12' border='0' class='cursorhand' id='removekeyword' onclick='removesearchhistory(\"" + i + "\")'></div>";
+					searchkeywordhistoryinfo="<li class=\"cat-item\"><a href=\"javascript:void(0);\"><img src='images/dot/cancel.png' border='0' class='cursorhand' id='removekeyword' onclick='removesearchhistory(\"" + i + "\")'> <span onclick=\"$('#qq').val('" + arrayCookie[i] + "');$('#formQuery').submit(); \">"+arrayCookie[i]+ "</span></a></li>"+searchkeywordhistoryinfo;
+				}					
+			}else{
+				searchhistoryinfo="<br>尚無查詢結果<br><br>";
+				if(language=="en") searchhistoryinfo="<br>No search results<!--尚無查詢結果--><br><br>";
+				searchkeywordhistoryinfo="<li class=\"cat-item\"><a href=\"javascript:void(0);\"><br>尚無查詢結果<br><br></a></li>";
+				if(language=="en") searchkeywordhistoryinfo="<li class=\"cat-item\"><a href=\"javascript:void(0);\"><br>No search results<br><br></a></li>";
+			}
+			 $("#searchhistory").html(searchhistoryinfo);
+			 $("#searchkeywordhistory").html(searchkeywordhistoryinfo);
+		}
+		//新增查詢的關鍵字到cookie
+		/*
+		function addsearchhistory(keyword){		
+				  if($.cookie("DLMBS.search.fulltextsearch.searchhistory")!=null && $.cookie("DLMBS.search.fulltextsearch.searchhistory").length>0){ 
+				    //先查詢 cookie 是否有值，檢查有沒有重複的關鍵字，若有則intCookie+1，若最後顯示0，表示沒有
+				  	var arrayCookie=$.cookie("DLMBS.search.fulltextsearch.searchhistory").split(",");
+					var intCookie=0;
+					
+					//去除重複的關鍵字
+					for(var i=0;i<arrayCookie.length;i++){
+						if(arrayCookie[i]==keyword){
+							intCookie=intCookie+1;
+							arrayCookie.splice(i,1);
+						}
+					}
+
+					if(arrayCookie==""){
+						arrayCookie=keyword;
+					}else{
+						arrayCookie=arrayCookie+","+keyword;
+					}
+
+					$.cookie("DLMBS.search.fulltextsearch.searchhistory", arrayCookie, {expires: 60});
+				  }else{
+				  	$.cookie("DLMBS.search.fulltextsearch.searchhistory", keyword,{expires: 60});
+				  }
+
+				  var searchhistoryinfo="";
+				  var searchkeywordhistoryinfo="";
+				  arrayCookie=$.cookie("DLMBS.search.fulltextsearch.searchhistory").split(",");
+				  
+				  for(var i=0;i<arrayCookie.length;i++){
+					searchhistoryinfo=searchhistoryinfo+"<div class='filter-box-blue'><span onclick=\"$('#q').val('" + arrayCookie[i] + "');showBooksInfo(1);\">"+arrayCookie[i]+ "</span> <img src='images/dot/remove-blue.gif' width='12' border='0' class='cursorhand' id='removekeyword' onclick='removesearchhistory(\"" + i + "\")'></div>";
+					searchkeywordhistoryinfo="<li class=\"cat-item\"><a href=\"javascript:void(0);\"><img src='images/dot/cancel.png' border='0' class='cursorhand' id='removekeyword' onclick='removesearchhistory(\"" + i + "\")'> <span onclick=\"$('#qq').val('" + arrayCookie[i] + "');$('#formQuery').submit(); \">"+arrayCookie[i]+ "</span></a></li>"+searchkeywordhistoryinfo;
+				  }
+				  $("#searchhistory").html(searchhistoryinfo);
+				  $("#searchkeywordhistory").html(searchkeywordhistoryinfo);
+				  
+		}
+		*/
+// cookie 的 function end
+//-->
+</script>
+<script>
+	// 手機版導覽選單：複製 header.jsp 內的導覽連結/facebook/中日文切換圖示，組成漢堡選單（不修改 header.jsp 本身）
+	function buildMobileNav(){
+		var $nav = $("#mobileNav");
+		if ($nav.length === 0 || $nav.data("built")) return;
+		$nav.data("built", true);
+
+		var $list = $("<ul class='mobile-nav-list'></ul>");
+		$("#page-search-detail-m-header a.topheader").each(function(){
+			$list.append($("<li></li>").append($(this).clone()));
+		});
+		var $fb = $("#page-search-detail-m-header a[href*='facebook.com']").first();
+		if ($fb.length) {
+			$list.append($("<li class='mobile-nav-fb'></li>").append($fb.clone()));
+		}
+		$("#page-search-detail-m-header .badge-version").each(function(){
+			$list.append($("<li></li>").append($(this).clone()));
+		});
+		$nav.append($list);
+	}
+
+	var detailMobileMedia = window.matchMedia("(max-width: 768px)");
+ function setDetailNavOpen(open){
+  open = !!open && detailMobileMedia.matches;
+  $("#mobileNavToggle").attr("aria-expanded", String(open)).attr("aria-label", open ? "關閉選單" : "開啟選單");
+  $("#mobileNav").attr("aria-hidden", String(!open)).toggleClass("open", open);
+ }
+ function setGridActionsOpen(open){
+  open = !!open && detailMobileMedia.matches;
+  $(".grid-actions-toggle").attr("aria-expanded", String(open));
+  $("#grid-actions-panel").toggleClass("open", open).attr("aria-hidden", String(detailMobileMedia.matches && !open));
+ }
+ $(function(){
+  buildMobileNav();
+  function syncDetailBreakpoint(){
+   setDetailNavOpen(false);
+   setGridActionsOpen(false);
+  }
+  if(detailMobileMedia.addEventListener) detailMobileMedia.addEventListener("change", syncDetailBreakpoint);
+  else detailMobileMedia.addListener(syncDetailBreakpoint);
+  syncDetailBreakpoint();
+  $("#mobileNavToggle").on("click", function(){setDetailNavOpen($(this).attr("aria-expanded") !== "true");});
+  $(".grid-actions-toggle").on("click", function(){
+   var open = $(this).attr("aria-expanded") !== "true";
+   setGridActionsOpen(open);
+   if(open) $(".grid-actions-close").focus();
+  });
+  $(".grid-actions-close").on("click", function(){setGridActionsOpen(false);$(".grid-actions-toggle").focus();});
+  $(document).on("keydown",function(event){
+   if(event.key !== "Escape") return;
+   if($("#grid-actions-panel").hasClass("open")){
+    setGridActionsOpen(false);$(".grid-actions-toggle").focus();
+   } else if($("#mobileNav").hasClass("open")){
+    setDetailNavOpen(false);$("#mobileNavToggle").focus();
+   }
+  });
+ });
+</script>
+
+
+<script src="/common/grid-author-interactions.js?v=20261003-4" defer></script>
+</body>
+</html>
