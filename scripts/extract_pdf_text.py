@@ -260,11 +260,6 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--pdf", required=True, help="Path to input PDF")
     p.add_argument("--out-dir", required=True, help="Directory to write outputs")
     p.add_argument("--prefix", default=None, help="Output filename prefix")
-    p.add_argument(
-        "--write-page-files",
-        action="store_true",
-        help="Also write one text file per PDF page under out-dir/pages",
-    )
     return p.parse_args()
 
 
@@ -281,65 +276,23 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     prefix = args.prefix or slugify(pdf_path.stem)
-    pages_dir = out_dir / "pages"
-    if args.write_page_files:
-        pages_dir.mkdir(exist_ok=True)
-
     reader = PdfReader(str(pdf_path))
 
+    # 一篇一檔：頁界寫成 ===== [PDF_PAGE_NNNN] ===== 標記，不另產逐頁 JSON、逐頁索引或一頁一檔
+    # （2026-10-12 站主令「禁止停工後保留分頁文本」；檢查 ~/.claude/bin/check-page-fragments.py）。
     fulltext_file = out_dir / f"{prefix}_fulltext.txt"
-    index_file = out_dir / f"{prefix}_page_index.csv"
-    pages_json_file = out_dir / f"{prefix}_pages.json"
 
     chunks: list[str] = []
     chunks.append(f"# Source PDF\n{pdf_path.name}\n")
     chunks.append(f"# Total PDF pages\n{len(reader.pages)}\n")
 
-    index_lines = ["pdf_page,chars,preview"]
-    pages_payload: list[dict[str, object]] = []
-
     for i, page in enumerate(reader.pages, start=1):
-        text = extract_page_text(page)
-
-        if args.write_page_files:
-            (pages_dir / f"page_{i:04d}.txt").write_text(text, encoding="utf-8")
-
         chunks.append(f"\n\n===== [PDF_PAGE_{i:04d}] =====\n\n")
-        chunks.append(text)
-
-        preview = " ".join(text.split())[:140].replace('"', "'")
-        index_lines.append(f'{i},{len(text)},"{preview}"')
-        page_item = {
-            "pdf_page": i,
-            "chars": len(text),
-            "preview": preview,
-            "text": text,
-            "lines": split_lines(text),
-            "paragraphs": split_paragraphs(text),
-        }
-        if args.write_page_files:
-            page_item["source_file"] = f"page_{i:04d}.txt"
-        pages_payload.append(page_item)
+        chunks.append(extract_page_text(page))
 
     fulltext_file.write_text("".join(chunks), encoding="utf-8")
-    index_file.write_text("\n".join(index_lines) + "\n", encoding="utf-8")
-    pages_json_file.write_text(
-        json.dumps(
-            {
-                "source_pdf": pdf_path.name,
-                "total_pages": len(reader.pages),
-                "pages": pages_payload,
-            },
-            ensure_ascii=False,
-            indent=2,
-        )
-        + "\n",
-        encoding="utf-8",
-    )
 
     print(f"WROTE {fulltext_file}")
-    print(f"WROTE {index_file}")
-    print(f"WROTE {pages_json_file}")
     print(f"WROTE_PAGES {len(reader.pages)}")
 
 

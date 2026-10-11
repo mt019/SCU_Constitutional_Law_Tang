@@ -242,9 +242,16 @@ def main() -> None:
             ],
             "chapters": chapters,
         }
-        fulltext = "\n\n".join(part for part in fulltext_parts if part).strip() + "\n"
+        # 一書一檔：頁界寫成 [BOOK_PAGE_NNNN]，章名放在起頁開頭；不另產逐頁 JSON
+        # （2026-10-12 站主令「禁止停工後保留分頁文本」；檢查 ~/.claude/bin/check-page-fragments.py）。
+        heads = {c["book_page_start"]: c["title"] for c in chapters if c["book_page_start"] is not None}
+        fulltext = f"# Source\n{epub_path}\n# Total pages\n{pages_json['total_book_pages']}\n" + "".join(
+            f"\n[BOOK_PAGE_{e['book_page']:04d}]\n"
+            + (f"# {heads[e['book_page']]}\n\n" if e["book_page"] in heads else "")
+            + e["text"] + "\n"
+            for e in page_entries
+        )
 
-    (out_dir / f"{args.basename}_pages.json").write_text(json.dumps(pages_json, ensure_ascii=False, indent=2))
     (out_dir / f"{args.basename}_structured.json").write_text(json.dumps(structured_json, ensure_ascii=False, indent=2))
     (out_dir / f"{args.basename}_fulltext.txt").write_text(fulltext)
 

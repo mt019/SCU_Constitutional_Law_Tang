@@ -15,14 +15,14 @@ Ghostscript 三種取法，黑點比例相差在 0.03 個百分點以內；poppl
     python3 scripts/ocr_tang_books.py --book v1       # 跑一冊，已有逐頁稿的頁跳過
     python3 scripts/ocr_tang_books.py --book v1 --build-only
 
-產物在 library/text/<書名>/，每冊兩檔：
-    pages.json       每頁一筆：pdf_page、book_page、page_number_read、chars、text（Vision 原始輸出，不改字）
-    fulltext.txt     全書一檔，頁首標 [PDF_PAGE_NNNN]（與 library/text 其他書同一寫法）
+產物在 library/text/<書名>/fulltext.txt，全書一檔：檔頭 # 行記來源、引擎、glyphPolicy、空白頁、
+推不出刊本頁的頁、位移分布與取自 PDF 文字層的頁；頁首標 [PDF_PAGE_NNNN]〔刊本頁 M〕，頁文字是 Vision 原始輸出，不改字。
+不另產逐頁 JSON（2026-10-12 站主令「禁止停工後保留分頁文本」；檢查 ~/.claude/bin/check-page-fragments.py）。
 跑的期間逐頁追加到同目錄的 .progress.jsonl（中斷重跑從這裡接續），組裝完即刪除。
---build-only 沒有 .progress.jsonl 時讀既有的 pages.json 重新推刊本頁。
+--build-only 沒有 .progress.jsonl 時讀既有的 fulltext.txt 依頁標切回逐頁，重新推刊本頁。
 
 book_page 由每頁讀到的頁碼行推出 PDF 頁序與刊本頁碼的位移，前後兩個讀到的頁碼位移一致
-才填；推不出的填 null，並列在 pages.json 的 unresolved_book_pages。text 是原始輸出，
+才填；推不出的不標，並列在檔頭的 unresolved_book_pages。text 是原始輸出，
 行首的「•」多為「。」，「為」多為原書的「爲」，引用一律回原頁圖核。
 """
 from __future__ import annotations
@@ -128,8 +128,7 @@ def build(code, pdf_name, dirname):
     if progress.exists():
         done = load_progress(progress)
     else:
-        done = {p["pdf_page"]: (p["source"], p["text"])
-                for p in json.loads((out / "pages.json").read_text(encoding="utf-8"))["pages"]}
+        done = read_fulltext(out / "fulltext.txt")
     missing = [n for n in range(1, total + 1) if n not in done]
     if missing:
         raise SystemExit(f"{code}：尚有 {len(missing)} 頁未辨識（首缺 {missing[0]}），不組裝")
@@ -146,16 +145,30 @@ def build(code, pdf_name, dirname):
            "total_pdf_pages": total, "blank_pages": blank, "unresolved_book_pages": unresolved,
            "page_number_mismatch": mismatch,
            "page_offsets": {str(k): v for k, v in offsets.most_common()},
+           "textlayer_pages": [r["pdf_page"] for r in records if r["source"] != "vision"],
            "pages": [{k: r[k] for k in ("pdf_page", "book_page", "page_number_read", "source", "chars", "text")}
                      for r in records]}
-    (out / "pages.json").write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
-    with (out / "fulltext.txt").open("w", encoding="utf-8") as f:
-        for r in records:
-            f.write(f"[PDF_PAGE_{r['pdf_page']:04d}]\n{r['text'].rstrip()}\n\n")
+    head = f"# Source\n{doc['source_pdf']}\n# Total pages\n{total}\n" + "".join(
+        f"# {k}: {json.dumps(doc[k], ensure_ascii=False)}\n"
+        for k in ("engine", "glyphPolicy", "blank_pages", "unresolved_book_pages", "page_number_mismatch", "page_offsets", "textlayer_pages"))
+    body = "".join(
+        f"\n[PDF_PAGE_{r['pdf_page']:04d}]" + (f"〔刊本頁 {r['book_page']}〕" if r.get("book_page") not in (None, "") else "")
+        + f"\n{r['text'].rstrip()}\n" for r in records)
+    (out / "fulltext.txt").write_text(head + body, encoding="utf-8")
     progress.unlink(missing_ok=True)
     print(f"{code}：{total} 頁組裝完成；空白 {len(blank)}；刊本頁推不出 {len(unresolved)}；"
           f"讀到的頁碼與鄰頁不符 {len(mismatch)}；"
           f"位移分布 {offsets.most_common(4)}")
+
+
+def read_fulltext(path: Path) -> dict:
+    """fulltext.txt 依 [PDF_PAGE_NNNN] 切回 {頁: (來源, 文字)}，只在記憶體裡。"""
+    t = path.read_text(encoding="utf-8")
+    m = re.search(r"^# textlayer_pages: (\[.*\])$", t, re.M)
+    tl = set(json.loads(m.group(1))) if m else set()
+    parts = re.split(r"^\[PDF_PAGE_(\d+)\](?:〔[^〕]*〕)?$", t, flags=re.M)
+    return {int(parts[i]): ("textlayer" if int(parts[i]) in tl else "vision", parts[i + 1].strip("\n"))
+            for i in range(1, len(parts), 2)}
 
 
 def load_progress(path: Path) -> dict:
@@ -199,8 +212,8 @@ def main():
             out = TEXT_DIR / dirname
             if (out / ".progress.jsonl").exists():
                 done = len(load_progress(out / ".progress.jsonl"))
-            elif (out / "pages.json").exists():
-                done = len(json.loads((out / "pages.json").read_text(encoding="utf-8"))["pages"])
+            elif (out / "fulltext.txt").exists():
+                done = len(read_fulltext(out / "fulltext.txt"))
             else:
                 done = 0
             print(f"{code}\t{done}/{page_count(BOOKS_DIR / pdf_name)}\t{dirname}")
