@@ -1,0 +1,11 @@
+% 決定上與議題上的多數、少數（1397–1398、1401）。三格灰階，兩種少數重合的一格用強調色。
+\begin{tikzpicture}[qa,cell/.style={nbox,text width=52mm,minimum height=15mm}]
+  \node[hdr,align=center] at (3.15,1.25) {議題上的少數\\[-1pt]{\scriptsize\mdseries 權利與利益為該決定之議題者}};
+  \node[hdr] at (8.85,1.25) {其他人};
+  \node[hdr,anchor=east,align=right] at (0.15,0) {決定上的多數\\[-1pt]{\scriptsize\mdseries 表決勝方}};
+  \node[hdr,anchor=east,align=right] at (0.15,-1.8) {決定上的少數\\[-1pt]{\scriptsize\mdseries 表決敗方}};
+  \node[cell] at (3.15,0) {議題上的少數也有人投給勝方；墮胎權、平權措施的支持與反對者跨越性別與族群（1401）};
+  \node[cell] at (8.85,0) {勝方若主要由議題上的多數組成，對應左下格的重合（1401）};
+  \node[cell,kbox] at (3.15,-1.8) {兩種少數重合：決定若確屬錯誤，構成多數暴政；普遍如此即屬非核心情形（1397--1398）};
+  \node[cell] at (8.85,-1.8) {只是表決落敗：自己的意見未被採行，本身不構成暴政（1397--1398）};
+\end{tikzpicture}

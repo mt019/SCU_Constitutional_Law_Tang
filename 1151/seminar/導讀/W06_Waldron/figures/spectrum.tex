@@ -1,0 +1,15 @@
+% 違憲審查的五種形式，由強至弱（1354–1357）。灰階；本文攻擊的標的以強調色括號標出。
+\begin{tikzpicture}[qa]
+  \foreach \i/\n/\d/\e in {
+      0/更強/{將法律自法典中剔除}/{部分歐洲法院\\1354--1355 註 23},
+      1/強式/{個案中拒絕適用或修正其效果；經先例使之成為具文}/{美國\\1355},
+      2/居間，計為強式/{拒絕適用；立法機關得以儘管條款排除}/{加拿大憲章第 33 條\\1356--1357},
+      3/弱式/{不得拒絕適用；得為不相容宣告}/{英國 1998 年人權法\\1355},
+      4/更弱/{只得作合於權利的解釋}/{紐西蘭 1990 年權利法案法\\1356}}{
+    \node[nbox,text width=25mm,minimum height=21mm,anchor=north west] (b\i) at (\i*2.95,0) {\n\\[2pt]{\scriptsize \d}};
+    \node[lbl,text width=26mm,align=left,anchor=north west] at (\i*2.95,-2.35) {\e};
+  }
+  \draw[figGray,line width=0.6pt,-{Stealth[length=4.5pt]}] (0,0.45) -- node[lbl,above] {法院的權限由強至弱} (14.6,0.45);
+  \draw[figE,line width=0.9pt] (0.05,-3.25) -- (8.5,-3.25);
+  \node[font=\scriptsize,text=figE,anchor=north west] at (0.05,-3.32) {本文攻擊的標的};
+\end{tikzpicture}

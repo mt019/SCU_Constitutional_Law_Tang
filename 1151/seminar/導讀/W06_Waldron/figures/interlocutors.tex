@@ -1,0 +1,24 @@
+% 本文的對話對象：三組，依位置分組，灰階；長條長度＝本文提及次數（literature-mentions.tsv）。
+\begin{tikzpicture}[qa]
+  \def\u{0.12}% 每次提及 1.2mm
+  \newcommand{\who}[4]{% x, y, 名, 次數（0 表示未計）
+    \node[anchor=east,font=\footnotesize] at (#1,#2) {#3};
+    \ifnum#4>0
+      \fill[figGray] (#1+0.1,#2-0.07) rectangle ++({#4*\u},0.14);
+      \node[lbl,anchor=west] at ({#1+0.15+#4*\u},#2) {#4};
+    \fi}
+  \node[hdr,anchor=west] at (0,0.6) {所反駁的辯護者};
+  \who{2.2}{0}{Dworkin}{28}
+  \who{2.2}{-0.45}{Rawls}{17}
+  \who{2.2}{-0.9}{Raz}{11}
+  \who{2.2}{-1.35}{Eisgruber}{7}
+  \who{2.2}{-1.8}{Moore}{0}
+  \who{2.2}{-2.25}{Christiano}{0}
+  \node[hdr,anchor=west] at (8.4,0.6) {同樣批評違憲審查};
+  \who{10.6}{0}{Tushnet}{10}
+  \who{10.6}{-0.45}{Kramer}{8}
+  \node[hdr,anchor=west] at (8.4,-0.95) {借用其概念或論證工具};
+  \who{10.6}{-1.4}{Michelman}{6}
+  \who{10.6}{-1.85}{Bickel}{3}
+  \node[lbl,anchor=north west,text width=60mm,align=left] at (8.4,-2.15) {Kavanagh、Fuller、Wollheim、Condorcet、Elster、Scalia（Casey 案不同意見）};
+\end{tikzpicture}

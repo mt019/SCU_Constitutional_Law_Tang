@@ -1,0 +1,95 @@
+\documentclass[11pt,oneside,openany]{book}
+
+% 東吳大學法研所「憲法專題研究（一）」第 6 週（2026-10-19）導讀問答集：
+% Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346 (2006)。
+% 版式照 ~/Documents/NTU/1151/1151_Statistical_Deep_Learning/tex/1151_課程問答.tex。
+% 宏包：Translation 倉 LaTeX/course-notes.sty；圖為 figures/*.tex 的 TikZ。
+% 編譯：./build.sh（xelatex、biber、xelatex 兩次）。
+
+\def\TransLaTeXDir{../../../../../1142/Translation/LaTeX}
+\input{\TransLaTeXDir/course-notes.sty}
+\addbibresource{refs.bib}
+
+% 中文連續成段，行距取 1.5（LaTeX_排版設計基準）
+\setstretch{1.5}
+% 整理後的問題框改用中文標籤
+\renewtcolorbox{qaquestion}{%
+  enhanced, breakable, frame hidden, boxrule=0pt, arc=0pt,
+  colback=white, borderline west={0.6pt}{0pt}{ruleink},
+  left=9pt, right=8pt, top=2pt, bottom=2pt, before skip=2pt, after skip=10pt,
+  fontupper=\setstretch{1.4}\setlength{\parskip}{0.25em},
+  before upper={{\small\bfseries\color{dimink}問題}\par},
+  before upper app={\setlist[enumerate]{label=\arabic*.,leftmargin=1.6em,itemsep=0.1em,topsep=0.2em,parsep=0pt}}}
+% 導讀人自己的推論，與原文所述分開
+\newtcolorbox{readernote}{%
+  enhanced, breakable, frame hidden, boxrule=0pt, arc=0pt,
+  colback=figGraybg, left=9pt, right=8pt, top=4pt, bottom=4pt,
+  before skip=6pt, after skip=8pt,
+  fontupper=\small\setstretch{1.4}\setlength{\parskip}{0.2em},
+  before upper={{\small\bfseries\color{figGray}導讀人按}\par}}
+% 刊本頁
+\newcommand{\pg}[1]{（#1）}
+\newcommand{\en}[1]{\textit{#1}}
+% 章標改中文：第 N 部
+\titleformat{\chapter}[display]
+  {\normalfont\color{caseink}}
+  {\small\color{dimink}第 \thechapter{} 部}
+  {4pt}
+  {\LARGE\bfseries}
+% 西文長句與不可斷的頁碼框，給行調整一點餘地
+\setlength{\emergencystretch}{2em}
+% 圖與表的標籤
+\captionsetup[figure]{name=圖}
+\captionsetup[table]{name=表}
+% 圖的共用樣式（diagram-design skill）：灰階細框為底，強調色 figE 一圖只用一處
+\tikzset{
+  qa/.style={font=\footnotesize,every node/.append style={execute at begin node={\setstretch{1.2}}}},
+  nbox/.style={draw=figGray,line width=0.4pt,fill=white,rounded corners=1.5pt,inner xsep=3pt,inner ysep=2.6pt,align=left},
+  gbox/.style={nbox,fill=figGraybg},
+  kbox/.style={nbox,draw=figE,fill=figEbg,line width=0.7pt},
+  lbl/.style={font=\scriptsize,text=dimink,inner sep=1pt},
+  hdr/.style={font=\footnotesize,text=caseink,inner sep=1pt},
+  arr/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]},shorten >=1pt,shorten <=1pt},
+  dsh/.style={arr,dash pattern=on 2.4pt off 1.6pt},
+}
+% 表格窄欄齊左
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand{\documentversion}{v0.1（2026-10-18）}
+
+\begin{document}
+
+\frontmatter
+\coursetitle{反對違憲審查的核心論據}{Waldron（2006）導讀問答集}%
+  {東吳大學法律學系研究所　憲法專題研究（一）\\115 學年度第 1 學期　第 6 週（2026 年 10 月 19 日）}%
+  {\documentversion}
+\tableofcontents
+
+\chapter*{凡例}
+\addcontentsline{toc}{chapter}{凡例}
+\begin{itemize}
+\item 本書所讀為 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346--1406 (2006)。課綱作 The Core Case against Judicial Review，刊本篇名多 of the 二字，書目依刊本。
+\item 正文括號內的四位數字為刊本頁，例如\pg{1387}。原文 PDF 頁加 1344 即刊本頁。
+\item 譯名照譯本《反對違憲審查的核心論據》（Translation 倉 JudicialReview）的譯語表；引文的中譯取自該譯本。
+\item 各則依本文自己的論證順序排列，前一部回答導讀開場的四個問題，後三部放回本課的課綱、2006 年以後的發展與討論題。
+\item 灰底「導讀人按」為導讀人的推論與對照，原文未言及；其餘各句均可指回原文頁碼或所引文獻。
+\end{itemize}
+
+\mainmatter
+\input{Teile/10_author}
+\input{Teile/20_structure}
+\input{Teile/30_target}
+\input{Teile/40_assumptions}
+\input{Teile/50_form}
+\input{Teile/60_outcome}
+\input{Teile/70_process}
+\input{Teile/80_tyranny}
+\input{Teile/90_noncore}
+\input{Teile/A0_course}
+\input{Teile/B0_after}
+\input{Teile/C0_discussion}
+
+\backmatter
+\printbibliography[heading=bibintoc,title={引用文獻}]
+
+\end{document}

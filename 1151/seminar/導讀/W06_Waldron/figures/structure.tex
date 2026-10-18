@@ -1,0 +1,28 @@
+% 全文的論證結構，改繪自翻譯倉 JudicialReview/Werke/Teile/93_Argument_Figures.tex。灰階為底，結論用強調色。
+\begin{tikzpicture}[qa,node distance=4.5mm]
+  \newcommand{\p}[1]{\\[-1pt]{\scriptsize\color{dimink}#1}}
+  \node[gbox,text width=30mm] (a1) at (0,0) {一、民主制度\p{1361--1362}};
+  \node[gbox,text width=30mm,right=2mm of a1] (a2) {二、司法制度\p{1363--1364}};
+  \node[gbox,text width=30mm,right=2mm of a2] (a3) {三、對權利的承諾\p{1364--1366}};
+  \node[gbox,text width=30mm,right=2mm of a3] (a4) {四、關於權利的分歧\p{1366--1369}};
+  \node[hdr,anchor=south west] at ([yshift=1.2mm]a1.north west) {貳、四項假設};
+  \coordinate (bar) at ([yshift=-3.5mm]a1.south);
+  \node[nbox,text width=64mm,anchor=north] (core) at ([yshift=-4mm,xshift=24mm]bar) {核心情形：四項假設均成立\p{1359--1360}};
+  \node[nbox,text width=80mm,below=of core] (form) {參、論證的形式：權利分歧須經決定程序解決；評價程序的理由分為結果面與程序面\p{1369--1376}};
+  \node[nbox,text width=38mm,below=of form.south west,anchor=north west] (out) {肆、結果面的理由：個案取向、文本取向、說明理由；至多未有定論\p{1376--1386}};
+  \node[nbox,text width=38mm,below=of form.south east,anchor=north east] (proc) {伍、程序面的理由：由誰決定、以何種程序決定；大多有利於立法機關\p{1386--1395}};
+  \node[nbox,text width=80mm,anchor=north] (tyr) at ([yshift=-4.5mm]out.south -| form) {陸、多數暴政：在第三、四項假設之下，不應預期議題上的少數與決定上的少數重合\p{1395--1401}};
+  \node[kbox,text width=80mm,below=of tyr] (con) {結論：權利分歧應以立法制度解決，以權利為本的違憲審查不適合這樣的社會\p{1360；1406}};
+  \node[nbox,text width=31mm,anchor=north west] (nc) at ([xshift=5mm]form.north east) {柒、非核心情形：民主制度失能、成員甚少關心他人權利、孤立而隔絕的少數；反對論不成立，違憲審查也不因此成立\p{1401--1406}};
+  \foreach \x in {a1,a2,a3,a4} \draw[figGray,line width=0.5pt] (\x.south) -- (\x.south |- bar);
+  \draw[figGray,line width=0.5pt] (a1.south |- bar) -- (a4.south |- bar);
+  \draw[arr] (bar -| core) -- (core);
+  \draw[arr] (core) -- (form);
+  \draw[arr] (form.south -| out) -- (out);
+  \draw[arr] (form.south -| proc) -- (proc);
+  \draw[arr] (out.south) -- (out.south |- tyr.north);
+  \draw[arr] (proc.south) -- (proc.south |- tyr.north);
+  \draw[arr] (tyr) -- (con);
+  \draw[dsh] (bar -| nc) -- node[lbl,fill=white,right] {假設不成立} (nc.north);
+  \draw[dsh] (tyr.east) -| node[lbl,fill=white,pos=0.75,right] {兩種少數普遍重合} (nc.south);
+\end{tikzpicture}

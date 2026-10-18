@@ -1,0 +1,17 @@
+% 本課指定文獻與本文的引用關係。灰階；本文用強調色。關係直接寫在各框第二行，不用斜放的線上標籤。
+\begin{tikzpicture}[qa,wk/.style={nbox,text width=36mm,minimum height=10mm},
+    bus/.style={figGray,line width=0.6pt}]
+  \node[wk] (tr) at (0,2.55) {W02　Tremblay 2003\\{\scriptsize\color{dimink}未引本文；舉證責任的方向與本文相反（導讀人對照）}};
+  \node[wk] (bi) at (0,0.85) {W04　Bickel 1962\\{\scriptsize\color{dimink}本文 1349 引其「對抗多數的難題」}};
+  \node[wk] (fa) at (0,-0.85) {W04　Fallon 2018\\{\scriptsize\color{dimink}第 1 章註 25 引本文 1387--1389}};
+  \node[wk] (ks) at (0,-2.55) {W05　Kelsen 1929、Schmitt 1931\\{\scriptsize\color{dimink}本文未引；均問誰作終局決定（導讀人對照）}};
+  \node[kbox,text width=22mm,minimum height=10mm] (w) at (5.4,0) {W06\\Waldron 2006};
+  \node[wk] (gh) at (10.75,0.85) {W12　Ghosh 2010\\{\scriptsize\color{dimink}以本文為主要對話對象之一}};
+  \node[wk] (be) at (10.75,-0.85) {W13　Benhabib 2020\\{\scriptsize\color{dimink}討論 Waldron 的政治處境與預先承諾}};
+  \coordinate (lb) at (2.95,0);
+  \coordinate (rb) at (7.85,0);
+  \foreach \n in {tr,bi,fa,ks} \draw[bus] (\n.east) -| (lb);
+  \draw[bus] (lb) -- (w.west);
+  \foreach \n in {gh,be} \draw[bus] (\n.west) -| (rb);
+  \draw[bus] (rb) -- (w.east);
+\end{tikzpicture}

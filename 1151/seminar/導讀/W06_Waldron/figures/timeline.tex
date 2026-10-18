@@ -1,0 +1,45 @@
+% 本文前後的相關事件：蛇行時間軸，每列四則（改自 ~/.claude/skills/diagram-design/templates/蛇行時間軸.tex）。
+% 灰階為底，本文一則用強調色。事件卡第一行小字為類別。
+\begin{tikzpicture}[qa,
+    track/.style={line width=1pt,color=ruleink,line cap=round},
+    dot/.style={circle,fill=#1,draw=white,line width=1pt,inner sep=0pt,minimum size=6.5pt},
+    dt/.style={font=\footnotesize\bfseries,text=#1,inner sep=1pt},
+    card/.style={nbox,text width=29mm,font=\scriptsize,text=caseink,anchor=north,
+      execute at begin node={\raggedright\setstretch{1.2}}},
+    keycard/.style={card,kbox}]
+  \def\xa{1.9}\def\dx{3.4}\def\dy{3.0}\def\R{1.5}
+  \pgfmathsetmacro{\xl}{\xa-0.7}\pgfmathsetmacro{\xr}{\xa+3*\dx+0.7}
+  \draw[track] (\xl,0) -- (\xr,0) arc[start angle=90,end angle=-90,radius=\R]
+    -- (\xl,-\dy) arc[start angle=90,end angle=270,radius=\R]
+    -- (\xr,-2*\dy) arc[start angle=90,end angle=-90,radius=\R]
+    -- ({\xa+1.6*\dx},-3*\dy);
+  \draw[track,-{Stealth[length=2.4mm,width=2.2mm]}] ({\xa+1.6*\dx},-3*\dy) -- ({\xa+1.4*\dx},-3*\dy);
+  \foreach \r/\c/\k/\d/\t in {
+      0/0/n/1938/{\textcolor{dimink}{判決}\\Carolene Products 案腳註四：孤立而隔絕的少數},
+      0/1/n/1962/{\textcolor{dimink}{著作}\\Bickel, The Least Dangerous Branch：對抗多數的難題},
+      0/2/n/1982/{\textcolor{dimink}{立法}\\加拿大權利與自由憲章第 33 條},
+      0/3/n/1990/{\textcolor{dimink}{立法}\\紐西蘭權利法案法},
+      1/0/n/1998/{\textcolor{dimink}{立法}\\英國人權法：不相容宣告},
+      1/1/n/1999/{\textcolor{dimink}{著作}\\Waldron, Law and Disagreement；Tushnet, Taking the Constitution Away from the Courts},
+      1/2/n/2003/{\textcolor{dimink}{判決}\\Goodridge 案：麻州同性婚姻},
+      1/3/n/2004/{\textcolor{dimink}{著作}\\Kramer, The People Themselves},
+      2/0/k/2006/{\textcolor{dimink}{本文}\\115 Yale L.J. 1346},
+      2/1/n/2008/{\textcolor{dimink}{著作}\\Fallon 以回應本文為題},
+      2/2/n/2014/{\textcolor{dimink}{著作}\\Waldron, Five to Four：法院內部的多數決},
+      2/3/n/2015/{\textcolor{dimink}{判決}\\Obergefell 案，五比四},
+      3/0/n/2022/{\textcolor{dimink}{判決}\\Dobbs 案：推翻 Roe 與 Casey},
+      3/1/n/2022/{\textcolor{dimink}{立法}\\紐西蘭權利法案法增訂第 7A 條}}{
+    \pgfmathtruncatemacro{\odd}{mod(\r,2)}
+    \pgfmathsetmacro{\x}{\odd==0 ? \xa+\c*\dx : \xa+(3-\c)*\dx}
+    \pgfmathsetmacro{\y}{-\r*\dy}
+    \if k\k
+      \node[dot=figE] at (\x,\y) {};
+      \node[dt=figE,anchor=south] at (\x,\y+0.16) {\d};
+      \node[keycard] at (\x,\y-0.22) {\t};
+    \else
+      \node[dot=caseink] at (\x,\y) {};
+      \node[dt=caseink,anchor=south] at (\x,\y+0.16) {\d};
+      \node[card] at (\x,\y-0.22) {\t};
+    \fi
+  }
+\end{tikzpicture}
