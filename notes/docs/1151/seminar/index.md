@@ -26,6 +26,7 @@ keywords:
 - [W02（9/21）Tremblay 論違憲審查的一般正當性](W02_0921.md)
 - [W04（10/5）預習：Fallon 論三種正當性與 Bickel 的反多數決困難](W04_1005_預習.md)
 - [W08（11/2）預習：Tushnet 論非司法的合憲性審查](W08_1102_預習.md)
+- [W09（11/9）預習：Alexander 與 Schauer、Kramer、Ferejohn 與 Pasquino 論司法至上與憲法法院的審議](W09_1109_預習.md)
 
 ## 課程問答
 
