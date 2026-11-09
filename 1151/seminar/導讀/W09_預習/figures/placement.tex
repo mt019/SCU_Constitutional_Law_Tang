@@ -1,74 +1,91 @@
-% Ferejohn 與 Pasquino 第 3 節（28 至 32 頁）：三種體制中憲法審查權之所在。
+% Ferejohn 與 Pasquino 第 3 節（28 至 33 頁）：三種體制中憲法審查權之所在與審查介入之時點。
 % 欄序依兩人所說的單一向度，左端議會主權、右端權力分立（28 頁）；Kelsen 型居中係依 30 頁「departed from the
-% hierarchical parliamentary model」之描述排列。垂直、水平二詞出自 29 頁「separated horizontally rather than vertically」。
-% 色調：審查權所在之機關 accent（terracotta），其餘機關 slate；卡片淡底加左側色條（skill diagram-design「動手前」第 2 條）。
-% 各格文字逐一回刊本核過頁次（2026-11-09）。
+% hierarchical parliamentary model」排列。垂直、水平二詞出自 29 頁「separated horizontally rather than vertically」；
+% Kelsen 型法院「outside the judiciary as well as the other governmental departments」（30 頁）、「above each of the
+% other institutions」（31 頁）。下列時間軸：議會主權之審查在公布前（28 頁 a priori；32 頁法國）；Kelsen 型之抽象審查
+% 不能阻止法律生效（33 頁），另有個案移送（31 頁）；權力分立在具體案件中（29 頁）。
+% 色調：審查權所在之機關與審查介入之時點用 accent（terracotta），其餘 slate；卡片淡底加左側色條。
+% 2026-11-09 第一版（下半三列文字表）站主「不夠優秀」，改為本版。
 \definecolor{figRev}{HTML}{B08060}\definecolor{figRevbg}{HTML}{F5ECEB}
 \definecolor{figLine}{HTML}{E8D3D1}
 % 卡片：\placecard{色}{左}{上}{右}{下}{內容}
 \providecommand{\placecard}[6]{%
   \fill[#1bg] (#2,#3) rectangle (#4,#5);
-  \fill[#1] (#2,#3) rectangle ($(#2,#5)+(0.6,0)$);
-  \node[t] at ($(#2,#3)+(2.2,-1.4)$) {#6};}
+  \fill[#1] (#2,#3) rectangle ($(#2,#5)+(0.7,0)$);
+  \node[t] at ($(#2,#3)+(2.4,-1.9)$) {#6};}
 \begin{tikzpicture}[qa,x=1mm,y=1mm,
     t/.style={anchor=north west,inner sep=0pt,align=left,execute at begin node={\raggedright\setstretch{1.2}}},
-    cell/.style={t,font=\scriptsize,text width=40mm},
-    rowlbl/.style={t,font=\scriptsize,text=dimink,text width=17mm},
-    link/.style={figGray,line width=0.5pt},
-    arr2/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]}}]
+    note/.style={font=\scriptsize,text=dimink,inner sep=0pt,align=center,execute at begin node={\setstretch{1.15}}},
+    link/.style={figGray,line width=0.6pt},
+    up/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]}},
+    axis/.style={figGray!70,line width=0.5pt}]
   % 單一向度
-  \draw[figGray,line width=0.5pt,{Stealth[length=3.5pt,width=3pt]}-{Stealth[length=3.5pt,width=3pt]}] (19,6) -- (146,6);
-  \node[font=\scriptsize,text=dimink,anchor=south] at (82.5,6.6) {制度位置的單一向度（28 頁）};
+  \draw[figGray!70,line width=0.5pt,{Stealth[length=3.5pt,width=3pt]}-{Stealth[length=3.5pt,width=3pt]}] (0,9) -- (146,9);
+  \node[note,anchor=south] at (73,9.7) {憲法法院之制度位置：單一向度（28 頁）};
+  % 欄間淡線
+  \foreach \x in {47.5,98.5}{\draw[figLine,line width=0.4pt] (\x,5) -- (\x,-84);}
   % 欄頭
-  \foreach \x/\h/\s in {
-      19/議會主權體制/{垂直：行政與法院\\從屬於立法機關（28 頁）},
-      62.5/{Kelsen 型模式}/{憲法法院置於司法與\\其他部門之外（30 頁）},
-      106/權力分立體制/{水平：三權分立（29 頁）}}{
-    \node[t,font=\footnotesize] at (\x,2.5) {\h};
-    \node[t,font=\scriptsize,text=dimink] at (\x,-1.8) {\s};
+  \foreach \x/\h/\g/\s/\e in {
+      0/議會主權體制/垂直/{行政與法院從屬於立法機關（28 頁）}/{英國、法國、芬蘭、瑞典},
+      51/{Kelsen 型模式}/{居外、居上}/{憲法法院在各部門之外（30 頁）}/{奧地利、德國、義大利、西班牙},
+      102/權力分立體制/水平/{三權水平分立（29 頁）}/{美國、挪威}}{
+    \node[t,font=\footnotesize] at (\x,4) {\h};
+    \node[font=\footnotesize,text=figRev,anchor=north east,inner sep=0pt] at (\x+44,4) {\g};
+    \node[t,font=\scriptsize,text=dimink] at (\x,-0.6) {\s};
+    \node[t,font=\scriptsize,text=dimink] at (\x,-4.4) {\e};
   }
-  % 列名與列間淡線
-  \node[rowlbl] at (0,-13) {機關之配置};
-  \node[rowlbl] at (0,-50) {審查之時點\\與方式};
-  \node[rowlbl] at (0,-61.5) {違憲之效果};
-  \node[rowlbl] at (0,-73) {例};
-  \foreach \y in {-10,-47.5,-59,-70.5}{\draw[figLine,line width=0.4pt] (0,\y) -- (146,\y);}
-  % 議會主權：審查在立法機關內部，行政與法院居其下
-  \begin{scope}[shift={(19,0)}]
-    \placecard{figGray}{0}{-13}{40}{-34}{立法機關}
-    \placecard{figRev}{3.5}{-19}{38}{-32}{憲法審查在其內部\\{\scriptsize 上議院、司法委員會、}\\{\scriptsize 法國憲法委員會（28 頁）}}
-    \placecard{figGray}{0}{-38.5}{18}{-44.5}{行政}
-    \placecard{figGray}{22}{-38.5}{40}{-44.5}{法院}
-    \draw[link] (9,-34) -- (9,-38.5);
-    \draw[link] (31,-34) -- (31,-38.5);
+  % 議會主權：審查在立法機關內部；行政與法院居其下
+  \begin{scope}[shift={(0,0)}]
+    \placecard{figGray}{0}{-12}{44}{-34}{立法機關}
+    \placecard{figRev}{3.5}{-18.5}{41}{-31.5}{憲法審查在其內部\\{\scriptsize 上議院、司法委員會、}\\{\scriptsize 法國憲法委員會}}
+    \draw[link] (11,-34) -- (11,-46);
+    \draw[link] (33,-34) -- (33,-46);
+    \node[note] at (22,-40) {執行並實施\\其命令};
+    \placecard{figGray}{0}{-46}{20}{-54}{行政}
+    \placecard{figGray}{24}{-46}{44}{-54}{法院}
   \end{scope}
-  % Kelsen 型：憲法法院居各部門之外、之上；普通法院停止訴訟並移送
-  \begin{scope}[shift={(62.5,0)}]
-    \placecard{figRev}{0}{-13}{40}{-29}{憲法法院\\{\scriptsize 審查權集中於此，}\\{\scriptsize 居各機關之上（31 頁）}}
-    \placecard{figGray}{0}{-38.5}{10}{-44.5}{立法}
-    \placecard{figGray}{12}{-38.5}{22}{-44.5}{行政}
-    \placecard{figGray}{24}{-38.5}{40}{-44.5}{普通法院}
-    \draw[arr2] (32,-38.5) -- (32,-29);
-    \node[t,font=\scriptsize,text=dimink,anchor=north east,align=right] at (30.5,-30.6) {疑法律違憲者\\停止訴訟並移送};
+  % Kelsen 型：憲法法院在三權之外、之上
+  \begin{scope}[shift={(51,0)}]
+    \placecard{figRev}{5}{-12}{39}{-22}{憲法法院\\{\scriptsize 審查權集中於此（31 頁）}}
+    \draw[figGray!70,line width=0.6pt] (0,-50) -- (44,-50);
+    \placecard{figGray}{0}{-46}{12}{-54}{立法}
+    \placecard{figGray}{15}{-46}{27}{-54}{行政}
+    \placecard{figGray}{30}{-46}{44}{-54}{普通法院}
+    \draw[up] (8,-46) -- (8,-22);
+    \draw[up] (37,-46) -- (37,-22);
+    \node[note,anchor=north west,align=left] at (9.5,-25) {政府、政治少數\\聲請抽象審查};
+    \node[note,anchor=north east,align=right] at (35.5,-36) {疑法律違憲者\\停止訴訟並移送};
   \end{scope}
-  % 權力分立：三權並列，審查權散布於各級法院
-  \begin{scope}[shift={(106,0)}]
-    \placecard{figGray}{0}{-13}{10}{-19}{立法}
-    \placecard{figGray}{12}{-13}{22}{-19}{行政}
-    \placecard{figGray}{24}{-13}{40}{-19}{司法}
-    \placecard{figRev}{24}{-25.5}{40}{-31.5}{最高法院}
-    \placecard{figRev}{24}{-38.5}{40}{-44.5}{下級法院}
-    \draw[link] (32,-19) -- (32,-25.5);
-    \draw[link] (32,-31.5) -- (32,-38.5);
-    \node[t,font=\scriptsize,text=dimink,anchor=north east,align=right] at (22.5,-27.6) {任何法院皆得審查，\\最高法院居其首};
+  % 權力分立：三權並列；審查權散布於各級法院
+  \begin{scope}[shift={(102,0)}]
+    \draw[figGray!70,line width=0.6pt] (0,-16) -- (44,-16);
+    \placecard{figGray}{0}{-12}{11}{-20}{立法}
+    \placecard{figGray}{14}{-12}{25}{-20}{行政}
+    \placecard{figGray}{28}{-12}{44}{-20}{司法}
+    \draw[link] (36,-20) -- (36,-29);
+    \placecard{figRev}{28}{-29}{44}{-37}{最高法院}
+    \draw[link] (36,-37) -- (36,-46);
+    \placecard{figRev}{28}{-46}{44}{-54}{下級法院}
+    \node[note,anchor=north east,align=right] at (25,-33) {任何法院皆得審查，\\最高法院居其首};
   \end{scope}
-  % 各列內容
-  \foreach \x/\a/\b/\c in {
-      19/{事前、抽象：比較法律\\與憲法之文本（28 頁）}/{法國：提案不得公布；\\公布後不受審查（32 頁）}/{英國、芬蘭、瑞典；法國\\第三至第五共和（28 頁）},
-      62.5/{抽象審查之外，兼有\\事後之具體審查（31 頁）}/{廢止法律並重建法律狀態，\\兼為消極與積極立法（30 頁）}/{奧地利、德國、義大利、\\西班牙、葡萄牙（30 頁）；\\東歐（31 頁）},
-      106/{於具體案件中為之，\\非抽象、非事前（29 頁）}/{法律不廢止，僅於該案\\拒絕適用（29 頁）}/{美國、挪威（29 頁，註 11）}}{
-    \node[cell] at (\x,-50) {\a};
-    \node[cell] at (\x,-61.5) {\b};
-    \node[cell] at (\x,-73) {\c};
+  % 審查介入之時點：三欄共用同一條軸
+  \node[t,font=\scriptsize,text=dimink] at (0,-60) {審查介入之時點};
+  \foreach \x in {0,51,102}{
+    \begin{scope}[shift={(\x,0)}]
+      \draw[axis] (2,-74) -- (42,-74);
+      \foreach \p/\l in {4/提案,22/公布,40/個案適用}{
+        \fill[figGray!70] (\p,-74) circle (0.7);
+        \node[note,anchor=north] at (\p,-75.6) {\l};
+      }
+    \end{scope}
   }
+  % 議會主權：公布前
+  \draw[figRev,line width=2.2pt] (4,-74) -- (22,-74);
+  \node[note,anchor=south west,align=left,text=caseink] at (2,-71.5) {公布前審查，\\違憲者不得公布（32 頁）};
+  % Kelsen 型：公布後，抽象與個案移送
+  \draw[figRev,line width=2.2pt] (73,-74) -- (91,-74);
+  \node[note,anchor=south,text=caseink] at (82,-71.5) {公布後審查，\\得廢止法律（30、33 頁）};
+  % 權力分立：個案中
+  \fill[figRev] (142,-74) circle (1.6);
+  \node[note,anchor=south east,align=right,text=caseink] at (144,-71.5) {個案中審查，\\該案不適用（29 頁）};
 \end{tikzpicture}
