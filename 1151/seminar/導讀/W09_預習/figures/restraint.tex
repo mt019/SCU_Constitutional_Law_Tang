@@ -1,0 +1,38 @@
+% Kramer 625 至 626 頁、633 頁：兩派司法審查理論對自制的理由，及司法至上被接受之後的去留。
+% 共和派：人民有首要且優越之權威，法院為人民之代理人（625 頁）；僅在法律「unconstitutional beyond dispute」
+%   時宣告無效（625 頁，註 11）；自制為保存人民首要權威之手段（625 頁）。
+% 聯邦派：憲法將終局解釋權限授予法院，法官非社群之代理人（626 頁）；「in all doubtful cases . . . the Act ought
+%   to be supported」（626 頁，註 16）；自制為審慎與政治權宜之事，目的在保障司法權威（626 頁）。
+% 司法至上被接受之後：共和派及其 Thayer 式後繼之尊重基礎消除；僅餘審慎（633 頁）。
+% 色調：僅餘之審慎用 accent（terracotta），其餘 slate；卡片淡底加左側色條。
+\definecolor{figRev}{HTML}{B08060}\definecolor{figRevbg}{HTML}{F5ECEB}
+\definecolor{figLine}{HTML}{E8D3D1}
+\providecommand{\placecard}[6]{%
+  \fill[#1bg] (#2,#3) rectangle (#4,#5);
+  \fill[#1] (#2,#3) rectangle ($(#2,#5)+(0.7,0)$);
+  \node[t] at ($(#2,#3)+(2.4,-1.9)$) {#6};}
+\begin{tikzpicture}[qa,x=1mm,y=1mm,
+    t/.style={anchor=north west,inner sep=0pt,align=left,execute at begin node={\raggedright\setstretch{1.2}}},
+    link/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]}},
+    flow/.style={figRev,line width=0.9pt,-{Stealth[length=4pt,width=3.2pt]}}]
+  \foreach \x/\h in {0/解釋權威之所在,38/宣告違憲之標準,76/自制之目的,114/司法至上被接受之後}{
+    \node[t,font=\scriptsize,text=dimink] at (\x,4) {\h};
+  }
+  % 共和派一列
+  \placecard{figGray}{0}{0}{32}{-26}{共和派\\{\scriptsize 首要權威在人民，}\\{\scriptsize 法院為人民之代理人}\\{\scriptsize （625 頁）}}
+  \placecard{figGray}{76}{0}{108}{-26}{共和派\\{\scriptsize 保存人民首要且}\\{\scriptsize 優越之權威}\\{\scriptsize （625 頁）}}
+  \placecard{figGray}{114}{0}{146}{-26}{共和派\\{\scriptsize 與 Thayer 式後繼}\\{\scriptsize 之尊重基礎均消除}\\{\scriptsize （633 頁）}}
+  % 聯邦派一列
+  \placecard{figGray}{0}{-34}{32}{-60}{聯邦派\\{\scriptsize 終局解釋權限屬法院，}\\{\scriptsize 法官非社群之代理人}\\{\scriptsize （626 頁）}}
+  \placecard{figGray}{76}{-34}{108}{-60}{聯邦派\\{\scriptsize 審慎與政治權宜，}\\{\scriptsize 以保障司法權威}\\{\scriptsize （626 頁）}}
+  \placecard{figRev}{114}{-34}{146}{-60}{聯邦派\\{\scriptsize 審慎獨存：不因行動}\\{\scriptsize 過於頻繁或積極而}\\{\scriptsize 引發政治反撲（633 頁）}}
+  % 共同標準
+  \placecard{figGray}{38}{0}{70}{-60}{遇有疑義，\\不宣告無效\\[1.5mm]{\scriptsize 共和派：}\\{\scriptsize unconstitutional}\\{\scriptsize beyond dispute}\\{\scriptsize （625 至 626 頁）}\\[1.5mm]{\scriptsize 聯邦派：}\\{\scriptsize in all doubtful cases}\\{\scriptsize . . . the Act ought}\\{\scriptsize to be supported}\\{\scriptsize （626 頁）}}
+  % 連線
+  \draw[link] (32,-13) -- (38,-13);
+  \draw[link] (32,-47) -- (38,-47);
+  \draw[link] (70,-13) -- (76,-13);
+  \draw[link] (70,-47) -- (76,-47);
+  \draw[link] (108,-13) -- (114,-13);
+  \draw[flow] (108,-47) -- (114,-47);
+\end{tikzpicture}

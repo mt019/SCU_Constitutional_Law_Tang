@@ -1,0 +1,69 @@
+% Ferejohn 與 Pasquino 第 4 節（33 至 36 頁）：審議發生在法院之內或對著法院之外。
+% Kelsen 型與後威權法院：祕密審議、意見以全體法院名義發布（35 頁）；法官面對面說服、產生集體說理的裁判（35 頁）；
+%   裁判須明確，普通法院始能適用（33 頁）；很少公開聽審或公布不同意見書（33 頁）。
+% 法國憲法委員會：祕密會議、無公開聽審（33 頁）；意見簡短、無表決紀錄（33 至 34 頁）；與司法體系分離，
+%   無 stare decisis 之類機制，唯一的保證是向普通法院、Cour de Cassation、行政機關所提理由的說服力（35 頁）。
+% 美國最高法院：公開聽審、記名表決、公布協同與不同意見書（36 頁）；內部審議多在初步表決後以書面進行（36 頁）；
+%   公開透明使法官、行政機關、律師得預期法院之裁判（35 頁）；法院處於司法、法律、政治社群更廣的審議過程中心（36 頁）。
+% 色調：外部審議之法院與其流向用 accent（terracotta），其餘 slate；卡片淡底加左側色條。
+\definecolor{figRev}{HTML}{B08060}\definecolor{figRevbg}{HTML}{F5ECEB}
+\definecolor{figLine}{HTML}{E8D3D1}
+\providecommand{\placecard}[6]{%
+  \fill[#1bg] (#2,#3) rectangle (#4,#5);
+  \fill[#1] (#2,#3) rectangle ($(#2,#5)+(0.7,0)$);
+  \node[t] at ($(#2,#3)+(2.4,-1.9)$) {#6};}
+\begin{tikzpicture}[qa,x=1mm,y=1mm,
+    t/.style={anchor=north west,inner sep=0pt,align=left,execute at begin node={\raggedright\setstretch{1.2}}},
+    note/.style={font=\scriptsize,text=dimink,inner sep=0pt,align=left,anchor=west,execute at begin node={\setstretch{1.15}}},
+    link/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]}},
+    weak/.style={figGray,line width=0.6pt,dash pattern=on 2pt off 1.6pt,-{Stealth[length=4pt,width=3.2pt]}},
+    flow/.style={figRev,line width=1.1pt,-{Stealth[length=4.5pt,width=3.6pt]}},
+    both/.style={figGray,line width=0.5pt,{Stealth[length=3pt,width=2.6pt]}-{Stealth[length=3pt,width=2.6pt]}}]
+  \foreach \x in {47.5,98.5}{\draw[figLine,line width=0.4pt] (\x,5) -- (\x,-96);}
+  % 欄頭
+  \foreach \x/\h/\s in {
+      0/{Kelsen 型與後威權法院}/{內部審議（35 頁）},
+      51/法國憲法委員會/{議會主權體制（33 頁）},
+      102/美國最高法院/{外部審議（35 頁）}}{
+    \node[t,font=\footnotesize] at (\x,4) {\h};
+    \node[t,font=\scriptsize,text=dimink] at (\x,-0.6) {\s};
+  }
+  % Kelsen 型：審議在法官之間
+  \begin{scope}[shift={(0,0)}]
+    \placecard{figGray}{0}{-12}{44}{-46}{憲法法院\\{\scriptsize 祕密審議（35 頁）}\\{\scriptsize 很少公開聽審（33 頁）}\\{\scriptsize 意見以全院名義發布（35 頁）}}
+    \foreach \p in {10,22,34}{\fill[figGray] (\p,-35) circle (1.3);}
+    \draw[both] (11.8,-35) -- (20.2,-35);
+    \draw[both] (23.8,-35) -- (32.2,-35);
+    \node[note,anchor=north west,text=caseink] at (2.4,-37.4) {面對面說服，集體說理（35 頁）};
+    \draw[link] (8,-46) -- (8,-68);
+    \node[note] at (11,-57) {裁判須明確，普通法院\\始能適用（33 頁）};
+    \placecard{figGray}{0}{-68}{20}{-80}{{\scriptsize 普通法院}}
+  \end{scope}
+  % 法國：祕密審議，意見向外傳遞但無正式拘束機制
+  \begin{scope}[shift={(51,0)}]
+    \placecard{figGray}{0}{-12}{44}{-46}{憲法委員會\\{\scriptsize 祕密會議，無公開聽審（33 頁）}\\{\scriptsize 意見簡短（33 至 34 頁）}\\{\scriptsize 與司法體系分離（35 頁）}}
+    \draw[figGray,line width=0.6pt,dash pattern=on 2pt off 1.6pt] (7,-46) -- (7,-59);
+    \draw[figGray,line width=0.6pt,dash pattern=on 2pt off 1.6pt] (7,-59) -- (37,-59);
+    \draw[weak] (7,-59) -- (7,-68);
+    \draw[weak] (22,-59) -- (22,-68);
+    \draw[weak] (37,-59) -- (37,-68);
+    \node[note] at (10,-52.5) {無正式機制，唯憑理由\\的說服力（35 頁）};
+    \placecard{figGray}{0}{-68}{14}{-80}{{\scriptsize 普通法院}}
+    \placecard{figGray}{15}{-68}{29}{-80}{{\scriptsize Cour de}\\{\scriptsize Cassation}}
+    \placecard{figGray}{30}{-68}{44}{-80}{{\scriptsize 行政機關}}
+  \end{scope}
+  % 美國：公開行事，對著法院之外的行動者與更廣的社群
+  \begin{scope}[shift={(102,0)}]
+    \placecard{figRev}{0}{-12}{44}{-46}{最高法院\\{\scriptsize 公開聽審，記名表決（36 頁）}\\{\scriptsize 公布協同與不同意見書（36 頁）}\\{\scriptsize 內部審議多在初步表決後}\\{\scriptsize 以書面進行（36 頁）}}
+    \draw[flow] (7,-46) -- (7,-59);
+    \draw[figRev,line width=1.1pt] (7,-59) -- (37,-59);
+    \draw[flow] (7,-59) -- (7,-68);
+    \draw[flow] (22,-59) -- (22,-68);
+    \draw[flow] (37,-59) -- (37,-68);
+    \node[note] at (10,-52.5) {公開行事，使其得預期\\裁判（35 頁）};
+    \placecard{figGray}{0}{-68}{14}{-80}{{\scriptsize 下級法院}}
+    \placecard{figGray}{15}{-68}{29}{-80}{{\scriptsize 行政機關}}
+    \placecard{figGray}{30}{-68}{44}{-80}{{\scriptsize 律師}}
+    \placecard{figGray}{0}{-84}{44}{-96}{{\scriptsize 法院處於司法、法律、政治社群}\\{\scriptsize 更廣的審議過程之中（36 頁）}}
+  \end{scope}
+\end{tikzpicture}
