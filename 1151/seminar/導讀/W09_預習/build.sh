@@ -14,7 +14,8 @@ run() { "$@" </dev/null >>build.log 2>&1 || { echo "失敗：$*（見 build.log�
 indexes() {
   for n in terms statutes cases persons; do
     if [ -s "$n.idx" ]; then
-      run upmendex -s "$STY/zh-law.ist" -o "$n.ind" "$n.idx"
+      IST="$STY/zh-law.ist"; [ "$n" = cases ] && [ -f zh-law-cases.ist ] && IST=zh-law-cases.ist
+      run upmendex -s "$IST" -o "$n.ind" "$n.idx"
     else
       : > "$n.ind"
     fi

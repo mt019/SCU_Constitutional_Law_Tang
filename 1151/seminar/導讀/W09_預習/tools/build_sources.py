@@ -55,8 +55,16 @@ def cites(part):
     return found
 
 
+# 法規與裁判在 refs.bib 無作者欄，\citeauthor 印空、\citetitle 套斜體短題，行首只剩一個逗號
+# （2026-11-09 站主「怪怪的」）；這兩類改印 title 欄全名，不加斜體。
+NOAUTHOR = set(re.findall(r"@(?:legislation|jurisdiction)\{([^,\s]+),",
+                          (ROOT / "refs.bib").read_text(encoding="utf-8")))
+
+
 def render(key, locs):
-    return f"\\citeauthor{{{key}}}，\\citetitle{{{key}}}" + ("，" + "；".join(locs) if locs else "")
+    head = (f"\\citefield{{{key}}}{{title}}" if key in NOAUTHOR
+            else f"\\citeauthor{{{key}}}，\\citetitle{{{key}}}")
+    return head + ("，" + "；".join(locs) if locs else "")
 
 
 def main():

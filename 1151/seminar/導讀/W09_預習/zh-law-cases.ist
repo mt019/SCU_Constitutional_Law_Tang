@@ -1,0 +1,13 @@
+% zh-law.sty 四份法學索引之 makeindex 樣式（2026-11-02 自 Trust_Thesis 課堂報告 109訴1025 的 index.ist 移入）。
+% 詞與第一個頁碼之間不斷行（\zhlunkerns 定義在 zh-law.sty），免得全形括號收尾之詞後，逗號落到下一行之行首。
+delim_0 "\\zhlunkerns,~"
+delim_1 "\\zhlunkerns,~"
+delim_2 "\\zhlunkerns,~"
+% 第一層（類名、法域）之前空一行；各層之標題與其下第一項之間不分欄、不分頁（\nobreak 在兩段之間）。
+item_0 "\n\n  \\indexspace\\item "
+item_01 "\n    \\par\\nobreak\\subitem "
+item_x1 "\n    \\par\\nobreak\\subitem "
+item_12 "\n      \\par\\nobreak\\subsubitem "
+item_x2 "\n      \\par\\nobreak\\subsubitem "
+% 本書裁判索引：美國聯邦最高法院一組長過一欄，第三層之間允許斷欄（其餘同共用樣式）。
+item_2 "\n      \\subsubitem "
