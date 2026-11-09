@@ -1,0 +1,73 @@
+\documentclass[11pt,oneside,openany]{book}
+
+% 東吳大學法研所「憲法專題研究（一）」第 9 週（2026-11-09）預習問答集：
+% Alexander & Schauer, 17 Const. Comment. 455 (2000)；Kramer, 100 Calif. L. Rev. 621 (2012)；
+% Ferejohn & Pasquino, in Sadurski ed., Constitutional Justice, East and West 21 (2002)。
+% 底稿：notes/docs/1151/seminar/W09_1109_預習.md（87808f3），tools/md_to_tex.py 轉出一次，此後 Teile 為正本。
+% 版式照 ../W06_Waldron/W06_Waldron_導讀問答.tex 與 ../../課程問答/1151_憲法專題研究_課程問答.tex。
+% 編譯：./build.sh。
+
+\def\TransLaTeXDir{../../../../../1142/Translation/LaTeX}
+\input{\TransLaTeXDir/course-notes.sty}
+\addbibresource{refs.bib}
+\CourseNotesMeta{司法至上與憲法法院的審議：第 9 週預習}{王逸帆}
+\CourseNotesChinese[部]
+\CourseNotesLawIndexes[noautomatic]
+
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\makeatletter\def\LTcaptype{table}\makeatother
+
+% 刊本頁：括號內文字照錄，tools/build_sources.py 依所在之部收入出處一覽
+\newcommand{\pg}[1]{（#1）}
+\newcommand{\en}[1]{\textit{#1}}
+% 索引標記：tools/build_index.py 依 index-terms.tsv 插入，--strip 整批移除
+\newif\ifshowindex \showindextrue
+\newcommand{\ix}[2]{\ifshowindex\index[#1]{#2}\fi}
+\setlength{\emergencystretch}{2em}
+\tikzset{
+  qa/.style={font=\footnotesize,every node/.append style={execute at begin node={\setstretch{1.2}}}},
+  nbox/.style={draw=figGray,line width=0.4pt,fill=white,rounded corners=1.5pt,inner xsep=3pt,inner ysep=2.6pt,align=left},
+  gbox/.style={nbox,fill=figGraybg},
+  kbox/.style={nbox,draw=figE,fill=figEbg,line width=0.7pt},
+  lbl/.style={font=\scriptsize,text=dimink,inner sep=1pt},
+  hdr/.style={font=\footnotesize,text=caseink,inner sep=1pt},
+  arr/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]},shorten >=1pt,shorten <=1pt},
+  dsh/.style={arr,dash pattern=on 2.4pt off 1.6pt},
+}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand{\documentversion}{v0.1（2026-11-09）}
+
+\begin{document}
+
+\frontmatter
+\coursetitle{司法至上與憲法法院的審議}{第 9 週預習：Alexander 與 Schauer、Kramer、Ferejohn 與 Pasquino}%
+  {東吳大學法律學系研究所　憲法專題研究（一）\\115 學年度第 1 學期　第 9 週（2026 年 11 月 9 日）}%
+  {\documentversion}
+\tableofcontents
+
+\chapter*{凡例}
+\addcontentsline{toc}{chapter}{凡例}
+\input{Teile/00_note}
+
+\mainmatter
+\input{Teile/10_intro}
+\input{Teile/20_AS}
+\input{Teile/30_Kramer}
+\input{Teile/40_FP}
+\input{Teile/50_relations}
+
+\appendix
+\IfFileExists{Teile/A1_timeline.tex}{\input{Teile/A1_timeline}}{}
+\IfFileExists{Teile/A2_sources.tex}{\input{Teile/A2_sources}}{}
+\input{Teile/A3_terms}
+
+\backmatter
+\printbibliography[heading=bibintoc]
+\IfFileExists{Teile/90_index_xref.tex}{\input{Teile/90_index_xref}}{}
+\printindex[terms]
+\printindex[statutes]
+\printindex[cases]
+\printindex[persons]
+
+\end{document}

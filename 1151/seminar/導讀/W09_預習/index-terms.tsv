@@ -1,0 +1,138 @@
+# W09 預習問答集的索引詞表（2026-11-09 建）。tools/build_index.py 讀本檔，在 Teile/[1-5]*.tex 插入 \ix{索引}{詞條}。
+# kind：term（名詞）、person（人名）、law（法規）、case（裁判）。釋字與憲判字號由程式自正文抓，不列於此。
+# class：term 為上位概念（第一層，依本檔先後；依司法審查理論的體系排：審查權限之歸屬、定紛止爭論、憲法之效力基礎、法院之功能、解釋理論與自制、審查制度之類型、憲法審判之審議）。
+#   law 為「法域|法規名稱」，case 為「法域|法院」；法域依本書比較順序（中華民國、美國、法國、義大利、希臘），法院依審級由高而低。
+# display：索引顯示形；law 為條次（空白表示只記法規名稱）。sort：case 之排序鍵（年份），person 之排序鍵（姓），空白則用 display。
+# patterns：正文比對字串，以 ; 分隔，空白則用 display；ASCII 字串比對時前後不得接英文字母。
+# see：「see:X」為不採之異名，只產生「見 X」；「seealso:X;Y」產生「參見」。一詞只掛一類，每類至少兩詞有標到。
+kind	class	display	sort	patterns	see
+term	司法審查權限之歸屬	司法至上		司法至上;judicial supremacy
+term	司法審查權限之歸屬	解釋至上		解釋至上	seealso:司法至上
+term	司法審查權限之歸屬	解釋權限		解釋權限;interpretive authority
+term	司法審查權限之歸屬	司法審查		司法審查;違憲審查
+term	司法審查權限之歸屬	人民憲政主義		人民憲政主義;popular constitutionalism
+term	司法審查權限之歸屬	共和派		共和派;Jeffersonian	seealso:人民憲政主義
+term	司法審查權限之歸屬	聯邦派		聯邦派
+term	司法審查權限之歸屬	Cooper 規則		Cooper 規則	seealso:司法至上
+term	司法審查權限之歸屬	本人與代理人		代理人;principal
+term	定紛止爭論	定紛止爭		定紛止爭;定紛;settlement
+term	定紛止爭論	一階定紛與二階定紛		一階;二階
+term	定紛止爭論	與內容無關之理由		與內容無關;content-independent
+term	定紛止爭論	權威的不對稱		權威的不對稱
+term	定紛止爭論	制度上的無政府狀態		無政府狀態
+term	憲法之效力基礎	先於憲法的憲法		先於憲法;preconstitutional
+term	憲法之效力基礎	基本規範		基本規範;grundnorm
+term	憲法之效力基礎	承認規則		承認規則;rule of recognition
+term	憲法之效力基礎	社會事實		社會事實
+term	憲法之效力基礎	修憲		修憲
+term	法院之功能	案件裁判者與造法者		案件裁判者;造法者
+term	法院之功能	爭端解決者		爭端解決者
+term	法院之功能	諮詢意見		諮詢意見;advisory opinion
+term	法院之功能	消極立法		消極立法;negative legislat
+term	法院之功能	不同意見與協同意見		不同意見;協同意見
+term	解釋理論與自制	司法自制		司法自制;自制
+term	解釋理論與自制	尊重		尊重;deference	seealso:司法自制
+term	解釋理論與自制	解釋理論		解釋理論;解釋方法
+term	解釋理論與自制	審慎		審慎;權宜;prudence
+term	解釋理論與自制	反多數決困難		反多數決困難;反多數決;countermajoritarian
+term	解釋理論與自制	均衡點		均衡點
+term	審查制度之類型	議會主權體制		議會主權
+term	審查制度之類型	權力分立體制		權力分立
+term	審查制度之類型	Kelsen 型模式		Kelsen 型;Kelsenian
+term	審查制度之類型	抽象審查與具體審查		抽象審查;具體審查;a priori
+term	審查制度之類型	分散審查與集中審查		分散審查;集中審查;dispersed
+term	審查制度之類型	後威權政體		後威權
+term	審查制度之類型	憲法整體		憲法整體;bloc de constitutionnalité
+term	審查制度之類型	不予解釋		不予解釋;政治問題
+term	憲法審判之審議	審議的期待		審議的期待;deliberative expectations
+term	憲法審判之審議	合法性負擔		合法性負擔;burden of legitimation
+term	憲法審判之審議	理由說明		理由說明
+term	憲法審判之審議	公共理由		公共理由;public reason
+term	憲法審判之審議	內部審議		內部審議	seealso:外部審議
+term	憲法審判之審議	外部審議		外部審議
+term	憲法審判之審議	無須理由的領域		無須理由;reason free zone
+term	憲法審判之審議	解釋保留		解釋保留;réserves d'interprétation
+term	定紛止爭論	settlement			see:定紛止爭
+term	司法審查權限之歸屬	違憲審查			see:司法審查
+person		Alexander, Larry	Alexander	Alexander
+person		Schauer, Frederick	Schauer	Schauer
+person		Kramer, Larry D.	Kramer	Kramer
+person		Ferejohn, John	Ferejohn	Ferejohn
+person		Pasquino, Pasquale	Pasquino	Pasquino
+person		Posner, Richard A.	Posner	Posner
+person		Thayer, James Bradley	Thayer	Thayer
+person		Tushnet, Mark	Tushnet	Tushnet
+person		Devins, Neal	Devins	Devins
+person		Fisher, Louis	Fisher	Fisher
+person		Hartnett, Edward A.	Hartnett	Hartnett
+person		Harrison, John	Harrison	Harrison
+person		Peabody, Bruce G.	Peabody	Peabody
+person		Nagel, Robert F.	Nagel	Nagel
+person		Sherwin, Emily	Sherwin	Sherwin
+person		Marshall, John（馬歇爾）	Marshall	John Marshall;Marshall
+person		Lincoln, Abraham（林肯）	Lincoln	Lincoln
+person		Jefferson, Thomas（傑佛遜）	Jefferson	Jefferson
+person		Madison, James（麥迪遜）	Madison	Madison
+person		Morris, Gouverneur	Morris	Morris
+person		Iredell, James	Iredell	Iredell
+person		Hughes, Charles Evans	Hughes	Hughes
+person		Kennedy, Anthony	Kennedy	Kennedy
+person		Meese, Edwin, III	Meese	Meese
+person		Holmes, Oliver Wendell, Jr.（霍姆斯）	Holmes	Holmes
+person		Brandeis, Louis D.（布蘭戴斯）	Brandeis	Brandeis
+person		Kelsen, Hans（凱爾森）	Kelsen	Kelsen
+person		Schmitt, Carl（施密特）	Schmitt	Schmitt
+person		Hart, H. L. A.（哈特）	Hart	Hart
+person		Dworkin, Ronald（德沃金）	Dworkin	Dworkin
+person		Fuller, Lon L.（富勒）	Fuller	Fuller
+person		Rawls, John（羅爾斯）	Rawls	Rawls
+person		Waldron, Jeremy	Waldron	Waldron
+person		Michelman, Frank I.	Michelman	Michelman
+person		Bickel, Alexander M.	Bickel	Bickel
+person		Wechsler, Herbert	Wechsler	Wechsler
+person		Tribe, Laurence H.	Tribe	Tribe
+person		Friedman, Barry	Friedman	Friedman
+person		Sherry, Suzanna	Sherry	Sherry
+person		Levinson, Sanford	Levinson	Levinson
+person		Roosevelt, Franklin D.（羅斯福）	Roosevelt	Roosevelt
+person		Rousseau, Jean-Jacques（盧梭）	Rousseau	Rousseau
+person		Montesquieu（孟德斯鳩）	Montesquieu	Montesquieu
+person		Aristotle（亞里斯多德）	Aristotle	Aristotle
+person		Plato（柏拉圖）	Plato	Plato
+person		Wittgenstein, Ludwig（維根斯坦）	Wittgenstein	Wittgenstein
+law	中華民國|中華民國憲法	第 78 條		憲法第 78 條
+law	中華民國|憲法訴訟法	第 38 條		憲法訴訟法第 38 條
+law	美國|聯邦憲法	第 3 條		第 3 條第 3 項;第 3 條與;第 3 條理由
+law	美國|聯邦憲法	第 5 條		第 5 條的修憲程序
+law	美國|聯邦憲法	第 6 條		憲法第 6 條;第 6 條理解
+law	美國|聯邦憲法	增修條文第 1 條		增修條文第 1 條
+law	美國|聯邦憲法	增修條文第 14 條		增修條文第 14 條
+law	法國|憲法委員會組織法（1958 年第 58-1067 號條例）	第 20 條		第 58-1067 號條例第 20 條
+law	法國|憲法委員會組織法（1958 年第 58-1067 號條例）	第 25 條		第 58-1067 號條例第 25 條
+law	義大利|1953 年第 87 號法	第 18 條		第 87 號法第 18 條
+case	美國|聯邦最高法院	Marbury v. Madison（1803）	1803	Marbury
+case	美國|聯邦最高法院	Dred Scott v. Sandford（1857）	1857	Dred Scott
+case	美國|聯邦最高法院	Hans v. Louisiana（1890）	1890	Hans v. Louisiana
+case	美國|聯邦最高法院	Burnet v. Coronado Oil \& Gas Co.（1932）	1932	Burnet v. Coronado Oil
+case	美國|聯邦最高法院	Monaco v. Mississippi（1934）	1934	Monaco v. Mississippi
+case	美國|聯邦最高法院	A.L.A. Schechter Poultry Corp. v. United States（1935）	1935	Schechter Poultry
+case	美國|聯邦最高法院	United States v. Butler（1936）	1936	United States v. Butler
+case	美國|聯邦最高法院	Lochner v. New York（1905）	1905	Lochner	
+case	美國|聯邦最高法院	Brown v. Board of Education（1954）	1954	Brown v. Board of Education;Brown 案;{Brown}
+case	美國|聯邦最高法院	Cooper v. Aaron（1958）	1958	Cooper v. Aaron;Cooper
+case	美國|聯邦最高法院	Mapp v. Ohio（1961）	1961	Mapp v. Ohio
+case	美國|聯邦最高法院	Engel v. Vitale（1962）	1962	Engel v. Vitale
+case	美國|聯邦最高法院	Abington School District v. Schempp（1963）	1963	Abington Sch. Dist. v. Schempp
+case	美國|聯邦最高法院	Brandenburg v. Ohio（1969）	1969	Brandenburg v. Ohio
+case	美國|聯邦最高法院	Gregg v. Georgia（1976）	1976	Gregg v. Georgia
+case	美國|聯邦最高法院	Mississippi University for Women v. Hogan（1982）	1982	Mississippi Univ. for Women v. Hogan
+case	美國|聯邦最高法院	INS v. Chadha（1983）	1983	INS v. Chadha
+case	美國|聯邦最高法院	Wallace v. Jaffree（1985）	1985	Wallace v. Jaffree
+case	美國|聯邦最高法院	Sable Communications v. FCC（1989）	1989	Sable Communications v. FCC
+case	美國|聯邦最高法院	Lee v. Weisman（1992）	1992	Lee v. Weisman
+case	美國|聯邦最高法院	United States v. Virginia（1996）	1996	United States v. Virginia
+case	美國|聯邦最高法院	City of Boerne v. Flores（1997）	1997	City of Boerne
+case	美國|聯邦最高法院	Reno v. ACLU（1997）	1997	Reno v. ACLU
+case	美國|聯邦最高法院	Kelo v. City of New London（2005）	2005	Kelo v. City of New London
+case	美國|聯邦最高法院	District of Columbia v. Heller（2008）	2008	District of Columbia v. Heller
+case	美國|維吉尼亞州一般法院	Kamper v. Hawkins（1793）	1793	Kamper v. Hawkins

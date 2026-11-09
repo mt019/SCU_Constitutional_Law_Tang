@@ -1,0 +1,55 @@
+% 三篇本文所涉之事件：直列單軌，版型照 ../../W06_Waldron/figures/timeline.tex，另加法域一欄，排在類別之後（2026-11-09 站主：「哪個國啊，不標清楚嗎」）。
+% 年份逐一回 Teile 正文核過（2026-11-09）；正文未載年份者（Dred Scott 1857、Brown 1954）依案號通行年份，
+% 釋字三號依 refs.bib 之解釋日期。著作之法域依作者任教之國；Ferejohn 與 Pasquino 為比較法著作。本文三則用強調色。
+\begin{tikzpicture}[qa,
+    yr/.style={font=\footnotesize,text=#1,anchor=north east,inner sep=0pt},
+    cat/.style={font=\scriptsize,text=dimink,anchor=north west,inner sep=0pt},
+    ev/.style={font=\footnotesize,text=#1,anchor=north west,inner sep=0pt,text width=98mm,
+      execute at begin node={\raggedright\setstretch{1.2}}},
+    dot/.style={circle,fill=#1,draw=white,line width=0.8pt,inner sep=0pt,minimum size=5.5pt}]
+  \coordinate (prev) at (0,0.25);
+  \node[cat,anchor=south east] at (14mm,0.15) {年份};
+  \node[cat,anchor=south west] at (19mm,0.15) {類別};
+  \node[cat,anchor=south west] at (29mm,0.15) {法域};
+  \node[cat,anchor=south west] at (44mm,0.15) {事件};
+  \foreach \k/\d/\j/\c/\t [count=\i] in {
+      n/1787/美國/函件/{Iredell 致 Spaight 函（北卡羅來納州）：違憲而無可爭辯者始得宣告無效},
+      n/1793/美國/判決/{維吉尼亞州 General Court，Kamper v.\ Hawkins：Nelson 法官論憲法之於政府部門},
+      n/1800/美國/選舉/{總統選舉，共和派勝出},
+      n/1803/美國/判決/{聯邦最高法院，Marbury v.\ Madison},
+      n/1857/美國/判決/{聯邦最高法院，Dred Scott v.\ Sandford},
+      n/1893/美國/著作/{Thayer, The Origin and Scope of the American Doctrine of Constitutional Law},
+      n/1948/中華民國/機關/{司法院大法官設立},
+      n/1953/義大利/立法/{1953 年 3 月 11 日第 87 號法：憲法法院判決應載明理由},
+      n/1954/美國/判決/{聯邦最高法院，Brown v.\ Board of Education},
+      n/1958/美國/判決/{聯邦最高法院，Cooper v.\ Aaron},
+      n/1958/法國/立法/{1958 年 11 月 7 日第 58-1067 號條例：憲法委員會之組織法},
+      n/1984/中華民國/解釋/{司法院大法官釋字第 185 號：解釋拘束全國各機關及人民},
+      n/1990/中華民國/解釋/{司法院大法官釋字第 261 號},
+      n/1993/美國/著作/{Rawls, Political Liberalism},
+      n/1993/中華民國/解釋/{司法院大法官釋字第 328 號：固有疆域之界定屬重大之政治問題},
+      n/1997/美國/判決/{聯邦最高法院，City of Boerne v.\ Flores},
+      n/1997/美國/著作/{Alexander 與 Schauer, On Extrajudicial Constitutional Interpretation},
+      n/1998/美國/著作/{Tushnet, Two Versions of Judicial Supremacy},
+      n/1999/美國/著作/{Tushnet, Taking the Constitution Away from the Courts},
+      k/2000/美國/本文/{Alexander 與 Schauer, Defending Judicial Supremacy: A Reply},
+      k/2002/比較法/本文/{Ferejohn 與 Pasquino, Constitutional Courts as Deliberative Institutions：法國、德國、義大利、西班牙、美國},
+      n/2003/美國/著作/{Tushnet, Non-Judicial Review},
+      n/2004/美國/著作/{Kramer, The People Themselves},
+      n/2012/美國/著作/{Posner, The Rise and Fall of Judicial Self-Restraint},
+      k/2012/美國/本文/{Kramer, Judicial Supremacy and the End of Judicial Restraint},
+      n/2022/中華民國/立法/{憲法訴訟法施行：憲法法庭判決拘束各機關及人民}}{
+    \if k\k\def\ink{figE}\else\def\ink{caseink}\fi
+    \path (prev) ++(0,-0.25) coordinate (top);
+    \node[ev=\ink] (e\i) at (44mm,0 |- top) {\t};
+    \node[cat] at (19mm,0 |- top) {\c};
+    \node[cat] at (29mm,0 |- top) {\j};
+    \node[yr=\ink] at (14mm,0 |- top) {\d};
+    \node[dot=\ink] at ($(16.5mm,0 |- top)+(0,-1.4mm)$) {};
+    \coordinate (prev) at (0,0 |- e\i.south);
+    \xdef\last{\i}
+  }
+  \begin{scope}[on background layer]
+    \draw[ruleink,line width=0.8pt] (16.5mm,-0.6mm) -- (16.5mm,0 |- e\last.south);
+  \end{scope}
+\end{tikzpicture}
