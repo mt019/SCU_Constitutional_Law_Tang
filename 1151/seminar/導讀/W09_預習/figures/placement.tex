@@ -5,7 +5,8 @@
 % other institutions」（31 頁）。下列時間軸：議會主權之審查在公布前（28 頁 a priori；32 頁法國）；Kelsen 型之抽象審查
 % 不能阻止法律生效（33 頁），另有個案移送（31 頁）；權力分立在具體案件中（29 頁）。
 % 色調：審查權所在之機關與審查介入之時點用 accent（terracotta），其餘 slate；卡片淡底加左側色條。
-% 2026-11-09 第一版（下半三列文字表）站主「不夠優秀」，改為本版。
+% 2026-11-09 第一版（下半三列文字表）站主「不夠優秀」，改為本版。時間軸：區段表示期間內任一時點得審查，圓點表示
+% 只在該時點；第二版 Kelsen 型以一條區段跨到個案適用，站主問「一條範圍？」，改為區段（抽象審查）加圓點（個案移送）。
 \definecolor{figRev}{HTML}{B08060}\definecolor{figRevbg}{HTML}{F5ECEB}
 \definecolor{figLine}{HTML}{E8D3D1}
 % 卡片：\placecard{色}{左}{上}{右}{下}{內容}
@@ -81,10 +82,12 @@
   }
   % 議會主權：公布前
   \draw[figRev,line width=2.2pt] (4,-74) -- (22,-74);
-  \node[note,anchor=south west,align=left,text=caseink] at (2,-71.5) {公布前審查，\\違憲者不得公布（32 頁）};
-  % Kelsen 型：公布後，抽象與個案移送
-  \draw[figRev,line width=2.2pt] (73,-74) -- (91,-74);
-  \node[note,anchor=south,text=caseink] at (82,-71.5) {公布後審查，\\得廢止法律（30、33 頁）};
+  \node[note,anchor=south west,align=left,text=caseink] at (2,-71.5) {公布前任一時點（28 頁），\\違憲者不得公布（32 頁）};
+  % Kelsen 型：抽象審查在公布後、法律照常施行之期間（區段，右端不封口）；具體審查在個案移送時（點）
+  \draw[figRev,line width=2.2pt] (73,-74) -- (85,-74);
+  \draw[figRev,line width=2.2pt,dash pattern=on 1.2pt off 1.2pt] (85,-74) -- (87,-74);
+  \fill[figRev] (91,-74) circle (1.6);
+  \node[note,anchor=south west,align=left,text=caseink] at (53,-71.5) {公布後抽象審查，\\法律照常施行（33 頁）；\\個案中移送（31 頁）};
   % 權力分立：個案中
   \fill[figRev] (142,-74) circle (1.6);
   \node[note,anchor=south east,align=right,text=caseink] at (144,-71.5) {個案中審查，\\該案不適用（29 頁）};
