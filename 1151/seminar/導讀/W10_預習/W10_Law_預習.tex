@@ -1,0 +1,48 @@
+\documentclass[11pt,oneside,openany]{book}
+
+% 東吳大學法研所「憲法專題研究（一）」第 10 週（2026-11-16）預習問答集：
+% David S. Law, A Theory of Judicial Power and Judicial Review, 97 Geo. L.J. 723 (2009)。
+% 版式照 ../W09_預習/W09_司法至上_預習.tex。編譯：./build.sh。
+
+\def\TransLaTeXDir{../../../../../1142/Translation/LaTeX}
+\input{\TransLaTeXDir/course-notes.sty}
+\addbibresource{refs.bib}
+\CourseNotesMeta{司法權與司法審查的理論：第 10 週預習}{王逸帆}
+\CourseNotesChinese[部]
+\CourseNotesLawIndexes[noautomatic]
+
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\makeatletter\def\LTcaptype{table}\makeatother
+
+\newcommand{\pg}[1]{（#1）}
+\newcommand{\en}[1]{\textit{#1}}
+\newif\ifshowindex \showindextrue
+\newcommand{\ix}[2]{\ifshowindex\index[#1]{#2}\fi}
+\setlength{\emergencystretch}{2em}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand{\documentversion}{v0.1（2026-11-16）}
+
+\begin{document}
+
+\frontmatter
+\coursetitle{司法權與司法審查的理論}{第 10 週預習：David S. Law}%
+  {東吳大學法律學系研究所　憲法專題研究（一）\\115 學年度第 1 學期　第 10 週（2026 年 11 月 16 日）}%
+  {\documentversion}
+\tableofcontents
+
+\chapter*{凡例}
+\addcontentsline{toc}{chapter}{凡例}
+\input{Teile/00_note}
+
+\mainmatter
+\input{Teile/20_game}
+
+\backmatter
+\printbibliography[heading=bibintoc]
+\printindex[terms]
+\printindex[statutes]
+\printindex[cases]
+\printindex[persons]
+
+\end{document}

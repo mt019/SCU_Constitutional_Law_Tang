@@ -1,0 +1,15 @@
+*.idx
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.toc
+*.out
+*.xdv
+*.fls
+*.fdb_latexmk
+*.ilg
+*.ind
+*.log
+.biber-tmp/
