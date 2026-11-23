@@ -1,0 +1,25 @@
+% 第 1 部理論關係：Michelman 與 Post 之問題設定各自援引、區辨、反駁之理論。
+% 內容依 Translation/Register/relations.tsv（W11-REL-001 至 011；012 MacIntyre 不入圖，節點限 7 個）。
+% 色調：Michelman figA、Post figD，被引者 slate；卡片淡底加左側色條（skill diagram-design「動手前」第 2 條）。
+\begin{tikzpicture}[qa,x=1mm,y=1mm,
+    card/.style={fill=#1bg,text width=37mm,minimum height=12mm,inner xsep=3.5mm,inner ysep=2mm,anchor=north west,
+      execute at begin node={\raggedright\setstretch{1.2}},
+      path picture={\fill[#1] (path picture bounding box.north west) rectangle
+        ([xshift=3pt]path picture bounding box.south west);}},
+    rel/.style={figGray,line width=0.6pt,-{Stealth[length=4pt,width=3.2pt]},shorten >=1pt,shorten <=1pt},
+    lab/.style={font=\scriptsize,text=dimink,inner sep=1pt,align=center,execute at begin node={\setstretch{1.15}}}]
+  \node[card=figGray] (B) at (0,0) {Bickel\\{\scriptsize 對抗多數的難題}};
+  \node[card=figGray] (RH) at (102,0) {Rawls、Habermas\\{\scriptsize 無知之幕、理想言說情境}};
+  \node[card=figA] (M) at (0,-34) {Michelman\\{\scriptsize 憲政主義與民主之衝突}};
+  \node[card=figD] (P) at (102,-34) {Post\\{\scriptsize 人民主權與憲法裁判實務}};
+  \node[card=figGray] (PA) at (0,-70) {Parker、Amar\\{\scriptsize 民粹論}};
+  \node[card=figGray] (D) at (51,-70) {Dworkin\\{\scriptsize 自治觀}};
+  \node[card=figGray] (S) at (102,-70) {Schauer\\{\scriptsize 易案}};
+  \draw[rel] (M.north) ++(-4,0) -- ([xshift=-4mm]B.south) node[lab,midway,right=1mm,align=left] {推到難題之外\\（399--400 頁）};
+  \draw[rel] (M.south) ++(-4,0) -- ([xshift=-4mm]PA.north) node[lab,midway,right=1mm,align=left] {區辨，不採\\（402--403 頁註 9）};
+  \draw[rel] ([xshift=-4mm]M.south east) -- (D.north) node[lab,pos=0.62,anchor=west,xshift=7mm,align=left] {同屬自治觀\\（402 頁註 7）};
+  \draw[rel] ([yshift=3mm]M.east) -- ([yshift=3mm]P.west) node[lab,midway,above] {同屬自治觀（402 頁註 6）};
+  \draw[rel] ([yshift=-3mm]P.west) -- ([yshift=-3mm]M.east) node[lab,midway,below=1mm] {接受兩個定義（430 頁）\\以修憲設例反駁其結論\\（430--431 頁）};
+  \draw[rel] (P.north) ++(-4,0) -- ([xshift=-4mm]RH.south) node[lab,midway,right=1mm,align=left] {區辨：憲法理論\\不置於其後（429 頁）};
+  \draw[rel] (P.south) ++(-4,0) -- ([xshift=-4mm]S.north) node[lab,midway,right=1mm,align=left] {援引易案\\（431 頁註 9）};
+\end{tikzpicture}
