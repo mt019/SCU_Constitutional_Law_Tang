@@ -19,6 +19,8 @@ indexes() {
     fi
   done
 }
+# 索引標記：自翻譯倉 Register/（works=W11）插入事項、案件、人名之 \ix；法規條次維持手標
+run /usr/bin/python3 -I "$STY/../Skripte/build_index.py" --work W11 --root . --glob '[1-8][0-9]_*.tex' --manual statutes
 run xelatex -interaction=nonstopmode "$MAIN"
 run biber "$MAIN"
 run xelatex -interaction=nonstopmode "$MAIN"
