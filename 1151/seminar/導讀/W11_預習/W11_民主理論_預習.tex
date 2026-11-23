@@ -1,0 +1,48 @@
+\documentclass[11pt,oneside,openany]{book}
+
+% 東吳大學法研所「憲法專題研究（一）」第 11 週（2026-11-23）預習問答集：
+% Michelman, Brennan and Democracy, 86 Calif. L. Rev. 399 (1998)；Post, Democracy, Popular Sovereignty, and Judicial Review, 86 Calif. L. Rev. 429 (1998)。
+% 版式照 ../W10_預習/W10_Law_預習.tex。編譯：./build.sh。
+
+\def\TransLaTeXDir{../../../../../1142/Translation/LaTeX}
+\input{\TransLaTeXDir/course-notes.sty}
+\addbibresource{refs.bib}
+\CourseNotesMeta{民主理論與違憲審查：第 11 週預習}{王逸帆}
+\CourseNotesChinese[部]
+\CourseNotesLawIndexes[noautomatic]
+
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\makeatletter\def\LTcaptype{table}\makeatother
+
+\newcommand{\pg}[1]{（#1）}
+\newcommand{\en}[1]{\textit{#1}}
+\newif\ifshowindex \showindextrue
+\newcommand{\ix}[2]{\ifshowindex\index[#1]{#2}\fi}
+\setlength{\emergencystretch}{2em}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand{\documentversion}{v0.1（2026-11-23）}
+
+\begin{document}
+
+\frontmatter
+\coursetitle{民主理論與違憲審查}{第 11 週預習：Michelman 與 Post}%
+  {東吳大學法律學系研究所　憲法專題研究（一）\\115 學年度第 1 學期　第 11 週（2026 年 11 月 23 日）}%
+  {\documentversion}
+\tableofcontents
+
+\chapter*{凡例}
+\addcontentsline{toc}{chapter}{凡例}
+\input{Teile/00_note}
+
+\mainmatter
+% 各部待大綱定案後加入
+\nocite{michelman1998,post1998}
+\backmatter
+\printbibliography[heading=bibintoc]
+\printindex[terms]
+\printindex[statutes]
+\printindex[cases]
+\printindex[persons]
+
+\end{document}
