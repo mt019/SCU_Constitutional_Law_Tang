@@ -141,8 +141,14 @@ def main():
                 key, _, post = r['引'].partition('|')
                 body += f'\\cite[{post}]{{{key}}}。' if post else f'\\cite{{{key}}}。'
             elif r['出處'].startswith('http'):
-                u = urllib.parse.unquote(r['出處'].split(' ; ')[0]).replace('%', '\\%').replace('#', '\\#')
-                body += f'\\url{{{u}}}。'
+                raw = r['出處'].split(' ; ')[0]
+                link = urllib.parse.quote(urllib.parse.unquote(raw), safe=':/?&=#+@!$,;~*()')
+                link = link.replace('%', '\\%').replace('#', '\\#')
+                shown = urllib.parse.unquote(raw)
+                if shown.isascii():
+                    body += f'\\url{{{link}}}。'
+                else:                  # \url 排不了中文：連結保留編碼，顯示解碼後的文字
+                    body += f'\\href{{{link}}}{{\\nolinkurl{{{tex(shown)}}}}}。' if False else f'\\href{{{link}}}{{{tex(shown)}}}。'
             out.append(f'\\footnote{{{body}}}')
             last = pos
         out.append(tex(s[last:]))
