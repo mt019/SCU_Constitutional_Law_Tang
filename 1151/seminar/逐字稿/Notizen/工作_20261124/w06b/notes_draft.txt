@@ -1,0 +1,61 @@
+英文，Waldron 第三項假設之標題作 A Commitment to Rights，通譯「對權利之承諾」。該項假設社會大多數成員對個人權利與少數者權利之理念有堅定的承諾（a strong commitment on the part of most members of the society we are contemplating to the idea of individual and minority rights），並肯認個人之若干利益與自由，不得僅因多數人便利而遭否定。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1364 (2006)。
+
+英文，「關於權利之分歧」，Waldron 第四項假設之標題。該項假設社會對權利之共識不免於一般政治問題上普遍存在之分歧，社會成員對於有哪些權利、權利之內容為何，存有相當程度之歧見（substantial dissensus as to what rights there are and what they amount to）。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1366–1367 (2006)。
+
+Thomas Hobbes（1588–1679），英國政治哲學家，《利維坦》（Leviathan）於 1651 年出版。Waldron 於此句之註 64 引 Leviathan 第 123 頁（Richard Tuck 編，1996 年版），說明社會須先設定一套決策程序，以其運作平息原本促成該程序之爭議（settle, not reignite, the controversies）。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1371 (2006)。
+
+Joseph Raz（1939–2022），法律實證主義代表學者，任教於牛津大學、哥倫比亞大學法學院與倫敦國王學院，2022 年 5 月 2 日於倫敦去世。Waldron 所引為 Raz 1998 年刊於 American Journal of Jurisprudence 第 43 卷之 Disagreement in Politics，此句引文在第 45 頁。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1376 (2006)。
+
+英文，「機關能力」，指各機關依其組織與程序適於決定何種問題。Waldron 說此一論辯由法律過程學派（legal process school）開啟，註 78 引 Henry M. Hart, Jr. 與 Albert M. Sacks 合著 The Legal Process 第 640–647 頁（William N. Eskridge, Jr. 與 Philip P. Frickey 編，1994 年版）。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1376 (2006)。
+
+中華民國憲法法庭 111 年憲判字第 9 號判決（2022 年 6 月 24 日）理由第 20 段闡釋權力分立原則，謂將不同性質之權力「分別歸屬於組織及程序等功能最適之不同機關行使，以發揮功效；原則上並禁止同一機關行使兩種以上權力，以避免權力集中」。
+
+湯德宗著，上、中、下冊，二版，2026 年，課綱所列四部指定教科書之一。
+
+Lon L. Fuller（1902–1978），美國法理學者，1940 年至 1978 年任教於哈佛法學院，1948 年至 1972 年任 Carter 一般法理學講座教授。Waldron 所引為 Fuller, The Forms and Limits of Adjudication, 92 Harv. L. Rev. 353 (1978) 第 368–370 頁，據以說明部分權利主張具兩造二元之性質，部分則具多面向性質（multifaceted），向來被認為不宜由司法結構決定。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1376 (2006)。
+
+Korematsu v. United States, 323 U.S. 214，聯邦最高法院 1944 年 12 月 18 日判決，Black 大法官主筆，維持一名日裔美國公民違反 Civilian Exclusion Order No. 34 之有罪判決；該命令要求日裔人士於 1942 年 5 月 9 日後離開加州 San Leandro 所在之軍事區。聯邦最高法院 2018 年 6 月 26 日 Trump v. Hawaii 判決之多數意見稱 Korematsu 案「was gravely wrong the day it was decided」。
+
+Schenck v. United States, 249 U.S. 47，聯邦最高法院 1919 年 3 月 3 日判決，Holmes 大法官主筆，提出「明顯而立即的危險」（clear and present danger）標準；判決理由謂「The most stringent protection of free speech would not protect a man in falsely shouting fire in a theatre and causing a panic.」Waldron 於註 82 概括其意旨為：第一次世界大戰期間批評徵兵，有如在擁擠戲院中呼喊失火。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1377 (2006)。
+
+Oliver Wendell Holmes, Jr.（1841–1935），1902 年 12 月 8 日至 1932 年 1 月 12 日任聯邦最高法院大法官。
+
+Dred Scott v. Sandford, 60 U.S. 393，聯邦最高法院 1857 年 3 月 6 日判決，Taney 首席大法官主筆，認定祖先以奴隸身分被輸入美國之非洲裔人「are not included, and were not intended to be included, under the word 'citizens' in the Constitution」，不得主張憲法賦予美國公民之權利。
+
+英文，積極權利，指要求國家作為或給付之權利，如社會經濟權；negative rights 為消極權利，指要求國家不加干預之自由權。Waldron 以社會對權利法案應否納入積極權利之分歧為例，說明權利法案之文本因其未列入者，亦可能改變法官對已列入之權利的理解，例如加重財產權與契約自由之分量。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1382 (2006)。
+
+Roe v. Wade, 410 U.S. 113，聯邦最高法院 1973 年 1 月 22 日判決，認定德州刑法之墮胎罪規定違反第十四修正案正當程序條款所保障之隱私權；2022 年 Dobbs v. Jackson Women's Health Organization, 597 U.S. 215 判決將之推翻。Waldron 指出該案五十頁之意見中，討論生育權相對於隱私之道德重要性者僅有兩三段（第 153–155 頁）。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1383 (2006)。
+
+Ronald Dworkin（1931–2013），美國法律哲學家，1975 年起任教於紐約大學法學院。法院為「原則的論壇」（forum of principle）之說出自其 A Matter of Principle（1985），Waldron 註 108 引該書第 33、69–71 頁。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1385 (2006)。
+
+憲法訴訟法第 20 條第 1 項規定，當事人以外之人民、機關或團體，認其與憲法法庭審理之案件有關聯性，得聲請憲法法庭裁定許可，於所定期間內提出具參考價值之專業意見或資料；第 19 條第 1 項規定，憲法法庭審理案件認有必要時，得指定專家學者、機關或團體就相關問題提供專業意見或資料。
+
+Antonin Scalia（1936–2016），1986 年 9 月 26 日起任聯邦最高法院大法官，至 2016 年 2 月 13 日去世止。
+
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833，聯邦最高法院 1992 年 6 月 29 日判決，審查賓州 1982 年墮胎管制法（Abortion Control Act）之五項規定，維持 Roe 案之核心見解。Scalia 大法官之不同意見在第 999–1000 頁，Waldron 於第 1390–1391 頁長段引之。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1390–1391 (2006)。
+
+英文，「理性判斷」。Casey 案判決謂實體正當程序之裁判「may require this Court to exercise its reasoned judgment in determining the boundaries between the individual's liberty and the demands of organized society」，Scalia 大法官之不同意見即針對此一用語。
+
+中華民國憲法法庭 113 年憲判字第 8 號判決（死刑案），2024 年 9 月 20 日宣示，主筆黃昭元大法官。主文第一項謂刑法第 271 條第 1 項等規定以死刑為最重本刑部分，「僅得適用於個案犯罪情節屬最嚴重，且其刑事程序符合憲法最嚴密之正當法律程序要求之情形。於此範圍內，與憲法保障人民生命權之意旨尚屬無違。」
+
+刑法第 160 條第 1 項規定：「意圖侮辱中華民國，而公然損壞、除去或污辱中華民國之國徽、國旗者，處一年以下有期徒刑、拘役或九千元以下罰金。」
+
+司法院釋字第 405 號解釋（1996 年 6 月 7 日）解釋文謂，教育人員任用條例第 21 條第 2 項中關於「並得在各學校間調任」之規定，「使未經考試及格者與取得公務人員任用資格者之法律地位幾近相同，與憲法第八十五條、第七條及前開解釋意旨不符，應自本解釋公布之日起失其效力」；所稱前開解釋即釋字第 278 號。
+
+司法院釋字第 278 號解釋（1991 年 5 月 17 日）解釋文謂，教育人員任用條例第 21 條所定已遴用之學校現任職員「適用各該原有關法令」，「並不能使未經考試及格者取得與考試及格者相同之公務人員任用資格，因之，僅能繼續在原學校任職」。
+
+憲法增修條文第 5 條第 1 項規定，司法院設大法官十五人，並以其中一人為院長、一人為副院長，「由總統提名，經立法院同意任命之」。
+
+環境影響評估法第 23 條第 8 項、第 9 項規定，開發單位違反該法而主管機關疏於執行時，受害人民或公益團體得以書面告知主管機關；主管機關於書面告知送達之日起六十日內仍未依法執行者，人民或公益團體得以該主管機關為被告，直接向行政法院提起訴訟，請求判令其執行。
+
+憲法訴訟法第 59 條第 1 項規定，人民於其憲法上所保障之權利遭受不法侵害，經依法定程序用盡審級救濟程序，對於所受不利確定終局裁判，或該裁判及其所適用之法規範，認有牴觸憲法者，得聲請憲法法庭為宣告違憲之判決。
+
+Hans Kelsen（1881–1973），奧地利法學家，1920 年奧地利聯邦憲法之主要起草人，曾任奧地利憲法法院法官。其向德國國家法學者協會提出之報告〈Wesen und Entwicklung der Staatsgerichtsbarkeit〉（國事裁判權之本質與發展）認為，准許任何人聲請之 actio popularis（民眾訴訟）固為憲法最強之保障，但有恣意聲請與憲法法院負荷過重之虞，不宜採行。
+
+英文，「決定上的多數」。Waldron 區分決定上的（decisional）多數與少數，即就某一決定投票之多數與少數，以及議題上的（topical）多數與少數，即其權利於該決定中受影響之群體；兩者成員一致之情形，例如白人議員投票支持白人特權，為其所稱多數暴政應特別關切者。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1397 (2006)。
+
+語出 United States v. Carolene Products Co., 304 U.S. 144（1938 年 4 月 25 日判決）註 4：「prejudice against discrete and insular minorities may be a special condition, which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities」。Waldron 以此界定違憲審查論據較具說服力之非核心情形。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1403–1404 (2006)。
+
+內政部統計處 2026 年 2 月 21 日發布之內政統計通報：2025 年底戶籍登記為原住民身分者計 62 萬 9,456 人，占全國人口百分之 2.7。
+
+德文 streitbare Demokratie 或 wehrhafte Demokratie，指憲法秩序設有對抗其敵對者之法律手段，概念可溯及 Karl Loewenstein 所稱 militant democracy。德國基本法第 18 條規定，濫用言論、集會、結社等基本權以對抗自由民主基本秩序者，喪失該基本權；第 21 條第 2 項規定，以損害或廢除自由民主基本秩序為目的之政黨違憲。憲法增修條文第 5 條第 5 項規定：「政黨之目的或其行為，危害中華民國之存在或自由民主之憲政秩序者為違憲。」

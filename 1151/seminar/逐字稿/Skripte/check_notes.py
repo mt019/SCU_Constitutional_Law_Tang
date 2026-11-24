@@ -9,7 +9,7 @@
 """
 import re, sys, pathlib
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+ROOT = pathlib.Path(__file__).absolute().parents[1]
 REPO = ROOT.parents[2]
 
 
@@ -20,7 +20,10 @@ def main():
     for line in (nd / 'reviewed.tsv').read_text(encoding='utf-8').splitlines()[1:]:
         k, _, _, t = line.split('\t', 3)
         text[int(k)] = t
-    bib = set(re.findall(r'^@\w+\{([^,]+),', (ROOT.parent / '課程問答' / 'refs.bib').read_text(encoding='utf-8'), re.M))
+    bib = set()
+    for bibfile in (ROOT / 'refs.bib', ROOT.parent / '課程問答' / 'refs.bib', ROOT.parent / '導讀' / 'W06_Waldron' / 'refs.bib'):
+        if bibfile.exists():
+            bib |= set(re.findall(r'^@\w+\{([^,]+),', bibfile.read_text(encoding='utf-8'), re.M))
     errs, seen = [], set()
     rows = [l.split('\t') for l in (nd / '編註.tsv').read_text(encoding='utf-8').splitlines() if l and not l.startswith('#')]
     if rows and rows[0][0] == 'cue':

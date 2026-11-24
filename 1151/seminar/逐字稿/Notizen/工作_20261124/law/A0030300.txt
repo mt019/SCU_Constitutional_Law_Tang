@@ -1,0 +1,561 @@
+
+	司法院大法官會議規則-全國法規資料庫
+    .overflow-inherit {
+        overflow: inherit !important;
+    }
+    .overflow-hidden {
+        overflow: hidden !important;
+    }
+    .display-none{
+        display: none !important;
+    }
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-QFLS1G3FEY', { cookie_flags: 'max-age=7200;SameSite=Strict;Secure' });
+        (function () {
+            var match = document.cookie.match(new RegExp('(^| )WordSize=([^;]+)'));
+            if (match && match[2]) {
+                document.body.style.zoom = decodeURIComponent(match[2]);
+            }
+        })();
+您的瀏覽器，不支援javascript script語法，恐影響到網頁的閱讀
+跳至主要內容
+:::
+網站導覽
+English
+會員登入
+小字型
+中字型
+大字型
+整合查詢
+整合查詢
+最新訊息
+中央法規
+司法解釋
+條約協定
+兩岸協議
+智慧查找
+熱門詞彙：
+刑法
+、
+職業安全衛生
+、
+憲法
+、
+勞基法
+、
+採購法
+全國法規資料庫
+最新訊息
+中央法規
+司法解釋
+條約協定
+兩岸協議
+綜合查詢
+跨機關檢索
+熱門法規
+相關連結
+網站導覽
+English
+會員登入
+:::
+            現在位置：
+首頁
+中央法規
+所有條文
+P
+   $(function () {
+        $(".share-bar").css("display", "inline-block");
+        $(".share-bar a").on("click keypress ", function (event) {
+            if (event.keyCode == 13 || event.button == 0) {
+            event.preventDefault();
+                var Type = $(this).data("sharetype");
+                if (Type != "PDF")
+                    window.open(shareTo(Type, "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030300"), "_blank");
+                else window.location.href = $('#hlkPdf').attr("href");
+            }
+        });
+    });
+下載
+友善列印
+加入資料夾：
+儲存
+確定
+新增資料夾
+管理資料夾
+    $(function () {
+        //無障礙，預設隱藏，JS有啟用時才看的到
+        $("#hlAddToFolder").removeClass("hidden");
+        $(".folder-menu li").last().hide();
+        $("#hlNewFolder").on("click", function (event) {
+            event.preventDefault();
+            $(".folder-menu li").last().toggle();
+            if ($(this).text() == "新增資料夾") {
+                $("#txtNewFolder").focus();
+                $(this).text("取消");
+            }
+            else
+                $(this).text("新增資料夾");
+        });
+        $("#btnAddNewFolder").on("click", function (event) {
+            var fname = $.trim($("#txtNewFolder").val());
+            if (fname == "") return false;
+            $.ajax({
+                url: "../controls/FolderHandler.ashx",
+                type: "POST",
+                dataType: "json",
+                data: {
+                    foldername: encodeURI($.trim($("#txtNewFolder").val()))
+                },
+                success: function (data) {
+                    $.each(data, function (index, element) {
+                        $("
+" + element.NAME + "
+")
+                            .insertBefore($("#folderlist li:last"));
+                        $("#txtNewFolder").val("");
+                        $(".folder-menu li").last().hide();
+                    });
+                }
+            });
+        });
+        $("#hlSaveToFolder").on("click", function (event) {
+            var checkedFID = $("#folderlist input[type='checkbox']:checked").map(function () { return this.value; }).get().join(',');
+            if (checkedFID == "") {
+                alert("請選擇所要儲存的資料夾。")
+                return false;
+            }
+            $.ajax({
+                url: "../controls/FolderHandler.ashx",
+                type: "POST",
+                data: {
+                    lan: "C",
+                    datatype: encodeURI("01"),
+                    dataid: encodeURI("A0030300"),
+                    datatitle: encodeURI("司法院大法官會議規則"),
+                    fid: encodeURI(checkedFID)
+                },
+                success: function (data) {
+                    alert("您已成功儲存此頁至您個人資料夾。");
+                    $("#folderlist input[type='checkbox']").prop("checked", false);
+                    $("#folderlist").collapse("hide");
+                }
+            });
+        });
+        $('#hlMoveToFolder').on("click", function () {
+            var x = $('#hfSelect').val();
+            var checkedFID = $("#folderlist input[type='checkbox']:checked").map(function () { return this.value; }).get().join(',');
+            if (checkedFID == "") {
+                alert("請選擇所要儲存的資料夾。")
+                return false;
+            }
+            if (x=='') {
+                alert("請選擇所要搬移的資料。")
+                return false;
+            }
+            $.ajax({
+                url: "../controls/FolderMoveHandler.ashx",
+                type: "POST",
+                data: {
+                    rfid: encodeURI(''),
+                    did: encodeURI(x),
+                    fid: encodeURI(checkedFID)
+                },
+                success: function (data) {
+                    alert("您已成功儲存此頁至您個人資料夾。");
+                    $("#folderlist input[type='checkbox']").prop("checked", false);
+                    $("#folderlist").collapse("hide");
+                    window.location.reload();
+                }
+            });
+        });
+    });
+所有條文
+    .danger-notes {
+        text-align: left;
+        font-family: '細明體', MingLiU, serif;
+        line-height: 160%;
+    }
+法規名稱：
+廢
+司法院大法官會議規則
+廢止日期：
+民國 107 年 07 月 31 日 
+法規類別：
+廢止法規 ＞ 司法院
+所有條文
+條號查詢
+條文檢索
+沿革
+※歷史法規係提供九十年四月以後法規修正之歷次完整舊條文。
+※如已配合行政院組織改造，公告變更管轄或停止辦理業務之法規條文，請詳見沿革
+第 1 條
+大法官會議，除憲法及法律有規定外，依本規則行之。
+第 2 條
+依憲法應由司法院解釋之事項，其解釋以大法官會議之決議行之
+第 3 條
+中央或地方機關於其職權上適用憲法，發生疑義，或適用法律命令發生有
+無牴觸憲法之疑義時，得聲請解釋。
+第 4 條
+中央或地方機關就其職權上適用法律或命令，所持見解與本機關或他機關
+適用同一法律或命令時所已表示之見解有異者，得聲請統一解釋，但該機
+關依法應受本機關或他機關見解之拘束或得變更其見解者，不在此限。
+第 5 條
+聲請解釋機關有上級機關者，其聲請應經由上級機關層轉，聲請解釋不合
+規定者，上級機關不得為之轉請，上級機關應依職權予以解決者，亦同。
+第 6 條
+聲請解釋應以書面說明聲請之事由，必要時並應附送有關文件。
+第 7 條
+聲請解釋事件，應按收文先後編定號次，並應於每次會議時將案由列入報
+告事項。
+第 8 條
+大法官會議接受聲請解釋事件後，應即按收文號次，輪次分交大法官一人
+審查。除不合規則不予解答者，應敘明理由報會決議外；其應予解答之件
+，應列舉事實及有關法律問題，提出會議，由會決定原則，交原審查人草
+擬解答案，提會決議。如經會議議決重付審查時，得由會議加推大法官一
+人或數人共同起草。
+前項應予解答之件，如大法官會議認為應迅速辦理者，得限定提會之時間
+。
+第 9 條
+憲法第一百十四條規定之事件，不適用聲請解釋之程序，但仍應按收文先
+後編定號次，列入報告。
+前項事件，由大法官會議交付大法官全體或數人審查，並得限定提出報告
+之期間。
+第 10 條
+審查完竣提出報告後，應即連同關係文件繕印，於開會前五日分送大法官
+會議主席及各大法官。
+第 11 條
+大法官會議開會時，由司法院院長主席，院長因事故不能主席時，由大法
+官互推一人為主席。
+第 12 條
+大法官會議開會時，須有在中央政府所在地全體大法官三分之二以上出席
+。如為決議，須有在中央政府所在地全體大法官過半數之同意。可否同數
+，取決於主席。
+第 13 條
+表決方法，必要時得經會議決定，以無記名投票行之。
+第 14 條
+大法官會議討論事件之順序，應按審查報告提出之先後編列，但經會議決
+定，得變更之。
+第 15 條
+大法官會議開會時，司法院秘書長列席。
+第 16 條
+大法官會議紀錄資料蒐集及其他有關大法官會議事務，由司法院院長指派
+職員專任之。
+第 17 條
+大法官會議得經司法院向有關機關調閱文件或徵詢意見，必要時並得請其
+派員列席說明。
+第 18 條
+大法官會議每兩星期開會一次，必要時得開臨時會議。
+第 19 條
+解釋事件之分配審查討論及其他經過情形，均應嚴守秘密。
+第 20 條
+大法官會議之解釋，經決議後，由司法院公布之，並通知原送機關。
+第 21 條
+本規則自大法官會議通過，司法院公布之日施行。
+:::
+最新訊息
+中央法規
+司法解釋
+條約協定
+兩岸協議
+綜合查詢
+跨機關檢索
+法治宣導專區
+智慧查找
+法律扶助
+創意教案
+法律時事漫談
+網站使用說明
+網站使用手冊
+會員服務介紹
+網站單元簡介
+法規資料檢索範圍
+資料更新頻率說明
+資訊服務
+全國法規連結圖示
+全國法規作業要點
+法規名稱英譯標準表
+相關網站
+訂閱電子報
+瀏覽人次總計
+1,672,366,721人
+本月瀏覽人次
+16,933,171人
+目前使用人次
+4,773人
+電子報訂閱人數
+223,406人
+本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。
+若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。
+本網站法規資料係由政府各機關提供之電子檔或書面文字登打製作，若與各法規主管機關之公布文字有所不同，仍以各法規主管機關之公布資料為準。
+部分資料內容，使用特殊文字或符號，如欲詳閱內容，請連結至
+司法院網站
+下載造字檔。
+全國法規資料庫之內容每週五定期更新，當週發布之法律、命令資料，將於完成法規整編作業後，於下週五更新上線。
+法規整編資料截止日：民國 115 年 11 月 13 日 
+瀏覽人次總計：1,672,366,721人
+本月瀏覽人次：16,933,171人
+目前使用人次：4,773人
+電子報訂閱：223,406人
+│ 
+政府網站資料開放宣告
+ │ 
+隱私權保護宣告
+ │ 
+資訊安全政策
+ │ 
+Q & A
+ │ 
+意見回饋
+ │ 
+ API文件
+ │ 
+本網站由法務部全國法規資料庫工作小組維運管理.
+法務部地址：100204 台北市重慶南路一段130號
+電話：(02)2191-0189
+第二辦公室地址：100006 台北市貴陽街1段235號
+電話：(02)2191-0189
+回上方
+            $(function () {
+                // === 統一綁定 GA 追蹤事件 ===
+                $('.ga-track-link').on('click keypress', function (e) {
+                    // 如果是鍵盤事件，確認是按下 Enter 鍵 (keyCode 13) 才觸發
+                    if (e.type === 'keypress' && e.which !== 13) {
+                        return;
+                    }
+                    var category = $(this).data('ga-category');
+                    var action = $(this).data('ga-action');
+                    // 呼叫原本的 GA 追蹤函數
+                    if (typeof GoogleAnanlytice === "function") {
+                        GoogleAnanlytice(category, action, '', '');
+                    }
+                });
+                // 綁定登出確認視窗
+                $('.logout-link').on('click', function () {
+                    if (!confirm('確定登出？')) {
+                        return false; // 若使用者按取消，則不執行跳轉
+                    }
+                });
+                var b = 'ONEBAR';
+                $("#btnSubscribe,#btnUnsubscribe").on("click", function (event) {
+                    //var email = $.trim($("#txtEMail").val());
+                    //if (email == "") {
+                    //    event.preventDefault();
+                    //    alert('請您輸入電子郵件地址。');
+                    //    $("#txtEMail").focus();
+                    //}
+                    //else if (false == IsEMail(email)) {
+                    //    event.preventDefault();
+                    //    alert('請您輸入正確電子郵件地址。');
+                    //    $("#txtEMail").focus();
+                    //}
+                    //else {
+                    //    GoogleAnanlytice('中文', '訂閱電子報', '', '');
+                    //}
+                    var email = $.trim($("#txtEMail").val());
+                    //if (!validateEmail(email)) {
+                    //    alert('請您輸入正確電子郵件地址。');
+                    //    return false;
+                    //}
+                });
+                $('#btnQall').on("click", function () {
+                    if ($.trim($("#keyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    }
+                    else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                $('#btnDeepSearch').on("click", function () {
+                    var keyword = '';
+                    //20210315 加上判斷，取QueryString(KW)，若輸入關鍵字已搜尋過，則跳出提示訊息，避免重複搜尋
+                    Request = GetRequest();
+                    if ($.trim($("#keyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    }
+                    else if (keyword.indexOf($.trim($("#keyword").val())) >= 0) {
+                        alert("此關鍵字已包含至檢索字詞中，請重新輸入");
+                        return false;
+                    }
+                    else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                $('#btnMsQall').on("click", function () {
+                    if ($.trim($("#msKeyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    } else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                $('#btnMsDeepSearch').on("click", function () {
+                    var keyword = '';
+                    //20210315 加上判斷，取QueryString(KW)，若輸入關鍵字已搜尋過，則跳出提示訊息，避免重複搜尋
+                    Request = GetRequest();
+                    if ($.trim($("#msKeyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    } else if (keyword.indexOf($.trim($("#msKeyword").val())) >= 0) {
+                        alert("此關鍵字已包含至檢索字詞中，請重新輸入");
+                        return false;
+                    }
+                    else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                //20210217 再檢索收合、展開功能
+                $("#btnOpen").click(function () {
+                    if ($('#ulDeepSearch').hasClass('overflow-hidden')) {
+                        $(this).html("收合");
+                        $(this).prop('title', '隱藏部分「再檢索」篩選條件，僅顯示一行');
+                        $("#ulDeepSearch").removeClass("overflow-hidden").addClass("overflow-inherit");
+                    }
+                    else {
+                        $(this).html("展開");
+                        $(this).prop('title', '顯示所有目前「再檢索」篩選條件');
+                        $("#ulDeepSearch").removeClass("overflow-inherit").addClass("overflow-hidden");
+                    }
+                });
+                $("#btnHelp").click(function () {
+                    OpenKeyWordHelp();
+                    return false;
+                });
+                // 綁定整合查詢的 Enter 鍵事件
+                $('#keyword').keypress(function (e) {
+                    if (e.which == 13) {
+                        e.preventDefault();
+                        $('#btnQall').click();
+                    }
+                });
+                // --- 新增：綁定整合查詢的 Enter 鍵事件 (行動版) ---
+                $('#msKeyword').keypress(function (e) {
+                    if (e.which == 13) {
+                        e.preventDefault();
+                        $('#btnMsQall').click();
+                    }
+                });
+                $('#dropdownMenu').attr('data-bs-toggle', 'dropdown');
+                $('#unitlist').on("click", "a", function (e) {
+                    e.preventDefault();
+                    var $this = $(this).parent();
+                    var a = $(this).html();
+                    b = $this.data("value");
+                    $this.addClass("select").siblings().removeClass("select");
+                    $("#dropdownMenu").html(a);
+                    $('#hidVal').val(b);
+                });
+                //$('#keyword').on('input propertychange paste keypress', function () {
+                //    BindAutocomplete('#keyword', b);
+                //});
+                BindAutocompletes('#keyword', b);
+                function BindAutocompletes(orl, stype) {
+                    $(orl).autocomplete({
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "../controls/GetTermList.ashx",
+                                type: 'post',
+                                dataType: "json",
+                                data: {
+                                    term: request.term, type: stype
+                                },
+                                success: function (data) {
+                                    response(data);
+                                }
+                            });
+                        },
+                        minLength: 1, //至少輸入幾個字元才開始給提示
+                        focus: function (event, ui) {
+                            return false;
+                        },
+                        select: function (event, ui) {
+                            if ($.trim(ui.item.PCODE).length == 0)
+                                $(this).val(ui.item.TERM);
+                            else
+                                location.href = "../Hot/AddHotLaw.ashx?pcode=" + encodeURIComponent(ui.item.PCODE);
+                            return false;
+                        },
+                        messages: { noResults: '', results: function () { } }//不顯示結果文字
+                    }).data("ui-autocomplete")._renderItem = function (ul, item) {
+                        if ($.trim(item.PCODE) != "")
+                            return $("
+")
+                                .append("
+直接連結
+" + item.TERM + "
+")
+                                .appendTo(ul);
+                        else {
+                            if (ul.find(".label-usual").length == 0)
+                                return $("
+")
+                                    .append("
+常用詞彙
+" + item.TERM + "
+")
+                                    .appendTo(ul);
+                            else
+                                return $("
+")
+                                    .append("
+" + item.TERM + "
+")
+                                    .appendTo(ul);
+                        }
+                    };
+                }
+            });
+            function validateEmail(email) {
+                if (email.includes("%")) {
+                    return false;
+                }
+                return true;
+            }
+            function OpenKeyWordHelp() {
+                var a = "/Service/KeyWordHelp.aspx";
+                TINY.box.show({ iframe: a, width: 810, height: 680 });
+                //return false;
+            }
+            function GetRequest() {
+                var url = location.search;
+                var theRequest = new Object();
+                if (url.indexOf("?") != -1) {
+                    var str = url.substr(1);
+                    strs = str.split("&");
+                    for (var i = 0; i 
+ 1200) {
+                if (keyword != null && keyword.length > 26) {
+                    $("#btnOpen").removeClass("display-none");
+                }
+            } else {
+                if (keyword != null && keyword.length > 19) {
+                    $("#btnOpen").removeClass("display-none");
+                }
+            }
+        $(function () {
+            $('[data-fancybox]').fancybox({
+                toolbar: false,
+                smallBtn: true,
+                iframe: {
+                    css: {
+                        width: '400px',
+                        height: '170px'
+                    }
+                }
+            });
+            // 精準鎖定法規沿革、條文內容、要旨等存放文字的容器
+            $('.text-pre, .col-data, .law-reg-content').each(function () {
+                var $this = $(this);
+                var text = $.trim($this.text());
+                if (text.length === 0) return;
+                // 正則表達式判斷：完全不含中文，且含有英文字母
+                var hasChinese = /[\u4e00-\u9fa5]/.test(text);
+                var hasEnglish = /[a-zA-Z]/.test(text);
+                if (!hasChinese && hasEnglish) {
+                    $this.attr('lang', 'en');
+                }
+            });
+        });

@@ -1,0 +1,2184 @@
+Digitized by the Internet Archive
+In 2022 with funding from
+Kahle/Austin Foundation
+
+https://archive.org/details/modernconstitutiO005unse
+
+agin
+:
+
+—
+j
+
+:
+
+=
+
+-
+
+—
+
+i
+——_
+
+a=
+
+sy
+
+ae-_
+
+a
+
+a
+
+yet
+
+[ae
+2
+
+mitt
+
+-
+
+7
+
+Geiss
+
+S rdAd
+
+ie: a
+
+ae 18
+
+™~ plien
+;
+
+hr
+
+——
+
+Pay
+
+ieee
+
+ek
+
+iidve
+
+Sil1ssagen
+Bei
+
+she
+
+aot a. fone
+
+=
+
+a
+
+Viirel 1. SAA
+youn"
+
+:
+
+4,
+
+7
+
+ee
+
+ie
+
+ded
+
+anand
+(ha
+
+penen)
+
+MOY)
+
+ary)
+
+balun
+
+oniwe"
+
+a PAAL,
+
+'
+we
+
+a
+
+i
+
+eae
+
+a
+
+—
+
+es
+\¢ aaeereeny
+
+oe
+|"
+
+a”
+
+Sars
+
+West’s Law School
+Advisory Board
+
+JESSE
+
+H. CHOPER
+
+Professor of Law,
+University of California, Berkeley
+
+DAVID
+
+P CURRIE
+
+Professor of Law, University of Chicago
+
+YALE
+
+KAMISAR
+
+Professor of Law, University of Michigan
+Professor of Law, University of San Diego
+
+MARY
+
+KAY
+
+KANE
+
+Chancellor, Dean and Distinguished Professor of Law,
+University of California,
+
+Hastings College of the Law
+
+WAYNE
+
+R. LaFAVE
+
+Professor of Law, University of Illinois
+
+ARTHUR
+
+R. MILLER
+
+Professor of Law, Harvard University
+
+GRANT
+
+S. NELSON
+
+Professor of Law,
+University of California, Los Angeles
+
+JAMES
+
+J. WHITE
+
+Professor of Law, University of Michigan
+
+MODERN
+CONSTITUTIONAL
+THEORY
+A READER
+Fifth Edition
+By
+
+John H. Garvey
+Dean
+Boston College Law School
+
+T. Alexander Aleinikoff
+Professor of Law
+Georgetown University Law Center
+and
+
+Daniel A. Farber
+Sho Sato Professor of Law
+University of California at Berkeley
+
+AMERICAN
+
+CASEBOOK
+
+THOMSON
+VWEST
+
+Mat #40165543
+
+SERIES®
+
+West, a Thomson business, has created this publication to provide you with accurate and
+authoritative information concerning the subject matter covered. However, this publication was not
+necessarily prepared by persons licensed to practic ~ law in a particular jurisdiction. West is not
+engaged in rendering legal or other professional advice, and this publication is not a substitute for the
+advice of an attorney. If you require legal or other expert advice, you should seek the services of a
+competent attorney or other professional.
+American Casebook Series and West Group are trademarks
+
+registered in the U.S. Patent and Trademark Office.
+COPYRIGHT © 1989, 1991, 1994 WEST PUBLISHING CO.
+COPYRIGHT © 1999 WEST GROUP
+© 2004 West, a Thomson business
+610 Opperman Drive
+
+P.O. Box 64526
+St. Paul, MN 55164-0526
+1-800-328-9352
+
+Printed in the United States of America
+
+ISBN 0-314-14905-8
+
+TEXT IS PRINTED ON 10% POST
+CONSUMER RECYCLED PAPER
+
+(ec)
+
+\
+
+PREFACE
+
+Why a book on constitutional theory? The answer is that today the fundamental premises of constitutional law are sharply challenged, in a way
+that cannot be ignored by any student of the subject. Supreme Court doctrine is attacked from every direction: from those who argue that text and
+original intent are more important than precedent, from those who believe
+the Court has an inflated concept of its authority, from those who think the
+Court fundamentally misunderstands the nature of race and gender discrimination, and from those who repudiate its abortion and gay rights rulings. These issues are hotly debated in the popular media and on the floor of
+the Congress. Indeed, they are often contested by the Justices themselves in
+the pages of the U.S. Reports. To learn constitutional law only as a series of
+doctrines and multi-prong tests is misleading, for it is the deeper normative
+disputes that often shape the doctrine.
+This normative debate about constitutional law coincides with expanded
+interest by consfitutional scholars in the humanities and social sciences.
+Moral philosophy, literary theory, economic analysis, and constitutional
+history are all in a state of ferment. Courses in Constitutional Law cannot
+ignore this ferment. When there 1s such widespread disagreement about fundamentals, it 1s nearsighted to focus only on doctrinal details.
+
+This book 1s addressed to multiple audiences: students taking introductory constitutional law courses, advanced constitutional law students, and
+our fellow academics. We also hope that it may find some utility for lawyers and judges who wish to explore constitutional theory. Constitutional
+theory goes beyond doctrinal analysis to ask deeper normative questions
+about our constitutional system. We have tried to present some of the leading works of constitutional theory in a form accessible enough for the beginner, but sophisticated enough for the seasoned veteran. The excerpts seek
+to go deeper than a restatement of the law, to ask what purposes are served
+by existing rules and whether some other approach would be better. We
+have selected material taking opposing positions in an effort to give a wellrounded picture of current scholarly disputes.
+In terms of coverage, the book tracks what is today the conventional
+syllabus for introductory constitutional law courses: judicial review, constitutional structure, substantive due process, and equal protection. Because
+criminal procedure, the First Amendment,
+
+and federal jurisdiction are now
+
+typically the subjects of separate advanced courses, we do not cover them
+here. We also slight other significant issues such as taxation of interstate
+commerce and procedural due process because these topics typically get
+little attention in introductory courses. Ideally, these subjects should all be
+
+ll
+
+1V
+
+PREFACE
+
+treated together with the core materials, but this book would be at least
+twice as long if we attempted to do so.
+
+We begin in Chapter I with a look at some of the currently influential
+theories of the Constitution. We then turn in Chapter II to various approaches to interpreting the Constitution, and we round out our study of the
+foundations ofconstitutional law by examining debates over judicial review
+and judicial supremacy in Chapter III. These are issues about which the Justices themselves deeply disagree. They are also issues that set the very terms
+for debating particular constitutional questions.
+
+The remaining chapters are organized around substantive constitutional
+issues: federalism (Chapter IV), separation of powers (Chapter V), racial
+equality (Chapter VI), gender equality (Chapter VII), affirmative action
+(Chapter VII), liberty and privacy (Chapter IX), and the state action doctrine (Chapter X). Many of these areas are in a state of doctrinal ferment,
+with recent judicial opinions on state sovereignty, affirmative action, and
+gay rights as only the most obvious examples.
+Most of the selections have been edited. We have indicated deletions
+with asterisks (“* * *”) or by bracketing (such as “[T]he Court” when we
+have deleted material preceding that phrase). We have deleted footnotes
+without indication, retaining the original numbering for the remaining footnotes. Editorial notes, explaining deleted material or adding citations, are
+included in brackets or in alphabetically labeled footnotes.
+Our purpose has been to make each author’s thinking as accessible as
+possible for students. In the end, this book is the vehicle for the work of
+these scholars, who have done so much
+
+to enrich our constitutional
+
+dis-
+
+course. We only regret that space limitations have required the exclusion of
+so many other fine works; we attempt to make partial amends with bibliographies on each topic, but even the bibliographies are necessarily incomplete. Finally, we also wish to express our gratitude to Laurie Newbauer for
+her expert and tireless preparation of the manuscript for publication.
+
+John H. Garvey
+T. Alexander Aleinikoff
+Daniel A. Farber
+December 2003
+
+Acknowledgments
+
+We would like to thank the authors and copyright holders of the following
+works, who permitted their inclusion in this book:
+Bruce A. Ackerman, Beyond Carolene Products.
+Bruce A. Ackerman.
+
+Reprinted with permission of
+
+Bruce Ackerman, We The People, Volume 1: Foundations. Reprinted with permission of Bruce A. Ackerman and the publishers from We the People:
+Foundations by Bruce Ackerman, Cambridge, Mass.: Harvard University
+Press. Copyright © 1991 by the President and Fellows of Harvard College.
+T. Alexander Aleinikoff, A Case for Race-Consciousness. This article originally
+appeared at 91 Colum.L.Rev. 1060 (1991). Reprinted by permission.
+Larry Alexander and Frederick Schauer, Defending Judicial Supremacy: A Reply.
+Reprinted with the permission of the authors and Constitutional Commentary.
+
+Akhil Reed Amar and Neal Kumar Katyal, Bakke’s Fate. Reprinted with permission
+of Akhil Reed Amar; Neal Kumar Katyal, and William S. Hein & Co. Inc.
+Akhil Reed Amar and Neal Kumar Katyal, Executive Privileges and Immunities:
+The Nixon and Clinton Cases. Copyright © 1995 by the Harvard Law Review
+Association.
+Akhil Reed Amar, Foreword: The Document and the Doctrine. Copyright © 2000
+by the Harvard Law Review Association.
+Elizabeth S. Anderson, Integration, Affirmative Action, and Strict Scrutiny. This
+article originally appeared at 77 N.Y.U. L.Rev. 1195 (2002). Reprinted with
+permission of the author and the New York University Law Review.
+
+Lynn Baker and Ermest Young, Federalism and the Double Standard of Judicial
+Review. This article originally appeared at 51 Duke L.J. 75 (2001). Reprinted
+with permission of the authors and the Duke Law Journal.
+Randy E. Barnett, Justice Kennedy’s Libertarian Revolution: Lawrence v. Texas,
+Cato Supreme Court Review (2002-2003). Reprinted with permission of the
+author and Cato Supreme Court Review.
+Derrick Bell, And We Are Not Saved. Copyright © 1987 by Basic Books, Inc.
+Reprinted by permission of Basic Books, a division of Harper-Collins
+Publishers, Inc.
+Raoul Berger, Government by Judiciary. Reprinted by permission of the Harvard
+University Press. Copyright © 1977 by the President and Fellows of Harvard
+College.
+
+Alexander M. Bickel, The Least Dangerous
+permission of Josephine A. Bickel.
+
+Branch
+
+(1962).
+
+Reprinted
+
+with
+
+Charles L. Black, Jr ., The People and the Court (1960). Reprinted with permission
+of Macmillan Publishing Company. Copyright © 1960 by Charles L. Black, Jr.
+
+Vi
+
+ACKNOWLEDGMENTS
+
+Philip Bobbitt, Constitutional Interpretation. Reprinted with permission of Philip C.
+Bobbit and Blackwell Publishers.
+Robert H. Bork, Neutral Principles and Some First Amendment Problems.
+Reprinted with permission of the Indiana Law Journal and Fred B. Rothman &
+Company.
+Robert Brauneis, “The Foundation of Our ‘Regulatory Takings’ Jurisprudence”:
+The Myth and Meaning of Justice Holmes’s Opinion in Pennsylvania Coal Co.
+v. Mahon. Reprinted with permission of Robert Brauneis and the Yale Law
+Journal.
+
+Paul Brest, In Defense of the Antidiscrimination Principle. Copyright © 1976 by
+the Harvard Law Review Association.
+Paul Brest, The Misconceived Quest for the Original Understanding. Reprinted
+with permission of Paul A. Brest and the Boston University Law Review.
+
+Rebecca L. Brown, Accountability, Liberty, and the Constitution. This article originally appeared at 98 Colum.L.Rev. 531 (1998). Reprinted by permission.
+Mary Anne Case, “The Very Stereotype The Law Condemns”: Constitutional Sex
+Discrimination Law as a Quest for Perfect Proxies. This article originally
+appeared at 85 Cornell L.Rev. 1447 (2000). Reprinted with permission of the
+author and the Cornell Law Review.
+Stephen L. Carter, The Political Aspects of Judicial Power: Some Notes on the
+Presidential Immunity Decision, 131 U.Pa.L.Rev. 1341 (1983) Copyright ©
+1983 by the University of Pennsylvania.
+Erwin Chemerinsky, Rethinking State Action. Reprinted with permission of Erwin
+Chemerinsky and Northwestern University School of Law, Volume 80, Issue 3,
+Northwestern University Law Review, (1985), pp. 503.
+
+Edward S. Corwin, The Steel Seizure Case: A Judicial Brick Without Straw. Copyright © 1953 by the Directors of the Columbia Law Review Association, Inc.
+All rights reserved. This article originally appeared at 53 Colum.L.Rev. 53
+(1953). Reprinted by permission.
+Kimberle
+
+Williams Crenshaw,
+
+Race, Reform, and Retrenchment:
+
+Transformation
+
+and Legitimation in Antidiscrimination Law. Reprinted by permission of
+Kimberle W. Crenshaw and the Harvard Law Review Association. Copyright
+© 1988 by the Harvard Law Review Association.
+Noel T. Dowling, Interstate Commerce and State Power. Reprinted with permission
+of the Virginia Law Review and Fred B. Rothman & Company.
+Ronald H. Dworkin, Freedom’s Law: The Moral Reading of the American Constitution. Reprinted by permission of the Harvard University Press. Copyright
+© 1996 by the President and Fellows of Harvard College.
+
+John Hart Ely, Democracy and Distrust, Reprinted by permission of the Harvard
+University Press. Copyright © 1980 by the President and Fellows of Harvard
+College.
+
+ACKNOWLEDGMENTS
+John Hart Ely, The Wages of Crying Wolf:
+with permission of John Hart Ely.
+
+Vil
+
+A Comment on Roe v. Wade. Reprinted
+
+John Hart Ely, War and Responsibility: Constitutional Lessons of Vietnam and Its
+Aftermath. Copyright © 1993 by Princeton University Press. Excerpts
+reprinted with permission of Princeton University Press.
+
+Richard Fallon, The “Conservative” Paths of The Rehnquist Court’s Federalism
+Decisions. 69 U.Chi.L.Rev. (2002). Copyright © 2002 by The University of
+Chicago. All rights reserved.
+Richard A. Fallon, How to Choose a Constitutional Theory. This article originally
+appeared at 87 Cal.L.Rev. 537 (1999). Reprinted with permission of the author
+and the California Law Review.
+John M. Finnis, Law, Morality, and “Sexual Orientation.” This article originally
+appeared at 9 Notre Dame J.L. Ethics & Pub. Pol’y (1995). Reprinted with
+permission of the author and the Notre Dame Journal of Law, Ethics & Public
+Policy.
+Owen M. Fiss, Groups and the Equal Protection Clause, Philosophy & Public
+Affairs 5, no. 2 (Winter 1976). Copyright © 1976 Princeton University Press,
+Excerpts reprinted with permission by Princeton University Press.
+
+Martin S. Flaherty, The Most Dangerous Branch. Reprinted by permission of The
+Yale Law Journal Company and Fred B. Rothman & Company from The Yale
+Law Journal, Vol. 105, pages 1725-1839.
+
+Barry Friedman, Valuing Federalism. This article originally appeared at 82 Minn.
+L.Rev. 317 (1997). Reprinted with permission of the author and the Minnesota
+Law Review.
+John H. Garvey, Control Freaks. Reprinted with permission of John H. Garvey and the
+Drake Law Review.
+
+John H. Garvey, What Are Freedoms For? Reprinted with permission of John H.
+Garvey and the Harvard University Press.
+Ruth Bader Ginsburg, Some Thoughts on Autonomy and Equality in Relation to
+Roe v. Wade. Reprinted by permission of the Honorable Ruth Bader Ginsburg
+and the North Carolina Law Review.
+
+Neil Gotanda, A Critique of “Our Constitution
+permission of Neil Gotanda.
+
+is Color-Blind.”
+
+Reprinted by
+
+Thomas C. Grey, Do We Have an Unwritten Constitution?, 27 Stan. L. Rev. 703
+(1975). Reprinted with permission of the Stanford Law Review and Fred B.
+Rothman & Co. Copyright © 1975 by the Board of Trustees of the Leland
+Stanford Junior University.
+
+Janet E. Halley, Sexual Orientation and the Politics of Biology: A Critique of the
+Argument From Immutability. Republished with permission of the Stanford
+Law
+
+Review,
+
+559
+
+Nathan
+
+Abbott
+
+Way,
+
+Palo
+
+Alto,
+
+CA
+
+94305.
+
+Sexual
+
+Orientation and the Politics of Biology: A Critique of the Argument from
+Immutability, Janet E. Halley, 1994, Vol. 46. Reproduced by permission of the
+publisher via Copyright Clearance Center, Inc.
+
+vill
+
+ACKNOWLEDGMENTS
+
+John Harrison, Substantive Due Process and the Constitutional Text. Reprinted with
+permission of John Harrison and the Virginia Law Review.
+Vicki C. Jackson, Federalism and the Uses and Limits of Law: Printz and Principle.
+Copyright © 1998 by the Harvard Law Review Association.
+
+Richard S. Kay, Adherence to the Original Intentions in Constitutional Adjudication: Three Objections and Responses. 82 Nw.U.L.Rev. 226 (1988). Copyright
+© 1988 by Northwestern University.
+Michael J. Klarman, Brown, Racial Change, and the Civil Rights Movement.
+
+Re-
+
+printed with permission of Michael J. Klarman and the Virginia Law Review.
+Larry Kramer, We The Court. Copyright © 2001 by the Harvard Law Review
+Association.
+Charles R. Lawrence III, The Id, The Ego, and Equal Protection: Reckoning With
+Unconscious Racism. Copyright © 1987 by the Board of Trustees of the
+Leland Stanford Junior University.
+
+Gary Lawson, The Rise and Rise of the Administrative State. Copyright © 1994 by
+the Harvard Law Review Association.
+Lawrence Lessig, Fidelity and Constraint. Reprinted with permission of Lawrence
+Lessig and the Fordham Law Review.
+Sanford Levinson, Law as Literature. Published originally in 60 Texas Law Review
+373 (1982). Copyright © 1982 by the Texas Law Review. Reprinted by
+permission.
+Catharine A. MacKinnon, Difference and Dominance: On Sex Discrimination, from
+Feminism Unmodified: Discourses on Life and Law (1987). Reprinted by permission of Rowman & Littlefield Publishers.
+
+Thurgood Marshall, Reflections on the Bicentennial of the United States Constitution. Copyright © 1987 by the Harvard Law Review Association.
+William.P. Marshall, Diluting Constitutional Rights: Rethinking “Rethinking State
+Action.” Reprinted by permission of William P. Marshall and The
+Northwestern University Law Review.
+Robert G. McCloskey, Economic Due Process and the Supreme Court: An Exhumation and Reburial. Reprinted with permission of the University of
+Chicago Press.
+Michael W. McConnell, The Importance of Humility in Judicial Review: A Comment on Ronald Dworkin's “Moral Reading” of the Constitution. Reprinted
+with permission of Michael W. McConnell and the Fordham Law Review.
+
+Michael W. McConnell, The Right to Die and the Jurisprudence of Tradition.
+Reprinted with permission of Michael W. McConnell and the Utah Law
+Review.
+Gillian Metzger, Privatization as Delegation. Copyright © 2003 by the Directors of
+the Columbia Law Review Association, Inc. All rights reserved. This article
+originally appeared at 103 Colum.L.Rev. 543 (2003). Reprinted by permission.
+
+ACKNOWLEDGMENTS
+
+Ix
+
+Henry P. Monaghan, The Protective Power of the Presidency. This article originally
+appeared at 93 Colum.L.Rev. 1 (1993). Reprinted by permission.
+Robert F. Nagel, The Future of Federalism. Reprinted with permission of Robert F.
+Nagel and the Case Western Reserve Law Review.
+John T. Noonan, Jr., The Root and Branch of Roe v. Wade. Reprinted with permission of the Nebraska Law Review.
+Victoria Nourse, The Vertical Separation of Powers. This article originally appeared at
+49 Duke L.J. 749 (1999). Reprinted with permission of the author and the Duke
+Law Journal.
+
+Richard A. Posner, Against Constitutional Theory. This article originally appeared
+at 73 N.Y.U. Rev. 1 (1998). Reprinted with permission of the author and the
+New York University Review.
+Richard A Posner, The DeFunis Case and the Constitutionality of Preferential
+Treatment of Racial Minorities, 1974 Sup.Ct.Rev. 1. Copyright © 1975 by The
+University of Chicago. All rights reserved.
+Richard Posner, Economic Analysis of Law (3rd ed. 1986). Reprinted with permission of Richard A. Posner.
+Richard A. Posner, Pragmatic Adjudication. This article originally appeared in 18
+Cardozo L.Rev. 1 (1996). Reprinted with permission of Richard A. Posner and
+the Cardozo Law Review.
+
+Robert Post and Reva Siegal, Legislative Constitutionalism and Section Five
+Power: Poliocentric Interpretation of the Family and Medical Leave Act.
+Reprinted with permission of the authors and the Yale Law Journal.
+H. Jefferson Powell and Jed Rubenfeld, Laying It on the Line: A Dialogue on Line
+Item Vetoes and Separation of Powers. Reprinted with permission of H. Jefferson
+Powell, Jed Rubenfeld, and the Duke Law Journal.
+
+Jack Rakove, Making Hash of Sovereignty, Part II. This article originally appeared
+at 3 Green Bag 2d 51 (1999). Reprinted with permission of the author and
+Green Bag.
+Donald H. Regan, The Supreme Court and State Protectionism: Making Sense of the
+Dormant Commerce Clause. Reprinted with permission of the Michigan Law
+Review Association.
+Edward L. Rubin and Malcolm Feeley, Federalism: Some Notes on a National Neurosis.
+
+Reprinted with permission of Edward L. Rubin, Malcolm Feeley, and William
+S. Hein & Co. Inc.
+
+Jed Rubenfeld, Of Constitutional Self-Government. Reprinted with permission of
+Jed Rubenfeld and the Fordham Law Review.
+Jed Rubenfeld, The Right of Privacy. Copyright © 1989 by the Harvard Law
+Review Association.
+
+Lawrence Gene Sager, The Legal Status of Underenforced Constitutional Norms.
+Copyright © 1978 by the Harvard Law Review Association.
+
+X
+
+ACKNOWLEDGMENTS
+
+Frederick Schauer, Easy Cases, 58 S.Cal.L.Rev. 399
+permission of the Southern California Law Review.
+Michael
+
+Seidman,
+
+Our
+
+Unsettled
+
+Constitution:
+
+stitutionalism and Judicial Review. Reprinted
+Seidman and the Yale University Press. © 2003.
+
+A
+
+(1985).
+New
+
+Reprinted
+
+Defense
+
+by permission
+
+of
+
+with
+Con-
+
+of Michael
+
+Suzanna Sherry, Civic Virtue and the Feminine Voice in Constitutional Adjudication. Reprinted with permission of the Virginia Law Review.
+
+Girardeau A. Spann, The Dark Side of Grutter. This article is scheduled to appear
+in Constitutional Commentary. Reprinted with permission of the author and
+Constitutional Commentary.
+Girardeau A. Spann, Pure Politics. Reprinted with permission of Girardeau A. Spann
+and the Michigan Law Review Association.
+Peter J. Spiro, War Powers and the Sirens of Formalism. This article originally
+appeared at 68 N.Y.U. L.Rev. 1338 (1993). Reprinted with permission of the
+author and the New York University Law Review.
+David A. Strauss, Common Law, Common Ground, and Jefferson’s Principle. Re-
+
+printed by permission of the Yale Law Journal Company and Fred B. Rothman
+& Company from the Yale Law Journal, Vol. 112 (2003).
+David A. Strauss, Abortion, Toleration, and Moral Uncertainty, 1992 Sup.Ct.Rev.
+1. Copyright © 1992 by The University of Chicago. All rights reserved.
+
+David A. Strauss, What is Constitutional Theory. This article originally appeared at
+87 Cal.L.Rev. 581 (1999). Reprinted with permission of the author and the
+California Law Review.
+
+Cass R. Sunstein, The Partial Constitution. Reprinted with permission of Cass R.
+Sunstein and the publishers from The Partial Constitution by Cass Sunstein.
+Cambridge, Mass: Harvard University Press. Copyright © 1993 by the
+President and Fellows of Harvard College.
+Judith Jarvis Thomson, A Defense of Abortion, Philosophy & Public Affairs 1, no.
+1 (Fall 1971). Copyright © 1971 by Princeton University Press. Excerpts
+reprinted with permission of Princeton University Press.
+William Michael Treanor, Jam for Justice Holmes: Reassessing the Significance of
+Mahon. This article originally appeared at 86 Geo. L.J. 813 (1998). Reprinted
+with permission of the author and the Georgetown Law Journal.
+Laurence H. Tribe, “In What Vision of the Constitution Must the Law Be Color-
+
+Blind?” Reprinted with permission of the John Marshall Law Review.
+Laurence H. Tribe, The Puzzling Persistence of Process-Based Constitutional
+Theories. Reprinted by permission of the Yale Law Journal, Vol. 89, pp. 10641080.
+
+ACKNOWLEDGMENTS
+
+Xl
+
+Mark Tushnet, New Forms of Judicial Review and the Persistence of Rights- and
+Democracy-Based Worries. This article originally appeared at 38 Wake Forest
+
+L.Rev. (2003). Reprinted with permission of the author and the Wake Forest
+Law Review.
+William Van Alstyne, Rites of Passage: Race, The Supreme Court, and the Constitution. Reprinted with permission of William W. Van Alstyne and the
+University of Chicago Law Review.
+Jeremy Waldron, Banking Constitutional Rights: Who Controls Withdrawals. This
+article originally appeared at 52 Ark.L.Rev. (1999). Reprinted with permission
+of the author and the Arkansas Law Review.
+Richard A. Wasserstrom, Racism and Sexism. From Philosophy and Social Issues
+by Richard A. Wasserstrom. Copyright © 1980 by the University of Notre
+Dame Press. Reprinted by permission.
+
+Herbert Wechsler, The Political Safeguards of Federalism: The Role of the States in
+the Composition and Selection of the National Government. Copyright © 1954
+by the Directors of the Columbia Law Review Association, Inc. All rights
+reserved. This article originally appeared at 54 Colum.L.Rev. 543 (1954).
+Reprinted by permission.
+Robin L. West, Constitutional Skepticism. Reprinted by permission of Robin L. West
+and the Boston University Law Review.
+Joan C. Williams, Deconstructing Gender. Reprinted by permission of Joan C.
+Williams and the Michigan Law Review Association.
+Wendy W. Williams, The Equality Crisis: Some Reflections on Culture, Courts,
+and Feminism. Reprinted with permission of the Women’s Rights Law
+Reporter.
+
+a
+—
+
+==
+
+- —ieoeree
+
+sauvens
+
+cn :
+nas
+
+desi
+. 3
+
+|
+
+valid
+ah
+meedi “a reer
+or
+| lace sa
+“to
+:
+Abpeeghcoyd ¢ Ube
+onde
+e ter’ame OME Vcd
+; eet aleewpa meneaman: Corr
+a)
+Pe
+
+oy
+
+|
+
+see
+
+-
+
+or foe
+
+apes 6
+
+ae
+
+-
+
+7
+
+: woiii@),
+
+ite Poy
+
+ian
+
+(are
+
+feat
+
+iat, toms
+
+-
+
+|
+
+aa
+
+Se
+
+-
+
+Til
+==
+
+ms
+
+_
+
+i
+
+7
+
+tt
+
+cy)
+’
+
+:
+
+"
+
+7
+
+J
+
+m@
+
+in saeil ie
+
+aes
+
+in
+
+:
+
+1G
+
+1) hs
+
+oo es,
+
+site
+
+44 On: ~
+
+agen,
+
+wl
+
+vi belirani®
+
+as
+
+uy
+re
+<
+
+a
+
+)8 wi) eae’
+ae
+
+aie
+
+AAR
+
+|
+
+a0 :
+
+or «hase
+
+a
+
+Mel
+Lercend! wette ne eared
+n ——— a
+panies a
+
+ro
+
+an
+
+on aiet Git la. exe
+
+agin:
+
+7
+
+9
+
+item
+a
+
+nae,
+
+a
+=
+
+-
+
+os
+
+|
+
+7Les
+
+.
+
+-
+
+°
+
+¢
+
+Tar...
+
+ae
+
+a
+7
+
+alr
+
+vou?
+
+a)
+
+a ae
+-
+
+.
+
+‘ens
+
+wet
+
+aay
+
+i“
+
+a
+
+eer poid® Cae
+
+wre Hispe eee:
+
+ieat sis
+
+q iver
+
+af a wa
+
+wre
+
+}
+
+} uti al o'tah ‘a
+
+pn.
+
+an
+
+i
+
+A maeers os _
+
+;
+
+Ws
+
+Piven
+
+-
+
+ae “0
+
+7
+
+As hae ee
+
+pies sg se
+
+Auk
+
+uF q@rke
+
+ia
+
+eal.
+
+;
+healt
+
+iy, pay?
+
+Nie ineee
+filtiee
+
+a
+AR ADA 9piel ait
+
+7 enor
+
+risers
+
+cel aayBeige
+
+a | ma rine) yeni
+
+Cae
+
+©
+
+1 eae
+
+ai)
+
+May aa
+
+Sah,
+
+Api
+
+at
+
+=mw alpen
+:
+
+a@
+
+ee
+
+Tee)
+
+yy
+
+sail wane
+
+thu » eaters nase
+
+agate,
+
+on
+:
+
+aes 7
+
+ee
+
+A
+
+‘andl Nyhan
+ye" @7T)
+
+Mies
+
+Pe
+
+7
+
+Summary of Contents
+
+Chapter I. Theories of the Constitution.........0.0.00ccccceeeee
+The Natureor Constitutional Theory. vacsnastocs
+eee
+APOE Sd COTY created Norcent Aeneas etn cae tetas anes, 2 reas
+Moraliby-DasedsAPproacnes. vie ceaad starts asbvissascoucee
+mn ooaeerere
+GUOwP>
+Recenceptualizing Democraty «..2.5.ea scarce cuntseeeso-eanieerss
+Ie OPHICONE CTCMECUVES Suni cad oe tube
+eats ee ope
+PED
+OBT AP APO
+cele thay. cates cai teias oxi eas
+ainda ee RRA
+
+Chapter tis waicial Review issssca scsccsset seve esta icteacenceeeesesees
+PING GEES UB Te 5sSherer lets4 Ae Pe ir pre nee inten apr ee sets bearer aie a en
+POS
+hie aUOMs TOF JUCICIAl REVIEW ues Aon icpctncc eect sce wauseteaes
+Ree Ge teste OL SUCICIALSUDIGTIACVice .aieersccacu tte enivecanioriee regent
+USUI CLAY wate heer cashes sce Sats sep arte dod eSeeT Ice snes nareneeteaesenssansers
+
+CUANLEIGT Vi BO
+er ALIS IN 8g.sak ico riccee ech acesci eashoar ccs snscusouceerivnciennsens
+A. Bederalismias a Constitutional V allie ycatcsiteseies ispsoversescc-aerscrermenees
+Py CEU I OWIERS hart aes setae
+keiveccaaiaenainee
+sueeere
+oeah osnaty eterna
+Gor ESLLeMMaT TINIAN
+IE SYeparater t ect eet vacs ou tea
+AN hart A
+Neen
+AS AMUN CoE UA Le ete e se cera hose hnsich tolsales see cee etaectany Mon sannvioan tbe Men
+BU OCTATIY i oneesbertt Mamet eke Sea oae ta ooh ase ota RoR
+Caio og aR
+
+CHADCEE Ve DCDATALION OF POWEUS secsercnatirepanorondivesssccasnnctsevaanys
+Pra retieta lsLGSOre iCal AMDLOACUES simesipes ceca suprsecescex oocetaaes ate ooes
+Be The Exective Powers Domestic Atlairs. .crcscscesctesstetsresecteoees
+(oe Die e RCCLILVO CEOW CTs. WV.ASINGeWl rereecaee cunts coon seinenoectenactaesteneenees
+Dy Executive PMVileges ANG UMIQUMITICS ..iscstonsrsucsencaceancsnrer
+times netes?
+
+NO
+RCT PIV cassie nt srs eas Se oa v ge eth lcex jn una ipsa onezas senebtdacipilee Sonendones'rp.ae¥s
+Chapten Vi. Equality and Race sic .c. 5 scssreativcessarserseccersecavonsoons
+A. Race and the Constitution in Historical Perspective ..........0.....00+
+
+IESeeeCMAN EEROC
+CHLOle IVC O11 CS eat eeeacs steantesloovi sane ap cause canvas saceasse-on ioaagaran
+DVD
+TIO CGY eee
+AA ce OR e Bieeg eet eb ltoa soba cee ast ReREcTaitewen snes onhane
+
+Xlil
+
+X1V
+
+SUMMARY
+
+OF CONTENTS
+
+Chapter VII. Equality and Gender .................cccccceseeteeeteeeeeeee
+BIDUOCT
+OD Vater oe eee Tae ALTE
+Ne too as ho
+Chapter VIII.
+
+Page
+523
+584
+
+Affirmative Action ..........:..cccccccccsssssnccssescevsenes
+
+589
+
+Pree COLOOUMaNeSss OF RACCHS
+OSC] OUSTICSS .42.c0-c: tay icsecaneeee
+eset ans
+De
+USUIETS AULON Scare cteetees dcr crsa vac catictan Neen
+tose es aes Cte steed
+SEBO
+TOD IY cee acta arse oF ch dal sc dn AE ree MEN ee See Tend na Re azee Seas
+
+589
+608
+644
+
+WEE Wis) adBG es11S)
+ol ome ane ten Sarre Co
+elt paneer
+arene:
+SEE COMOMME LUCE TOCESS ss ates arvemar kastae barecc i rnie: Seb alck Sesuaeaans stieaiese
+LEST TES a go)ed(le ee Seed Oy Ta ena
+ray Hn
+Suse Mee ea
+|Sbogie’1°09
+410)6tpl Ree ec
+Mee tie Rae eae See ie nineteen ey eee ee sate
+OUD IVOGT DIY wate tole he $302 cere ssnchta See gee Nc eee nag Ra SES
+CS PATON OSERUIALECY: war caceg hoes ooks Tass ee ae oer oo manasa rsa RC Rie esate es
+DDO
+GRO DIY ceed ante Sexe aire state, CA UCL AR
+Oe eat ATS
+DSR
+CH TS UO DIC ctr ste eee aetrerer tec com meee ter ve cannee ia mn eueromts eerste:
+Bibliography wea macoici seta oot o ods icles sa ie seag a ada eda
+
+649
+659
+680
+683
+G2
+714
+fey
+754
+778
+
+Chapter X. The Public-Private Distinction.........00000000000000.
+PEDULO
+GT AID tr car aned ony esate be: areca ena Pea a estes Sera ee eame tere ee er
+
+783
+817
+
+Table of Contents
+
+Chapter I. Theories of the Constitution............0cccccccccceceeeeee
+ma? Tne Naturesof Constitutional Theory. a eh en.
+he 8
+Philip Bobbitt, The Modalities of Constitutional Argument ..............06..
+David A. Strauss, What is Constitutional Theory ............cccccccceessseeeees
+Richard A. Posner, Against Constitutional Theory .............:..cc0csseceeeees
+Richard A. Fallon, How to Choose a Constitutional Theory .................-
+
+Boe
+
+RACES MMC Bae Terence vate eanon tr neces
+en or ee
+John Hart Ely, Policing the Process of Representation: The Court
+BS ele .s centers
+deuaspapaeictedneais
+rato
+ted tees ee ceed
+ea
+Laurence H. Tribe, The Puzzling Persistence of Process-Based
+Constiutonay TMCOres 2k iaseieles deiner aan uatneaeetobces ac aeree wakes
+
+(>
+
+IMoralitycisased Approaches). :ssecsesaatassotaantall
+tisteete tote Pn eee
+Ronald H. Dworkin, Introduction: The Moral Reading and the
+RigiGiiatials PLCIUSC
+c.acptecocetieesc
+cert oneest
+recssiate eeomase reer ores
+Michael W. McConnell, The Importance of Humility in Judicial
+Review: A Comment on Ronald Dworkin's “Moral Reading”
+Of tre (OnsitOnies.
+weet
+ostenc ete es sete os atte Os Sica eee EE:
+
+D>
+
+Reconceptasitzine Democracyrsincs
+
+atecct scence
+
+velco eases 2
+
+Bruce Ackerman, We The People, Volume 1: Foundations...................
+
+Cass RY punsicin A Republic of Reasons ii:ceicccsvhscteecs
+sens rececoess echcntass
+Jed Rubenfeld, Of Constitutional Self Government ................ccccceeeeeeees
+
+joka
+
+GeothSe1 Wo olny
+UyderSA ban eanena bl ab pap el incense ot iy tyre
+
+oe eR RLY,
+
+Thurgood Marshall, Reflections on the Bicentennial of the United
+Slates COUSUMINON 5 5. nas vass.0.00850 sis Wr snsvencen vast sioepepacdiaes peee cates reeresers
+Robin L. West, Consiuutional Scepieisay... 2isi0ga.taied narneeces eae tes
+
+PUUIO CTODIY ne SS Lh is ie SUN
+
+ON ons
+
+acd
+
+ee a nance
+
+bes ele ten
+
+Chapter If. Methods of Constitutional Interpretation .........
+Te WhWigF512, RRR
+
+te ee hese cate Sn RN SVE AER AN EOE eR cn
+
+er
+
+Robert H. Bork, Neutral Principles and Some First Amendment
+TET LAG ee ener reer s ORE ira stand reap shea oan Cage Neneg or cxaste Ga oerasen oreo
+Paul Brest, The Misconceived Quest for the Original Understanding .....
+Richard S. Kay, Adherence to the Original Intentions in Constitutional
+Adjudication: Three Objections and Responses ............:s:cccccseeeees
+
+|
+ES
+
+LVS. CUE ES pace
+PRCOerIC
+
+RBS
+
+RS Ua AU pee
+
+SC UAUGT, easy) COASCSe
+
+eA Nik aie MR Rae Bale
+
+a erat leteatiescatnan tags ransoMedenscuakssineax
+tenses
+
+Akhil Reed Amar, Foreword: The Document and the Doctrine .............
+
+SaTOrd WEVITSOIl, edwW AS AMUCLALULE arocpecewecsdissnscnesecsascoaticcasatwnardodche
+
+XV
+
+a)
+
+43
+51
+|
+63
+72
+sie)
+®
+80
+88
+vA
+Lp
+OZ
+100
+113
+125
+125
+32
+142
+
+XV1
+
+TABLE OF CONTENTS
+
+LawrencetLessig, Fidelity and: Constraint ;..,..c.seccsssvnernsversatnnsercersesecuress
+CPE
+VOUT @Maty,.l NE OTICS ys mratmamrianiee unierws<oitk oe tonenaich cee
+ode
+
+Page
+149
+157
+
+Thomas C. Grey, Do We Have an Unwritten Constitution?................66
+David A Strauss, Common Law, Common Ground, and Jefferson’s
+
+157
+
+|
+ADOT
+GhTofLar ae Rate any PC A
+Er oterry ea ARNE OIRO NMERS TEEPE Prt 3
+Richard-Ay Poster, Pragmatic ACINGICaMON...:.c-scuccssaeceet
+eeemer aaa
+US EOI OOVID
+IL se vied oacceeaeas ee cies yt a ecaas nahn aden agate an
+ae
+
+170
+181
+190
+
+Chapter Ill: Judicial Review incatin damascene
+A. “Critical, Views icewesciees ff pravrs ids eckaes a ceraenntn oarean ee Maftok ce aceechina el
+
+195
+197
+
+Jeremy Waldron, Banking Constitutional Rights: Who Controls
+
+IVY TEN Ia WLS os icere Seca bind yar Renee Meee
+Scans eee Ben rg Rae ar
+Girardeau A. > panne’ Urea O UUCS: oe ce-ep wens tay wide aeons eee eine ted
+
+197,
+205
+
+Mark Tushnet, New Forms of Judicial Review and the Persistence
+
+of Rights- and Democracy-Based WoOITIES ............:ccssscccesseeeeseeeees
+By -JUST FleaHOMe AOr JUCICIAMR VICW crc, ots Seen aveak ace emis ge:
+
+209
+214
+
+Charles L. Black, Jr ., The Building Work of Judicial Review...............
+
+214
+
+Alexander M. Bickel, Establishment and General Justification of
+
+Tuidicial Review seeca eeceoctcntscivits aici eee a
+eee ae cae Te
+Rebecca L. Brown, Accountability, Liberty, and the Constitution..........
+Michael Seidman, Our Unsettled Constitution:
+
+C.
+
+A New Defense
+
+of Constitutionalism and Judicial Review .........::cssccccccccccceseeeseeees
+VhelssucotJudicialsupreniacy... tee eee,
+cee eee:
+Lawrence Gene Sager, Fair Measure: The Legal Status of
+Underentorced Constitutional INormsieaaesth
+sn wets estcacentgrarsae
+Larry Alexander and Frederick Schauer, Defending Judicial
+SUPLEMACVCAVNEDLY ssnccetcecsnss5 5 cP
+naaehe reece massa amare
+
+Larry Kramers: W esl hie Counties erect teh oleh facie cine wee eRe Bates tea
+USTOLL O SRPUV aaa antes des tacts, Sees eu tev ctroodvan bcd dehy Saakcoa xenepResn ease sacra oat
+
+Chapter byshederalismaw.2)
+eee
+A; Feéderalismias aConstitutionali Value.
+
+219
+22S
+
+ara ie
+eee eee
+
+236
+244
+244
+249
+258
+
+266
+
+ens
+
+269
+270
+
+Nationals Goveminiont ss
+soisscraecataccrad
+ei
+ees ke ee
+eae
+
+270
+
+Herbert Wechsler, The Political Safeguards of Federalism: The
+Role of the States in the Composition and Selection of the
+Edward L. Rubin and Malcolm Feeley, Federalism: Some Notes
+
+On @. NatlonalaNeusOsigeratuca
+
+tet cen ces ee ses cc cecen nian seme teses ants
+
+2i7
+
+Lynn Baker and Ernest Young, Federalism and the Double
+
+B;..
+
+Standard of Judicial Review irc cerry a racee een tavern ast emeast
+Federal: PO Wers cist ccscncea genset ees coarse vague haar acca «Seca ae
+Robert F. Nagel, ‘The Future of hedera
+listi jester. anas tare squontaeurssstae
+gees
+
+289
+295
+58)
+
+Robert Post and Reva Siegal, Legislative Constitutionalism and
+Section Five Power: Poliocentric Interpretation of the Family
+
+and Medical Leaves
+
+clas ceeres
+
+ee cree cote tian say once ereavan ee tettne ce.
+
+303
+
+TABLE OF CONTENTS
+
+pos ale tninunities sewn caer aleeeelae a
+
+XVll
+Page
+
+laeend aaa
+
+A dk Peck
+
+309
+
+Oh
+
+gees
+
+309
+
+Jack Rakove, Making Hash of Sovereignty, Part [L.......cccccccccsceeseeeees
+
+253
+
+Vicki C. Jackson, Federalism and the Uses and Limits of Law:
+
+FPDIIZ ANE REC ple diss; cen tende samme ade sean ed wares A
+Richard Fallon, The “Conservative” Paths of The Rehnquist
+
+Rodel sPederalism Decisions icern caters coil Sait oto
+Rees
+Dis TAMES CONS TAGS 4. ieertennerasl ctthsneatey stetud ABA Aceh apn
+ale tay
+
+320
+330
+
+Noel T. Dowling, Interstate Commerce and State Power.........cc0:cc00e
+Donald H. Regan, The Supreme Court and State Protectionism:
+Making Sense of the Dormant Commerce Clause ..........::::cccccseeeees
+Barry Faedorap V abusing FeGer gigi cc. cots sissede<eacus-ccsenudsendtors
+eiteee cas
+USSRUTETSTS.
+G01 4c
+eee eee
+Re
+RR
+AR Pee ashe
+
+330
+
+350
+
+Chapter V. Separation of Powers................... fis) spa os eae!
+Ae GeneralPheorcical Approaches cincinnati
+oe
+es
+Gary Lawson, The Rise and Rise of the Administrative StateBh eae
+Martin's. Flaherty, Phe Most Dangerous Branch’...s:.....-.2ccr1-seesc-ceeensta
+
+339
+395
+356
+364
+
+H. Jefferson Powell and Jed Rubenfeld, Laying It on the Line: A
+Dialogue
+on Line Item Vetoes and Separation of Powers .............:.
+
+Be
+
+The executive Power: DOMESHC AT AS jtescearmecratwwccte
+dere
+Henry P. Monaghan, The Protective Power of the Presidency ...............
+Edward S. Corwin, The Steel Seizure Case: A Judicial Brick
+WITOUE SitaWrieres oot 2. os Saeed
+eecates aaa. Sergeee
+
+Cae The P Xecuter LOWEL NV AGING VV Alesana cucarcenhetrtuensce
+teace hones
+John Hart Ely, The Constitutional Framework .2:..........cccccsscseeesessneseees
+Peter J. Spiro, War Powers and the Sirens of Formalism.................0.00
+
+DD
+
+executive Privileces-and Immunities)...
+
+cess teen
+
+eer
+
+es ons
+
+Stephen L. Carter, The Political Aspects of Judicial Power: Some
+Notes on the Presidential Immunity Decision................:cceeeeeeeeeeees
+Akhil Reed Amar and Neal Kumar Katyal, Executive Privileges
+and Immunities: The Nixon and Clinton Cases........ccseeeeeseeeeees
+Victoria Nourse, The Vertical Separation of Powe?s...............::0::00ee0cee
+
+PD IEGRT ADVE
+
+Ret
+
+ati
+
+tapcacs hares teeta ee aa aE
+
+A.
+
+3/8
+384
+384
+390
+395
+396
+403
+407
+408
+
+414
+419
+
+ea
+
+429
+
+sscr csr agua sereaccateeres-:
+
+435
+
+Race and the Constitution in Historical Perspective ..............::e
+
+438
+
+Derrick Bell, The Chronicle of the Constitutional Contradiction............
+Raoul Berger: Goveniment DY JOICIALY :Sasve-ates Sassedbenartcocteroansesntcesacts
+
+438
+448
+
+Chanter, y ly Wauality ang Races
+
+eee et oto
+
+55D
+344
+
+Michael J. Klarman, Brown, Racial Change, and the Civil Rights
+
+WEG CMTC TiGee wr avd naderana heats Loui daiaadseivenine tele hecetterte tt dace
+
+454
+
+Pee EGGAP PrOreclionl bRCOMeS siamese cree teuiac te seta rtertedesee serarserenes:
+
+460
+
+Paul Brest, In Defense of the Antidiscrimination Principle....................
+
+460
+
+Owen M. Fiss, Groups and the Equal Protection Clause ..............:::0000
+Charles R. Lawrence III, The Id, The Ego, and Equal Protection:
+
+470
+
+Reckonime With Unconscious RACISM <..civ.s....0s-spensorsresneecoctoonereees
+
+479
+
+XVIII
+
+TABLE OF CONTENTS
+
+John Hart Ely, Facilitating the Representation of Minorities .................
+Bruce A. Ackerman, Beyond Carolene’ Products 2) vi i.c1<ccsesveessetees
+sane
+Kimberle Williams Crenshaw, Race, Reform, and Retrenchment:
+Transformation and Legitimation in Antidiscrimination Law..........
+
+Biblio
+gna phy -isic)
+Chapter VII)
+
+OO
+
+ee
+
+SR
+
+Equality and Gender ooo...
+
+eae
+cccccccncsentnneneccaeases
+
+Richard*A;, Wasserstrom, Racisin and SOxiSiner..s.ss1esassssoneresaeessstneeseeens
+
+Suzanna Sherry, Civic Virtue and the Feminine Voice in Constitutional
+PROUT
+CATOM oases rane mane cduer as conua er eemetaier masak ater nase ener aie vetralnG
+Jon Hart Ely, Facilitating the Representation of Minorities ................66
+Wendy W. Williams, The Equality Crisis: Some Reflections on
+Crudlwvas, (Clowwveligy Aveo AS sovHAUIODEc ooonoAousnonoacHesoendanscosnsnnodeecsantndsoodoor
+Catharine A. MacKinnon, Difference and Dominance: On Sex
+PIS CHUM MALOU va. desaccis ace asalee nicse'acor Mee Neen ae atten oe cg.
+amas
+
+Joan C. Wallrams<Deconstricting: Gender ic ce, tnepesses ch-ove ceva ehervanes Cae
+Mary Anne Case, “The Very Stereotype The Law Condemns”:
+Constitutional Sex Discrimination Law as a Quest for
+PeriecOiosieSmrttnc.
+ncccset rrr
+nanncae te acto ene terecdess inte decease:
+
+Vata)
+tayed ea) i tena ee DeIe en
+
+lea eck econ ern rer ant een Sietterre ae
+
+re
+
+EN
+
+Ghanter VIIT. Affirmative A COOMinty.
+cescawentSapce
+A. ColorblindnessromR
+ace: Consciousness(s.fi.0.1..ces.asere
+torus arene
+William Van Alstyne, Rites of Passage: Race, The Supreme Court,
+andthe: Constitutlon ea cecasecceeee tenon ee eee Oo eh ees eet tree
+Laurence H. Tribe, “In What Vision of the Constitution Must the
+Law: Bie: Colors
+iG cer penta canons sae ee ec eee en see at a
+
+Neil Gotanda, A Critique of “Our Constitution is Color-Blind”.............
+T. Alexander Aleinikoff,
+
+A Case for Race-Consciousness ................0.+
+
+DUISTITUCATI
+OTS 5555 vas uv cs wnantene cas See nameless Re tek ok miter Bch oak as es See
+Richard A Posner, The DeF unis Case and the Constitutionality of
+Preferential’ Dreatmentot RacialsViimonitiesmansssse-cisceseeteneeteee
+nenteee
+
+Akhil Reed Amar and Neal Kumar Katyal, Bakke’s Fate ............cccceeeeee
+Elizabeth S. Anderson, Integration, Affirmative Action, and Strict
+SCTUUMY wc caea tee
+qaachacscaontenonscebedeeMtentat
+ues
+aesturedas eloesidon wesccusaiea sande:
+Girardeau A. Spann, Whe Dark Side Of Grytle7ce. covonce-ecscantpepneuenesceese
+
+BID
+OST GDH scicsasnmpiin a cud tected
+
+tee verte Te seme
+
+GhaptercLX..
+
+ate cuteoantenis as volohene tapes ietecynneete Sone
+
+Luibenty<ciisciccs
+
+een eee ea
+
+ei
+
+John Harrison, Substantive Due Process and the Constitutional Text.....
+
+A.
+
+Feononiie Dule, Processi,
+
+ocr
+sinecaccsscenecch
+nen
+ac once
+
+RichardePosners ECONOMIC DU CeanO
+CCSSpeteretenecee
+sete
+eene ee eniieeniemeetnnT shit
+
+Robert G. McCloskey, Economic Due Process and the Supreme
+GourtAn Exhumatiomtandtine uta
+geseedscst eet caee teeter
+cescu
+Robert Brauneis, “The Foundation of Our Regulatory Takings
+Jurisprudence”: The Myth and Meaning of Justice Holmes’s
+Opinion in Pennsylvania Cog) Co-¥;, MGHon, vaccnstrte
+whee trersvyns 200
+
+669
+
+TABLE OF CONTENTS
+
+X1X
+
+Page
+William Michael Treanor, Jam for Justice Holmes:
+
+Reassessing
+
+the Sieninicance Of Maori
+as
+tatasectssre
+eee
+oened
+eae
+BOR FOPINY stele crasctacy, Sevens eee aaagmee raerhs teas taatic hte re Tao onke
+PP reROEOOM Ried eta
+= ira teehee ene ene, Oh en ae meee aA
+
+673
+680
+683
+
+John T. Noonan, Jr., The Root and Branch of Roe v. Wade vecccececccccceeees
+Judith Jarvis Thomson, A Defense of Abortion..............ccsssc0eseseneeeeeeeee
+David A. Strauss, Abortion, Toleration, and Moral Uncertainty ............
+John Hart Ely, The Wages of Crying Wolf: A Comment on
+
+685
+690
+697
+
+PRO OP OY (LE a Piensa eck speak ee ae eis do suobevircd des todd tect aR
+
+702
+
+Ruth Bader Ginsburg, Some Thoughts on Autonomy and Equality
+
+MS ROUaGI tO ROE VOW Ge. wo oe et vocaanns sin dodo reathsd sve tate de:
+UOMO TOV secre inser reg se
+dete cats cee case Ha occ ones cases eaGhS
+KOE LOMO SCRUM IU Or ont tl cmanede ase maneron Hos ratias Tins x eerste eee are
+sonny
+agrvey sion ONY ..cac.c eee vititocnneetheccncere ream
+deme veneers
+Jed: Rubenfeld The Right Of Privaoy sch neck Waiver e castle rcehlnets tosteetan aes
+Randy E. Barnett, Justice Kennedy’s Libertarian Revolution:
+OWT CIRC
+ElCOG. Soh
+cop te ent
+atlas Ce ero Oe
+ais
+
+OF
+Th
+714
+716
+W2A
+728
+
+John M. Finnis, Law, Morality, and “Sexual Orientation”...................
+Janet E. Halley, Sexual Orientation and the Politics of Biology:
+
+736
+
+A Critique of the Argument From Immutability 0.0.0.0...
+eee
+PRUTOST
+OD ea che ores te Toren tsb tee coh te iheasod seta des sate oaciobavee eaReezeul
+| PPEGSS
+Ceachi er BS oa Mr ey eRe ice een
+otiseset reer eee
+er
+
+743
+Diet
+754
+
+Brief for Ronald Dworkin, Thomas Nagel, Robert Nozick, John
+Rawls, Thomas Scanlon, and Judith Jarvis Thomson as Amici
+
+Curiae tin Wasnington VeGIUCKS DELS vc.cs.cioscserateoecessastectaessessineotene
+Jatin He Garvey, Control Breaks ya jacc..c anes se-ccteosveeareateosssahaese
+sautsunvas xs
+Michael W. McConnell, The Right to Die and the Jurisprudence
+GES ACRAOI arse ace te ousted eotaxin mone Ee
+RTE
+
+1)
+759
+
+PS IIETO BOOTING ere Sista vee a eas oss onclss csp Bion eaaacasesnsegveaydeueeaswoncimeyae
+
+768
+778
+
+Chapter X. The Public-Private Distinction............0.....0.0.
+
+783
+
+Aan bh Marav Vey) UME AKC sas s0- sevewonte rei nssecelese awh s eeqraviusonrixtonseeaae
+ete
+Gillian Metzger, Privatization as Delegation.................:csscsscessreceseees
+Erwin Chemerinsky, Rethinking State Action............ceccesceeeeeseeeees
+
+788
+796
+806
+
+William P. Marshall, Diluting Constitutional Rights: Rethinking
+
+SRethiiachiers tatev ACTON es ascoc5 isos analy cass fone sa ssesveausieareasove
+wana ts
+
+EsIVTIAN eae etn ar ba ect ea wp OE oc Seance cacadades et Peek eaeatatrn antes een
+
+813
+
+817
+
+:
+
+oe”
+
+eee
+e+
+
+ee
+
+omleseou
+
+ee
+
+Raney oe4 lea
+os
+
+a
+
+7
+
+Qalageter WIEPavey oe
+
+alae
+
+pees
+A el 3shes
+
+Sire. a
+
+hake
+
+_ tues pp area
+3 bg @> ~
+ee
+a
+eo
+
+,
+
+Viteesnets 7 9
+
+eee
+
+AIS bs
+
+es
+
+Da
+.
+
+_
+
+-
+
+Mia)
+
+wf8 4
+
+oo
+
+oa
+
+niett ce
+po Sensi
+
+=
+
+din aly wl? 0
+as
+ive
+eo Staal
+aie
+a
+
+mah |
+
+oa oe Were?
+
+au ‘app
+
+>
+
+o
+
+bentVow
+
+eae nn
+
+ee
+
+>i
+
+eer!
+
+ioe
+
+°
+
+MODERN
+CONSTITUTIONAL
+THEORY
+A READER
+Fifth Edition
+
+Chapter I
+THEORIES OF THE
+CONSTITUTION
+
+Does the Constitution have a theme? How do we go about interpreting
+its various provisions? Why is it the business of the Supreme Court to
+answer these questions? These overarching
+addressed in the first three Chapters.
+
+theoretical
+
+questions
+
+are
+
+It should be apparent that these are related questions, and authors addressing one issue frequently make explicit or implicit claims about the
+other issues. For example, if the Constitution is largely about specifying a
+fair process for making political decisions, one might justify judicial review
+by charting a role for the Supreme Court of ensuring an open and wellfunctioning political process; such a perspective might take a dim view of
+attempts by the Court to read substantive values into the document (such as
+a right to decide whether or not to terminate a pregnancy). Or, if one
+believes that judicial review can be justified only if the Court is enforcing
+decisions by “the people” to constitutionalize certain values, one might
+support interpretative strategies aimed at uncovering the “original meaning”
+of the text’s provisions.
+Many other possible linkages are imaginable. What interpretative
+methods, for example, might be favored by a theorist who believes that the
+Supreme Court can contribute to the moral growth of our polity, or by a
+theorist who understands the Constitution as primarily concerned with
+ensuring deliberative decision-making by elected officials? In short, as you
+read each selection in one of the first three Chapters, keep asking yourself
+how the author might answer the questions raised in the other two Chapters.
+
+Is the Constitution a collection of provisions directed at topical concerns ofthe late 18th century, a compromise among competing regional and
+economic interests? Or is there a political theory that lies behind the
+specific bits of text, supplying a unifying theory to the whole? Assuming
+we can identify an animating theory of the Constitution, 1s our Constitution,
+so understood, a good constitution? These questions are the primary focus
+of this Chapter.
+
+2
+
+THEORIES OF THE CONSTITUTION
+
+Chie 1
+
+Before turning to these questions, however, it seems useful to begin a
+book on constitutional theory by asking a few preliminary questions: What
+kinds of constitutional arguments are currently part of our legal culture?
+What exactly is a constitutional theory? And how important is it to have
+one? We start with Phillip Bobbitt’s survey of the modes of constitutional
+argument. Constitutional theories are nearly always efforts to develop one
+of these modes into a systematic framework. David Strauss gives us a
+working definition of the subject: a constitutional theory is an effort to
+provide a general justification for particular solutions to controversial
+constitutional issues. Such an effort, he says, proceeds by showing how
+these solutions flow from a unifying framework and how that framework
+best justifies our most central constitutional tenets. Richard Posner
+questions whether such theoretical arguments are likely to prove useful for
+judges and lawyers, as opposed to academics addressing each other.
+Richard Fallon argues, in response to Posner and other critics of constitutional theory, that judges need at least a tacit constitutional theory if they
+are to provide a principled, consistent legal fabric. From this perspective,
+the diverse constitutional arguments discussed by Bobbitt offer too much
+leeway for judges, who need the discipline provided by theory.
+After these preliminary discussions about the nature of constitutional
+theory, we consider some of the most noteworthy efforts to provide a theory
+of the Constitution. In Democracy and Distrust (probably the most
+influential book on constitutional law in the past few decades), John Hart
+Ely argues that the Constitution is primarily concerned with process and
+structure—not the identification and preservation of specific substantive
+values. He suggests that the open-ended provisions of the document—such
+as the Fourteenth Amendment—be read to further process-based goals.
+Exercised in this way, Judicial review can be seen as enhancing, rather than
+frustrating, democratic governance. Laurence Tribe’s review of Ely’s
+
+book—The Puzzling Persistence of Process-Based Constitutional Theories
+—is skeptical of a reading of the document simply in “process” terms.
+Indeed, he argues, even Ely’s approach ultimately requires a commitment to
+substantive values (such as a theory of which groups need special protection in the political process).
+
+To many Americans,
+
+the Constitution embodies
+
+fundamental
+
+moral
+
+principles, such as equality, fairness, and justice, that find their expression
+
+in the protection of individual rights from oppressive majorities. Ronald
+
+Dworkin, a leading advocate of a “moral reading” of the Constitution,
+argues that judges instinctively rely upon moral judgments in interpreting
+the document. The “moral reading” is constrained, according to Dworkin,
+by the requirements that constitutional interpretation “begin in what the
+framers said” and be fitted to the structure of the Constitution as a whole
+and the dominant lines of past interpretations. Michael McConnell’s critique
+
+Chet
+
+THEORIES OF THE CONSTITUTION
+
+B
+
+of Dworkin notes the tension between Dworkin’s twin goals of seeking
+“right answers” and ensuring that judgments “fit” constitutional text and
+history. He also takes issue with Dworkin’s “moral reading” of the Four-
+
+teenth Amendment, arguing that Dworkin does not adequately defend the
+abstract principle of equality that he ascribes to the equal protection clause.
+Some important recent constitutional theories view the Constitution as
+
+being “about” democracy, but not merely in the commonplace sense of
+majority rule. We include an excerpt from the first volume of Bruce
+Ackerman’s massive revisionist study of constitutional history. Ackerman
+argues for a “dualist” understanding of democracy. This two-track model
+distinguishes between constitutional decisions made by the People and
+ordinary political decisions reached by the People’s elected representatives.
+Judicial review, from this perspective, presents no “counter-majoritarian
+difficulty” to the extent it is enforcing a prior higher-track decision by the
+People against a lower-track decision of the People’s agents.
+
+Cass Sunstein contributes another effort to enrich our concept of democracy. According to Sunstein, central to our constitutional system is an
+“impartiality principle”: the idea that government is prohibited from acting
+on the basis of pure self-interest, power, or whim. Judicial review in service
+of the impartiality principle furthers the framers’ plan to create a system of
+government—a “deliberative democracy’—that would counteract the
+dangers of the legacy of monarchy, self-interested representation, and
+majority tyranny.
+The third of these efforts to reconceptualize democracy comes from Jed
+Rubenfeld. He argues that much of constitutional theory 1s based on the
+misguided view that democracy means rule by the current majority. He
+argues instead that true self-governance includes the ability of a people to
+make commitments across generations. By embodying such commitments,
+the Constitution is not a restraint on democracy but a paradigm of its
+exercise. Note that this theory is directly contrary to Ackerman’s argument,
+which posits that at any given time “The People” retain the prerogative of
+
+revamping the Constitution as they see fit. Rubenfeld is similarly at odds
+with Sunstein, who views the Constitution as empowering contemporary
+deliberative democracy rather than constraining it.
+The Chapter concludes with two “critical perspectives” on the Constitu-
+
+tion and constitutionalism. Justice Thurgood Marshall casts a dissenting
+vote on the Constitution’s 1987 Bicentennial celebration. He argues that the
+constitutional system constructed in Philadelphia was “defective from the
+
+start” because of its unwillingness to condemn slavery and other abridgments of fundamental rights. Robin West’s article notes the absence of “an
+explicitly normative debate about the Constitution’s value.” She argues that
+the combined claims of the “‘constitutional faithful” (liberal theorists who
+
+urge that the Constitution can be read to achieve liberal ends) and the
+
+4
+
+THEORIES OF THE CONSTITUTION
+
+Ch 1
+
+“constitutional sceptics” (who maintain that the text is indeterminate) have
+impeded the development of a “progressive constitutional faith” (which
+challenges a constitutional tradition that fails to condemn unjust concentrations of private power).
+
+A. THE NATURE OF CONSTITUTIONAL THEORY
+PHILIP BOBBITT, THE MODALITIES
+CONSTITUTIONAL ARGUMENT
+
+OF
+
+CONSTITUTIONAL INTERPRETATION | 2-22 (1991).
+
+I will be speaking of constitutional modalities—the ways in which legal
+propositions are characterized as true from a constitutional point of view.
+* * * [The] six modalities of constitutional argument are: the historical
+(relying on the intentions of the framers and ratifiers of the Constitution);
+textual (looking to the meaning of the words of the Constitution alone, as
+they would be interpreted by the average contemporary “man on the
+street”); structural (inferring rules from the relationships that the Constitution mandates among the structures it sets up); doctrinal (applying rules
+generated by precedent); ethical (deriving rules from those moral commitments of the American ethos that are reflected in the Constitution); and
+prudential (seeking to balance the costs and benefits of a particular rule).
+Now let us look at some examples, and a somewhat more formal statement
+of each form of argument.
+Consider the question whether a state may validly enforce a law that
+makes it a crime to procure an abortion. An historical modality may be
+attributed to constitutional arguments that claim that the framers and
+ratifiers of the Fourteenth Amendment intended, or did not intend, or that it
+cannot be ascertained whether it was their intention, to protect pregnant
+women from a state’s coercion, through threats of fines and imprisonment,
+to bear children. Similarly, an historical modality might approach the
+abortion question as: did the framers and ratifiers of the Fourteenth Amendment intend to countenance, or to overturn by means of the Amendment, or
+are their intentions unclear as to the effect of the Amendment regarding, those
+state laws that existed at the time of ratification that prohibited abortions?
+
+Oftentimes this modality is confused with textual argument since both
+can have reference to the specific text of the Constitution. Historical, or
+“originalist” approaches to construing the text, however, are distinctive in
+their reference back to what a particular provision is thought to have meant
+to its ratifiers. Thus, when Justice Taney in the Dred Scott case was called
+upon to construe the scope of the diversity jurisdiction in Article IN, which
+provides for suits “between citizens of the several states,” so that he might
+decide whether a slave could seek his freedom in a diversity suit before a
+federal court, he wrote:
+
+

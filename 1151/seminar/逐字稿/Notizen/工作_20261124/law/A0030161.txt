@@ -1,0 +1,620 @@
+
+	證人保護法-全國法規資料庫
+.line-0000 {margin-left: 1em; text-indent: -0em;}
+.line-0004 {margin-left: 3em; text-indent: -2em;}
+.line-0006 {margin-left: 4em; text-indent: -3em;}
+    .overflow-inherit {
+        overflow: inherit !important;
+    }
+    .overflow-hidden {
+        overflow: hidden !important;
+    }
+    .display-none{
+        display: none !important;
+    }
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-QFLS1G3FEY', { cookie_flags: 'max-age=7200;SameSite=Strict;Secure' });
+        (function () {
+            var match = document.cookie.match(new RegExp('(^| )WordSize=([^;]+)'));
+            if (match && match[2]) {
+                document.body.style.zoom = decodeURIComponent(match[2]);
+            }
+        })();
+您的瀏覽器，不支援javascript script語法，恐影響到網頁的閱讀
+跳至主要內容
+:::
+網站導覽
+English
+會員登入
+小字型
+中字型
+大字型
+整合查詢
+整合查詢
+最新訊息
+中央法規
+司法解釋
+條約協定
+兩岸協議
+智慧查找
+熱門詞彙：
+刑法
+、
+職業安全衛生
+、
+憲法
+、
+勞基法
+、
+採購法
+全國法規資料庫
+最新訊息
+中央法規
+司法解釋
+條約協定
+兩岸協議
+綜合查詢
+跨機關檢索
+熱門法規
+相關連結
+網站導覽
+English
+會員登入
+:::
+            現在位置：
+首頁
+中央法規
+所有條文
+P
+   $(function () {
+        $(".share-bar").css("display", "inline-block");
+        $(".share-bar a").on("click keypress ", function (event) {
+            if (event.keyCode == 13 || event.button == 0) {
+            event.preventDefault();
+                var Type = $(this).data("sharetype");
+                if (Type != "PDF")
+                    window.open(shareTo(Type, "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030161"), "_blank");
+                else window.location.href = $('#hlkPdf').attr("href");
+            }
+        });
+    });
+下載
+友善列印
+加入資料夾：
+儲存
+確定
+新增資料夾
+管理資料夾
+    $(function () {
+        //無障礙，預設隱藏，JS有啟用時才看的到
+        $("#hlAddToFolder").removeClass("hidden");
+        $(".folder-menu li").last().hide();
+        $("#hlNewFolder").on("click", function (event) {
+            event.preventDefault();
+            $(".folder-menu li").last().toggle();
+            if ($(this).text() == "新增資料夾") {
+                $("#txtNewFolder").focus();
+                $(this).text("取消");
+            }
+            else
+                $(this).text("新增資料夾");
+        });
+        $("#btnAddNewFolder").on("click", function (event) {
+            var fname = $.trim($("#txtNewFolder").val());
+            if (fname == "") return false;
+            $.ajax({
+                url: "../controls/FolderHandler.ashx",
+                type: "POST",
+                dataType: "json",
+                data: {
+                    foldername: encodeURI($.trim($("#txtNewFolder").val()))
+                },
+                success: function (data) {
+                    $.each(data, function (index, element) {
+                        $("
+" + element.NAME + "
+")
+                            .insertBefore($("#folderlist li:last"));
+                        $("#txtNewFolder").val("");
+                        $(".folder-menu li").last().hide();
+                    });
+                }
+            });
+        });
+        $("#hlSaveToFolder").on("click", function (event) {
+            var checkedFID = $("#folderlist input[type='checkbox']:checked").map(function () { return this.value; }).get().join(',');
+            if (checkedFID == "") {
+                alert("請選擇所要儲存的資料夾。")
+                return false;
+            }
+            $.ajax({
+                url: "../controls/FolderHandler.ashx",
+                type: "POST",
+                data: {
+                    lan: "C",
+                    datatype: encodeURI("01"),
+                    dataid: encodeURI("A0030161"),
+                    datatitle: encodeURI("證人保護法"),
+                    fid: encodeURI(checkedFID)
+                },
+                success: function (data) {
+                    alert("您已成功儲存此頁至您個人資料夾。");
+                    $("#folderlist input[type='checkbox']").prop("checked", false);
+                    $("#folderlist").collapse("hide");
+                }
+            });
+        });
+        $('#hlMoveToFolder').on("click", function () {
+            var x = $('#hfSelect').val();
+            var checkedFID = $("#folderlist input[type='checkbox']:checked").map(function () { return this.value; }).get().join(',');
+            if (checkedFID == "") {
+                alert("請選擇所要儲存的資料夾。")
+                return false;
+            }
+            if (x=='') {
+                alert("請選擇所要搬移的資料。")
+                return false;
+            }
+            $.ajax({
+                url: "../controls/FolderMoveHandler.ashx",
+                type: "POST",
+                data: {
+                    rfid: encodeURI(''),
+                    did: encodeURI(x),
+                    fid: encodeURI(checkedFID)
+                },
+                success: function (data) {
+                    alert("您已成功儲存此頁至您個人資料夾。");
+                    $("#folderlist input[type='checkbox']").prop("checked", false);
+                    $("#folderlist").collapse("hide");
+                    window.location.reload();
+                }
+            });
+        });
+    });
+所有條文
+    .danger-notes {
+        text-align: left;
+        font-family: '細明體', MingLiU, serif;
+        line-height: 160%;
+    }
+法規名稱：
+證人保護法
+EN
+修正日期：
+民國 107 年 06 月 13 日 
+法規類別：
+行政 ＞ 法務部 ＞ 檢察目
+所有條文
+條號查詢
+條文檢索
+授權子法
+沿革
+立法歷程(附帶決議)
+※如已配合行政院組織改造，公告變更管轄或停止辦理業務之法規條文，請詳見沿革
+第 1 條
+為保護刑事案件及檢肅流氓案件之證人，使其勇於出面作證，以利犯罪之偵查、審判，或流氓之認定、審理，並維護被告或被移送人之權益，特制定本法。
+本法未規定者，適用其他法律之規定。
+第 2 條
+本法所稱刑事案件，以下列各款所列之罪為限：
+一、最輕本刑為三年以上有期徒刑之罪。
+二、刑法第一百條第二項之預備內亂罪、第一百零一條第二項之預備暴動內亂罪或第一百零六條第三項、第一百零九條第一項、第三項、第四項、第一百二十一條第一項、第一百二十二條第三項、第一百三十一條第一項、第一百四十二條、第一百四十三條第一項、第一百四十四條、第一百四十五條、第二百五十六條第一項、第三項、第二百五十七條第一項、第四項、第二百九十六條之一第三項、第二百九十八條第二項、第三百條、第三百三十九條、第三百三十九條之三或第三百四十六條之罪。
+三、貪污治罪條例第十一條第一項、第二項之罪。
+四、懲治走私條例第二條第一項、第二項或第三條之罪。
+五、藥事法第八十二條第一項、第二項或第八十三條第一項、第三項之罪。
+六、銀行法第一百二十五條之罪。
+七、證券交易法第一百七十一條或第一百七十三條第一項之罪。
+八、期貨交易法第一百十二條或第一百十三條第一項、第二項之罪。
+九、槍砲彈藥刀械管制條例第八條第四項、第十一條第四項、第十二條第一項、第二項、第四項、第五項或第十三條第二項、第四項、第五項之罪。
+十、公職人員選舉罷免法第八十八條第一項、第八十九條第一項、第二項、第九十條之一第一項、第九十一條第一項第一款或第九十一條之一第一項之罪。
+十一、農會法第四十七條之一或第四十七條之二之罪。
+十二、漁會法第五十條之一或第五十條之二之罪。
+十三、兒童及少年性剝削防制條例第三十二條第一項、第三項、第四項之罪。
+十四、洗錢防制法第十四條第一項、第二項、第十五條或第十七條之罪。
+十五、組織犯罪防制條例第三條第一項後段、第二項、第五項、第七項、第八項、第四條、第六條或第十一條第三項之罪。
+十六、營業秘密法第十三條之二之罪。
+十七、陸海空軍刑法第四十二條第一項、第四十三條第一項、第四十四條第二項前段、第五項、第四十五條、第四十六條之罪。
+第 3 條
+依本法保護之證人，以願在檢察官偵查中或法院審理中到場作證，陳述自己見聞之犯罪或流氓事證，並依法接受對質及詰問之人為限。
+第 4 條
+證人或與其有密切利害關係之人因證人到場作證，致生命、身體、自由或財產有遭受危害之虞，而有受保護之必要者，法院於審理中或檢察官於偵查中得依職權或依證人、被害人或其代理人、被告或其辯護人、被移送人或其選任律師、輔佐人、司法警察官、案件移送機關、自訴案件之自訴人之聲請，核發證人保護書。但時間急迫，不及核發證人保護書者，得先採取必要之保護措施。
+司法警察機關於調查刑事或流氓案件時，如認證人有前項受保護必要之情形者，得先採取必要之保護措施，並於七日內將所採保護措施陳報檢察官或法院。檢察官或法院如認該保護措施不適當者，得命變更或停止之。
+聲請保護之案件，以該管刑事或檢肅流氓案件之法院，為管轄法院。
+第 5 條
+聲請核發證人保護書時，應以書面記載下列事項：
+一、聲請人及受保護人之姓名、性別、出生年月日、住所、身分證統一編號或護照號碼。
+二、作證之案件。
+三、作證事項。
+四、請求保護之事由。
+五、有保護必要之理由。
+六、請求保護之方式。
+第 6 條
+檢察官或法院依職權或依聲請核發證人保護書，應參酌下列事項定之：
+一、證人或與其有密切利害關係之人受危害之程度及迫切性。
+二、犯罪或流氓行為之情節。
+三、犯罪或流氓行為人之危險性。
+四、證言之重要性。
+五、證人或與其有密切利害關係之人之個人狀態。
+六、證人與犯罪或流氓活動之關連性。
+七、案件進行之程度。
+八、被告或被移送人權益受限制之程度。
+九、公共利益之維護。
+第 7 條
+檢察官或法院核發證人保護書，應記載下列事項：
+一、聲請人及受保護人之姓名、性別、出生年月日、住所、身分證統一編號或護照號碼。
+二、作證之案件。
+三、保護之事由。
+四、有保護必要之理由。
+五、保護之措施。
+六、保護之期間。
+七、執行保護之機關。
+前項第五款之保護措施，應就第十一條至第十三條所列方式酌定之。
+第 8 條
+證人保護書，由檢察官或法院自行或發交司法警察機關或其他執行保護機關執行之。
+前項執行機關，得依證人保護書之意旨，命受保護人遵守一定之事項，並得於管轄區域外，執行其職務。
+所有參與核發及執行第一項保護措施之人，對保護相關事項，均負保密義務。
+第 9 條
+執行證人保護之案件有下列情形之一者，檢察官或法院得依職權或依第四條第一項之人或執行保護機關之聲請，停止或變更保護措施：
+一、經受保護人同意者。
+二、證人就本案有偽證或誣告情事，經有罪判決確定者。
+三、受保護人違反前條第二項應遵守之事項者。
+四、受保護人因案經羈押、鑑定留置、收容、觀察勒戒、強制戒治或移送監獄或保安處分處所執行者。
+五、應受保護之事由已經消滅或已無保護之必要者。
+第 10 條
+保護措施之執行機關，應隨時檢討執行情形，如危害之虞已消失或無繼續保護之必要者，經法院、檢察官或司法警察官同意後，停止執行保護措施。但其因情事變更仍有繼續保護之必要者，得經法院、檢察官或司法警察官同意，變更原有之保護措施。
+停止執行保護之案件，有重新保護之必要者，檢察官或法院得依職權或依第四條第一項之人或執行保護機關之聲請，再許可執行保護證人之措施。
+第 11 條
+有保密身分必要之證人，除法律另有規定者外，其真實姓名及身分資料，公務員於製作筆錄或文書時，應以代號為之，不得記載證人之年籍、住居所、身分證統一編號或護照號碼及其他足資識別其身分之資料。該證人之簽名以按指印代之。
+載有保密證人真實身分資料之筆錄或文書原本，應另行製作卷面封存之。其他文書足以顯示應保密證人之身分者，亦同。
+前項封存之筆錄、文書，除法律另有規定者外，不得供閱覽或提供偵查、審判機關以外之其他機關、團體或個人。
+對依本法有保密身分必要之證人，於偵查或審理中為訊問時，應以蒙面、變聲、變像、視訊傳送或其他適當隔離方式為之。於其依法接受對質或詰問時，亦同。
+第 12 條
+證人或與其有密切利害關係之人之生命、身體或自由有遭受立即危害之虞時，法院或檢察官得命司法警察機關派員於一定期間內隨身保護證人或與其有密切利害關係之人之人身安全。
+前項情形於必要時，並得禁止或限制特定之人接近證人或與其有密切利害關係之人之身體、住居所、工作之場所或為一定行為。
+法院或檢察官為前項之禁止或限制時，應核發證人保護書行之，並載明下列事項：
+一、受保護之人及保護地點。
+二、受禁止或限制之特定人。
+三、執行保護之司法警察機關。
+四、禁止或限制特定人對受保護人為特定行為之內容。
+五、執行保護之司法警察機關應對受保護人為特定行為之內容。
+前項證人保護書，應送達聲請人、應受禁止或限制之人及執行保護措施之司法警察或其他相關機關。
+受禁止或限制之人，得對檢察官或法院第二項之命令或裁定聲明不服，其程序準用刑事訴訟法之規定。
+第 13 條
+證人或與其有密切利害關係之人之生命、身體、自由或財產有遭受危害之虞，且短期內有變更生活、工作地點及方式之確實必要者，法院或檢察官得命付短期生活安置，指定安置機關，在一定期間內將受保護人安置於適當環境或協助轉業，並給予生活照料。
+前項期間最長不得逾一年。但必要時，經檢察官或法院之同意，得延長一年。所需安置相關經費，由內政部編列預算支應。
+法院或檢察官為第一項短期生活安置之決定，應核發證人保護書行之，並應送達聲請人、安置機關及執行保護措施之相關機關。
+第 14 條
+第二條所列刑事案件之被告或犯罪嫌疑人，於偵查中供述與該案案情有重要關係之待證事項或其他正犯或共犯之犯罪事證，因而使檢察官得以追訴該案之其他正犯或共犯者，以經檢察官事先同意者為限，就其因供述所涉之犯罪，減輕或免除其刑。
+被告或犯罪嫌疑人雖非前項案件之正犯或共犯，但於偵查中供述其犯罪之前手、後手或相關犯罪之網絡，因而使檢察官得以追訴與該犯罪相關之第二條所列刑事案件之被告者，參酌其犯罪情節之輕重、被害人所受之損害、防止重大犯罪危害社會治安之重要性及公共利益等事項，以其所供述他人之犯罪情節或法定刑較重於其本身所涉之罪且經檢察官事先同意者為限，就其因供述所涉之犯罪，得為不起訴處分。
+被告或犯罪嫌疑人非第一項案件之正犯或共犯，於偵查中供述其犯罪之前手、後手或相關犯罪之網絡，因而使檢察官得以追訴與該犯罪相關之第二條所列刑事案件之被告，如其因供述所涉之犯罪經檢察官起訴者，以其所供述他人之犯罪情節或法定刑較重於其本身所涉之罪且曾經檢察官於偵查中為第二項之同意者為限，得減輕或免除其刑。
+刑事訴訟法第二百五十五條至第二百六十條之規定，於第二項情形準用之。
+第 15 條
+檢舉人、告發人、告訴人或被害人有保護必要時，準用保護證人之規定。
+政府機關依法受理人民檢舉案件而認應保密檢舉人之姓名及身分資料者，於案件移送司法機關或司法警察機關時，得請求法院、檢察官或司法警察官依本法身分保密之規定施以保護措施。
+第 16 條
+公務員洩漏或交付關於依本法應受身分保密證人之文書、圖畫、消息、相貌、身分資料或其他足資辨別證人之物品者，處一年以上七年以下有期徒刑。
+前項之未遂犯，罰之。
+因過失犯前兩項之罪者，處二年以下有期徒刑、拘役或科新臺幣三十萬元以下罰金。
+非公務員因職務或業務知悉或持有第一項之文書、圖畫、消息、相貌、身分資料或其他足資辨別證人之物品，而洩漏或交付之者，處三年以下有期徒刑、拘役或科新臺幣五十萬元以下罰金。
+第 17 條
+受禁止或限制之人故意違反第十二條第二項之規定，經執行機關制止不聽者，處三年以下有期徒刑、拘役或科新臺幣五十萬元以下罰金。
+第 18 條
+意圖妨害或報復依本法保護之證人到場作證，而對受保護人實施犯罪行為者，依其所犯之罪，加重其刑至二分之一。
+第 19 條
+依本法保護之證人，於案情有重要關係之事項，向該管公務員為虛偽陳述者，以偽證論，處一年以上七年以下有期徒刑。
+第 20 條
+訴訟之辯論，有危害證人生命、身體或自由之虞者，法院得決定不公開。
+第 21 條
+本法之規定，於軍事法院及軍事法院檢察署檢察官受理之案件，準用之。
+第 22 條
+本法之施行細則，由行政院會同司法院定之。
+第 23 條
+本法施行日期，除中華民國九十五年五月三十日修正公布之條文，自九十五年七月一日施行，及一百零五年三月二十五日修正之條文，由行政院定之外，自公布日施行。
+:::
+最新訊息
+中央法規
+司法解釋
+條約協定
+兩岸協議
+綜合查詢
+跨機關檢索
+法治宣導專區
+智慧查找
+法律扶助
+創意教案
+法律時事漫談
+網站使用說明
+網站使用手冊
+會員服務介紹
+網站單元簡介
+法規資料檢索範圍
+資料更新頻率說明
+資訊服務
+全國法規連結圖示
+全國法規作業要點
+法規名稱英譯標準表
+相關網站
+訂閱電子報
+瀏覽人次總計
+1,672,367,172人
+本月瀏覽人次
+16,933,622人
+目前使用人次
+5,224人
+電子報訂閱人數
+223,406人
+本網站係提供法規之最新動態資訊及資料檢索，並不提供法規及法律諮詢之服務。
+若有任何法律上的疑義，建議您可逕向發布法規之主管機關洽詢。
+本網站法規資料係由政府各機關提供之電子檔或書面文字登打製作，若與各法規主管機關之公布文字有所不同，仍以各法規主管機關之公布資料為準。
+部分資料內容，使用特殊文字或符號，如欲詳閱內容，請連結至
+司法院網站
+下載造字檔。
+全國法規資料庫之內容每週五定期更新，當週發布之法律、命令資料，將於完成法規整編作業後，於下週五更新上線。
+法規整編資料截止日：民國 115 年 11 月 13 日 
+瀏覽人次總計：1,672,367,172人
+本月瀏覽人次：16,933,622人
+目前使用人次：5,224人
+電子報訂閱：223,406人
+│ 
+政府網站資料開放宣告
+ │ 
+隱私權保護宣告
+ │ 
+資訊安全政策
+ │ 
+Q & A
+ │ 
+意見回饋
+ │ 
+ API文件
+ │ 
+本網站由法務部全國法規資料庫工作小組維運管理.
+法務部地址：100204 台北市重慶南路一段130號
+電話：(02)2191-0189
+第二辦公室地址：100006 台北市貴陽街1段235號
+電話：(02)2191-0189
+回上方
+            $(function () {
+                // === 統一綁定 GA 追蹤事件 ===
+                $('.ga-track-link').on('click keypress', function (e) {
+                    // 如果是鍵盤事件，確認是按下 Enter 鍵 (keyCode 13) 才觸發
+                    if (e.type === 'keypress' && e.which !== 13) {
+                        return;
+                    }
+                    var category = $(this).data('ga-category');
+                    var action = $(this).data('ga-action');
+                    // 呼叫原本的 GA 追蹤函數
+                    if (typeof GoogleAnanlytice === "function") {
+                        GoogleAnanlytice(category, action, '', '');
+                    }
+                });
+                // 綁定登出確認視窗
+                $('.logout-link').on('click', function () {
+                    if (!confirm('確定登出？')) {
+                        return false; // 若使用者按取消，則不執行跳轉
+                    }
+                });
+                var b = 'ONEBAR';
+                $("#btnSubscribe,#btnUnsubscribe").on("click", function (event) {
+                    //var email = $.trim($("#txtEMail").val());
+                    //if (email == "") {
+                    //    event.preventDefault();
+                    //    alert('請您輸入電子郵件地址。');
+                    //    $("#txtEMail").focus();
+                    //}
+                    //else if (false == IsEMail(email)) {
+                    //    event.preventDefault();
+                    //    alert('請您輸入正確電子郵件地址。');
+                    //    $("#txtEMail").focus();
+                    //}
+                    //else {
+                    //    GoogleAnanlytice('中文', '訂閱電子報', '', '');
+                    //}
+                    var email = $.trim($("#txtEMail").val());
+                    //if (!validateEmail(email)) {
+                    //    alert('請您輸入正確電子郵件地址。');
+                    //    return false;
+                    //}
+                });
+                $('#btnQall').on("click", function () {
+                    if ($.trim($("#keyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    }
+                    else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                $('#btnDeepSearch').on("click", function () {
+                    var keyword = '';
+                    //20210315 加上判斷，取QueryString(KW)，若輸入關鍵字已搜尋過，則跳出提示訊息，避免重複搜尋
+                    Request = GetRequest();
+                    if ($.trim($("#keyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    }
+                    else if (keyword.indexOf($.trim($("#keyword").val())) >= 0) {
+                        alert("此關鍵字已包含至檢索字詞中，請重新輸入");
+                        return false;
+                    }
+                    else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                $('#btnMsQall').on("click", function () {
+                    if ($.trim($("#msKeyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    } else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                $('#btnMsDeepSearch').on("click", function () {
+                    var keyword = '';
+                    //20210315 加上判斷，取QueryString(KW)，若輸入關鍵字已搜尋過，則跳出提示訊息，避免重複搜尋
+                    Request = GetRequest();
+                    if ($.trim($("#msKeyword").val()) == "") {
+                        alert("請輸入關鍵字"); return false;
+                    } else if (keyword.indexOf($.trim($("#msKeyword").val())) >= 0) {
+                        alert("此關鍵字已包含至檢索字詞中，請重新輸入");
+                        return false;
+                    }
+                    else {
+                        GoogleAnanlytice("中文", "整合查詢-首頁", "", "");
+                        return true;
+                    }
+                });
+                //20210217 再檢索收合、展開功能
+                $("#btnOpen").click(function () {
+                    if ($('#ulDeepSearch').hasClass('overflow-hidden')) {
+                        $(this).html("收合");
+                        $(this).prop('title', '隱藏部分「再檢索」篩選條件，僅顯示一行');
+                        $("#ulDeepSearch").removeClass("overflow-hidden").addClass("overflow-inherit");
+                    }
+                    else {
+                        $(this).html("展開");
+                        $(this).prop('title', '顯示所有目前「再檢索」篩選條件');
+                        $("#ulDeepSearch").removeClass("overflow-inherit").addClass("overflow-hidden");
+                    }
+                });
+                $("#btnHelp").click(function () {
+                    OpenKeyWordHelp();
+                    return false;
+                });
+                // 綁定整合查詢的 Enter 鍵事件
+                $('#keyword').keypress(function (e) {
+                    if (e.which == 13) {
+                        e.preventDefault();
+                        $('#btnQall').click();
+                    }
+                });
+                // --- 新增：綁定整合查詢的 Enter 鍵事件 (行動版) ---
+                $('#msKeyword').keypress(function (e) {
+                    if (e.which == 13) {
+                        e.preventDefault();
+                        $('#btnMsQall').click();
+                    }
+                });
+                $('#dropdownMenu').attr('data-bs-toggle', 'dropdown');
+                $('#unitlist').on("click", "a", function (e) {
+                    e.preventDefault();
+                    var $this = $(this).parent();
+                    var a = $(this).html();
+                    b = $this.data("value");
+                    $this.addClass("select").siblings().removeClass("select");
+                    $("#dropdownMenu").html(a);
+                    $('#hidVal').val(b);
+                });
+                //$('#keyword').on('input propertychange paste keypress', function () {
+                //    BindAutocomplete('#keyword', b);
+                //});
+                BindAutocompletes('#keyword', b);
+                function BindAutocompletes(orl, stype) {
+                    $(orl).autocomplete({
+                        source: function (request, response) {
+                            $.ajax({
+                                url: "../controls/GetTermList.ashx",
+                                type: 'post',
+                                dataType: "json",
+                                data: {
+                                    term: request.term, type: stype
+                                },
+                                success: function (data) {
+                                    response(data);
+                                }
+                            });
+                        },
+                        minLength: 1, //至少輸入幾個字元才開始給提示
+                        focus: function (event, ui) {
+                            return false;
+                        },
+                        select: function (event, ui) {
+                            if ($.trim(ui.item.PCODE).length == 0)
+                                $(this).val(ui.item.TERM);
+                            else
+                                location.href = "../Hot/AddHotLaw.ashx?pcode=" + encodeURIComponent(ui.item.PCODE);
+                            return false;
+                        },
+                        messages: { noResults: '', results: function () { } }//不顯示結果文字
+                    }).data("ui-autocomplete")._renderItem = function (ul, item) {
+                        if ($.trim(item.PCODE) != "")
+                            return $("
+")
+                                .append("
+直接連結
+" + item.TERM + "
+")
+                                .appendTo(ul);
+                        else {
+                            if (ul.find(".label-usual").length == 0)
+                                return $("
+")
+                                    .append("
+常用詞彙
+" + item.TERM + "
+")
+                                    .appendTo(ul);
+                            else
+                                return $("
+")
+                                    .append("
+" + item.TERM + "
+")
+                                    .appendTo(ul);
+                        }
+                    };
+                }
+            });
+            function validateEmail(email) {
+                if (email.includes("%")) {
+                    return false;
+                }
+                return true;
+            }
+            function OpenKeyWordHelp() {
+                var a = "/Service/KeyWordHelp.aspx";
+                TINY.box.show({ iframe: a, width: 810, height: 680 });
+                //return false;
+            }
+            function GetRequest() {
+                var url = location.search;
+                var theRequest = new Object();
+                if (url.indexOf("?") != -1) {
+                    var str = url.substr(1);
+                    strs = str.split("&");
+                    for (var i = 0; i 
+ 1200) {
+                if (keyword != null && keyword.length > 26) {
+                    $("#btnOpen").removeClass("display-none");
+                }
+            } else {
+                if (keyword != null && keyword.length > 19) {
+                    $("#btnOpen").removeClass("display-none");
+                }
+            }
+        $(function () {
+            $('[data-fancybox]').fancybox({
+                toolbar: false,
+                smallBtn: true,
+                iframe: {
+                    css: {
+                        width: '400px',
+                        height: '170px'
+                    }
+                }
+            });
+            // 精準鎖定法規沿革、條文內容、要旨等存放文字的容器
+            $('.text-pre, .col-data, .law-reg-content').each(function () {
+                var $this = $(this);
+                var text = $.trim($this.text());
+                if (text.length === 0) return;
+                // 正則表達式判斷：完全不含中文，且含有英文字母
+                var hasChinese = /[\u4e00-\u9fa5]/.test(text);
+                var hasEnglish = /[a-zA-Z]/.test(text);
+                if (!hasChinese && hasEnglish) {
+                    $this.attr('lang', 'en');
+                }
+            });
+        });

@@ -1,0 +1,17 @@
+art2 https://www.law.cornell.edu/constitution/articleii
+art1 https://www.law.cornell.edu/constitution/articlei
+u1341 https://www.law.cornell.edu/uscode/text/31/1341
+u364 https://www.law.cornell.edu/uscode/text/43/364
+u28_1 https://www.law.cornell.edu/uscode/text/28/1
+u2072 https://www.law.cornell.edu/uscode/text/28/2072
+pbs https://www.pbs.org/newshour/politics/trump-signs-government-funding-bill-ending-record-43-day-shutdown
+cnsa https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030133
+const https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001
+add https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002
+p443 https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310624
+tsai https://cons.judicial.gov.tw/judge.aspx?fid=8&id=10049
+pres86 https://www.president.gov.tw/Page/86
+pres325 https://www.president.gov.tw/Page/325
+ey https://www.ey.gov.tw/Page/3C927BC7FA83C969
+fr14172 https://www.federalregister.gov/documents/full_text/text/2025/01/31/2025-02096.txt
+doi https://doi.org/10.1111/j.1475-6765.1980.tb00569.x

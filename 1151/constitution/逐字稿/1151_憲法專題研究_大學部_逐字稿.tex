@@ -1,0 +1,34 @@
+\documentclass[11pt,oneside,openany]{book}
+
+% 1151 憲法專題研究（東吳大學法律學系學士班法二Ａ，湯德宗老師，BLW52401）課堂逐字稿。
+% 一週一部：Teile/<週>.tex 由 Skripte/gen_tex.py 自 Notizen/<週>/ 各表產生（cue 表、校訂、斷句、說話人、編註）。
+% 每個 cue 前有 % cue N 起秒 迄秒，hypertarget 為 w01:cue:N 之形。編註在 Notizen/<週>/編註.tsv。
+% 宏包：Translation 倉 LaTeX/course-notes.sty。編譯：./build.sh。
+
+\def\TransLaTeXDir{../../../../1142/Translation/LaTeX}
+\input{\TransLaTeXDir/course-notes.sty}
+\addbibresource{refs.bib}
+\CourseNotesMeta{憲法專題研究（大學部）課堂逐字稿}{王逸帆}
+\CourseNotesChinese[部]
+
+% 段首時間碼：排在左邊界外，小字灰色
+\newcommand{\tc}[1]{\noindent\llap{\makebox[0pt][r]{\scriptsize\color{gray}#1\hspace{0.8em}}}}
+% 說話人標籤（老師以外者，或回到老師時）
+\newcommand{\speaker}[1]{{\small\bfseries #1：}}
+\setlength{\emergencystretch}{2em}
+
+\newcommand{\documentversion}{v0.1（2026-11-24）}
+
+\begin{document}
+\frontmatter
+\coursetitle{憲法專題研究}{課堂逐字稿}%
+  {東吳大學法律學系學士班　憲法專題研究（權力分立原則）\\115 學年度第 1 學期　湯德宗老師}%
+  {\documentversion}
+\tableofcontents
+\mainmatter
+\input{Teile/W01_0914}
+\input{Teile/W08_1102}
+\input{Teile/W11_1123}
+\backmatter
+\printbibliography[heading=bibintoc,title=參考文獻]
+\end{document}

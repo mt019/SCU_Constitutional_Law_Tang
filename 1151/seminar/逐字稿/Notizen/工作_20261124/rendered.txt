@@ -1,0 +1,828 @@
+503|反多數決的力量。
+504|沒有違憲審查，
+505|那麼你主張違憲審查這個制度是正當的人，
+506|你就負有舉證責任，
+507|you have the burden of showing
+508|that it can be reconciled with the underlying assumption
+509|of the democratic governance。
+510|你說不怪不怪，
+511|它為什麼是正當的？
+512|因為我有辦法調和它背後所依據的這個民主統治，
+513|這個基礎的假設，
+514|那你一定要說它怎麼不違反民主，
+515|它怎麼可以調和，
+516|不然它就是沒有辦法過這個難關呢？
+517|the various answer，
+518|好，這裡要注意了，
+519|我們有很多種答案，
+520|to the question of the legitimacy of the judicial review
+521|have generally postulated，
+522|postulated，
+523|通常我們是假設，
+524|that no form of judicial review is acceptable as a legitimate
+525|unless it can be shown that it is specifically authorized by some positive democratic legitimating fact。
+526|這句話就比較難解了。
+527|我們這樣講的時候，
+528|我們通常是假設，
+529|假設什麼呢？
+530|沒有任何一種，
+531|沒有任何一種形式的違憲審查，
+532|是可以被認定為正當的，
+533|除非你能夠證明，
+534|它特定的，
+535|特別的被授權，
+536|具體的被授權，
+537|被什麼東西授權，
+538|某一種積極的，
+539|民主的，
+540|正當性的事實。
+541|這句話真難翻，
+542|聽得懂嗎？
+543|一定要有一個 positive，
+544|不是 negative，
+545|一個積極的，
+546|一個正向的 legitimating fact，
+547|使它變得正當的事實。
+548|而且這個使它變成正當，
+549|因為我們是民主國，
+550|所以它一定是民主的正當事，
+551|使它民主又正當的這樣的一個授權，
+552|這樣你才能夠說，
+553|違憲審查是正當的。
+554|那這個正當的授權呢，
+555|一定是特定的，
+556|所以是 specifically。
+557|那這是等一下它會講的。
+558|下面一句，
+559|They ought to establish what I call
+560|the specific legitimacy of judiciary.
+561|也就是一般形形，
+562|你必須要能夠證明，
+563|你具有特定的，
+564|違憲審查正當性，
+565|你特定的被授權，
+566|你特定的有一個，
+567|符合民主的，
+568|使它成為正當的授權事實，
+569|這樣有個特定的授權事實。
+570|In this text
+571|I should argue，
+572|在本文裡，
+573|我主張，
+574|the institution of the judicial review of legislation does not need，
+575|我不認為，
+576|需要 specifically authorized in order to be accepted as legitimate.
+577|討論民主，
+578|討論違憲審查正當性的授權，
+579|一般都是強，
+580|特定授權。
+581|我不認為，
+582|我不認為需要特定授權。
+583|那是什麼意思呢？
+584|再看下一句，
+585|the mere fact，
+586|下面這個單純的事實，
+587|the judiciary already exercises effective coercive power，
+588|司法已經能夠行使有效的強制力。
+589|你可以不遵守嗎？
+590|當然，
+591|你要說，
+592|我們大法官做了解釋，
+593|努力法者不遵從，
+594|那他就沒有強制力。
+595|那我們現在是講他有強制力，
+596|and political authority，
+597|而且有政治權威，
+598|within society，
+599|這是一個事實。
+600|這是一個這樣的單純事實。
+601|constitute，
+602|前面是 fact，
+603|主詞，
+604|這個事實就構成一個 sufficient reason，
+605|足充分的理由，
+606|to recognize what I shall call the general legitimacy of the judicial review。
+607|我認為不需要特定的，
+608|不需要再有特定的授權，
+609|為什麼？
+610|因為我們都知道司法審查，
+611|這是一個客觀存在的事實，
+612|它有拘束力，
+613|這樣的東西就夠了，
+614|那我們就可以承認它有一般的正當性。
+615|my argument does not deny，
+616|我並不否認，
+617|some form of specific authorization could support judicial review，
+618|我並不否認，
+619|也許有一種特定的授權也可以支撐違憲審查，
+620|and enhance its moral legitimacy，
+621|我並不否認，
+622|否定，
+623|我講的一般性，
+624|正一般正當性以外，
+625|可以有特定正當性，
+626|我不否認這件事情。
+627|但是這不是我的目的。
+628|my claim，
+629|我的主張就是，
+630|that such support is not necessary，
+631|但我認為是不必要的。
+632|judicial review of legislation is legitimate and in principle，
+633|in principle 圈起來。
+634|我的主張就是，
+635|違憲審查原則上是正當的。
+636|你看看這兩個字正好相反，
+637|specific legitimacy is 原則上不正當的，
+638|除非你得到特定授權，
+639|你才能證明為正當。
+640|我的說法正好相反。
+641|作者說，
+642|我認為有這個客觀的事實在那裡存在，
+643|它運行了那麼多年，
+644|它其實大家都接受了，
+645|所以呢，
+646|我們應該推定它為合法，
+647|推定它為正當，
+648|原則上是正當。
+649|indeed
+650|I shall argue，
+651|我要主張的是，
+652|It is only，
+653|It is not only morally permissible，
+654|這個所謂的正當，
+655|不只是道德上，
+656|可允許有違憲審查。
+657|It might be required，
+658|在某些情況之下，
+659|它甚至於還可能是，
+660|也許會是必要的。
+661|It is a matter of political morality，
+662|基於政治道德而言，
+663|它可能還是必要的。
+664|不僅是允許有違憲審查，
+665|甚至還非得有違憲審查不可，
+666|所以才叫 required。
+667|它這句話講的很，
+668|英文來講沒有，
+669|不能懂，
+670|中文很難懂。
+671|因為我們中國人的頭腦沒有那麼複雜。
+672|不知道我是不是中國人。
+673|我的頭腦，
+674|我假如代表中國人頭腦，
+675|我的頭腦看到這樣的句子，
+676|我是可以懂的。
+677|但是我認為，
+678|一般人中國人是聽不懂的。
+679|就它講的話，
+680|已經好幾個層次了。
+681|好啦。
+682|One might think of this question
+683|become academic in countries
+684|where judicial review established as constitutional practice。
+685|也許有人會說，
+686|那你區別特定正當性跟一般正當性，
+687|這有意義嗎？
+688|那純粹是學者之見。
+689|他說呢，
+690|尤其是在違憲審查，
+691|在某些國家已經被認為是一個，
+692|既成的憲政事實，
+693|憲法運作的時候，
+694|這樣講還有意義嗎？
+695|他說典型的例子像 Michael Perry。
+696|Michael Perry 我們以前有讀過他的文章，
+697|那他就有這樣的論述，
+698|被他挑出來了。
+699|然後他說，
+700|加拿大還有兩個人也是這樣的主張。
+701|中間這你們自己幹，
+702|不重要。
+703|注意的是他不同意，
+704|這些位置是不錯的，
+705|有沒有？
+706|跳跳跳。
+707|文字下面的大行，
+708|526 頁最後一大段。
+709|他說這個觀點，
+710|這個立場，
+711|是誤導的。
+712|這兩個問題是，
+713|這兩個問題是，
+714|違憲審查，
+715|應如何進行，
+716|what are its inherent limitations，
+717|它有沒有本質上的限制，
+718|depends on the answer to the big questions，
+719|這兩個問題，
+720|要取決一個更大的問題，
+721|更大的問題是什麼？
+722|whether judicial review can be made legitimate at all，
+723|根本的問題是，
+724|違憲審查能不能成為正當。
+725|違憲審查如果不能成為正當，
+726|你討論違憲審查應如何行事，
+727|你違憲審查有沒有本質限制，
+728|就好像是太逾越了，
+729|太跳躍，太超過了，
+730|你一步一步來。
+731|如果現成它都不能正名為正當，
+732|你還跟我討論要如何行事，
+733|它有什麼本質限制，
+734|你講到最後一步不來。
+735|whether it is a good idea，
+736|and whether it has been historically established by we the people，
+737|我們人民到底有沒有承認這個制度。
+738|we the people 是美國憲法的用語，
+739|人民立憲的時候有沒有這個想法。
+740|where the institution of the judicial review is accepted as legitimate
+741|the determination of its proper limitations
+742|including the correct modes of interpretation and deference
+743|is constrained by the value and considerations that have justified it in the first place。
+744|好，這幾個地方要稍微注意一下，
+745|等一下你會看到了。
+746|它講了一些根本，根本是什麼？
+747|就是價值還有考慮，
+748|那種價值跟考慮呢？
+749|是使得違憲審查變成正當的。
+750|好，所以真正重要的是，
+751|憲法裡面也好，
+752|不管是成文的，
+753|或者是不成文的，
+754|外面也好，
+755|到底有沒有使得違憲審查成為正當的這種價值和考慮？
+756|that is，
+757|也就是說，
+758|by the answer given to the more abstract
+759|the normative and speculative question of legitimacy。
+760|好了，中間跳過。
+761|it is therefore important to determine，
+762|很重要的要決定，
+763|whether judicial review of democratically enacted legislation can be made morally permissible in principle。
+764|剛才講的是 legitimacy，
+765|legitimacy 它現在換一個字，
+766|叫做 morally permissible，
+767|he，
+768|道德上是可接受的，
+769|原則上的原則。
+770|my argument is divided into three sections.
+771|它下面要講的就是這件事情，
+772|我要怎麼論證在一個民主國家，
+773|對一個民主程序所通過的法律，
+774|我們由不民主不民選的一群法官可以來進行審查，
+775|這件事情在原則上去道德上允許。
+776|這就是它講的 legitimacy，
+777|legitimacy 就是 morally permissible。
+778|你以後去注意，
+779|我現在講的，
+780|這就是你讀了以後，
+781|你要把它寫在旁邊，
+782|這兩個是同位常常會互用的，
+783|interchangeable。
+784|好，那它下面呢，
+785|分成三個章節，
+786|section 1，
+787|I will examine the structure and the limits of the theories，
+788|好多個理論，
+789|seeking to establish specific legitimacy of judicial review，
+790|好幾個不同的理論，
+791|要來證明所謂違憲審查特定正當性，
+792|所以特定正當性是一節。
+793|剛開標題，
+794|是不是這樣子，
+795|好，section 2，
+796|I will establish the general legitimacy of judicial review，
+797|我認為我要講的是一般正當性，
+798|這是第二節。
+799|好，那為什麼跑出來第三節，
+800|在這種考驗呢，
+801|這句話要看一下。
+802|第三節，
+803|我主要要論，
+804|我剛才提的，
+805|違憲審查，
+806|一般正當性的這個命題，
+807|或者這個理論，
+808|它可能對我們的代議制度，
+809|對我們憲法基礎的這個代議制度，
+810|可能產生什麼影響？
+811|你說違憲審查是正當的，
+812|而且原則上是道德允許的，
+813|好，那你這麼講，
+814|對於我們民主憲法，
+815|它的基本原則，
+816|會產生什麼影響呢？
+817|這就是我第三節要講的。
+818|所以他會提出來一個，
+819|Constitutional Law，
+820|就是要論，
+821|我剛才提的，
+822|我剛才提的，
+823|違憲審查，
+824|一般正當性的這個命題，
+825|或者這個理論，
+826|它可能對我們的代議制度，
+827|對我們憲法基礎的這個代議制度，
+828|可能產生什麼影響。
+829|你說違憲審查是正當的，
+830|而且原則上是道德允許的，
+831|好，那你這麼講，
+832|對於我們民主憲法，
+833|它的基本原則，
+834|會產生什麼影響呢？
+835|這就是我第三節要講的。
+836|你也可以把它想成是，
+837|Democratic Constitution Thesis，
+838|民主憲法的基礎，
+839|命題。
+840|OK。
+841|In a short conclusion，
+842|最後一個很簡短的結論，
+843|我建議，
+844|一些答案到三個其他問題，
+845|更多的其他問題，
+846|那些主憲法的現實，
+847|對於主宰的規範性，
+848|當代的憲政理論，
+849|影響的另外三個問題，
+850|我想的也會提供，
+851|某些答案。
+852|What is the purpose of the Constitution?
+853|憲法的目的，
+854|有沒有剛才講的，
+855|我們結論第一點，
+856|就是 the purpose of the Constitution。
+857|第二點，
+858|what makes the Constitution legitimate?
+859|什麼使得憲法變成正當？
+860|第三點，
+861|what kind of argument are legitimate
+862|within the process of the Constitutional Interpretation?
+863|在憲法解釋的過程當中，
+864|哪一些論證使得它變得正當？
+865|我們剛剛講 123，
+866|是不是正 123?
+867|所以你這樣看，
+868|你如果覺得剛才講的不清楚，
+869|結論我實際上是可能再重複了。
+870|我今天用 fade 也飛不到那裡。
+871|但是我剛已經講過了，
+872|你現在就知道它的結構。
+873|好，我現在回應一個問題，
+874|上次我學說，
+875|老師這麼難的東西要怎麼讀？
+876|我跟這個問題，
+877|我跟你們一樣，
+878|老師也不是神，
+879|我也是在摸索，
+880|我只比你摸索多 40 年而已。
+881|那我就是跟你們一樣讀。
+882|那你現在看到了，
+883|你讀讀頭，讀讀尾巴，
+884|你已經大概知道它的整體結構。
+885|那現在呢，
+886|看你的需要，
+887|那我認為我們這個課快不得了，
+888|快不得了。
+889|有關於那個 Constitutional Thesis，
+890|Constitutional Law Thesis，
+891|今天一定講不到，
+892|但是你們回去看。
+893|然後它裡面又分成成文憲法，
+894|跟非成文憲法。
+895|那個你就算是進階版，
+896|就是說，
+897|你的學問要很好，
+898|你才需要去處理。
+899|現在我們能處理一跟二，
+900|就已經 Orbit of War。
+901|你一跟二，
+902|你就看到一大堆人名字在裡，
+903|不管是 John E.P.
+904|還有包括這個，
+905|Bruce Ackerman 都在裡面。
+906|所以我跟你說，
+907|這是一個很難的討論。
+908|他就把現在我們討論，
+909|這麼大堆複雜的事情，
+910|它統統包在這篇文章。
+911|那這篇文章，
+912|當然很安心。
+913|我是很佩服這個人。
+914|要是我寫了，
+915|我坦誠，
+916|我寫不出來。
+917|好。
+918|來，先看一。
+919|Specific legitimacy thesis，
+920|特定正當性的命題。
+921|The question of political legitimacy，
+922|先講什麼叫做政治正當性。
+923|我們前面都講 legitimacy，
+924|從來沒有加 political。
+925|所以你現在看到這個作者，
+926|它實際上是，
+927|你可以說它很 tricky，
+928|你每次偷渡一點，
+929|每次偷渡一點，
+930|這次偷渡進來的是 political legitimacy。
+931|因為他認為，
+932|政府正當是政治問題。
+933|有關於政治正當性的問題，
+934|這是政治正當性的問題，
+935|這是人生的問題。
+936|當一個人或一個人，
+937|當一個人或一個人，
+938|擔任的公司，
+939|擔任的公司，
+940|要有權利益。
+941|注意這句話，
+942|當一個人或一個機構，
+943|對個人主張權威的時候，
+944|它就會產生政治正當性的問題。
+945|後面那個 or，
+946|可以看，
+947|你可以不看。
+948|就是你到這裡就可以懂。
+949|後面這是換一種方法來表述。
+950|再講一遍，
+951|政治正當性，
+952|就是當一個人或一個機構，
+953|對個人主張權威的時候，
+954|你得聽我的，
+955|不然會處罰你。
+956|你憑什麼？
+957|我有正當性。
+958|你有什麼正當性？
+959|我有政治正當性。
+960|所謂的正當性，
+961|這是政治正當性。
+962|好了。
+963|再講一下，
+964|這個問題，
+965|這個問題，
+966|seeks to determine，
+967|尋求決定，
+968|尋求斷定，
+969|the moral considerations，
+970|所以你看呢，
+971|他講的這些事情，
+972|都是道德，
+973|道德上的考慮。
+974|什麼樣的道德考慮？
+975|by virtue of which，
+976|經由那個道德考慮，
+977|this person
+978|or this institution
+979|is entitled to command。
+980|我是個個人，
+981|我是個機構，
+982|我對於其他的個人，
+983|主張權威。
+984|那我說，
+985|這裡牽涉到政治正當性。
+986|那換個方法講，
+987|政治正當性呢，
+988|就是來詢問，
+989|你政治正當性裡面，
+990|到底有什麼，
+991|moral considerations，
+992|有什麼樣的道德考慮，
+993|使得你有權力這麼主張，
+994|你得服從我。
+995|你問我說，
+996|你跟我講，
+997|你要服從我，
+998|那我問你，
+999|為什麼我要服從你？
+1000|你跟我講說，
+1001|我具有道德正當性。
+1002|好。
+1003|那什麼叫道德正當性？
+1004|那就是，
+1005|使得你必須服從我的那些，
+1006|道德上的考慮。
+1007|我這樣講，
+1008|句子有錯亂嗎？
+1009|你去換，
+1010|代換你就會帶。
+1011|這裡開始的時候，
+1012|是講 legitimacy，
+1013|legitimacy，
+1014|其實就是某些道德考慮，
+1015|那這些道德考慮，
+1016|可以使得你叫別人，
+1017|要服從你的權威，
+1018|就對了。
+1019|那我就記住，
+1020|legitimacy，
+1021|就是某些道德考慮。
+1022|然後，
+1023|this idea must minimally，
+1024|最起碼的 imply，
+1025|it is in principle morally wrong
+1026|for someone to interfere with the legal
+1027|the legitimate political actions
+1028|or decisions
+1029|unless one can show that such interference
+1030|is itself legitimate。
+1031|除非你能證明，
+1032|干涉這件事情是正當的，
+1033|否則，
+1034|原則上，
+1035|我們認為，
+1036|你去干涉，
+1037|和正當的政治行動，
+1038|或者政治決定，
+1039|這件事情本身，
+1040|是道德上的錯誤。
+1041|除非你能證明，
+1042|我干涉是正當的，
+1043|你證明不出來，
+1044|干涉是正當的，
+1045|那你就得必須承認，
+1046|你的干涉是錯誤的，
+1047|道德上是錯誤的。
+1048|所以你看到這句，
+1049|that is morally permissible，
+1050|legitimate，
+1051|就是 morally permissible，
+1052|而可不可以，
+1053|是要看後面的 moral considerations，
+1054|來決定。
+1055|這個就算是明詞寢誓吧。
+1056|你這樣子玩了，
+1057|你就可以明白他要講什麼。
+1058|好。
+1059|那麼他現在講呢，
+1060|看下一句，
+1061|下一段，
+1062|in general
+1063|the answer to the question has taken a form，
+1064|用什麼樣的形式，
+1065|moral principle
+1066|indicating the positive fact
+1067|by virtue of which
+1068|political actions are specifically authorized，
+1069|你採取了某樣的政治行動，
+1070|那個政治行動是特定得到了授權，
+1071|你有一個這樣子的具體的積極事實，
+1072|有這個具體的積極事實，
+1073|去授權，
+1074|來採取某樣的政治行動，
+1075|那這樣子我們才能處理是這張。
+1076|那這有很多種說法，
+1077|很多個不同的 versions。
+1078|那第一個就叫做 consent theory，
+1079|叫做同意說。
+1080|什麼意思？
+1081|for example，
+1082|It has stated that fact
+1083|individual citizen have
+1084|would have voluntarily consented to be governed
+1085|by a given form of government
+1086|constitute sufficient reason to regard the action of the government
+1087|as specifically authorized。
+1088|當人民，
+1089|當人民，
+1090|當人民，
+1091|在某些情況下說，
+1092|我自願的，
+1093|我是真心誠意的，
+1094|同意了政府的統治行為，
+1095|那麼政府，
+1096|這個統治就具有正當性。
+1097|政府這個決定，
+1098|這個決定，
+1099|就會具體的授權，
+1100|特定的授權。
+1101|我有同意，
+1102|我同意你這麼做，
+1103|那我這個同意，
+1104|我這個授權，
+1105|就是使得你變得正當。
+1106|我可能沒有泛泛的同意，
+1107|但是我有具體的。
+1108|without such an actual consent，
+1109|如果沒有這樣的同意，
+1110|laws enacted by such government，
+1111|這個政府所制定的法，
+1112|它在道德上，
+1113|不會被允許，
+1114|也就是不會具有正當性。
+1115|道德上的允許，
+1116|道德上的 permissible，
+1117|就是 legent of 法。
+1118|我剛剛就畫了，
+1119|我一個圖形，
+1120|你畫得出來。
+1121|你一面講，
+1122|一面畫，
+1123|一面寫，
+1124|就不知道他講什麼了。
+1125|你當你讀到，
+1126|覺得比較困難的時候，
+1127|就把那個代曼語句拿出來，
+1128|知道他在講什麼。
+1129|他不要一直講這個具體，
+1130|我覺得你這樣很反應。
+1131|以上是第一說，
+1132|同意說，
+1133|人民對某個具體行為有同意，
+1134|那他所實施的這個，
+1135|你就要同意，
+1136|承認，
+1137|而具有正當性。
+1138|第二個叫 democratic theory，
+1139|supplies another principle，
+1140|It states that the fact
+1141|a given piece of legislation
+1142|某個例子，
+1143|has a democratic pedigree，
+1144|具有某一種民主的血統，
+1145|make it morally permissible，
+1146|這個法律具有民主的血統，
+1147|那他就具有道德上的正當性。
+1148|這是第二個理論。
+1149|第三個理論，
+1150|other principles may point to other facts
+1151|such as immemorial custom，
+1152|有一種不朽的習慣，
+1153|divine law，
+1154|神聖的法律，
+1155|the law of nature，
+1156|自然法，
+1157|a constitution and so on，
+1158|好多好多種不同的來源，
+1159|你說我得到他的授權，
+1160|他都是正當的。
+1161|this answer seeks to establish what I should call
+1162|a specific legitimacy of political authority，
+1163|某個政治權威的特定授權。
+1164|this they point to positive legitimating
+1165|facts，
+1166|這個是有一個具體的，
+1167|使它成為正當的事實，
+1168|沒有這樣的具體的事實，
+1169|使它成為正當的事實，
+1170|也就是說沒有這種具體的授權，
+1171|這不可能阻障。
+1172|是有一個具體的，
+1173|使它成為合法的事實。
+1174|泛泛的講什麼叫授權，
+1175|你說什麼叫授權，
+1176|這就是授權。
+1177|說法，
+1178|有的是用同意來表現，
+1179|有的是用民主來表現，
+1180|有的是用其他的法院來表現，
+1181|有的是用其他的法院來表現。
+1182|好。
+1183|the judiciary exercises effective coercive power
+1184|and has political authority
+1185|and has political authority
+1186|within society，
+1187|司法部門具有強制力，
+1188|有效的強制力量，
+1189|而且它是一個政治的權威。
+1190|這件事情可能要稍微說一下，
+1191|因為在臺灣，
+1192|大概你講說司法是一個政治的權威。
+1193|這件事情可能要稍微說一下，
+1194|因為在臺灣，
+1195|大概你講說司法是一個政治的權威。
+1196|這件事情可能要稍微說一下，
+1197|因為在臺灣，
+1198|大概你講說司法是一個政治的權威。
+1199|這件事情可能要稍微說一下，
+1200|因為在臺灣，
+1201|大概你講說司法是一個政治的權威。
+1202|這件事情可能要稍微說一下，
+1203|因為在臺灣，
+1204|大概你講說司法是一個政治權。
+1205|哇，
+1206|很多人就覺得你在那裡，
+1207|在污衊司法。
+1208|我們是獨立的，
+1209|怎麼說我們是政治權呢？
+1210|但是這個作者他不是這樣想的，
+1211|就是純粹從憲法的觀點來講，
+1212|當然是一個權力，
+1213|只要它是權力，
+1214|它就是 political authority。
+1215|聽得懂我講話的意思嗎？
+1216|用德國人的話講是，
+1217|這是我們憲法機關。
+1218|請問你憲法機關何以取得權力？
+1219|依據憲法。
+1220|那憲法是什麼東西？
+1221|憲法是一套政治的權威，
+1222|所以它一定是一個 political authority。
+1223|只不過你這個 political authority 的權力來源跟行程運動方式，
+1224|可能跟其他的政治部門也許不同，
+1225|但是你絕對是一個 political authority，
+1226|不然我為什麼要服從你，
+1227|我幹嘛聊你法意要幹去。
+1228|ok？
+1229|那，by virtue of what consideration 又來了，
+1230|what consideration，
+1231|是不是正當性嗎？
+1232|哪些，
+1233|can we say that the power of this authority is legitimate?
+1234|是根據什麼樣的考慮，
+1235|我們說它是正當？
+1236|然後，
+1237|從而，
+1238|its action and decision are morally permissible，
+1239|從而它的決定是道德上允許的，
+1240|道德上允許就是正當。
+1241|the modern answer has taken the form of principles
+1242|establishing the specific legitimacy，
+1243|I call it the specific legitimacy thesis，
+1244|那我就把它們通稱叫做
+1245|"特定正當性命題"。
+1246|好。
+1247|it can be summarized into four propositions，
+1248|看看你寫，
+1249|看你有沒有辦法寫，
+1250|正當性會包含以下四命題，
+1251|就是它做成同一共產部。
+1252|第一，
+1253|"特定正當性命題"，
+1254|一，
+1255|SLT1，
+1256|"The judiciary has no inherent legitimacy"，
+1257|司法是沒有內在正當性的，
+1258|或者沒有本質正當性。
+1259|這個可以理解嗎？
+1260|我們是個民主政府，
+1261|司法也不是我們選的，
+1262|它也不對我們負責，
+1263|從哪裡來的正當性？
+1264|它當然本質上沒有正當性，
+1265|它一定要從別的地方取得正當性，
+1266|它不可能有本質正當性。
+1267|這裡可能換個句子來講，
+1268|總統或者民意代表，
+1269|他可能可以主張，
+1270|他具有某種本質上的正當性，
+1271|因為你們選我，
+1272|你們授權給我，
+1273|你們同意我，
+1274|不是嗎？
+1275|不然我怎麼會行使權力？
+1276|好，
+1277|以上一。
+1278|這一點要記住前提，
+1279|是司法沒有本質正當性，
+1280|所以你得去證立它的正當性。
+1281|第二，
+1282|SLT2，
+1283|Specific legitimacy of judicial power is conditioned，
+1284|這個字圈起來，
+1285|條件，
+1286|by the rule of law，
+1287|所謂的，
+1288|違憲審查特定正當性，
+1289|是以法治作為條件，
+1290|這是副條件。
+1291|換句話說，
+1292|如果你不符合法治這個條件，
+1293|你就不可能取得特定的正當性。
+1294|這就是三個例子。
+1295|這個你會不會想，
+1296|什麼叫法治？
+1297|自止三件事。
+1298|這個地方對於法治的看法，
+1299|大家各有不同，
+1300|這個是一種說法，
+1301|我就這樣講就好了，
+1302|我的見解也許不完全大。
+1303|第一，
+1304|the constitution of the judiciary must be according to law，
+1305|有關於司法的組成，
+1306|看 the constitution 這個字，
+1307|如果你還懷疑，
+1308|那你再看它後面，
+1309|its structure and composition，
+1310|法院的組成，
+1311|還有法官的組成，
+1312|structure and composition must be according to law，
+1313|一定要依法。
+1314|可以想想看，
+1315|今天 114 憲判一，
+1316|所以我要復活了。
+1317|那它行為它的爭議，
+1318|是跟這個有關的。
+1319|但是這個爭議有關的是，
+1320|第一，
+1321|它的人數，
+1322|它的 composition，
+1323|它的結構，
+1324|它有 according to law 嗎？
+1325|這樣講有聽懂了嗎？
+1326|你要講依法，
+1327|我們現在在這邊講，
+1328|抽象的話叫做依法審案，
+1329|依法行政，
+1330|那你看看這是不是都是屬於法治？

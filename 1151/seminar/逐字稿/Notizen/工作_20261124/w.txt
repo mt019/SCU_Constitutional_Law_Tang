@@ -1,0 +1,2965 @@
+# Source PDF
+Waldron_The_Core_Case_against_Judicial_Review_115_Yale_LJ_1346_2006.pdf
+# Total PDF pages
+62
+
+
+===== [PDF_PAGE_0001] =====
+
+The Core of the Case against Judicial Review
+Author(s): Jeremy Waldron
+Source: The Yale Law Journal , Apr., 2006 , Vol. 115, No. 6 (Apr., 2006), pp. 1346-1406
+. Published by: The Yale Law Journal Company, Inc
+Stable URL: https://www.jstor.org/stable/20455656
+Accessibility support:
+This file was last remediated 2026-08-11. If you experience accessibility issues with this
+file, report them here
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+.facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+is collaborating with JSTOR to digitize, preserve and extend access to The Yale Law Journal
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0002] =====
+
+The Core of the Case Against Judicial Review
+
+JEREMY WALDRON
+A B S T R A C T. This Essay states the general case against judicial review of legislation clearly
+and in a way that is uncluttered by discussions of particular decisions or the history of its
+emergence in particular systems of constitutional law. The Essay criticizes judicial review on two
+main grounds. First, it argues that there is no reason to suppose that rights are better pro tected
+by this practice than they would be by democratic legislatures. Second, it argues that, qui apart
+from the outcomes it generates, judicial review is democratically illegitimate. The second
+argument is familiar; the first argument less so.
+However, the case against judicial review is not absolute or unconditional. In this Ess it is
+premised on a number of conditions, including that the society in question has good wo
+democratic institutions and that most of its citizens take rights seriously (even if they ma y
+disagree about what rights they have). The Essay ends by considering what follows from the
+failure of these conditions.
+A U T H O R. University Professor in the School of Law, Columbia University. (From J uly
+2006, Professor of Law, New York University.) Earlier versions of this Essay were present at
+the Colloquium in Legal and Social Philosophy at University College London, at a law fa
+workshop at the Hebrew University of Jerusalem, and at a constitutional law conference a t
+Harvard Law School. I am particularly grateful to Ronald Dworkin, Ruth Gavison, and Seana
+Shiffrin for their formal comments on those occasions and also to James Allan, Aharon B arak,
+Richard Bellamy, Aileen Cavanagh, Arthur Chaskalson, Michael Dorf, Richard Fallon, C harles
+Fried, Andrew Geddis, Stephen Guest, Ian Haney-Lopez, Alon Harel, David Heyd, Sam
+Issacharoff, Elena Kagan, Kenneth Keith, Michael Klarman, John Manning, Andrei Mar
+Frank Michelman, Henry Monaghan, Wronique Munoz-Darde, John Morley, Matthew Palmer,
+Richard Pildes, Joseph Raz, Carol Sanger, David Wiggins, and Jo Wolff for their sugges
+and criticisms. Hundreds of others have argued with me about this issue over the years: T his
+Essay is dedicated to all of them, collegially and with thanks.
+1346
+te ay, rking ed culty mor, tions
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0003] =====
+
+ESSAY CONTENTS
+INTRODUCTION 1348
+I. DEFINITION OF JUDICIAL REVIEW 1353
+II. FOUR ASSUMPTIONS 1359
+A. Democratic Institutions 1361
+B. Judicial Institutions 1363
+C. A Commitment to Rights 1364
+D. Disagreement About Rights 1366
+III. THE FORM OF THE ARGUMENT 1369
+IV. OUTCOME-RELATED REASONS 1376
+A. Orientation to Particular Cases 1379
+B. Orientation to the Text of a Bill of Rights 1380
+C. Stating Reasons 1382
+V. PROCESS-RELATED REASONS 1386
+VI. THE TYRANNY OF THE MAJORITY 1395
+VII.NON-CORE CASES 1401
+CONCLUSION 1406
+1347
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0004] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+INTRODUCTION
+Should judges have the authority to strike down legislation when they are
+convinced that it violates individual rights? In many countries they do. T he
+best known example is the United States. In November 2003, the Suprem
+Judicial Court of Massachusetts ruled that the state's marriage licensing laws
+violated state constitutional rights to due process and equal protection b y
+implicitly limiting marriage to a union between a man and a woman.' T he
+decision heartened many people who felt that their rights had bee
+unrecognized and that, as gay men and women, they had been treated a s
+second-class citizens under the existing marriage law.2 Even if the decision is
+eventually overturned by an amendment to the state constitution, the plaintiff
+and their supporters can feel that least the issue of rights is now bein
+confronted directly. A good decision and a process in which claims of rights a re
+steadily and seriously considered3 for many people these are reasons f or
+cherishing the institution of judicial review. They acknowledge that judici
+review sometimes leads to bad decisions - such as the striking down of 1 70
+labor statutes by state and federal courts in the Lochner era4 - and the
+acknowledge that the practice suffers from some sort of democratic deficit. Bu
+they say, these costs are often exaggerated or mischaracterized. The democrat
+process is hardly perfect and, in any case, the democratic objection is its
+problematic when what is at stake is the tyranny of the majority. We can, th ey
+argue, put up with an occasional bad outcome as the price of a practice that ha s
+given us decisions like Lawrence, Roe, and Brown,5 which upheld our society's
+commitment to individual rights in the face of prejudiced majorities.
+That is almost the last good thing I shall say about judicial review. (I
+wanted to acknowledge up front the value of many of the decisions it has give
+us and the complexity of the procedural issues.) This Essay will argue tha
+judicial review of legislation is inappropriate as a mode of final decisionmakin
+in a free and democratic society.
+i. Goodridge v. Dep't of Pub. Health, 798 N.E.2d 941 (Mass. 2003).
+2. See Landmark Ruling: The Victors, Boston Herald, Nov. 19, 2003, at 5.
+3. This adapts a phrase of Ronald Dworkin's, from Ronald Dworkin, A Matter of
+Principle 9-32 (1985).
+4. Lochner v. New York, 198 U.S. 45 (1905). The calculation of the overall number of cases in
+which state or federal statutes on labor relations and labor conditions were struck down i n
+the period 1880-1935 is based on lists given in William E. Forbath, Law and the Shapin g
+of the American Labor Movement apps. A, C, at 177-92,199-203 (1991).
+5. Lawrence v. Texas, 539 U.S. 558 (2003); Roe v. Wade, 410 U.S. 113 (1973); Brown v. Bd. of
+Educ, 347 U.S. 483 (1954).
+1348
+e n s g - al y t, ic elf n t g
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0005] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+Arguments to this effect have been heard before, and often. They arise
+naturally in regard to a practice of this kind. In liberal political theory,
+legislative supremacy is often associated with popular self-government,6 and
+democratic ideals are bound to stand in an uneasy relation to any practice that
+says elected legislatures are to operate only on the sufferance of unelected
+judges. Alexander Bickel summed up the issue in the well-known phrase, "the
+counter-majoritarian difficulty."7 We can try to mitigate this difficulty, Bickel
+said, by showing that existing legislative procedures do not perfectly represent
+the popular or the majority will. But, he continued,
+nothing in the further complexities and perplexities of the system,
+which modern political science has explored with admirable and
+ingenious industry, and some of which it has tended to multiply with a
+fertility that passes the mere zeal of the discoverer - nothing in these
+complexities can alter the essential reality that judicial review is a
+deviant institution in the American democracy.8
+In countries that do not allow legislation to be invalidated in this way, the
+people themselves can decide finally, by ordinary legislative procedures,
+whether they want to permit abortion, affirmative action, school vouchers, or
+gay marriage. They can decide among themselves whether to have laws
+punishing the public expression of racial hatred or restricting candidates'
+spending in elections. If they disagree about any of these matters, they can elect
+representatives to deliberate and settle the issue by voting in the legislature.
+That is what happened, for example, in Britain the 196os, when Parliament
+debated the liberalization of abortion law, the legalization of homosexual
+conduct among consenting adults, and the abolition of capital punishment.9
+On each issue, wide-ranging public deliberation was mirrored in serious debate
+in the House of Commons. The quality of those debates (and similar debates in
+Canada, Australia, New Zealand, and elsewhere) make nonsense of the claim
+that legislators are incapable of addressing such issues responsibly-just as the
+6. The locus classicus for this concept is John Locke, The Second Treatise of Government, in Two
+Treatises of Government 265, 366-67 (Peter Laslett ed., Cambridge Univ. Press 1988)
+(1690).
+7. Alexander M. Bickel, The Least Dangerous Branch 16-17 (2d ed. 1986) ("[J]udicial
+review is a counter-majoritarian force in our system. . [W]hen the Supreme Court
+declares unconstitutional a legislative act . it thwarts the will of representatives of the
+actual people of the here and now-").
+8. Id. at 17-18.
+9. Abortion Act, 1967, c. 87; Sexual Offences Act, 1967, c. 60; Murder (Abolition of Death
+Penalty) Act, 1965, c. 71.
+1349
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0006] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+liberal outcomes of those proceedings cast doubt on the familiar proposition
+that popular majorities will not uphold the ri of minorities.
+By contrast, in the United States the peopl or their representatives in state
+and federal legislatures can address these que if they like, but they have
+no certainty that their decisions will prevail. If someone who disagrees with the
+legislative resolution decides to bring the ma before a court, the view that
+finally prevails will be that of the judges. As Ronald Dworkin puts it- and he is
+a defender of judicial review-on "intracta controversial, and profound
+questions of political morality that philosoph statesmen, and citizens have
+debated for many centuries," the people and their representatives simply have
+to "accept the deliverances of a majority of t justices, whose insight into these
+great issues is not spectacularly special.'10
+In recent years, a number of books have ap attacking judicial review
+in America." For years, support for the pr has come from liberals, and
+opposition from conservative opponents of t rights that liberal courts have
+upheld. In recent years, however, we have se the growth of liberal opposition
+to judicial review, as the Rehnquist Court struck down some significant
+achievements of liberal legislative policy.' But there have been spirited
+defenses of the practice as well.'3 The two-hu anniversary of Marbury v.
+Madison elicited numerous discussions of it origins and original legitimacy,
+and the fiftieth anniversary of Brown v. Bo of Education provided a timely
+reminder of the service that the nation's cour performed in the mid-twentieth
+century by spearheading the attack on segreg and other racist laws.
+So the battle lines are drawn, the maneuve is familiar, and the positions
+on both sides are well understood. Wh is the point of this present
+io. Ronald Dworkin, Freedom's Law: The Moral Reading of the American
+Constitution 74 (1996).
+11. See, e.g., Larry D. Kramer, The People Themse Popular Constitutionalism and
+Judicial Review (2004) ; Mark Tushnet, Takin the Constitution Away from the
+Courts (1999).
+12. See, e.g., United States v. Morrison, 529 U.S. 598 (2 (striking down part of the Violence
+Against Women Act); United States v. Lopez, 514 U.S. 549 (1995) (holding that Congress
+has no authority to legislate a prohibition the poss of guns within a certain distance
+from a school); see abo Mark Tushnet, Alarmism V Moderation in Responding to the
+Rehnquist Court, 78 Ind. L.J. 47 (2003).
+13. See, e.g., Dworkin, supra note 10; Christop L. Eisgruber, Constitutional Self
+Government (2001); Lawrence G. Sager, Jus in Plainclothes: A Theory of
+American Constitutional Practice (2004).
+1350
+ghts e stions tter ble, ers, he peared actice en 2 ndredth s ard ts ation ring at lves: g 000) ession ersus her tice
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0007] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+intervention? I have written plenty about this myself already.14 Why another
+article attacking judicial review?
+What I want to do is identify a core argument against judicial review that is
+independent of both its historical manifestations and questions about its
+particular effects - the decisions (good and bad) that it has yielded, the
+heartbreaks and affirmations it has handed down. I want to focus on aspects of
+the case against judicial review that stand apart from arguments about the way
+judges exercise their powers and the spirit (deferential or activist) in which
+they approach the legislation brought before them for their approval. Recent
+books by Mark Tushnet and Larry Kramer entangle a theoretical critique of the
+practice with discussions of its historical origins and their vision of what a less
+judicialized U.S. Constitution would involve."5 This not a criticism of
+Tushnet and Kramer. Their books are valuable in large part because of the
+richness and color they bring to theoretical controversy. As Frank
+Michelman says in his blurb on the back cover of The People Themselves,
+Kramer's history "puts flesh on the bones of debates over judicial review and
+popular constitutionalism."'16 And so it does. But I want to take off some of the
+flesh and boil down the normative argument to its bare bones so that we can
+look directly at judicial review and see what it is premised on.
+Charles Black once remarked that, in practice, opposition to judicial review
+tends to be "a sometime thing," with people supporting it for the few cases
+they cherish (like Brown or Roe) and opposing it only when it leads to
+outcomes they deplore.'7 In politics, support for judicial review is sometimes
+intensely embroiled in support for particular decisions. This most notably
+true in the debate over abortion rights, in which there is a panic-stricken
+refusal among pro-choice advocates to even consider the case against judicial
+review for fear this will give comfort and encouragement to those who regard
+Roe v. Wade as an unwarranted intrusion the rights of conservative
+legislators. I hope that setting out the core case against judicial review in
+14 - See, e.g., Jeremy Waldron, Law and Disagreement 10-17, 211-312 (1999); Jeremy
+Waldron, Deliberation, Disagreement, and Voting, in Deliberative Democracy and Human
+Rights 210 (Harold Hongju Koh & Ronald C. Slye eds., 1999) [hereinafter Waldron,
+Deliberation, Disagreement, and Voting]; Jeremy Waldron, Judicial Power and Popular
+Sovereignty, in Marbury Versus Madison: Documents and Commentary 181 (Mark A.
+Graber & Michael Perhac eds., 2002) [hereinafter Waldron, Judicial Power and Popular
+Sovereignty] ; Jeremy Waldron, A Right-Based Critique of Constitutional Rights, 13 Oxford J.
+Legal Stud. 18 (1993) [hereinafter Waldron, A Right-Based Critique].
+15. See Kramer, supra note 11 ; Tushnet, supra note 11.
+16. Frank Michelman, Jacket Comment on Kramer, supra note 11.
+17. Charles L. Black, Jr., A New Birth of Freedom: Human Rights, Named and Unnamed
+109 (1997)
+1351
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0008] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+abstraction from its particular consequenc can help overcome some of this
+panic. It may still be the case that judicial review is necessary as a protective
+measure against legislative pathologies rel to sex, race, or religion in
+particular countries. But even if that is so, it is worth figuring out whether that
+sort of defense goes to the heart of the matt or whether it should be regarded
+instead as an exceptional reason to refrain from following the tendency of
+what, in most circumstances, would be a compelling normative argument
+against the practice.
+A connected reason for boiling the flesh off the bones of theoretical
+critique is that judicial review is an issue for other countries that have a
+different history, a different judicial cultur and different experience with
+legislative institutions than the United State has had. For example, when the
+British debate the relatively limited po their judges have to review
+legislation, they are not particularly interes in what the Republicans said to
+the Federalists in 1805 or in the legacy of B v. Board ofEducation. What is
+needed is some general understanding, u by the cultural,
+historical, and political preoccupations of eac society.18
+My own writing on this has been more abstract than most. But I have
+managed to discuss judicial review in a way t embroils it with other issues in
+jurisprudence and political philosophy.19 I a not satisfied that I have stated in
+i8. Again, this not to dismiss the more fleshed-ou accounts. The idea behind this Essay is
+that we take a clear view of theoretical arg and put it alongside our richer
+understanding of the way the debate unfolds in, to name a few examples, Britain, the
+United States, Canada, and South Africa.
+19. I have asked whether the very idea of individua rights commits us to judicial review in
+Waldron, A Right-Based Critique, supra note 14. I have considered its relation to civic
+republican ideas in Jeremy Waldron, Judicial Revie and Republican Government, in That
+Eminent Tribunal: Judicial Supremacy and the Constitution 159 (Christopher Wolfe
+ed., 2004), its relation to the difference between B and Rousseauian conceptions
+of democracy in Jeremy Waldron, Rights and M Rousseau Revisited, in Nomos
+XXXII: Majorities and Minorities 44 (John W. Ch & Alan Wertheimer eds., 1990)
+[hereinafter Waldron, Rights and Majorities], and its relation to Continental theories of
+popular sovereignty in Waldron, Judicial Power and Popular Sovereignty, supra note 14.1 have
+considered the relation of the judicial review cont to debates in meta-ethics about
+realism and the objectivity of values in Jeremy Wald The Irrelevance of Moral Objectivity,
+in Natural Law Theory 158 (Robert P. George e 1992) [hereinafter Waldron, The
+Irrelevance of Moral Objectivity] ; and Jeremy Waldr Moral Truth and Judicial Review, 43
+Am. J. Juris. 75 (1998) [hereinafter Waldron, Mo Truth and Judicial Review]. I have
+responded to various defenses of judicial review, ran from the precommitment case, see
+Jeremy Waldron, Precommitment and Disagreeme in Constitutionalism: Philosophical
+Foundations 271 (Larry Alexander ed., 1998) [her Waldron, Precommitment and
+Disagreement], to the particular argument that R Dworkin makes in Freedom's Law
+1352
+es ating er, e, s wers ted rown ncontaminated h hat m t ument l w enthamite ajorities: apman roversy ron, d., on, ral ging nt, einafter onald
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0009] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+a clear and uncluttered way what the basic objection is, nor do I think I have
+given satisfactory answers to those who have criticized the arguments I
+presented in Law and Disagreement and elsewhere.
+In this Essay, I shall argue that judicial review is vulnerable to attack on
+two fronts. It does not, as is often claimed, provide a way for a society to focus
+clearly on the real issues at stake when citizens disagree about rights; on the
+contrary, it distracts them with side-issues about precedent, texts, and
+interpretation. And it is politically illegitimate, so far as democratic values are
+concerned: By privileging majority voting among a small number of unelected
+and unaccountable judges, it disenfranchises ordinary citizens and brushes
+aside cherished principles of representation and political equality in the final
+resolution of issues about rights.
+I will proceed as follows. In Part I, I will define the target of my
+argument - strong judicial review of legislation - and distinguish it from other
+practices that it is not my intention to attack. Part II will set out some
+assumptions on which my argument is predicated: My argument against
+judicial review is not unconditional but depends on certain institutional and
+political features of modern liberal democracies. Then, in Part III, I will review
+the general character of the argument I propose to make. That argument will
+attend to both outcome - and process-related reasons, and these will be
+discussed in Parts IV and V, respectively. In Part VI, I will expose the fallacy of
+the most common argument against allowing representative institutions to
+prevail: that such a system inevitably leads to the tyranny of the majority.
+Finally, in Part VII, I shall say a little bit about non-core cases - that is, cases in
+which there is reason to depart from the assumptions on which the core
+argument depends.
+1. DEFINITION OF JUDICIAL REVIEW
+I begin with a brief account of what I mean by judicial review. This an
+Essay about judicial review of legislation, not judicial review of executive action
+or administrative decisionmaking.20 The question I want to address concerns
+about its ultimate compatibility with democracy, see Jeremy Waldron, Judicial Review and the
+Conditions of Democracy, 6 J. Pol. Phil. 335 (1998).
+20. Much of what is done by the European Court of Human Rights is judicial review of
+executive action. Some of it is judicial review of legislative action, and some of it is actually
+judicial review of judicial action. See Seth F. Kreimer, Exploring the Dark Matter of Judicial
+Review: A Constitutional Census of the i??os, 5 Wm. & Mary Bill Rts. J. 427, 458-59 (1997),
+for the claim that the majority of constitutional decisions by the United States Supreme
+Court concern challenges to the actions of low-level bureaucrats rather than of legislatures.
+1353
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0010] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+primary legislation enacted by the elected l of a polity. It might be
+thought that some of the same arguments apply to executive action as well:
+After all, the executive has some elective cred of its own with which to
+oppose decisionmaking by judges. But it is al universally accepted that the
+executive's elective credentials are subject to the principle of the rule of law,
+and, as a result, that officials may properl be required by courts to act in
+accordance with legal authorization.21 T equivalent proposition for
+legislators has been propounded too: Judici review is just the subjection of
+the legislature to the rule of law. But in th case of the legislature, it is not
+uncontested; indeed that is precisely the co we are concerned with
+here.
+There are a variety of practices all over the world that could be grouped
+under the general heading of judicial review of legislation. They may be
+distinguished along several dimensions. The most important difference is
+between what I shall call strong judicial review and weak judicial review. My
+target is strong judicial review.22
+In a system of strong judicial review, courts have the authority to decline to
+apply a statute in a particular case (even though the statute on its own terms
+plainly applies in that case) or to modify the effect of a statute to make its
+application conform with individual rights (in ways that the statute itself does
+not envisage). Moreover, courts in this system have the authority to establish
+as a matter of law that a given statute or legislative provision will not be
+applied, so that as a result of stare decisis and issue preclusion a law that they
+have refused to apply becomes in effect a dead letter. A form of even stronger
+judicial review would empower the courts to actually strike a piece of
+legislation out of the statute-book altogether. Some European courts have this
+21. Seana Shiffrin, Richard Pildes, Frank Michelman, and others have urged me to consider
+how far my argument against judicial review of legislation might also extend to judicial
+review of executive action in the light of statutes enacted long ago or statutes whose
+provisions require extensive interpretation by the courts. Clearly more needs to be said
+about this. Pursuing the matter in this direction might be considered either a reductio ad
+absurdum of my argument or an attractive application of it.
+22. The distinction between strong and weak judicial review is separate from the question of
+judicial supremacy. Judicial supremacy refers to a situation in which (1) the courts settle
+important issues for the whole political system, (2) those setdements are treated as
+absolutely binding on all other actors in the political system, and (3) the courts do not defer
+to the positions taken on these matters in other branches (not even to the extent to which
+they defer to their own past decisions under a limited principle of stare decisis). See Barry
+Friedman, The History of the Countermajoritarian Difficulty, Part One: The Road to Judicial
+Supremacy, 73 N.Y.U. L. Rev. 333, 352 & n.63 (1998); Jeremy Waldron, Judicial Power and
+Popular Sovereignty, supra note 14, at 191-98.
+1354
+egislature entials most y he al e ntestation
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0011] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+authority.23 It appears that American courts do not,4 but the real effect of their
+authority is not much short of it.25
+In a system of weak judicial review, by contrast, courts may scrutinize
+legislation for its conformity to individual rights but they may not decline to
+apply it (or moderate its application) simply because rights would otherwise be
+violated.26 Nevertheless, the scrutiny may have some effect. In the United
+Kingdom, the courts may review a statute with a view to issuing a "declaration
+of incompatibility" in the event that "the court is satisfied that the provision is
+incompatible with a Convention right" - i.e., with one of the rights set out in
+the European Convention of Human Rights as incorporated into British law
+through the Human Rights Act. The Act provides that such declaration "does
+not affect the validity, continuing operation or enforcement of the provision in
+respect of which it is given; and . is not binding on the parties to the
+proceedings in which it is made."27 But still it has an effect: A minister may use
+such a declaration as authorization to initiate a fast-track legislative procedure
+to remedy the incompatibility.28 (This a power the minister would not have
+but for the process of judicial review that led to the declaration in the first
+place.)
+23. See Mauro Cappelletti & John Clarke Adams, Comment, Judicial Review of Legislation:
+European Antecedents and Adaptations, 79 Harv. L. Rev. 1207, 1222-23 (1966). There are
+further complications in regard to whether the statute declared invalid is deemed to have
+been invalid as of the time of its passage.
+24. The matter is not clear-cut. In support of the proposition that unconstitutional statutes are
+not struck out of the statute book, consider Dickerson v. United States, 530 U.S. 428 (2000),
+in which the Supreme Court by a majority held that a federal statute (18 U.S.C. ? 3501)
+purporting to make voluntary confessions admissible even when there was no Miranda
+warning was unconstitutional. The closing words of Justice Scalia's dissent in that case seem
+to indicate that legislation that the Supreme Court finds unconstitutional remains available
+for judicial reference. Justice Scalia said: "I dissent from today's decision, and, until ? 3501 is
+repealed, will continue to apply it in all cases where there has been a sustainable finding that
+the defendant's confession was voluntary." Id at 464. A contrary impression may appear
+from McCorvey v. Hill, 385 F.3d 846, 849 (5th Cir. 2004), in which the Fifth Circuit held that
+the Texas abortion statute at issue in Roe v. Wade must be deemed to have been repealed by
+implication. A close reading ofthat case, however, shows that the implicit repeal was held to
+have been effected by the Texas statutes regulating abortion after Roe, not by the decision in
+Roe itself. (I am grateful to Carol S?nger for this reference.)
+25. See Richard H. Fall?n, Jr., Commentary, As-Applied and Facial Challenges and Third-Party
+Standing, 113 Harv. L. Rev. 1321,1339-40 (2000).
+26. See Stephen Gardbaum, The New Commonwealth Model of Constitutionalism, 49 Am. J. Comp.
+L. 707 (2001).
+27. Human Rights Act, 1998, c. 42, ? 4(2), (6).
+28. Id. ? 10.
+1355
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0012] =====
+
+THE YALE LAW JOURNAL 115:1346 20o6
+A form of even weaker judicial review would give judges not even that
+much authority. Like their British coun the New Zealand courts may
+not decline to apply legislation when it vi human rights (in New Zealand,
+the rights set out in the Bill of Rights Ac of 199029); but they may strain to
+find interpretations that avoid the viol Although courts there have
+indicated that they may be prepared o occasion to issue declarations of
+incompatibility on their own initiative, such declarations in New Zealand do
+not have any legal effect on the legislative process.3'
+There are some intermediate cases. In Canada, there is a provision for the
+review of legislation by courts, and court there, like their U.S. counterparts,
+may decline to apply a national or provinc statute if it violates the provisions
+of the Canadian Charter of Rights and Freedoms. But Canadian legislation
+(provincial or national) may be couched in a form that insulates it from this
+scrutiny-Canadian assemblies may legisl "notwithstanding" the rights in
+the Charter.32 In practice, however, t notwithstanding clause is rarely
+invoked.33 Thus, in what follows I shall c the Canadian arrangement as a
+29. New Zealand Bill of Rights Act 1990,1990 S.N No. 109, ? 4 ("No court shall, in relation
+to any enactment (whether passed or made before or after the commencement of this Bill of
+Rights), . [h]old any provision of the enactme to be impliedly repealed or revoked, or
+to be in any way invalid or ineffective; or . [djecline to apply any provision of the
+enactment?by reason only that the provision is i with any provision of this Bill
+ofRights.").
+30. Id. ? 6 ("Wherever an enactment can be given a meaning that is consistent with the rights
+and freedoms contained in this Bill of Rights, that meaning shall be preferred to any other
+meaning.").
+31. See Moonen v. Film & Literature Bd. of Review, [2000] 2 N.Z.L.R. 9, 22-3 (C.A.).
+32. Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982, being
+Schedule B to the Canada Act 1982, ch. 11, ? 33(i)-(2) (U.K.). The full text of the provision
+reads:
+(1) Parliament or the legislature of a province may expressly declare in an Act of
+Parliament or of the legislature, as the case may be, that the Act or a provision thereof
+shall operate notwithstanding a provision included in section 2 or sections 7 to 15 of this
+Charter.
+(2) An Act or a provision of an Act in respect of which a declaration made under this
+section is in effect shall have such operation as it would have but for the provision of this
+Charter referred to in the declaration.
+33. When it has been invoked, it has mostly been in the context of Qu?b?cois politics. See Tsvi
+Kahana, The Notwithstanding Mechanism and Public Discussion: Lessons from the Ignored
+Practice of Section 33 of the Charter, 44 J. Inst. Pub. Admin. Can. 255 (2001).
+1356
+terparts, olates t ation.30 n s ial ate he ount .Z. nt nconsistent
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0013] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+form of strong judicial review, with its vulnerability to my argument affected
+only slightly by the formal availability of the override.34
+A second distinction among types of judicial review pays attention to the
+place of individual rights in the constitutional system of a society. In the
+United States, statutes are scrutinized for their conformity to individual rights
+as set out in the Constitution. Rights-oriented judicial review is part and parcel
+of general constitutional review, and the courts strike down statutes for
+violations of individual rights in exactly the spirit in which they strike down
+statutes for violations of federalism or separation of powers principles.35 This
+gives American defenses of judicial review a peculiar cast. Though
+philosophical defenses of the practice are often couched in terms of the
+34? Jeffrey Goldsworthy has suggested that the "notwithstanding" provision provides a
+sufficient answer to those of us who worry, on democratic grounds, about the practice of
+strong judicial review. Jeffrey Goldsworthy, Judicial Review, Legislative Override, and
+Democracy, 38 Wake Forest L. Rev. 451, 454-59 (2003). It matters not, he says, that the
+provision is rarely used.
+[SJurely that is the electorate's democratic prerogative, which Waldron would be
+bound to respect. It would not be open to him to object that an ingenuous
+electorate is likely to be deceived by the specious objectivity of constitutionalised
+rights, or dazzled by the mystique of the judiciary?by a naive faith in judges'
+expert legal skills, superior wisdom, and impartiality. That objection would
+reflect precisely the same lack of faith in the electorate's capacity for enlightened
+self-government that motivates proponents of constitutionally entrenched rights.
+Id. at 456-57. I believe that the real problem is that section 33 requires the legislature to
+misrepresent its position rights. To legislate notwithstanding the Charter is a way of
+saying that you do not think Charter rights have the importance that the Charter says they
+have. But the characteristic stand-off between courts and legislatures does not involve one
+group of people (judges) who think Charter rights are important and another group of
+people (legislators) who do not. What it usually involves is groups of people (legislative
+majorities and minorities, and judicial majorities and minorities) all of whom think Charter
+rights are important, though they disagree about how the relevant rights are to be
+understood. Goldsworthy acknowledges this:
+When the judiciary ... is expected to disagree with the legislature as to the "true"
+meaning and effect of Charter provisions, the legislature cannot ensure that its
+view will prevail without appearing to override the Charter itself. And that is
+vulnerable to the politically lethal objection that the legislature is openly and self
+confessedly subverting constitutional rights.
+Id. at 467. However, maybe there is no form of words that can avoid this difficulty. As a
+matter of practical politics, the legislature is always somewhat the mercy of the courts'
+public declarations about the meaning of the society's Bill or Charter of Rights. I am grateful
+to John Morley for this point.
+35. The most famous judicial defense of judicial review, Marbury v. Madison, had nothing to do
+with individual rights. It was about Congress's power to appoint and remove justices of the
+peace.
+1357
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0014] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+judiciary's particular adeptness at dealing with propositions about rights, in
+reality that argument is subordinate to a defense of the structural role the
+courts must play in upholding the rules of the Constitution. Sometimes these
+two defenses are consistent; other times they come apart. For example,
+textualism may seem appropriate for struct issues, but it can easily be made
+to seem an inappropriate basis for thinking about rights, even when the rights
+are embodied in an authoritative text.36 In o countries, judicial review takes
+place with regard to a bill of rights that is not specifically designated as part of
+the (structural) constitution. Weak judicia review in the United Kingdom on
+the basis of the Human Rights Act is of th kind. Because most cases of strong
+judicial review are associated with constitut review, I shall focus on these
+cases. But it is important to remember both that an approach oriented to
+structural constraints might not be part appropriate as a basis for
+thinking about rights, and the additional p that many of the challenges to
+rights-oriented judicial review can be pos to other forms of constitutional
+review as well. In recent years, for example the Supreme Court of the United
+States has struck down a number of statu because they conflict with the
+Supreme Court's vision of federalism.37 Now, everyone concedes that the
+country is governed on a quite different basis so far as the relation between
+state and central government is concern than it was at the end of the
+eighteenth century, when most of the const text was ratified, or in the
+middle of the nineteenth century, when th text on federal structure was last
+modified to any substantial extent. But opin differ as to what the new basis
+of state/federal relations should be. The tex of the Constitution does not settle
+that matter. So it is settled instead by votin among Justices - some voting for
+one conception of federalism (which they t read into the Constitution), the
+others for another, and whichever side has the most votes on the Court
+prevails. It is not clear that this an app basis for the settlement of
+structural terms of association among a free and democratic people.38
+A third distinction is between a posteri review of the American kind,
+which takes place in the context of particul legal proceedings, sometimes long
+36. See Dworkin, supra note 3, at 11-18 ; Andrei Marmor, Interpretation and Legal Theory
+x56-57 (rev. 2d ed. 2005).
+37. See, e.g., supra note 12.
+38. The need for judicial review for patrolling stru limits on the allocation of authority
+between state and federal legislatures is often c (opportunistically) by defenders of
+rights-based limitations on legislatures. People say, "Legislatures are subject to judicial
+review anyway, for federalism reasons. So why n exploit that practice to develop rights
+based judicial review as well?" My analysis of the desirability of rights-based judicial review
+will be pertinent to this sort of hybrid or opportun argument.
+1358
+, ural ther l is ional icularly oint ed , tes ed itutional e ions t g hen ropriate ori ar ctural ited ot istic
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0015] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+after a statute has been enacted, and ex ante review of legislation by a
+constitutional court specifically set up to conduct an abstract assessment of a
+bill in the final stages of its enactment.39 There are questions about how to
+understand ex ante review. Something that amounts in effect to a final stage in
+a multicameral legislative process, with the court operating like a traditional
+senate, is not really judicial review (though the case against empowering an
+unelected body in this way may be similar) .40 shall not say much more about
+this. For some defenses of judicial review, the a posteriori character of its
+exercise - its rootedness in particular cases41 - is important, and I shall
+concentrate on that.
+A fourth distinction is connected with the third. Judicial review can be
+carried out by ordinary courts (as in the Massachusetts case we began with) or
+it can be carried out by a specialized constitutional court. This may be relevant
+to an argument I will make later: The ability of judges in the regular hierarchy
+of courts to reason about rights is exaggerated when so much of the ordinary
+discipline of judging distracts their attention from direct consideration of
+moral arguments. Perhaps a specialist constitutional court can do better,
+though experience suggests that it too may become preoccupied with the
+development of its own doctrines and precedents in a way that imposes a
+distorting filter on the rights-based reasoning it considers.
+II. FOUR ASSUMPTIONS
+To focus my argument, and to distinguish the core case in which the
+objection to judicial review is at its clearest from non-core cases in which
+judicial review might be deemed appropriate as anomalous provision to deal
+with special pathologies, I shall set out some assumptions.42
+39 - Some systems of the first kind make provision for ex ante advisory opinions in limited
+circumstances. For example, in Massachusetts, "[e]ach branch of the legislature, as well as
+the governor the council, shall have authority to require the opinions of the justices of the
+supreme judicial court, upon important questions of law, and upon solemn occasions."
+Mass. Const, pt. II, ch. Ill, art. II (amended 1964). This procedure was used in the months
+following the Goodridge decision, discussed at the beginning of this Essay. In Opinions of the
+Justices to the Senate, 802 N.E.2d 565 (Mass. 2004), the Supreme Judicial Court of
+Massachusetts held that a legislative provision for civil unions for same-sex couples that also
+prohibited discrimination against civilly joined spouses would not be sufficient to avoid the
+constitutional objection to the ban on same-sex marriages noted in Goodridge.
+40. See Jeremy Waldron, Eisgruber's House of Lords, 37 U.S.F. L. Rev. 89 (2002).
+41. See infra Section IV.A.
+42. These assumptions are adapted from those set out in Jeremy Waldron, Some Models of
+Dialogue Between Judges and Legislators, 23 Sup. Ct. L. Rev. 2d 7, 9-21 (2004).
+1359
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0016] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+Certain of these assumptions may strike some readers as question-begging,
+but I am not trying any sort of subterfug here. The reasons for beginning with
+these assumptions will be evident as we go along, and the possibility of non
+core cases, understood as cases in which on or more of these assumptions does
+not hold, is freely acknowledged and will be considered in Part VII. In effect,
+my contention will be that the argument against judicial review is conditional;
+if any of the conditions fail, the argument may not hold.43 Let me add that part
+of what I want to combat in this Essay is a certain sort of bottom-line mentality
+toward the issue of judicial review.44 I full expect that some readers will comb
+quickly through my assumptions to fi some that do not apply, say, to
+American or British society as they under it, leading them to ignore the
+core argument altogether. What matter to them is that judicial review be
+defended and challenges to it seen off; th don't particularly care how. That is
+an unfortunate approach. It is better to tr and understand the basis of the core
+objection, and to see whether it is valid on its own terms, before proceeding to
+examine cases in which, for some reason, its application may be problematic.
+Let me lay out in summary the four a I shall make. We are to
+imagine a society with (1) democratic inst in reasonably good working
+order, including a representative legisla elected on the basis of universal
+adult suffrage; (2) a set of judicial institut again reasonably good order,
+set up on a nonrepresentative basis to hea individual lawsuits, settle disputes,
+and uphold the rule of law; (3) a commitm on the part of most members of
+the society and most of its officials to the idea of individual and minority
+rights; and (4) persisting, substantial, and good faith disagreement about
+rights (i.e., about what the commitment to rights actually amounts to and what
+its implications are) among the members of the society who are committed to
+the idea of rights.
+I shall argue that, relative to these as the society in question
+ought to settle the disagreements about ri that its members have using its
+legislative institutions. If these assumptio hold, the case for consigning such
+disagreements to judicial tribunals f final settlement is weak and
+unconvincing, and there is no need f decisions about rights made by
+legislatures to be second-guessed by cou And I shall argue that allowing
+decisions by courts to override legislati decisions on these matters fails to
+satisfy important criteria of political legit Let me first elaborate the four
+assumptions.
+43 - See infra text accompanying note 136.
+44. For a general critique of the "bottom-line" mentality in political philosophy, see Jeremy
+Waldron, What Plato Would Allow, in Nomos XXXVII: Theory and Practice 138 (Ian
+Shapiro & Judith Wagner DeCew eds., 1995).
+1360
+e y nd stand s ey ssumptions itutions ture ions, r ent sumptions, ghts ns or rts. ve imacy.
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0017] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+A. Democratic Institutions
+I assume that the society we are considering is a democratic society and
+that, like most in the modern Western world, it has struggled through various
+forms of monarchy, tyranny, dictatorship, or colonial domination to a situation
+in which its laws are made and its public policies are set by the people and their
+representatives working through elective institutions. This society has a
+broadly democratic political system with universal adult suffrage, and it has a
+representative legislature, to which elections are held on a fair and regular
+basis.45 I assume that this legislature is a large deliberative body, accustomed to
+dealing with difficult issues, including important issues of justice and social
+policy. The legislators deliberate and vote on public issues, and the procedures
+for lawmaking are elaborate and responsible,46 and incorporate various
+safeguards, such as bicameralism,47 robust committee scrutiny, and multiple
+levels of consideration, debate, and voting. I assume that these processes
+connect both formally (through public hearings and consultation procedures)
+and informally with wider debates in the society. Members of the legislature
+think of themselves as representatives, in a variety of ways, sometimes making
+the interests and opinions of their constituents key to their participation,
+sometimes thinking more in terms of virtual representation of interests and
+opinions throughout the society as a whole. I assume too that there are political
+parties, and that legislators' party affiliations are key to their taking a view that
+ranges more broadly than the interests and opinions of their immediate
+constituents.
+None of this meant to be controversial; it picks out the way in which
+democratic legislatures usually operate. In general, I am assuming that the
+democratic institutions are in reasonably good order. They may not be perfect
+and there are probably ongoing debates as to how they might be improved. I
+assume these debates are informed by a culture of democracy, valuing
+responsible deliberation and political equality. The second of these values
+45 - Thus, the application of my argument to nondemocratic societies, or societies whose
+institutions differ radically from these forms, is not a subject discussed in this Essay.
+46. See Jeremy Waldron, Legislating with Integrity, 72 Fordham L. Rev. 373 (2003).
+47. The assumption of bicameralism might seem problematic. There are in the world a number
+of well-functioning unicameral legislatures, most notably in the Scandinavian countries:
+Denmark, Norway, and Sweden. But unicameral arrangements can easily exacerbate other
+legislative pathologies. For an argument that this has happened in New Zealand to an extent
+that may take that country outside the benefit of the argument developed in this Essay, see
+Jeremy Waldron, Compared to What??Judicial Activism and the New Zealand Parliament,
+2005 N.Z. L.J. 441.
+1361
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0018] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+political equality -is worth particular emp I assume that the institutions,
+procedures, and practices of legislation are kept under constant review from
+this perspective, so that if there are perc inequities of representation that
+derogate seriously from the ideal of politi equality, it is understood among
+all the members of the society that this i an appropriate criticism to make and
+that, if need be, the legislature and the el system should be changed to
+remedy it. And I assume that the legis capable of organizing such
+change, either on its own initiative or by r
+I belabor these points about a demo culture and electoral and
+legislative institutions in reasonably good working order because they will be
+key to the argument that follows. The ini structure of the argument will be
+to ask the following question: Once we have posited this first assumption,
+what reason can there be for wanting to s up a nonelective process to review
+and sometimes override the work that the legislature has done? On the other
+hand, I do not want to beg any question with this initial assumption. I shall
+balance it immediately with the assumptio that the society we are postulating
+also has courts in good working order - will be the second assumption -
+doing reasonably well what courts are good at doing. The society we are
+contemplating has what it takes to have a system of judicial review, if judicial
+review can be shown to be appropriate.
+One note of caution: When I say that the institutions are in good working
+order, I am not assuming that the legisl that the reasonably democratic
+legislature enacts is by and large good or ju so far as its content is concerned.
+I assume some of the legislation is just and some of it unjust (people will
+disagree about which is which), and that t is true both of the measures that
+might conceivably be subject to judicia review and of the measures that
+nobody is proposing to subject to judicial review. All that I have said about the
+legislative and electoral arrangements b in good working order goes to
+process values rather than outcome values. In Part V, however, I shall say more
+about the sort of reasoning that we would expect to see in such a process.
+48. It is sometimes said that elective institutions a incapable of reforming themselves because
+legislators have an entrenched interest in the st quo. This may be true of some of the
+pathological electoral and legislative arrangemen in the United States. (But the issues for
+which this most true in the United States ar those on which the courts have scarcely
+dared to intervene?consider the disgracef condition of American redistricting
+arrangements, for example.) It is patendy false elsewhere. In New Zealand, for example, in
+1993 the legislature enacted statutes changing t system of parliamentary representation
+from a first-past-the-post system to a system of proportional representation, in a way that
+unsetded existing patterns of incumbency. Se Electoral Act 1993, 1993 S.N.Z. No. 87;
+Electoral Referendum Act 1993,1093 S.N.Z. No. 86.
+1362
+hasis. eived cal s ectoral lature eferendum.48 cratic tial et n this ation st, his l eing re atus ts e ul he
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0019] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+B. Judicial Institutions
+I assume that the society we are considering has courts - that is, a well
+established and politically independent judiciary, again reasonably good
+working order, set up to hear lawsuits, settle disputes, and uphold the rule of
+law. I assume that these institutions are already authorized to engage in judicial
+review of executive actions, testing it against statutory and constitutional law.
+I assume that, unlike the institutions referred to in the previous Section, the
+courts are mostly not elective or representative institutions. By this I mean not
+only that judicial office is not (for the most part) an elective office, but also that
+the judiciary is not permeated with an ethos of elections, representation, and
+electoral accountability in the way that the legislature is. Many defenders of
+judicial review regard this as a huge advantage, because it means courts can
+deliberate on issues of principle undistracted by popular pressures and
+invulnerable to public anger. Sometimes, however, when it is thought
+necessary to rebut the democratic case against judicial review, defenders of the
+practice will point proudly to states where judges are elected. This happens in
+some states in the United States. But even where judges are elected, the
+business of the courts is not normally conducted, as the business of the
+legislature is, in accordance with an ethos of representation and electoral
+accountability.
+I am going to assume that, in the society we are considering, courts are
+capable of performing the functions that would be assigned to them under a
+practice of judicial review. They could review legislation; the question is
+whether they should, and if so, whether their determinations should be final
+and binding on the representative branches of government. I assume, though,
+that if they are assigned this function, they will perform it as courts
+characteristically perform their functions. There is an immense law review
+literature on the specific character of the judicial process and of the tasks for
+which courts do and do not seem institutionally competent.49 I do not want to
+delve deeply into that here. As I indicated above, I will assume that we are
+dealing with courts that (1) do not act on their own motion or by abstract
+reference, but rather respond to particular claims brought by particular
+litigants; (2) deal with issues in the context of binary, adversarial presentation;
+and (3) refer to and elaborate their own past decisions on matters that seem
+relevant to the case at hand. I further assume a familiar hierarchy of courts,
+49. See, e.g., Henry M. Hart, Jr. & Albert M. Sacks, The Legal Process : Basic Problems in
+the Making and Application of Law 640-47 (William N. Eskridge, Jr. & Philip P. Frickey
+eds., 1994) ; Lon L. Fuller, The Forms and Limits of Adjudication, 92 Harv. L. Rev. 353 (1978).
+1363
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0020] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+with provisions for appeal, and with larger multi bodies (perhaps five
+or nine judges) addressing cases at the highes level of appeal, with lower
+courts being required largely to follow the le of higher courts in the
+disposition of the matters that come before them
+In some societies, judges are specially and s trained; in other
+societies, they are chosen from the ranks of e lawyers and jurists. In
+either case, I assume that they have high statu in the political system and a
+position that insulates them from specific politica pressures. In other regards, I
+assume they are typical of the high-status and w members of their
+society. This important for two reasons. Fir because the society prides
+itself on being largely democratic, I shall assume that the judges share some of
+that pride and so are likely to be self-conscious a the legitimacy of their
+own activity if they engage in judicial review of legislation. This may affect
+how they exercise such authority.5" Second, alth judges are likely to be at
+least as committed to rights as anyone else in the society, I assume that like
+other members of the society, judges disagree with one another about the
+meaning and implications of individual and minor rights. That is, I assume
+they are subject to my fourth assumption about rights-disagreement, and that
+this too affects how they exercise powers of jud review (if they have such
+powers). Specifically, just like legislators, modes of decisionmaking have to be
+developed for multi-judge tribunals whose memb disagree about rights. The
+decision-procedure most often used is simple maj voting. In Part V, I will
+address the question of whether this an approp procedure for judges to
+use.
+C. A Commitment to Rights
+I assume that there is a strong commitment on the part of most members of
+the society we are contemplating to the idea of individual and minority rights.
+Although they believe in the pursuit of the general good under some broad
+utilitarian conception, and although they believe in majority rule as a rough
+general principle for politics, they accept that individuals have certain interests
+and are entitled to certain liberties that should not be denied simply because it
+would be more convenient for most people to deny them. They believe that
+minorities are entitled to a degree of support, recognition, and insulation that
+is not necessarily guaranteed by their numbers or by their political weight.
+so. See Jesse H. Choper, Judicial Review and the National Political Process (1980)
+(discussing the Supreme Court's legitimacy in this context) ; see also Planned Parenthood of
+Se. Pa. v. Casey, 505 U.S. 833, 864-69 (1992) (same).
+1364
+member t ad . eparately minent s l ell-educated st, bout ough ity icial ers ority riate
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0021] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+The details of the prevalent theory of rights need not detain us here. I
+assume that this society-wide commitment to rights involves an awareness of
+the worldwide consensus on human rights and of the history of thinking about
+rights.5' I assume that this commitment is a living consensus, developing and
+evolving as defenders of rights talk to one another about what rights they have
+and what those rights imply. I assume that the commitment to rights is not
+just lip service and that the members of the society take rights seriously: They
+care about them, they keep their own and others' views on rights under
+constant consideration and lively debate, and they are alert to issues of rights in
+regard to all the social decisions that are canvassed or discussed in their midst.
+No doubt there are skeptics about rights in every society, but I assume that
+this position is an outlier. Some reject rights as they reject all political morality;
+others reject rights because they hold utilitarian, socialist, or other doctrines
+that repudiate them for (what purport to be) good reasons of political
+morality - e.g., rights are too individualistic or their trumping force
+undermines the rational pursuit of efficiency or whatever. But I assume that
+general respect for individual and minority rights is a serious part of a broad
+consensus in the society, part of the most prevalent body of political opinion,
+and certainly part of the official ideology.
+To make this third assumption more concrete, we may assume also that the
+society cherishes rights to an extent that has led to the adoption of an official
+written bill or declaration of rights of the familiar kind. I shall refer to this
+throughout as the "Bill of Rights" of the society concerned. This supposed to
+correspond to, for example, the rights provisions of the U.S. Constitution and
+its amendments, the Canadian Charter of Rights and Freedoms, the European
+Convention Human Rights (as incorporated, say, into British law in the
+Human Rights Act), or the New Zealand Bill of Rights Act. Those familiar
+with the last of these examples will recognize that I am making no assumption
+that the Bill of Rights is entrenched or part of a written constitution. I want to
+leave that open. All I assume at this stage is that a Bill of Rights has been
+enacted to embody the society's commitment to rights. Thus, it may have been
+enacted sometime in the past on the society's own initiative, or it may be the
+product of imitation, or it may be a fulfillment of the country's external
+obligations under human rights law.
+51. This so even if this awareness does not involve much more than a vague understanding
+that human rights conventions have become ascendant in the world since 1945, and that
+their history reaches back to the sort of conceptions of natural right alluded to in documents
+such as the 1776 Declaration of Independence and the 1789 French Declaration of the Rights
+of Man and the Citizen.
+1365
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0022] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+Readers may be puzzled by these assumption On the one hand, I appear
+to be arguing against interest, stacking the deck in favor of judicial review by
+assuming a Bill of Rights. On the other hand, it may seem that something
+sneaky is in the offing. Readers may be aware that I have argued in the past
+that judicial review should not be understood as a confrontation between
+defenders of rights and opponents of rights but as a confrontation between one
+view of rights and another view of rights.52 What I want to emphasize in
+response to both these observations is that the is a distinction both at the
+cultural and at the institutional level between a c to rights (even a
+written commitment to rights) and any partic institutional form (e.g.,
+judicial review of legislation) that such a commit may talke. I am tired of
+hearing opponents of judicial review denigrated as being rights-skeptics. The
+best response is to erect the case against judici review on the ground of a
+strong and pervasive commitment to rights.
+This third assumption defines as non-core cases societies in which the
+commitment to rights is tenuous and fragile. It may seem strange or unfair to
+proceed in this way, for defenders of judicial rev do sometimes argue that
+we need the practice to help shore up our com to rights, to teach
+participants in a new democracy to value righ or to give guarantees to
+minorities that might not be forthcoming in a p majority-rules system. Such
+arguments are interesting, but they do not go to the heart of the case that is
+made for judicial review in countries like the Uni States, Britain, or Canada.
+In those countries, we are told that judicial re is an appropriate way of
+institutionalizing or administering a society's exi commitment to rights.
+These formulations should be taken at face value, and that is what I am doing
+with my third assumption.53
+D. Disagreement About Rights
+My final and crucial assumption is that the c about rights is not
+exempt from the incidence of general disagree about all major political
+issues, which we find in modern liberal societ So I assume that there is
+52. See Waldron, A Right-Based Critique, supra note 14, at 28
+53. My approach here is similar to that of John Rawls. I am using this device of the core case to
+define something like a well-ordered society with a publi accepted theory of justice. See,
+e.g., John Rawls, Political Liberalism 35-36 (1993 [hereinafter Rawls, Political
+Liberalism] . Rawls seems to assume that judicial revie of legislation is appropriate for
+even a well-ordered society. Id. at 165-66, 233-40; se also John Rawls, A Theory of
+Justice 195-99, 228-31 (1971) [hereinafter Rawls, A Theo of Justice]. One of my aims is
+to show that he is wrong about that.
+1366
+s. re ommitment ular ment al iew mitment ts, ure ted view sting onsensus ies. -31,34-36. cly ) w e ry
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0023] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+substantial dissensus as to what rights there are and what they amount to.
+Some of these disagreements are apparent at a philosophical level (e.g.,
+whether socioeconomic rights should be included in the Bill of Rights), some
+become apparent when we try to relate abstract principles of right to particular
+legislative proposals (e.g., whether the free exercise of religion demands
+exemptions from otherwise generally applicable laws), and some become
+apparent only in the context of hard individual cases (e.g., how much tolerance
+for dissident speech there should be in a time of national emergency).
+I assume that the rights-disagreements are mostly not issues of
+interpretation in a narrow legalistic sense. They may present themselves in the
+first instance as issues of interpretation, but they raise questions of
+considerable practical moment for the political community. Elsewhere I have
+referred to these as "watershed" issues of rights.54 They are major issues of
+political philosophy with significant ramifications for the lives of many people.
+Moreover, I assume that they are not idiosyncratic to the society in which they
+arise. They define major choices that any modern society must face, choices
+that are reasonably well understood in the context of existing moral and
+political debates, choices that are focal points of moral and political
+disagreement in many societies. Examples spring quickly to mind: abortion,
+affirmative action, the legitimacy of government redistribution or interference
+in the marketplace, the rights of criminal suspects, the precise meaning of
+religious toleration, minority cultural rights, the regulation of speech and
+spending in electoral campaigns, and so on.
+As these examples suggest, disagreements about rights are often about
+central applications, not just marginal applications. Because I am already
+assuming a general commitment to rights, it is tempting to infer that
+general commitment covers the core of each right and that the right only
+becomes controversial at the outer reaches of its application. That is a mistake.
+A commitment to rights can be wholehearted and sincere even while watershed
+cases remain controversial. For example, two people who disagree about
+whether restrictions on racist hate speech are acceptable may both accept that
+the right to free speech is key to thinking through the issue and they may both
+accept also that the case they disagree about is a central rather than marginal
+issue relative to that right. What this shows, perhaps, is that they have
+different conceptions of the right,"5 but that is no reason to doubt the sincerity
+of their adherence to it.
+54 - See Waldron, Judicial Power and Popular Sovereignty, supra note 14, at 198.
+55. For a discussion of the distinction between the concept of a right and various conceptions of
+it, see Ronald Dworkin, Taking Rights Seriously 134-36 (1977).
+1367
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0024] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+Generally speaking, the fact that peopl disagree about rights does not
+mean that there must be one party to the disagreement who does not take
+rights seriously. No doubt some pos are held and defended
+disingenuously or ignorantly by scoundrel (who care nothing for rights) or
+moral illiterates (who misunderstand thei force and importance). But I
+assume that in most cases disagreement i pursued reasonably and in good
+faith. The issues involved are serious issue on which it is not reasonable to
+expect that there would be consensus. In oth words, I assume something like
+John Rawls's "burdens of judgment," but applied (where Rawls hesitated to
+apply the doctrine) to issues of the right as w as issues of the good.,6 It is not
+reasonable to expect that people's views o complex and fraught issues of
+rights will always converge to consensus. And as Rawls emphasizes, "It is
+unrealistic ... to suppose that all our differen [on these matters] are rooted
+solely in ignorance and perversity, or else in the rivalries for power, status, or
+economic gain."57
+The assumption of disagreement has nothin to do with moral relativism.
+One can recognize the existence of disagr on matters of rights and
+justice - one can even acknowledge that such disagreements are, for practical
+political purposes, irresolvable -without st the meta-ethical claim that
+there is no fact of the matter about the issue that the participants are disputing.
+The recognition of disagreement is perfec compatible with there being a
+truth of the matter about rights and the principles of constitutionalism -
+assuming that our condition is not one in which the truth of the matter
+discloses itself in ways that are not reasonab deniable.8
+If there is a Bill of Rights, I assume that i bears on, but does not resolve,
+the issues at stake in the disagreements. I mentioned some examples a few
+paragraphs back. In the United States, it is indisputable both that the
+provisions of the Bill of Rights have a bearin on how each of these issues is to
+be resolved and that the provisions of the Bill of Rights do not themselves
+determine a resolution of the issue in a way that is beyond reasonable dispute.
+Thus, I assume that the extent of these disag belies our ingenuity at
+devising abstract formulations. Disagreement does not prevent the enactment
+56. See Rawls, Political Liberalism, supra note 53, at 54-58 (discussing "the burdens of
+judgment"). Rawls argues that "many of our most important judgments are made under
+conditions where it is not to be expected that co persons with full powers of
+reason, even after free discussion, will arrive at the same conclusion." Id. at 58. For an
+argument applying this to the right as well as th good, see Waldron, supra note 14, at
+149-63.
+57. Rawls, Political Liberalism, supra note 53, at 58.
+58. See Waldron, The Irrelevance of Moral Objectivity, supra note 19, at 182.
+1368
+e itions s r s er ell n ces g eement aking tly t reements nscientious e
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0025] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+of a Bill of Rights.59 But the disagreements remain unresolved, leaving us in a
+situation in which -when an issue about a possible rights-violation arises - it is
+beyond dispute that a Bill of Rights provision bears on the matter, but what its
+bearing is and whether it prohibits (or should limit the application of) the
+legislative provision that is called into question remains a matter of dispute
+among reasonable people.6"
+This not to deny that arguments can be made that seem conclusive -at
+least to those who make them -as to the bearing of the Bill of Rights on the
+issue in question. If judicial review is set up in the society, then lawyers will
+argue about these issues using both the text and the gravitational force of the
+text of the Bill of Rights. In fact, lawyers will have a field day. Each side to each
+of the disagreements will claim that its position can be read into the bland
+commitments of the Bill of Rights if only those texts are read generously (or
+narrowly) enough. Neither will be prepared to acknowledge publicly that
+which I am assuming now will be obvious: that the bland rhetoric of the Bill of
+Rights was designed simply to finesse the real and reasonable disagreements
+that are inevitable among people who take rights seriously for long enough to
+see such a Bill enacted. Instead of encouraging us to confront these
+disagreements directly, judicial review is likely to lead to their being framed as
+questions of interpretation of those bland formulations. Whether that is a
+desirable context in which to deliberate about the moral issues that they pose is
+one of the things we shall consider in Part V.
+111. THE FORM OF THE ARGUMENT
+So these are our assumptions. What do we do with the situation they
+define? The members of the community are committed to rights, but they
+disagree about rights. Most issues of rights are in need of settlement. We need
+settlement not so much to dispose of the issue -nothing can do that6' -but to
+provide a basis for common action when action is necessary. Now, there are all
+59 - See Thomas Christiano, Waldron Law and Disagreement, 19 Law & Phil. 513, 537 (2000).
+60. Once again, I am not saying that the provisions in the Bill of Rights cover the central cases,
+with disagreement confined to the margins of their application. The provisions are usually
+vague and abstract, leaving open the possibility that even when there are uncontroversial
+cases, people still might be using the same abstract formula to cover different substantive
+approaches to the right?and we should still say that they both take the right seriously.
+61. Cf. Jon Stewart et al., America (The Book) : A Citizen's Guide to Democracy Inaction
+90 (2004) (discussing Roe v. Wade and noting that "[t]he Court rules that the right to
+privacy protects a woman's decision to have an abortion and the fetus is not a person with
+constitutional rights, thus ending all debate on this once-controversial issue").
+1369
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0026] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+sorts of issues on which we do not ne society-wide settlement -
+transubstantiation, the meaning of Hamlet, the value of a purely contemplative
+life - and that is fortunate, because there is l prospect of agreement in these
+areas. Unfortunately, on issues of rights, for which we do need settlement,
+there is little prospect of agreement either. The need for settlement does not
+make the fact of disagreement evaporate; rat it means that a common basis
+for action has to be forged in the heat of ou disagreements.
+In the real world, the need for settleme confronts us in the legislative
+arena. We legislate in certain areas, and the l we enact raises issues of
+rights. Those issues may not be facially prominent in the legislation. The
+legislation may be on marriage formali minimum working hours,
+campaign finance reform, or the historic pre of city centers, but what
+happens is that somebody notices that its ap happens to raise an issue
+of rights and it is in connection with that i - is the legislation to be applied
+according to its terms or not? -that the need for settlement arises.
+An argument, which I respect, for some sort of power of judicial review
+goes as follows: It may not always be easy fo legislators to see what issues of
+rights are embedded in a legislative proposal brought before them; it may not
+always be easy for them to envisage what is of rights might arise from its
+subsequent application. So it is useful to hav a mechanism that allows citizens
+to bring these issues to everyone's atten as they arise. But this an
+argument for weak judicial review only, not for a strong form of the practice in
+which the abstract question of right that has been identified is settled in the
+way that a court deems appropriate. It is a argument for something like the
+system in the United Kingdom, in which a c may issue a declaration that
+there is an important question of rights at stake.62 Alternatively, it is an
+argument for the arrangement we find i systems of even weaker review,
+whereby the attorney general has the nonpa duty to scrutinize legislative
+proposals and publicly identify any issues of rights that they raise.63 Such an
+arrangement is a kind of institutionalization of the alertness to issues of rights
+that was embodied in assumption three abov
+62. See supra text accompanying notes 26-28.
+63. Cf. New Zealand Bill of Rights Act 1990, 199 S.N.Z. No. 109, ? 7 ("Where any Bill is
+introduced into the House of Representatives, th Attorney-General shall ... as soon as
+practicable after the introduction of the Bill,?b to the attention of the House of
+Representatives any provision in the Bill that appe to be inconsistent with any of the
+rights and freedoms contained in this Bill of Righ For a controversial example of the
+exercise of this power, see Grant Huscroft, 75 the Defeat of Health Warnings a Victory for
+Human Rights? The Attorney-General and Pre-Legislat Scrutiny for Consistency with the New
+Zealand Bul of Rights, 14 Pub. L. Rev. 109 (2003).
+1370
+ed ittle her, r nt egislation ties, servation plication ssue sues e tion n ourt n rtisan e. 0 e ring ars ts."). ive
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0027] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+Let us assume, for now, that the legislature is broadly aware of the issues of
+rights that a given bill gives rise to and that, having deliberated on the matter,
+it resolves - through debate and voting - to settle those issues in a particular
+way. The legislature takes sides one or more of the disagreements we
+imagined in assumption four. The question we face is whether that resolution
+of the legislature should be dispositive or whether there is reason to have it
+second-guessed and perhaps overruled by the judiciary.
+How should we answer this question? I have heard people say that the
+decision-rule should be this: The legislature's decision stands, except when it
+violates rights. But clearly this will not do. We are assuming that the members
+of the society disagree about whether a given legislative proposal violates
+rights. We need a way of resolving that disagreement. The point is as old as
+Hobbes: We must set up a decision-procedure whose operation will settle, not
+reignite, the controversies whose existence called for a decision-procedure in
+the first place.64 This means that even though the members of the society we
+are imagining disagree about rights, they need to share a theory of legitimacy
+for the decision-procedure that is to settle their disagreements. So, in thinking
+about the reasons for setting up such a procedure, we should think about
+reasons that can be subscribed to by people on both sides of any one of these
+disagreements.65
+I am presenting the need for legitimate decision-procedures as a response
+to the problem of moral disagreement. But I have heard philosophers say that
+because disagreement is pervasive in politics, we should not let it throw us off
+our stride. Because we disagree as much about legitimate decision-procedures
+as we do about the justification of outcomes, and because (on my own account)
+it is plain that we have to take a stand on something - namely, decision
+procedures -despite such disagreement, why can't we just take a stand on the
+issue of substance and be done with it?66 The response to this that we must
+go to the issue of legitimacy whether we are likely to find disagreement there or
+64. Cf. Thomas Hobbes, Leviathan 123 (Richard Tuck ed., 1996) (1651).
+65. Another way of saying this that a normative political theory needs to include more than
+just a basis for justifying certain decisions on their merits. It needs to be more than, say, a
+theory of justice or a theory of the general good. It also has to address the normative issue of
+the legitimacy of the decision-procedures that are used to make political decisions in the face
+of disagreement. A normative political theory that does not do that is seriously incomplete.
+66. Christiano phrases the point in terms of a regress of procedures: "We can expect
+disagreement at every stage, if Waldron is right; so if we must have recourse to a higher
+order procedure to resolve each dispute as it arises, then we will be unable to stop the
+regress of procedures." Christiano, supra note 59, at 521. But Christiano makes no attempt to
+show that this a vicious regress. For discussion of the regress, see Waldron, supra note
+14, at 298-301.
+1371
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0028] =====
+
+THE YALE LAW JOURNAL '15:1346 2006
+not. For one thing, we do need to design a decision-procedure and we need to
+consider reasons relevant to that design. For another thing, there are important
+reasons relating to legitimacy-e.g., fairn voice, participation-that arise
+because of disagreement and do not aris apart from our addressing the
+question of decision-procedures. Even if we disagree about these too, we have
+no choice but to consider them. The fact that we will disagree about them is
+not a proper ground for pushing them to o side and simply taking a stand on
+one side or the other in the prior (or subst disagreement.
+No decision-procedure will be perfe Whether it is a process of
+unreviewable legislation or whether it is a process of judicial review, it will
+sometimes come to the wrong decision, bet rights rather than upholding
+them.67 This a fact of life in politics. Ev must concede that there will
+sometimes be a dissonance between what th take to be the right choice and
+what they take to be the choice yielded by the decision-procedure they regard
+as legitimate. Richard Wollheim called this "a paradox in theory of
+democracy,"68 because it allows one and the same citizen to assert that A ought
+not to be enacted, where A is the policy he voted against, and A ought to be
+enacted, because A is the policy chosen b the majority. But Wollheim was
+wrong to ascribe this paradox to democr It is a general paradox in the
+theory of politics affecting any political that complements its account of
+what ought to be done with an account of how decisions ought to be made
+when there is disagreement about what oug to be done.
+With that caution in mind, what are the reasons that need to be taken into
+account in designing or evaluating a decision-procedure for settling
+disagreements about rights? Two sorts of reasons may be considered. I shall
+call them "outcome-related" and "process reasons, though they are
+both relevant to the issue of decision-proce dure.
+Process-related reasons are reasons for in that some person make, or
+participate in making, a given decisio that stand independently of
+considerations about the appropriate outc In personal life, we sometimes
+say that a parent has the right to make t decision as to whether child
+should be disciplined for a given infracti It is not for a passer-by on the
+street or another passenger on the bus to make that decision. We may say that
+67. I have heard people say that the errors are alwa likely to be worse on the legislative side:
+The legislature may actually violate rights, whereas the worst that the courts can do is fail to
+interfere to protect them. This a mistake. Cou exercising the power of judicial review
+may sometimes violate rights by striking down a statute that aims to protect them. I will
+discuss this further at the end of Part IV.
+68. Richard Wollheim, A Paradox in the Theory of Democracy, in Philosophy, Politics and
+Society 71 (Peter Laslett & W.G. Runciman eds., 2 ser. 1969).
+1372
+ess, e ne antive) ct. raying eryone ey y acy. eory ht -related" sisting n ome. he on: ys rts d
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0029] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+while reserving judgment on whether the child should be disciplined. Indeed,
+we may say that even though we think the passer-by is likely to make a better
+decision this than the parent. In politics, the most familiar process-related
+reasons are those based on political equality and the democratic right to vote,
+the right to have one's voice counted even when others disagree with what one
+says.
+Outcome-related reasons, by contrast, are reasons for designing the
+decision-procedure in a way that will ensure the appropriate outcome (i.e., a
+good, just, or right decision). Our subject matter is disagreements about rights.
+Because rights are important, it is likewise important that we get them right
+and so we must take outcome-related reasons very seriously indeed. Wrong
+answers may be tolerable in matters of policy; but on matters of principle, if
+the wrong answer is given, then rights will be violated. The members of the
+society we are imagining understand how important it is to avoid such
+outcomes or minimize them to the extent they can.
+Of course, it may not be easy to identify outcome-related reasons that
+people on opposing sides of rights-disagreements can agree upon. As I said
+earlier,69 the design of a decision-procedure must be independent of the
+particular disagreement it is supposed to settle; it is no good if it simply
+reignites it. So we must avoid outcome-related reasons that aim specifically at
+particular controversial outcomes - e.g., favoring a decision-procedure because
+it is more likely to generate a pro-choice than a pro-life outcome. A decision
+procedure chosen on this basis will hardly command the allegiance of the pro
+life advocates. Given the disagreement, the whole point here is to set up a
+procedure for generating settlements in a way that can be recognized as
+legitimate on both sides.
+It is possible, however, to garner outcome-related reasons on a more
+modest basis. Instead of saying (in a question-begging way) that we should
+choose those political procedures that are most likely to yield a particular
+controversial set of rights, we might say instead that we should choose political
+procedures that are most likely to get at the truth about rights, whatever that
+truth turns out to be. As Aileen Kavanagh puts it:
+[W]e do not need a precise account of what rights we have and how
+they should be interpreted in order to make some instrumentalist [i.e.,
+outcome-related] claims. Many instrumentalist arguments are not
+based on knowledge of the content of any particular rights. Rather,
+they are based on general institutional considerations about the way in
+69. See supra text accompanying note 64.
+1373
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0030] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+which legislatures make decisions in compa to judges, the factors
+which influence their decision and the wa in which individuals can
+bring their claims in either forum.70
+Reasons of this kind deserve to be taken s Joseph Raz has gone
+further and suggested that these kinds of out reasons are the only
+reasons worth considering.71 This dogmatis based, presumably, on the
+importance of the issues at stake. The outco of decisions about rights are
+important. But there are also all sorts of i reasons that are not
+outcome-related that we should not hesitate to apply to the choices we make
+about the design of procedures for the res of disagreements about
+rights. I have given a few examples alread but here is another one: the
+principle of self-determination. There is a reason for having these
+disagreements be settled for each society withi its own political system, rather
+than by diktat from outside (e.g., by a neighb government or a former
+colonial power). Some think this not a c reason. They say that
+national self-determination and sovereignty should sometimes give way to
+international authority on questions of human rights.72 But few deny that it has
+some importance. Raz has paid insufficient att to the point that although
+outcome-related reasons are very importan in this area of decisionmaking
+about rights, reasons of other kinds may be im too.
+Once we see that there are reasons of all sor in play, we have to consider
+their normative character because this wil affect how they relate to one
+another. The term "outcome-related" sounds consequentialist. But because the
+consequences we are trying to avoid are rights their avoidance has
+some of the deontological urgency associate with rights. They may not be
+quite as compelling as the principle that p direct violations: The
+designers of a decision-procedure are indirectly not directly responsible for the
+violations that might be involved in an exer of that procedure. But their
+responsibility is still a rights-based responsibi is a duty to take care
+in this regard.73
+70. Aileen Kavanagh, Participation and Judicial Review: A Reply to Jeremy Waldron, 22 L. & Phil.
+451,466 (2003).
+71. J. Raz, Disagreement in Politics, 43 Am. J. Juris. 2 45-46 (1998) ; see also Rawls, A Theory
+of Justice, supra note 53, at 230 ("The fundamental c for judging any procedure is
+the justice of its likely results.").
+72. See, e.g., Louis Henkin, That "S" Word: Soverei and Globalization, and Human
+Rights, Et Cetera, Address at Fordham Universit School of Law, Robert R. Levine
+Distinguished Lecture Series (Feb. 23,1999), in 68 Fo L. Rev. 1 (1999).
+73. For the idea of various waves of duty being gene by a particular right, see Jeremy
+Waldron, Rights in Conflict, 99 Ethics 503,509-12 (19
+1374
+rison ys eriously. come-related m mes mportant olution y, n oring onclusive ention t portant ts l -violations, d rohibits , cise lity-there 5, riterion gnty, y rdham rated 89).
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0031] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+What about the normative character of the process-related reasons?
+Process-related reasons are often matters of deontological urgency also. Ronald
+Dworkin, I think, misstates the character of participatory reasons when he
+refers to them as " [t]he participatory consequences of a political process."74 He
+suggests that allowing individual citizens the opportunity to play a part in the
+community's political decisionmaking has a consequence - a good
+consequence -which is that it confirms their equal membership or standing in
+the community. It reassures them that they are regarded by others as persons
+whose opinions and choices have value. Allowing people to participate also has
+the good consequence of helping citizens to identify with the results of political
+decisions and to view those decisions as in some sense theirs, with good knock
+on effects for legitimacy (in the sociologist's sense of that word).7 All this no
+doubt important. But it has the flavor of a headmaster noting the advantages
+that may accrue from giving his pupils a say in educational affairs through a
+school council. Dworkin's account radically underestimates the notion of a right
+to participate, the imperative that one be treated as an equal so far as a society's
+decisionmaking is concerned, the sense of principle that is at stake when
+someone asks indignantly, "How dare they exclude my say-disenfranchise
+me -from this decision, which affects me and to which I am subject?"
+So, how do weigh these process-related and outcome-related
+considerations? We face the familiar problem of trying to maximize the value
+of two variables, like asking someone to buy the fastest car at the lowest price.
+There are various ways we can set up the question. We could ask: "What
+method is most likely to get at the truth about rights, while at the same time
+adequately respecting the equal claim to be heard of the voices of those
+affected?"76 Or we could ask: "What method best respects the equal claim to be
+heard of the voices of those affected, while at the same time being reasonably
+likely to get at the truth about rights?" I think I can cut through this Gordian
+knot. What I will argue, in Part IV, is that the outcome-related reasons are at
+best inconclusive. They are important, but they do not (as is commonly
+thought) establish anything like a clear case for judicial review. The process
+related reasons, however, are quite one-sided. They operate mainly to discredit
+judicial review while leaving legislative decisionmaking unscathed. Thus, it
+74 - Ronald Dworkin, Sovereign Virtue: Theory and Practice of Equality 187
+(2000).
+75. These summary formulations of Dworkin's view are adapted from Kavanagh, supra note 70,
+at 458-59.
+76. This how the question is stated in Frank I. Michelman, Brennan and Democracy 59
+60 (1999).
+1375
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0032] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+seems to me the legislative side wins on eit formulation of the question.
+And that will be the core of the case against j review.
+IV. OUTCOME-RELATED REASONS
+According to Raz, "[a] natural way to proceed is to assume that the
+enforcement of fundamental rights should be entrusted to whichever political
+decision-procedure is, in the circumstances of the time and place, most likely to
+enforce them well, with the fewest adverse side effects."77 I guess the discussion
+at this point ought to be continuous with the broader debate about the
+institutional competence of courts, initiated by the legal process school.8
+Courts are good at deciding some issues and not others. Technically, we use
+the term "rights" to denote the issues that courts characteristically decide,
+because a plaintiff has to state a claim of right to be heard in a court at all. But
+as Lon Fuller observed, it does not follow that courts are therefore the
+appropriate forum for dealing with claims of right in the less technical sense
+under consideration here.79 Some claims of right have the character of the sort
+of binary issue that courts might be competent to address; others have a
+multifaceted character that has usually been regarded as inappropriate for
+decision in a judicial structure. This matter bears further consideration. I will
+not say much more about it now, but will turn instead to the more specific
+claims that are made about the competence of courts and legislatures on the
+important moral issues that are the subject of this Essay.
+It is tempting to associate outcome-related reasons with the case for judicial
+review (and process-related reasons with the case against it). This a mistake.
+It is true that many of the more important process-related reasons are
+participatory and therefore favor elective or representative institutions. But it
+does not follow that all or most outcome-related reasons argue the other way.
+Outcome-related reasons, as we shall see, cut in both directions. There are
+things about legislatures that sometimes make them vulnerable to the sorts of
+pressures that rights are supposed to guard against; but there are also things
+about courts that make it difficult for them to grapple directly with the moral
+issues that rights-disagreements present.
+Raz acknowledges that outcome-related reasons may weigh on both sides.
+He argues in familiar fashion that
+77 - Raz, supra note 71, at 45.
+78. See Hart & Sacks, supra note 49, at 640-47.
+79. Fuller, supra note 49, at 368-70.
+1376
+her udicial
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0033] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+[i]n many countries there are ample reasons to suspect that members of
+the legislature are moved by sectarian interests to such a degree that
+they are not likely even to attempt to establish what rights (some)
+people have .... We may know that certain factors are likely to cloud
+people's judgments. They may be, for example, liable to be biased in
+their own interest. We may therefore prefer a procedure in which those
+charged with a decision are not affected, or not directly affected, by
+their own decision. There are other factors known to bias judgment,
+and their nature and presence can be established even without
+knowledge of the content of the rights concerned.8"
+Now, in considering a charge like this, we have to ask about its
+compatibility with our third assumption: Is this sort of sectarian prejudice
+typical of legislatures in all societies? Or should we associate it with the non
+core case of a society whose members are largely indifferent to rights? I shall
+say more about this in Part VII.8i But even taken at face value, Raz's argument
+is not univocal in its tendency. The same sectarian pressures often explain
+judicial neglect of rights as well. We have seen this in the United States in cases
+as diverse as Korematsu, Schenck, Dred Scott, and Prigg.2 More recently,
+Laurence Tribe (usually a stalwart defender of judicial review) observed that in
+the panic that afflicted America after 9/11, "it would be a terrible mistake for
+those who worry about civil rights and liberties to pin too much hope on the
+judiciary in times of crisis."83
+In any case, Raz acknowledges that outcome-related reasons also argue in
+the opposite direction:
+Sometimes ... there are reasons for thinking that those whose interests
+are not going to be affected by a decision are unlikely to try honestly to
+80. Raz, supra note 71, at 46.
+81. See infra text accompanying notes 137-141. This where I will deal with the claim (for non
+core cases) that judges who sympathize with minority rights are in a better position to resist
+popular prejudice than are legislators who sympathize with minority rights.
+82. Korematsu v. United States, 323 U.S. 214 (1944) (refusing to protect citizens of Japanese
+descent from internment during the Second World War) ; Schenck v. United States, 249
+U.S. 47 (1919) (holding that criticizing conscription during the First World War was like
+shouting fire in a crowded theater); Dred Scott v. Sanford, 60 U.S. (19 How.) 393, 425-27
+(1857); Prigg v. Pennsylvania, 41 U.S. (16 Pet.) 539, 612 (1842) (striking down state
+legislation that sought to protect African-Americans from slave-catchers).
+83. Laurence Tribe, Trial by Fury: Why Congress Must Curb Bush's Military Courts, New
+Republic, Dec. 10, 2001, at 18,19; see also Ronald Dworkin, The Threat to Patriotism, N.Y.
+Rev. Books, Feb. 28, 2002, at 44,46-47 (noting courts' past tolerance of rights-violations in
+times of crisis).
+1377
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0034] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+find out what is just in the circums Sometimes one may be
+unable to appreciate the plight of clas of people unless one belongs
+to the same class oneself, and therefo rather than entrusting the
+decision to those not affected by it, it should be given to those who are
+so affected.Y
+Legislatures are set up with structures of representation precisely in order to
+foster this sense of appreciation.
+It is sometimes suggested that structures of democratic participation take
+no cognizance at all of the independent importance of securing appropriate
+outcomes - they just blindly empower the majority. This nonsense. All
+democracies limit the franchise in various ways in order to secure a modicum of
+mature judgment at the polls. They exclude children from voting, for example,
+even though children are affected by the decisions under consideration.
+Moreover, legislatures are constituted in a way that ensures that information
+about the tolerability of various options to different sections of the society is
+fed into the decision-process. And decisions are usually made in the context of
+bicameral institutions, so that each legislative proposal has to secure majority
+support in each of two houses on slightdy different elective schedules.85
+Furthermore, systems with weak judicial review or no judicial review
+sometimes make specific provision in the legislative process for issues of rights
+to be highlighted.86 Specific provision is made in most democracies for
+carefully orchestrated debate around election time, as well as a whole array of
+connections between formal debate in the legislature and informal debate and
+accumulation of information outside the legislature. All these are outcome
+related adjustments to democratic procedures. What we see, on the
+participatory side, is not what Rawls called a claim of pure procedural justice,
+but something like imperfect procedural justice.87
+In general, what I notice when I read outcome-related arguments in favor
+of judicial review is that people assume that an outcome-related case must be
+84. Raz, supra note 71, at 46.
+85. Some bicameral systems, like the United Kingdom, have an unelected upper house and
+provisions (in the Parliament Acts and in some of the conventions of the British
+Constitution) that allow the lower house to prevail (eventually) in the event of conflict.
+86. See supra note 63 and accompanying text.
+87. See Rawls, A Theory of Justice, supra note 53, at 84-85. We speak of pure procedural
+justice when we want to indicate that there is nothing more to the justice of the outcome
+than the fact that it was arrived at by scrupulously following a just procedure. We speak of
+imperfect procedural justice when we want to convey the point that a given outcome must
+be judged on its merits as well as on the basis of the procedure that yielded it.
+1378
+tances. ses re
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0035] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+able to be made in favor of courts, if only because the most familiar arguments
+against judicial review are non-outcome-related. People strain to associate
+outcome-related reasons with the judiciary, and in so doing they often peddle a
+quite unrealistic picture of what judicial decisionmaking is like.88 Opponents of
+judicial review are often accused of adopting a naively optimistic view of
+legislatures. But sometimes we do this deliberately, matching one optimistic
+picture with another in the face of the refusal of the defenders of courts to give
+a realistic account of what happens there.89
+In the remainder of this Part, I want to consider in more detail three
+outcome-related advantages that are sometimes claimed for courts (a) that
+issues of rights are presented to courts in the context of specific cases; (b) that
+courts' approach to issues of rights is oriented to the text of a Bill of Rights;
+and (c) that reasoning and reason-giving play a prominent role in judicial
+deliberation. These are said to weigh in favor of judicial review. On all three
+counts, however, I shall argue that there are important outcome-related defects
+in the way courts approach rights and important outcome-related advantages
+on the side of legislatures.
+A. Orientation to Particular Cases
+People sometimes argue that the wonderful thing about judicial reasoning
+on rights (as opposed to legislative reasoning on rights) is that issues of rights
+present themselves to judges in the form of flesh-and-blood individual
+situations. Rights, after all, are individual rights, and it helps focus the mind to
+see how an individual is affected by a piece of legislation. As Michael Moore
+puts the point, "judges are better positioned for . moral insight than are
+legislatures because judges have moral thought experiments presented to them
+everyday [sic] with the kind of detail and concrete personal involvement
+needed for moral insight."90
+But this mostly a myth. By the time cases reach the high appellate levels
+we are mostly talking about in our disputes about judicial review, almost all
+trace of the original flesh-and-blood right-holders has vanished, and argument
+88. For a general critique of arguments that associate judicial review with careful moral
+deliberation among, for example, Justices on the U.S. Supreme Court, see Kramer, supra
+note 11, at 240. Kramer gives a fine description of the way in which Justices' political
+agendas, and the phalanxes of ideologically motivated clerks in the various chambers,
+interfere with anything that could be recognized as meaningful coll?gial deliberation.
+89. See Jeremy Waldron, The Dignity of Legislation 2 (1999).
+90. Michael S. Moore, Law as a Functional Kind, in Natural Law Theory, supra note 19, at 188,
+230. For a response, see Waldron, Moral Truth and Judicial Review, supra note 19, at 83-88.
+1379
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0036] =====
+
+THE YALE LAW JOURNAL 115:1346 20o6
+such as it is revolves around the abstract issue of the right in dispute. Plaintiffs
+or petitioners are selected by advocacy groups precisely in order to embody the
+abstract characteristics that the groups want to emphasize as part of a general
+public policy argument. The particular idiosyn of the individual litigants
+have usually dropped out of sight by th time the U.S. Supreme Court
+addresses the issue, and the Court almost alwa addresses the issue in general
+terms.91
+The process of legislation is open to consideration of individual cases,
+through lobbying, in hearings, and in debate. Indeed, there is a tendency these
+days to initiate legislation the basis of notorious individual cases -Megan's
+Law, for example.92 Hard cases make bad law, it is sometimes said. To the
+extent that this true, it seems to me that legislatures are much better
+positioned to mount an assessment of the significance of an individual case in
+relation to a general issue of rights that affects millions and affects them in
+many different ways.93
+B. Orientation to the Text of a Bill ofRights
+We are imagining a society with a Bill of Rights, and if there is to be
+judicial review of legislation, it will presumably center on the Bill of Rights.
+The Bill of Rights, we have assumed, has been adopted in the society pursuant
+to members' shared commitment to the idea of individual and minority rights
+notwithstanding the fact that they disagree about what these rights are and
+what they entail. Now, when rights-disagreements erupt in regard to
+91. See Sarah Weddington, Roe v. Wade: Past and Future, Address at Suffolk University Law
+School, The Donahue Lecture Series (Dec. 7, 1989), in 24 Suffolk U. L. Rev. 601, 602-03
+(1990).
+92. Megan's Law, which created a register of sex offenders, was enacted in New Jersey in 1994,
+1994 N.J. Laws 1152 (codified at N.J. Stat. Ann. ?? 2C:7-i to 7-11 (2005)), after Megan
+Nicole Kanka was raped and murdered by a convicted sex offender. There is also now a
+Federal Megan's Law. 42 U.S.C. ? 14071 (2000). For a description of the enactment of this
+legislation, see Daniel M. Filler, Making the Case for Megan's Law: A Study in Legislative
+Rhetoric, 76 Ind. L.J. 315 (2001).
+93. See Eisgruber, supra note 13, at 173 ("Judges take up constitutional issues in the course of
+deciding controversies between particular parties. As a result, those issues come to them in a
+way that is incomplete .... Not all interested persons will have standing to appear before
+the court. Judges receive evidence and hear arguments from only a limited number of
+parties. ... As a result, judges may not have the information necessary to gain a
+comprehensive perspective on the fairness of an entire social, political, or economic
+system."). Eisgruber concludes from this that it is probably unwise for judges to attempt to
+address issues that turn on what he calls "comprehensive" moral principles. Id. at 165, 171,
+173.
+1380
+crasies e ys
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0037] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+legislation, there is a question about the role that the established Bill of Rights
+should play in the decision-process in which the issue is posed. From an
+outcome-related point of view, is it a good idea or a bad idea that rights
+disagreements be fought out in relation to the terms of a Bill of Rights?
+One reason for thinking it is a good idea is that the written formulations of
+the Bill of Rights can help disputants focus on the abstract rights-issues at
+stake. But there are powerful reasons on the other side. The forms of words
+used in the Bill of Rights will not have been chosen with rights-disagreements
+in mind. Or, if they were, they will have been chosen in order to finesse the
+disagreements about rights that existed at the time the Bill of Rights was set
+up. Their platitudes may be exactly the wrong formulations to focus clear
+headed, responsible, and good faith explorations of rights-disagreements.
+The written formulations of a Bill of Rights also tend to encourage a certain
+rigid textual formalism.94 A legal right that finds protection in a Bill of Rights
+finds it under the auspices of some canonical form of words in which the
+provisions of the Bill are enunciated. One lesson of American constitutional
+experience is that the words of each provision tend to take on a life of their
+own, becoming the obsessive catchphrase for expressing everything one might
+want to say about the right in question. This may be less of a danger in a
+system of legislative supremacy, because legislators can pose the issue for
+themselves if they like without reference to the Bill of Rights' formulations.
+But it is part of the modus operandi of courts to seek textual havens for their
+reasoning, and they will certainly tend to orient themselves to the text of the
+Bill of Rights in a rather obsessive way.
+At the very least, courts will tend to be distracted in their arguments about
+rights by side arguments about how a text like the Bill of Rights is best
+approached by judges. American experience bears this out: The proportion of
+argument about theories of interpretation to direct argument about the moral
+issues is skewed in most judicial opinions in a way that no one who thinks the
+issues themselves are important can possibly regard as satisfactory. This
+partly because the legitimacy of judicial review is itself so problematic. Because
+judges (like the rest of us) are concerned about the legitimacy of a process that
+permits them to decide these issues, they cling to their authorizing texts and
+debate their interpretation rather than venturing out to discuss moral reasons
+directly.95
+94. This an argument I developed in Waldron, A Right-Based Critique, supra note 14.
+95. See Tushnet, supra note 11, at 60 ("Courts may design some doctrines to reflect their sense
+of their own limited abilities, not to reflect direcdy substantive constitutional values.").
+1381
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0038] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+One final point. The text of a Bill of Righ may distort judicial reasoning
+not only by what it includes but also by wh it omits. Suppose the members of
+a given society disagree about whether the B of Rights should have included
+positive (socioeconomic) as well as negative (l rights.96 Those who think
+positive rights should have been included ma think the present Bill of Rights
+distorts moral reasoning by excluding them. A response may be that, at worst,
+this omission just leads to a possible failu to review legislation in cases in
+which review would be appropriate, but it is not an argument against judicial
+review as such. But that's too simple. A failu to include positive rights may
+alter (or distort) judges' understanding of th rights that are included. Judges
+may give more weight to property rights or to freedom of contract, say, than
+they would if property and freedom of con were posited alongside explicit
+welfare rights. And giving them greater we may lead judges to strike down
+statutes that ought not to be struck down statutes that are trying to make up
+the deficiency and implement by legislation those rights that failed to register
+in the formulations of the Bill of Rights.
+C. Stating Reasons
+It is often thought that the great advanta of judicial decisionmaking on
+issues of individual rights is the explicit rea and reason-giving associated
+with it. Courts give reasons for their decisio we are told, and this a token
+of taking seriously what is at stake, whereas legislatures do not. In fact, this a
+false contrast. Legislators give reasons for their votes just as judges do. The
+reasons are given in what we call debate and they are published in Hansard or
+the Congressional Record. The difference is that lawyers are trained to close
+study of the reasons that judges give; the are not trained to close study of
+legislative reasoning (though they will occas ransack it for interpretive
+purposes).
+Perhaps this argument is not really about the presence or absence of
+reason-giving, but rather about its quality. In my view, however, the reasons
+that courts tend to give when they are exercising powers of judicial review of
+legislation are seldom the reasons that would be canvassed in a full deliberative
+discussion, and the process of searching for, citing, assessing, and comparing
+96. See Jackson v. City of Joliet, 715 F.2d 1200,1203 (7th Cir. 1983) (Posner, J.) (observing that
+the American constitutional scheme "is a charter of negative rather than positive liberties',) ;
+cf. Mark Tushnet, An Essay on Rights, 62 Tex. L. Rev. 1363, 1393-94 (1984) ("We could of
+course have a different Constitution .... One can argue that the party of humanity ought to
+struggle to reformulate the rhetoric of rights so that Judge Posner's description would no
+longer seem natural and perhaps would even seem strained.").
+1382
+ts at ill iberty) y re e tract ight - ge soning ns, ionally
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0039] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+the weight of such reasons is quite different for courts than for an ideal political
+deliberator. Partly this the point mentioned earlier - that the reasons will be
+oriented toward the terminology of the Bill of Rights. If one is lucky enough to
+have a fine and up-to-date Bill of Rights, then there may be some congruence
+between judicial reason-giving and the reason-giving we would look for in
+fully rational, moral, or political deliberation. But if one has antiquated
+constitution, two or three hundred years old, then the alleged reason-giving is
+likely to be artificial and distorted. In the United States, what is called "reason
+giving" is usually an attempt to connect the decision the court is facing with
+some antique piece of ill-thought-through eighteenth - or nineteenth-century
+prose. (For example, is an argument about whether "substantive due process"
+is an oxymoron the best framework for thinking about labor law or, for that
+matter, abortion rights?)
+Courts' reason-giving also involves attempts to construct desperate
+analogies or disanalogies between the present decision they face and other
+decisions that happen to have come before them (and in which they were
+engaged in similar contortions). There is laborious discussion of precedent,
+even though it is acknowledged at the highest levels of adjudication that
+precedent does not settle the matter.97 (So there is also laborious discussion of
+the circumstances in which precedent should or shouldn't be overridden.98)
+And all the time, the real issues at stake in the good faith disagreement about
+rights get pushed to the margins. They usually take up only a paragraph or two
+of the twenty pages or more devoted to an opinion, and even then the issues
+are seldom addressed directly. In the Supreme Court's fifty-page opinion in
+Roe v. Wade, for example, there are but a couple of paragraphs dealing with the
+moral importance of reproductive rights in relation to privacy, and the few
+paragraphs addressed to the other moral issue at stake - the rights-status of the
+fetus - are mostly taken up with showing the diversity of opinions on the
+issue.99 Read those paragraphs: The result may be appealing, but the
+"reasoning" is thread-bare.
+I actually think there is a good reason for this. Courts are concerned about
+the legitimacy of their decisionmaking and so they focus their "reason-giving"
+97? See, e.g., Henry Paul Monaghan, Stare Decisis and Constitutional Adjudication, 88 Colum. L.
+Rev. 723 (1988).
+98. See, e.g., Planned Parenthood of Se. Pa. v. Casey, 505 U.S. 833, 854-69 (1992) (discussing the
+circumstances in which constitutional precedents may be overturned).
+99. There is a tremendous amount of legal and social history in the opinion, but only a few
+pages address the actual moral issues at stake. Roe v. Wade, 410 U.S. 113, 153-55 (*973)
+(discussing privacy and the importance of reproductive rights); id. at 159-62 (discussing the
+alleged rights or personality of the fetus).
+1383
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0040] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+on facts that tend to show that they are leg authorized- by constitution,
+statute, or precedent to make the decision they are proposing to make. This
+an understandable thing to do. But it count heavily against the courts in the
+outcome-related argument about the pre of judicial review over
+legislation.'00 Distracted by these issues o legitimacy, courts focus on what
+other courts have done, or what the languag of the Bill of Rights is, whereas
+legislators-for all their vices -tend at least to go directly to the heart of the
+matter.101
+In this regard, it is striking how rich the reasoning is in legislative debates
+on important issues of rights in countries w judicial review.'02 I recently
+read through the House of Commons deb on the Medical Termination of
+Pregnancy Bill from 1966.103 This was a bill proposing to liberalize abortion
+law. The second reading debate on that bill is as fine an example of a political
+institution grappling with moral issues as you could hope to find. It is a
+sustained debate - about one hundred pag in Hansard'04 - and it involved
+pro-life Labour people and pro-choice Lab people, pro-life Conservatives
+and pro-choice Conservatives, talking th and focusing on all of the
+questions that need to be addressed whe abortion is being debated. They
+debated the questions passionately, but als thoroughly and honorably, with
+attention to the rights, principles, and prag issues on both sides. It was a
+debate that in the end the supporters of the bill won; the pro-choice faction
+prevailed.'05 One remarkable thing was that everyone who participated in the
+debate, even the pro-life MPs (when they sa which way the vote was going to
+go), paid tribute to the respectfulness wi which their positions had been
+100. Eisgruber seems to concede this, acknowledging that "[t]oo often judges attempt to justify
+controversial rulings by citing ambiguous preceden and . veil their true reasons behind
+unilluminating formulae and quotations borrowed from previous cases." Eisgruber, supra
+note 13, at 70; see also id. at 135 ("[JJudges . of . pretend that they are not making
+political judgments themselves, and that their dec were forced upon them by textual
+details or historical facts.").
+101. There is an important point here that Mark T has emphasized: We should not be
+criticizing legislators for failing to reason as judge do, for that may not be a smart way to
+address the issues at stake. Tushnet, supra note 11, at 63-65.
+102. This adapted from Waldron, supra note 46.
+103. In the British legislature, the second reading de is when deliberation takes place on the
+main principles of the bill.
+104. 732 Parl. Deb., H.C. (5th ser.) (1966) 1067,1067
+105. The second reading debate was not the end, of course. There was a long committee stage
+and then a third reading debate, and then simi debates in the House of Lords. But
+eventually the liberalizing legislation was enacted.
+1384
+ally - s ferability f e ithout ates our rough n o matic w th ts, ten isions ushnet s bate -1166. lar
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0041] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+listened to and heard in that discussion. i6 Think about that: How many times
+have we ever heard anybody on the pro-life side pay tribute to the attention
+and respectfulness with which her position was discussed, say, by the Supreme
+Court in Roe v. Wade?l07
+In the United States, we congratulate ourselves on consigning issues of
+individual rights such as abortion rights to the courts for constitutional
+adjudication the ground that courts may be regarded as forums of principle,
+to use Ronald Dworkin's famous phrase.1o8 Indeed we sometimes say the
+British are backward for not doing things that way.'09 But the key difference
+between the British legislative debate and the American judicial reasoning is
+that the latter is mostly concerned with interpretation and doctrine, while in
+the former decisionmakers are able to focus steadfastly on the issue of abortion
+itself and what it entails - on the ethical status of the fetus, on the predicament
+of pregnant women and the importance of their choices, their freedom, and
+their privacy, on the moral conflicts and difficulties that all this involves, and
+on the pragmatic issues about the role that law should play in regard to private
+moral questions. Those are the issues that surely need to be debated when
+society is deciding about abortion rights, and those are the issues that are given
+most time in the legislative debates and least time in the judicial
+deliberations.ll1
+io6. See, e.g., 732 Parl. Deb., H.C. (5th ser.) (1966) 1152. Norman St. John-Stevas, a Catholic MP
+who voted against the bill, nevertheless began his argument by noting, "[w]e all agree that
+this has been a vitally important debate, conducted on a level which is worthy of the highest
+traditions of the House." Id. He then moved on to congratulate the bill's sponsor "on the
+manner in which he introduced the Bill, which he did with extraordinary moderation and
+skill." Id.
+107. When I mention this example, my American friends tell me that the British legislature is
+organized to make forms of debate possible that are not possible in the United States. Well,
+leaving aside the question of whether the United States should be regarded as a pathological
+case, this simply false. The debate I have just referred to worked because the House of
+Commons suspended one of its distinguishing features?strong party discipline?for the
+purpose of this issue of rights. MPs actually debated the matter much more in the style of
+their American counterparts, not necessarily toeing a party line but stating their own
+opinions clearly and forcefully.
+108. Dworkin, supra note 3, at 33, 69-71.
+109. See Editorial, Half-Measures on British Freedoms, N.Y. Times, Nov. 17, 1997, at A22
+(criticizing the Human Rights Act for not moving the United Kingdom wholeheartedly to a
+system of strong judicial review).
+no. Elena Kagan and others have suggested to me that this critique of the way courts discuss
+rights is predicated on an assumption that what we are aiming to protect are moral rights.
+If, on the other hand, what we value is the protection of our legal constitutional rights, then
+this mode of discussion is not as inappropriate as my critique suggests. I am not convinced.
+What we aim to protect is rights, and the question is what mechanisms available in the
+1385
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0042] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+I am sure there is more to be said on th outcome-related question. It is
+certainly the case that just as courts address questions of rights in ways that
+distort what is really at stake, so too can leg reasoning be a disgrace, as
+legislative majorities act out of panic, reckle or simply parrot popular or
+sectarian slogans in their pseudo-debates. T question is this: Which defects
+in deliberation should be regarded as norm and which as aberrations in the
+way that the respective institutions-court and legislatures-are supposed to
+behave? Despite Dworkin's rhetoric about "fo of principle," I think courts
+are expected to behave in the ways that I hav criticized, focusing on precedent,
+text, doctrine, and other legalisms. Our assu about courts - assumption
+two - is about institutions that behave in th way, indeed behave well by those
+(legalistic) standards. In the case of legisla however, hasty or sectarian
+legislating is not part of the normal theory o what legislatures are set up to do.
+It is not what we should assume for the core case of legislative decisionmaking
+in a society most of whose members res rights. There may be some
+countries - perhaps the United States - in which peculiar legislative
+pathologies have developed. If that is so, the Americans should confine their
+non-core argument for judicial review to the own exceptional circumstances.
+V. PROCESS-RELATED REASONS
+Among the reasons we have for setting up decision-procedures one way or
+another, some may have little to do with outcomes, either particular outcomes
+or outcomes in general. They are concerned instead with voice or fairness or
+other aspects of the process itself. As I said earlier, it is often assumed that
+process-related arguments weigh unequivocally against judicial review. This
+not quite true. Some feeble process-related arguments have been concocted by
+defenders of the practice, and I shall review those at the end of this Part. But it
+is mostly true: The preponderance of the process-related reasons weigh in
+favor of legislatures.
+The question of the political legitimacy of decision-procedures in the face
+of disagreement about outcomes may be posed as follows. (I am afraid this
+going to be quite abstract.)
+modern state are best at protecting them and facilitating intelligent discussion about them. I
+do not assume that the mode of discourse in a moral philosophy seminar is the appropriate
+one. What I am suggesting here is that it is important, one way or another, to get at the real
+issues of human interests and human liberties that are at stake in our disagreements. A
+legalistic way of proceeding may or may not be the best way of doing that, but it would be
+quite wrong to say that we ought to value the legalism as an end in itself.
+1386
+e islative ssly, he al s rums mption at tures, f pect n ir
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0043] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+We imagine a decision being made by a certain process and we imagine a
+citizen Cn - who is to be bound or burdened by the decision - disagreeing with
+the decision and asking why she should accept, comply, or put up with it.
+Some of those who support the decision may try to persuade CQ that it is right
+in its substance. But they may fail, not because of any obtuseness on her part,
+but simply because CQ continues (not unreasonably) to hold a different view on
+this vexed and serious matter. What then is to be said to Cn? A plausible
+answer may be offered to her concerning the process by which the decision was
+reached. Even though she disagrees with the outcome, she may be able to
+accept that it was arrived at fairly. The theory of such a process-based response
+is theory of political legitimacy.
+Political decision-procedures usually take the following form. Because there
+is disagreement about a given decision, the decision is to be made by a
+designated set of individuals {Cl, C2, . .. Cm} using some designated decision
+procedure. The burden of legitimacy-theory is to explain why it is appropriate
+for these individuals, and not some others, to be privileged to participate in the
+decisionmaking. As CQ might put it, "Why them? Why not me?" The theory of
+legitimacy will have to provide the basis of answer to that question. Because
+the problem is general - it is not just a matter of Ca's idiosyncratic perversity
+it will have to give a similar answer to similar questions from CO and Cp and all
+the other C's not included in the set of privileged decisionmakers. But even if
+this answer is accepted, the struggle is not over. The theory of legitimacy also
+has to provide answer to an additional question that CQ may pose: "In the
+decision-procedure that was used, why wasn't greater weight given to the
+views of those decisionmakers who felt as I do about the matter?" There must
+be a defense of the decision-procedure used by {Cl, C2, . Cm}, not just a
+defense of its membership.
+Let us now make this abstract algebra more concrete. Suppose a citizen
+who disagrees with a legislative decision about rights poses the two questions I
+have envisaged. She asks: (1) why should this bunch of roughly five hundred
+men and women (the members of the legislature) be privileged to decide a
+question of rights affecting me and a quarter billion others?; and (2) even if I
+accept the privileging of this five hundred, why wasn't greater weight given to
+the views of those legislators who agreed with me?
+In democracies, legislatures are set up in ways that provide reasonably
+convincing answers to these two questions. The answer to the first question is
+provided by theory of fair elections to the legislature, elections in which
+people like CQ were treated equally along with all their fellow citizens in
+determining who should be privileged to be among the small number
+participating in decisions of this kind. The answer to the second question is
+given by the well-known fairness arguments underlying the principle of
+1387
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0044] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+majority decision (MD). It is not m task to defend this here; the
+fairness/equality defense of the majority rule is well known."11 Better
+than any other rule, MD is neutral as bet the contested outcomes, treats
+participants equally, and gives each ex opinion the greatest weight
+possible compatible with giving equa weight to all opinions. When we
+disagree about the desired outcome, whe we do not want to bias the matter
+up-front one way or another, and when e of the relevant participants has a
+moral claim to be treated as an equal in the process, then MD-or something
+like it - is the principle to use.112
+But what if someone responds as follows I can see why individual citizens
+like CQ have a right to be treated as eq in a decisionmaking process on a
+matter that affects them all. But why do t five hundred representatives in the
+legislature have a right to be treated as eq in this process? What justifies
+their use of MD?
+The answer refers to the continuity as b the answers to the first and
+second questions in the case of legislature For legislatures, we use a version of
+MD to choose representatives and we use a version of MD for decisionmaking
+among representatives. The theory is that together these provide a reasonable
+approximation of the use of MD as a decis among the citizenry as
+a whole (and so a reasonable approximat of the application of the values
+underlying MD to the citizenry as a whole
+In general, then, what we are saying t CQ is roughly as follows: You are
+not the only one who makes this challeng to the decision-procedures we use.
+As a matter of fact, millions of individual do. And we respond to each of them
+by conceding her point and giving her a s in the decision. In fact, we try to
+give her as much of a say as we can, thou of course it is limited by the fact
+that we are trying to respond fairly to th case that can be made along the same
+lines to take into account the voice of each individual citizen. We give each
+in. For theorem (in social choice theory) that MD alone satisfies elementary conditions of
+fairness, equality, and rationality, see Amar K. Sen, Collective Choice and Social
+Welfare 71-74 (1970); and Kenneth O. May, A Se of Independent Necessary and Sufficient
+Conditions for Simple Majority Decision, 20 Eco 680 (1952). There are also useful
+discussions in Charles R. Beitz, Political Equa 58-67 (1989); and Roberta. Dahl,
+Democracy and Its Critics 139-41 (1989).
+i?. Ronald Dworkin has convinced me, in conversa that MD is not an appropriate principle
+to use in regard to first-order issues of justice. If were in an overcrowded life-boat and
+somebody had to go overboard, it would not be appropriate to use MD to decide who that
+should be. MD is an appropriate principle, howe for choosing among general rules. If
+someone in the life-boat proposes that we shou draw straws and someone else suggests
+that the oldest person should be required to leav the life-boat, then MD seems a fair basis
+for choosing among these rules.
+1388
+y -decision ween pressed l n ach : uals he etween s. ion-procedure ion ). o e s ay gh tya t nometrica lity tion, ver, ld e
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0045] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+person the greatest say possible compatible with an equal say for each of the
+others. That is our principle. And we believe that our complicated electoral and
+representative arrangements roughly satisfy that demand for political
+equality - that is, equal voice and equal decisional authority.
+Of course, in the real world, the realization of political equality through
+elections, representation, and legislative process is imperfect. Electoral systems
+are often flawed (e.g., by unsatisfactory arrangements for drawing district
+boundaries or a lack of proportionality between districts) and so are legislative
+procedures (e.g., by a system of seniority that compromises fairness in the
+legislature). All this can be acknowledged. But remember our first assumption:
+a set of legislative institutions-including a system of elections to the
+legislature and a system of decisionmaking within it-that are in reasonably
+good shape so far as these democratic values of equality and fairness are
+concerned. We are assuming also that the legislators and their constituents
+keep this system under review for its conformity to these principles. For
+example, in many democracies there are debates about rival systems of
+proportional representation, districting, and legislative procedure. Cn may
+complain that these systems are not perfect and that they have not been
+reformed to the extent that they ought to have been. But a good theory of
+legitimacy (for real-world polities) will have a certain looseness to
+accommodate inevitable defects. It will talk about reasonable fairness, not
+perfect fairness. No doubt some electoral and legislative systems fail even these
+generous criteria. But our core case is not supposed to address situations in
+which the legislative and electoral systems are pathologically or incorrigibly
+dysfunctional.
+Let's return to our core case and to the confrontation we are imagining
+with our recalcitrant citizen C,. That something along the lines described above
+can be said in response to QC's complaint about the decision of a reasonably
+well-organized legislature is important for legitimacy, but it is not conclusive.
+For C, may envisage a different procedure that is even more legitimate than the
+legislative procedure is. Legitimacy is partly comparative."3 Because different
+institutions and processes might yield different results, defending the
+legitimacy of a given institution or process involves showing that it was or
+would be fairer than some other institution or process that was available and
+might have reached the contrary decision."14
+So now we imagine -or, in a system like the United States, we observe -
+decisions being made not by a legislature but by a court (let's make it the U.S.
+113. See Waldron, supra note 47.
+114. See Michelman, supra note 76, at 57-59.
+1389
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0046] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+Supreme Court) on a vexed issue of rights on which t citizens disagree. And
+a citizen - again we'll call her Cn - who disagrees with the substance of one of
+the court's decisions complains about it. She asks: ( why should these nine
+men and women determine the matter?; and (2) eve if they do, why should
+they make their decision using the procedure tha they use rather than a
+procedure that gives more weight to Justices with a vie that CQ favors?
+These are much tougher questions for the Court to answer than they were
+for legislators to answer. We have it on good auth that challenges like
+these are often voiced noisily outside the Court a that the Justices are
+sometimes distressed by them. Some of them, however reflect on that distress.
+(It is time to roll your eyes now and pay no atten for a few minutes,
+because I am going to quote Justice Antonin Scalia and quote him at length.)
+In truth, I am as distressed as the Court is . about the "political
+pressure" directed to the Court: the marches, the mail, the protests aimed
+at inducing us to change our opinions. How upset it is, that so many
+of our citizens (good people, not lawless ones, on both sides of this
+abortion issue, and on various sides of other issues as well) think that we
+Justices should properly take into account their vi as though were
+engaged not in ascertaining an objective law bu in determining some
+kind of social consensus. The Court would profit, I think, from giving less
+attention to thefact of this distressing phenomenon and more attention to
+the cause of it. That cause permeates today's o a new mode of
+constitutional adjudication that relies not upon text and traditional
+practice to determine the law, but upon what t Court calls "reasoned
+judgment," which turns out to be nothing but p predilection
+and moral intuition.115
+Justice Scalia continued:
+What makes all this relevant to the bothersome appl of "political
+pressure" against the Court are the twin facts that the American people
+love democracy and the American people are not fo As long as this
+Court thought (and the people thought) that we Justices were doing
+essentially lawyers' work up here - reading text and discerning our
+society's traditional understanding of that text th public pretty much
+left us alone. Texts and traditions are facts to stud not convictions to
+demonstrate about. But if in reality our proces of constitutional
+adjudication consists primarily of making value j . then a
+115. Planned Parenthood of Se. Pa. v. Casey, 505 U.S. 833 999-1000 (1992) (Scalia, J.,
+dissenting) (citation omitted).
+1390
+he 1) n t w ority nd , tion ting ews, pinion: he hilosophical ication ols. - e y, s udgments
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0047] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+free and intelligent people's attitude towards us can be expected to be
+(ought to be) quite different. The people know that their value
+judgments are quite as good as those taught in any law school - maybe
+better. If, indeed, the "liberties" protected by the Constitution are, as
+the Court says, undefined and unbounded, then the people should
+demonstrate, to protest that we do not implement their values instead
+of ours."16
+So, as Scalia says, the legitimacy questions are front-and-center, and the
+defenders of judicial review have to figure out a response.
+First, why should these Justices and these Justices alone decide the matter?
+One answer might be that the Justices have been appointed and approved by
+decisionmakers and decisionmaking bodies (the President and the Senate) who
+have certain elective credentials. The President is elected and people often
+know what sort of persons he is likely to appoint to the Supreme Court, and
+the U.S. Senators who have to approve the appointments are elected also, and
+their views on this sort of thing may be known as well. True, the Justices are
+not regularly held accountable in the way legislators are, but, as we have
+already remarked, we are not looking for perfection.
+So, the defender of judicial review is not altogether tongue-tied in response
+to our citizen's challenge; there is something to say. Nevertheless, if legitimacy
+is a comparative matter, then it is a staggeringly inadequate response. The
+system of legislative elections is not perfect either, but it is evidently superior as
+a matter of democracy and democratic values to the indirect and limited basis
+of democratic legitimacy for the judiciary. Legislators are regularly accountable
+to their constituents and they behave as though their electoral credentials were
+important in relation to the overall ethos of their participation in political
+decisionmaking. None of this true of Justices.
+Second, even if we concede that vexed issues of rights should be decided by
+these nine men and women, why should they be decided by simple majority
+voting among the Justices? Here, the situation gets worse for defenders of
+judicial review. I have always been intrigued by the fact that courts make their
+decisions by voting, applying the MD principle to their meager numbers. I
+know they produce reasons and everything we discussed above. But in the end
+it comes down to head-counting: five votes defeat four in the U.S. Supreme
+Court, irrespective of the arguments that the Justices have concocted. If MD is
+challenged in this context, can we respond to it in roughly the same way that
+we imagined a response on behalf of legislatures? Actually, no, we cannot. MD
+ii6. Id. at ?ooo-oi.
+1391
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0048] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+is appropriate for persons who have a moral claim to insist on being regarded
+as equals in some decision-process. But I ca see any moral basis for this
+claim in the case of Supreme Court Justices. They do not represent anybody.
+Their claim to participate is functional, not a matter of entitlement.
+I am handicapped here by the more or l complete lack of theoretical
+attention to the use of MD in courts.117 Sch have written some about our
+empirical experience of voting and voting strategy on courts, and some have
+suggested novel ways of combining judge votes on the particular issues
+involved in each case, rather than on the ove outcome."18 But I am not aware
+of any elementary defense of judicial maj The usual fairness
+and-equality defense is unavailable. I suspe that if the use of MD by courts
+were to be defended, it would be defended ei as a simple technical device of
+decision with no further theoretical ram or on the basis of
+Condorcet's jury theorem (majority vo by a group of adjudicators
+arithmetically enhances the competence of the group beyond the average
+competence of its members) .21 If it is the la then the defense of MD is part
+of the outcome-related case for judicial comp which means that it will
+have to compete with a similar case that c be made for the much larger
+voting bodies in legislatures.'22 However t argument would play out, my
+117. I try to say a litde about it in Waldron, Deliberatio Disagreement, and Voting, supra note 14,
+at 215-24.
+118. See, e.g., Lewis A. Kornhauser & Lawrence G. Sager, The One and the Many: Adjudication in
+Coll?gial Courts, 81 Cal. L. Rev. 1 (1993); Lewis A. Kornhauser & Lawrence G. Sager,
+Unpacking the Court, 96 Yale LJ. 82 (1986); David Post & Steven C. Salop, Rowing Against
+the Tidewater: A Theory of Voting by Multijudge Panels, 80 Geo. L.J. 743 (1992).
+119. One reason for this that defenders of judicial review prefer not to talk about the use of
+simple majority voting among the Justices on issues of rights. They want to be able to
+condemn majority voting on rights as a characteristic of legislatures. If pressed, they will
+acknowledge that, of course, judges decide issues by, say, 5-4 or 6-3 majorities on the
+Supreme Court. But I have never, ever heard a defender of judicial review introduce this into
+discussion himself or herself, let alone undertake to explain why it is a good idea.
+120. See Hannah Arendt, On Revolution 163 (photo, reprint 1982) (1963) (stating that "the
+principle of majority is inherent in the very process of decision-making" and is "likely to be
+adopted almost automatically in all types of deliberative councils and assemblies").
+121. Marquis de Condorcet, Essay on the Application of Mathematics to the Theory of Decision
+Making (1785), reprinted in Condorcet: Selected Writings 33 (Keith Michael Baker ed. &
+trans., 1976).
+122. The Condorcet theorem holds that the larger the voting group, the greater the enhancement
+of group competence above average individual voter competence by majority voting. Of
+course, the result presupposes that average individual competence is higher than fifty
+percent. For a discussion of Condorcet's doubts about the application of this last condition,
+see Jeremy Waldron, Democratic Theory and the Public Interest: Condorcet and Rousseau
+Revisited, 83 Am. Pol. Sci. Rev. 1317,1322 (1989).
+1392
+nnot ess olars s' rall oritarianism."9 ct ther ifications,'20 ting tter, etence, an his n,
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0049] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+point is this: There is no additional fairness argument for the use of MD by
+courts, as there is for its use by legislatures.
+These last points should remind us that the responses we have been
+imagining to QC's challenge to legislative and judicial procedures do not stand
+alone. We may also make an outcome-related case to respond to her challenge.
+But I think I have been able to show in this Part, and the previous Part, that the
+outcome-related case is inconclusive (or it argues in favor of legislatures) while
+the process-related case is almost wholly on the legislative side. Remember too
+what we said at the end of Part III. The reasons on both sides have to do with
+rights. If one institution or the other was clearly superior at determining what
+rights people really have, then that would weigh very heavily indeed in favor of
+that institution. But that is not the case. On the process side, institutions giving
+final authority on these matters to judges fail to offer any sort of adequate
+response to the fairness-complaint of the ordinary citizen based on the
+principle - not just the value - of political equality. That failure might be
+tolerable if there were a convincing outcome-based case for judicial
+decisionmaking. Defenders of judicial review pretend that there is. But as we
+saw above, it is just unsupported assertion.
+Perhaps aware of all this, defenders of judicial review have tried a number
+of last-ditch attempts to reconcile their favored institution to democratic
+values. I will consider these briefly, because there is not much to them.
+First, defenders of judicial review claim that judges do not make their own
+decisions about rights; they simply enforce decisions of the people that are
+embodied in a Bill of Rights, which itself has democratic credentials, either as
+legislation or as part of a constitution. This claim does not undermine the core
+case against judicial review. We are assuming that the Bill of Rights does not
+settle the disagreements that exist in the society about individual and minority
+rights. It bears on them but it does not settle them. At most, the abstract terms
+of the Bill of Rights are popularly selected sites for disputes about these issues.
+The question we have been considering is who is to settle the issues that are
+fought out on those sites.
+Second, and in much the same spirit, defenders of judicial review claim that
+judges are simply enforcing the society's own precommitment to rights. The
+society has bound itself to the mast on certain principles of right, and, like
+Ulysses' shipmates, the judges are just making sure the ropes remain tied. This
+common analogy has been thoroughly discredited in the literature.'23 Briefly,
+123. See Jon Elster, Ulysses Unbound 88-96 (2000) (casting doubt on some arguments made
+in Jon Elster, Ulysses and the Sirens: Studies in Rationality and Irrationality 93
+(1984)) ; see also Waldron, supra note 14, at 255-81.
+1393
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0050] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+the response is that the society has not comm itself to any particular view
+of what a given right entails, so when citizens disagree about this, it is not clear
+why giving judges the power to decide shou be understood as upholding a
+precommitment. If someone insists neverth that society has committed
+itself to a particular view about the right in question (and the judges, by voting
+among themselves, somehow ascertain t precommitment), once an
+alternative understanding of the right is in pla it is not clear why the existing
+precommitment should hold. The Ulysse model works only when the
+precommitment guards against various aberra not when it guards against
+changes of mind in relation to genuine disa as to what a reasonable
+outcome would be. `4
+Third, defenders of judicial review claim tha if legislators disagree with a
+judicial decision about rights, they can campai to amend the Bill of Rights to
+explicitly override it. Their failure to do th amounts to a tacit democratic
+endorsement. This argument is flawed because it does not defend the baseline
+that judicial decisionmaking establishes Amending a Bill of Rights
+characteristically involves a supermajority; or if it is a British- or New Zealand
+style statute, it will have credentials in the pol culture that raise the stakes
+and increase the burden associated with the amendment effort. If our
+disgruntled citizen CQ asks why the deck shoul be stacked in this way, the only
+answer we can give her refers back to judic decision. And that has already
+been found wanting.
+Fourth, defenders of judicial review insist that judges do have democratic
+credentials: They are nominated and confir by elected officials, and the
+kind of judicial nominations that a candidat for political office is likely to
+make nowadays plays an important role in the candidate's electoral
+campaign."25 This true; but (as I have already remarked) the issue is
+comparative, and these credentials are not remotely competitive with the
+democratic credentials of elected legislators. Moreover, to the extent that we
+accept judges because of their democratic credentials, we undermine the
+affirmative case that is made in favor of judicial review as a distinctively
+valuable form of political decisionmaking.
+Fifth and finally, defenders of judicial revie claim that the practice may be
+justified as an additional mode of access fo citizen input into the political
+124. See Waldron, supra note 14, at 266-70.
+125. Eisgruber, supra note 13, at 4 ("Though the justice are not chosen by direct election, they
+are nevertheless selected through a process that is bo political and democratic. . [T]hey
+are chosen by elected officials: they are nominated b the president and confirmed by the
+Senate. . The justices have ... a democratic pedig they owe their appointments to
+their political views and their political connections as much as ... to their legal skills.").
+1394
+itted ld eless hat y, s tions, greement t gn is . itical d ial med e w r s th y ree:
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0051] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+system. Sometimes citizens access the system as voters, sometimes as lobbyists,
+sometimes as litigants. They say we should evaluate the legitimacy of the whole
+package of various modes of citizen access, not just the democratic credentials
+of this particular component. The point is a fair one, as far as it goes. But
+embedding judicial review in a wider array of modes of citizen participation
+does not alter the fact that this a mode of citizen involvement that is
+undisciplined by the principles of political equality usually thought crucial to
+democracy. People tend to look to judicial review when they want greater
+weight for their opinions than electoral politics would give them. Maybe this
+mode of access can be made to seem respectable when other channels of
+political change are blocked.l26 We will discuss this in Part VII. But the
+attitudes toward one's fellow citizens that judicial review conveys are not
+respectable in the core case we are considering, in which the legislature and the
+elective arrangements are in reasonably good shape so far as democratic values
+are concerned.
+VI. THE TYRANNY OF THE MAJORITY
+I want to give defenders of judicial review - for the core case - one last bite
+at the apple. The concern most commonly expressed about the work of a
+democratic legislature is that, because they are organized on a majoritarian
+basis, legislative procedures may give expression to the "tyranny of the
+majority." So widespread is this fear, so familiar an element is it in our political
+culture, so easily does the phrase "tyranny of the majority" roll off our
+tongues,127 that the need for judicially patrolled constraints on legislative
+decisions has become more or less axiomatic. What other security do minorities
+have against the tyranny of the majority?
+I believe that this common argument is seriously confused. Let us grant, for
+now, that tyranny is what happens to someone when their rights are denied.
+The first thing to acknowledge is that, according to this definition, tyranny is
+almost always going to be at stake in any disagreement about rights. In any
+disagreement about rights, the side in favor of the more expansive
+understanding of a given right (or the side that claims to recognize a right that
+126. See John Hart Ely, Democracy and Distrust : A Theory of Judicial Review (1980).
+127. Mill's one criticism of Tocqueville's Democracy in America was that the likely political effect
+of his popularizing the phrase, "the tyranny of the majority," would be to give conservative
+forces additional rhetoric with which to oppose progressive legislation. See John Stuart
+Mill, M. de Tocqueville on Democracy in America, Edinburgh Rev., Oct. 1840, reprinted in 2
+Dissertations and Discussions: Political, Philosophical, and Historical 1, 79-81
+(photo, reprint 1973) (1859).
+1395
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0052] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+the other denies) will think that the opp side's position is potentially
+tyrannical. For example, the peyote smokers will think the subjection of their
+sacraments to generally applicable narcotic laws is tyrannical. Opponents of
+campaign finance laws will think those law are tyrannical. But it is an open
+question whether they are right. Some of t claims about tyranny are no
+doubt correct. But they do not become correc simply because they are asserted.
+Indeed, in some cases, there will be allegati of tyranny on both sides of a
+rights issue. Defenders of abortion rights thi the pro-life position would be
+tyrannical to women; but the pro-life people think the pro-choice position is
+tyrannical to another class of persons (fetuse are persons, on their account).
+Some think that affirmative action is tyra others think the failure to
+implement affirmative action programs is tyr And so on.
+Let us grant what we acknowledged in Part III, in our discussion of
+Wollheim's paradox. Democratic institutions will sometimes reach and enforce
+incorrect decisions about rights. This m they will sometimes act
+tyrannically. But the same is true of an decision process. Courts will
+sometimes act tyrannically as well."28 Tyran on the definition we are using,
+is more or less inevitable. It is just a matter o how much tyranny there is likely
+to be, which was the subject of our discussion in Part TV.
+Is the tyranny of a political decision ag by the fact that it is
+imposed by a majority? I leave aside the pe point that a court may also
+reach its decision by majority voting. Is tyra by a popular majority (e.g., a
+majority of elected representatives, each supported by a majority of his
+constituents) a particularly egregious form of tyranny? I do not see how it
+could be. Either we say that tyranny is tyran irrespective of how (and among
+whom) the tyrannical decision is made, or we say-and this my view-that
+the majoritarian aspect actually mitigates the tyranny, because it indicates that
+there was at least one non-tyrannical thing a the decision: It was not made
+in a way that tyrannically excluded certain pe from participation as equals.
+That may seem a little flip, so let me address the question less
+provocatively. The most commonly expres misgiving about unrestrained
+legislative authority is that minorities or ind may suffer oppression in
+relation to the majority. They may be oppres or discriminated against, or
+their rights denied and violated compared to those of the majority, or their
+interests unduly subordinated to those of members of the majority (for
+128. I am not referring to their sins of omission (faili to protect us against certain legislative
+rights abuses). For examples of these, see supra note 8 Here, I am referring to their sins of
+commission: Sometimes the power of judicial rev will be exercised tyrannically to
+prevent legislatures from according people (what ar in fact) their rights. For reference to
+some examples, see supra note 4 and accompanying t
+1396
+osite s hese t ons nk nnical; annical. eans y ny, f gravated dantic nny bout ople sed ividuals sed, ng 2. iew e ext.
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0053] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+example, harmed or neglected in a way that justice condemns). In describing
+these forms of tyranny, oppression, or injustice, we use the terms "majority"
+and "minority." But in this particular context they are not necessarily terms
+related to political decision-processes. Let me explain.
+Injustice is what happens when the rights or interests of the minority are
+wrongly subordinated to those of the majority. Now, we have conceded that
+this may happen as a result of majoritarian political decisionmaking. When it
+does, however, we need to distinguish at least in the first instance between the
+"decisional" majority and minority and what I shall call the "topical" majority
+and minority"9 -i.e., the majority and minority groups whose rights are at
+stake in the decision. In some cases the membership of the decisional majority
+may be the same as the membership of the topical majority and the
+membership of the decisional minority - those who voted against the
+injustice - may be the same as the membership of the topical minority. This
+often true in the case of racial injustice for example: White legislators
+(decisional majority) vote for white privilege (topical majority); black
+legislators lose out in the struggle for equal rights for blacks. These are the
+cases, I submit, that we should be particularly concerned about under the
+heading of "the tyranny of the majority."
+With this distinction in mind, let us return to cases of rights-disagreement.
+Suppose that there is disagreement in a society about what the rights of a
+topical minority are. Assuming this disagreement has to be settled, the society
+will have to deliberate about it and apply its decision-procedures to the issue.
+Suppose the society uses MD to settle this matter, I take part in this
+decisionmaking, using my vote, and the side that I vote for loses. I am
+therefore a member of the decisional minority on this issue. But so far it has
+not been shown that anything tyrannical has happened to me. To show that we
+would have to show two additional things: (1) that the decision really was
+wrong and tyrannical in its implications for the rights of those affected; and (2)
+that I was a member of the topical minority whose rights were adversely
+affected by this wrong decision.
+129 - I use "topical" because their rights and interests are the topic of the decision. The term
+"topical minority" is a loose one, and there is always likely to be dispute about whom it
+comprises (and the same is true of "topical majority"). But the looseness is not a problem.
+Even loosely defined, the distinction between topical and decisional minorities enables us to
+see that not everyone who votes for the losing side in an issue about rights should be
+regarded as a member of the group whose rights have been adversely affected by the
+decision. See Waldron, supra note 14, at 13-14; Waldron, Precommitment and Disagreement,
+supra note 19; Waldron, Rights and Majorities, supra note 19, at 64-66.
+1397
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0054] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+The point to remember here is that nothing tyrannical happens to me
+merely by virtue of the fact that my opinion is n acted upon by a community
+of which I am a member. Provided that the opinio that is acted upon takes my
+interests properly into account along with ever else's, the fact that my
+opinion did not prevail is not itself a threat to my rights, or to my freedom, or
+to my well-being. None of this changes necessarily if I am also a member of the
+topical minority whose rights are at issue. Peo - including members of
+topical minorities -do not necessarily have the r they think they have.
+They may be wrong about the rights they have the majority may be right.
+Responsible talk about "tyranny of the majority" will keep these analytic points
+in mind.
+To sum up, tyranny of the majority is possible. But the term should not be
+used simply to mark the speaker's disagreement with the outcome of a majority
+decision. The most fruitful way of characterizing tyranny of the majority is to
+say that it happens when topical minorities are aligned with decisional
+minorities. In Part VII, I shall consider the application of this to what are called
+"discrete and insular minorities."'30 For now, though, we may note that this
+sort of alignment is exactly what we should not expect under the core
+assumptions we are considering. Assumption three was that most people, and
+therefore most members of any given decisional majority, care about rights just
+as much as the members of a given decisional minority. And our fourth
+assumption about disagreement was that disagreement is not usually driven by
+selfish interests. Disagreement is sufficiently explained by the complexity and
+difficulty of the issues themselves. What Rawls called "the burdens of
+judgment"'31 argue precisely against the sort of alignment between opinion and
+interests that, we have just seen, responsible talk of the tyranny of the majority
+ought to presuppose.
+The conclusion is not, however, that tyranny of the majority is something
+we need not worry about. Rather, the conclusion is that tyranny of the
+majority - if that term is being used responsibly - is a characteristic of non-core
+cases, in which people care little for minority or individual rights other than
+their own. I do not want to deny that this happens. But I think it is important
+to emphasize its incompatibility with my third assumption and not to try to
+talk simultaneously about a society committed to rights in which tyranny of the
+majority is nevertheless an endemic possibility.
+The distinctions made in this Part can help us deal with two other
+arguments about judicial review. First, Ronald Dworkin argues in Freedom's
+130. See infra text accompanying notes 137-141.
+131. Rawls, Political Liberalism, supra note 53, at 54-58.
+1398
+ot n yone ple ights ;
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0055] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+Law that democratic decisionmaking is inherently tyrannical if people's rights
+are not respected. This not just because it may generate tyrannical outcomes,
+he argues, but because respect for rights is a background condition for the
+legitimacy of any system of political decisionmaking. Dworkin is not just
+making the familiar point that democracy depends (constitutively) on certain
+rights, like the right to vote or, indirectly, the right to free speech or freedom of
+association. His point is more sophisticated than that. He maintains that
+processes like MD have no legitimacy at all in a democratic context (or any
+other context) unless each voter is assured that the others already regard him
+with equal concern and respect. A bunch of terrorists deciding my fate by
+majority decision (even an MD process in which I am given a vote) has no
+legitimacy at all, because this background condition is not met. In general,
+Dworkin argues, a person can hardly be expected to accept majority decisions
+as legitimate if she knows that other members of the community do not take
+her interests seriously or if the established institutions of the community evince
+contempt or indifference toward her or her kind.'32
+Dworkin thinks this refutes the democratic objection to judicial review.'33
+Suppose a piece of legislation is enacted by an elected assembly and then
+challenged by a citizen on the ground that it undermines right R, a right that is
+a condition of democratic legitimacy. We imagine that others will disagree,
+some because they think R is not a condition of democracy, others because they
+understand R in a quite different way. And suppose the issue is assigned to a
+court for final decision, and the court strikes down the statute, accepting the
+citizen's challenge. Is there a loss to democracy? The answer, Dworkin says,
+depends entirely on whether the court makes the right decision. If it does - that
+is, if the statute really was incompatible with the rights required as conditions
+for legitimate application of MD - then democracy is surely improved by what
+the court has done, because the community is now more democratically
+legitimate than it would have been if the statute had been allowed to stand.134
+132. DwoRKiN, supra note 10, at 25.
+133. Dworkin is careful to say that it is not an argument for judicial review. Id. at 7 ("Democracy
+does not insist on judges having the last word, but it does not insist that they must not have
+it.-).
+134. Id. at 32-33 ("[I]f we assume that the court's decision was wrong, then none of this true.
+Certainly it impairs democracy when an authoritative court makes the wrong decision about
+what the democratic conditions require?but no more than it does when a majoritarian
+legislature makes a wrong constitutional decision that is allowed to stand. The possibility of
+error is symmetrical.").
+1399
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0056] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+There are many things wrong with this a some of which I have
+pointed out elsewhere."35 For one thing, Dwo seems to be suggesting that if
+a political decision is about democracy, then t is no interesting question to
+be raised about the institutional process by which the decision is made. This
+seems wrong to me. If a decision about the m process (or about the
+conditions of its legitimacy) were made u some procedure that, for
+example, precluded the participation of wo equality-based objections to
+that procedure would not be disqualified sim because the legitimacy of the
+majoritarian process was actually the matt at issue. We care about process
+values even when process is what is at stake i our disagreements.
+But the most telling objection is this. Let u grant Dworkin's premise -that
+democratic procedures are legitimate only among people who respect one
+another's rights. That may be read in two wa (1) democratic procedures are
+legitimate only among people who hold and act upon the correct view of one
+another's rights; or (2) democratic proced are legitimate only among
+people who take one another's rights seriou and who in good faith try as
+hard as they can to figure what these righ are. The first reading is far too
+strong; no imaginable political system s it. And I cannot see any
+objection to the second reading of Dworkin premise. But if we read it this
+way, then Dworkin's premise is satisfied for the sort of society we are
+considering in this Essay. Even if people disa about rights, they may take
+one another's rights seriously. Decisional m may prevail. Sometimes
+they will be right about rights and sometime they will be wrong. But that is
+something they have in common with all sys of decisionmaking and that
+alone cannot undermine their legitimacy, so long as topical minorities have an
+assurance that most of their fellow citize take the issue of their rights
+seriously.
+Second, we can also use the distinctions developed in this Part to help deal
+with the allegation that unreviewable legislative decisionmaking about rights
+involves the majority being the judge in its own case. Those who invoke the
+maxim nemo iudex in sua causa in this context say that it requires that a final
+decision about rights should not be left in the hands of the people. Rather, it
+should be passed on to an independent and impartial institution such as a
+court.
+It is hard to see the force of this argument. Almost any conceivable
+decision-rule will eventually involve someone deciding in his own case. Unless
+we envisage a literally endless chain of appeals, there will always be some
+person or institution whose decision is final. And of that person or institution,
+135 - For a full response, see Waldron, supra note 14, at 282-312.
+1400
+rgument, rkin here ajoritarian sing men, ply er n s ys: ures sly ts atisfies 's gree ajorities tems ns
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0057] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+we can always say that because it has the last word, its members are ipso facto
+ruling on the acceptability of their own view. Facile invocations of nemo iudex
+in sua causa are no excuse forgetting the elementary logic of legitimacy:
+People disagree, and there is need for a final decision and a final decision
+procedure.
+What this second argument for the necessity of judicial review might mean
+is that the members of the topical majority - i.e., the majority whose rights and
+interests is at stake - should not be the ones whose votes are decisive in
+determining whether those rights and interests are to remain ascendant. And
+there are legitimate grounds for concern when topical majorities align with
+decisional majorities. (If this alignment is endemic, then I think we are dealing
+with a non-core case, for reasons I will explain Part VII.) But it is striking
+how rarely this happens, including how rarely it happens in the kinds of cases
+that are normally dealt with by judicial review in the United States. Think of
+the two examples I mentioned earlier: abortion and affirmative action. In
+neither case is there the sort of alignment that might be worrying. Many
+women support abortion rights, but so do many men; and many women
+oppose them. Many African-Americans support affirmative action, but so do
+many members of the white majority; and many African-Americans oppose
+affirmative action. This what we should expect in a society in which our
+third and fourth assumptions, set out in Part II, are satisfied. People who take
+rights seriously must be expected to disagree about them; but it is a sign of
+their taking rights seriously that these disagreements will be relatively
+independent of the personal stakes that individuals have in the matter.
+VIl.NON-CORE CASES
+The arguments I have made so far are based on four quite demanding
+assumptions. What becomes of these arguments when the assumptions fail, or
+for societies in which the assumptions do not hold? I have in mind particularly
+my first assumption that a society has democratic and legislative institutions in
+good shape so far as political equality is concerned, and my third assumption
+that the members of the society we are considering are by and large committed
+to the idea of individual and minority rights. For many people, I think the case
+for judicial review rests on the refusal to accept these assumptions. Judicial
+review is in part a response to perceived failures of democratic institutions, or it
+is in part a response to the fact that many people do not take rights sufficiently
+seriously (so they need a court to do it for them). In sum, supporters of the
+practice will say we need judicial review of legislation in the real world, not the
+ideal world defined by my assumptions.
+1401
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0058] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+A number of things need to be said in r to this, before turning to a
+couple of specific issues about non-core ca First, the assumptions on which
+I have been proceeding are not unrealist Assumption three, for example -a
+general commitment to rights in the socie is fairly easily satisfied, given that
+the case for judicial review almost always assumes that somehow the society for
+which judicial review is envisaged has a Bi of Rights that stands in some real
+relation to the views of citizens. The firs assumption was about electoral and
+legislative arrangements being in reasona good shape, bearing in mind that
+even in the name of political equality we are not entitled to demand perfection.
+Also, in Part V, when I talked about the l of legislatures and courts, I
+again stressed that my argument did not t on there being a perfect response
+to individual citizens' demand for voice and participation. The case for the
+legitimacy of legislative decisionmaking d not depend on any assumption of
+the utopian perfection of legislative i nor on their perfectly
+embodying the principle of political equ in their elective and procedural
+aspects. It turns on these institutions bein explicitly oriented to this principle,
+organized in a way that is designed to satisfy the principle, and making a
+reasonable effort to do so. Finally, I took care to cite the actual deliberations of
+an actual legislature -the House of Com on the Medical Termination of
+Pregnancy Bill 1966 - as an example of ho legislatures might work, not some
+concoction of the philosophical a priori.
+Having said all that, we still must as What happens to the argument
+against judicial review if the assumptions fail?
+In cases in which the assumptions fail, t argument against judicial review
+presented in this Essay does not go thr As I emphasized in Part II, my
+argument is a conditional one.136 Howe it does not follow that judicial
+review of legislation is defensible whenev the assumptions fail. There may be
+other good arguments against judicial review that are not conditioned on
+assumptions like mine. Or it may be the c that judicial review offers no hope
+of ameliorating a particular situation. It may not be appropriate to set up
+judicial review of legislation if judicial decisionmaking in a society is no less
+corrupt or no less prejudiced than it legislative decisionmaking. The
+arguments we entertained for the core ca were in large part comparative, and
+this logic applies to non-core cases as well .
+Suppose we are dealing with a case that is non-core by virtue of the failure
+of my first assumption: In this case, legis are inadequately representative
+or deliberative, the system of elections is compromised, and the procedures
+136. See supra text accompanying note 43. For an example of the failure of the argument, see
+Waldron, supra note 47.
+1402
+esponse ses. ic. ty- ll t bly egitimacy urn oes nstitutions, ality g mons w k: he ough. ver, er ase s se latures
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0059] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+used in the legislature no longer bear any credible relation to political
+legitimacy. Two questions then arise: (1) Is it possible to improve the situation,
+so far as the legislature is concerned? (2) Should a final power of decision for
+important issues of rights be vested in the courts, assuming that the courts
+would handle those issues better? The questions are independent, for we may
+reasonably think that some issues of rights are too urgent to await the
+emergence of a more responsible and representative legislature. But they are
+not utterly independent. Vesting the final power of decision in courts may well
+make it more difficult to reform the legislature or more difficult to develop the
+legislative ethos that the first assumption, and perhaps also the third
+assumption, presuppose. I have heard speculation to this effect about the
+United States: The idea is that U.S. legislatures, particularly state legislatures,
+operate irresponsibly and in a way that fails to take rights seriously because the
+knowledge that the courts are there as backup makes it harder to develop a
+responsible culture among legislators. How far this true, I don't know. It is
+certainly worth considering.
+I want to end by discussing one well-known way in which my first
+assumption might be thought to fail. I have in mind Justice Stone's suggestion
+in the famous Carolene Products footnote four: "[P]rejudice against discrete and
+insular minorities may be a special condition, which tends seriously to curtail
+the operation of those political processes ordinarily to be relied upon to protect
+minorities .... "137 This it seems to me is an excellent way of characterizing the
+sort of non-core case in which the argument for judicial review of legislative
+decisions has some plausibility. Minorities in this situation may need special
+care that only non-elective institutions can provide - special care to protect
+their rights and special care (as John Hart Ely points out) to repair the political
+system and facilitate their representation.138
+We have to be cautious about this argument, however. It follows from
+what I said in Part VI that not every minority deserves this special treatment:
+certainly not every decisional minority, and not even every topical minority.139
+There is no reason to suppose even that every chronic minority deserves this
+137 - United States v. Carolene Products Co., 304 U.S. 144, 153 n.4 (1938); see also Keith E.
+Whittington, An "Indispensable Feature"? Constitutionalism and Judicial Review, 6 N.Y.U. J.
+Legis. & Pub. Pol'y 21, 31 (2002) (stating that my neglect of this idea in Law and
+Disagreement is "striking from the perspective of American constitutional theory").
+138. Ely, supra note 126, at 135-79.
+139. Tushnet, supra note 11, at 159 ("Every law overrides the views of the minority that loses_
+We have to distinguish between mere losers and minorities that lose because they cannot
+protect themselves in politics.").
+1403
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0060] =====
+
+THE YALE LAW JOURNAL 115:1346 20o6
+special treatment, certainly not chronic de minorities -Bolsheviks in
+the United States, for example.
+Too often the phrase "discrete and insular" is used thoughtlessly. Not every
+distinct and identifiable minority is discr and insular. There is nothing
+magical about Justice Stone's language. But if taken seriously, "discrete" and
+"insular" are useful adjectives, for they conv not just the idea of a minority
+that exists apart from political decisionm - in other words a topical
+minority-but also a minority whose members are isolated from the rest of the
+community in the sense that they do not share many interests with non
+members that would enable them to build a series of coalitions to promote
+their interests. The alignment of decision and topical minorities that we
+warned against in Part VI is a good example o "insularity" in this sense. And it
+is a cause for concern.
+What about the other criterion that Jus Stone mentioned-that the
+minority is the victim of prejudice? P prejudice is certainly
+incompatible with my third and fourth assu it connotes indifference
+or hostility to the rights of the group's mem and it may lead members of
+the majority to differ unreasonably from th minority members' estimation of
+their own rights. But the term "prejud may be too narrow and its
+connotations may fail to capture the dept of entrenched and unconscious
+antipathy between one group and another.'40 The point is not to insist on any
+particular mode of antipathy, but to distingu between its various modes and
+the phenomenon of reasonable disagreement about rights.'4'
+In such cases, the core argument against ju review that I have outlined
+cannot be sustained. But, again, this not the same as saying that a case has
+been made in favor of judicial review. Everyt depends on whether judicial
+majorities are infected with the same prejudi as legislative majorities. If they
+are, then the case may be not only non-core but hopeless. A practice of judicial
+review cannot do anything for the rights of the minority if there is no support
+at all in the society for minority rights. The affirmative case that is often made
+for judicial review in these circumstances assu that there is some respect for
+the relevant minority's rights outside the mi own membership, but that
+ho. See Charles R. Lawrence III, The Id, the Ego, and Equ Protection: Reckoning with Unconscious
+Racism, 39 Stan. L. Rev. 317 (1987). I am grateful to Ian Haney-Lopez for emphasizing this
+point.
+141. It is important also to distinguish between prejudices and views held strongly on religious
+or ethical grounds. We should not regard the views of pro-life advocates as prejudices
+simply because we do not share the religious convictions that support them. Almost all
+views about rights ? including pro-choice views ? are deeply felt and rest in the final analysis
+on firm and deep-seated convictions of value.
+1404
+cisional ete ey aking al f tice ervasive mptions; bers, e ice" h ish dicial hing ce mes nority's al
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0061] =====
+
+THE CORE OF THE CASE AGAINST JUDICIAL REVIEW
+it is largely confined to political elites. The idea is that most ordinary members
+of the majority do not share this sympathy. Now the elite members who do
+share it-I shall call them elite sympathizers - may be in the legislature or they
+may be in the judiciary. The argument for giving final authority to judges is
+that elite sympathizers in the judiciary are better able than elite sympathizers in
+an elected legislature to protect themselves when they accord rights to the
+members of an unpopular minority. They are less vulnerable to public anger
+and they need not worry about retaliation. They are therefore more likely to
+protect the minority.
+Notice how this argument for judicial review depends on a particular
+assumption about the distribution of support for the minority's rights. The
+sympathy is assumed to be strongest among political elites. If that is false -if
+the sympathy is stronger among ordinary people -then there is no reason to
+accept the argument of the previous paragraph. On the contrary, elective
+institutions may better at protecting minority rights because electoral
+arrangements will provide a way of channeling popular support for minority
+rights into the legislature, whereas there are no such channels into the
+judiciary. No doubt, the distribution of support for minority rights varies from
+case to case. But I find it interesting that most defenders of judicial review,
+when they assume that there will be some support for minority rights in a
+society, are convinced that in all cases it will be found among elites if it is found
+anywhere. They will defend this as an empirical claim, but I must say it is
+entirely consonant with ancient prejudices about democratic decisionmaking.
+One other factor to take into account is whether an established practice of
+judicial review will make it easier or harder in the long-term to remedy the
+elective and legislative dysfunctions we are imagining here. In certain
+circumstances, discrete and insular minorities may benefit from judicial
+intervention to protect their rights. But institutionally, judicial solicitude may
+make things worse, or at least fail to make them much better. As the United
+States found in the 1950S and 1960s, for all the excitement of judicial attacks on
+segregation in Brown and other cases, what was needed in the end was strong
+legislative intervention (in the form of the Civil Rights Act), and it turned out
+that the main difference was not courts versus legislatures per se, but federal
+institutions versus state institutions, with the federal legislature finally playing
+the decisive role.
+Overall, we should not read the Carolene Products footnote or any similar
+doctrine as a way of "leveraging" a more general practice of judicial review into
+1405
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms
+
+
+===== [PDF_PAGE_0062] =====
+
+THE YALE LAW JOURNAL 115:1346 2006
+existence.142 The problem of discrete and insular minorities is not to be seen as
+a sort of Trojan Horse for judicial revie or as a basis for embarrassing the
+arguments against it. The aim of consi such cases is not to defend
+judicial review; rather it is to do what best secures the rights of the
+minorities affected. We should aim direct at that, conscious of the fact that
+there is no convincing general argument for judicial review of which this could
+be treated as a sort of ideological vanguar
+CONCLUSION
+I have not sought to show that the practice of judicial review of legislation
+is inappropriate in all circumstances. Instead I have tried to show why rights
+based judicial review is inappropriate for reasonably democratic societies whos
+main problem is not that their legislative institutions are dysfunctional but tha
+their members disagree about rights.
+Disagreement about rights is not unreasonable, and people can disagre
+about rights while still taking rights seriously. In these circumstances, th ey
+need to adopt procedures for resolving their disagreements that respect t he
+voices and opinions of the persons - in their millions - whose rights are at stak
+in these disagreements and treat them as equals in the process. At the sam
+time, they must ensure that these procedures address, in a responsible a nd
+deliberative fashion, the tough and complex issues that rights-disagreemen
+raise. Ordinary legislative procedures can do this, I have argued, and an
+additional layer of final review by courts adds little to the process except a
+rather insulting form of disenfranchisement and a legalistic obfuscation of t he
+moral issues at stake in our disagreements about rights.
+Maybe there are circumstances -peculiar pathologies, dysfunction
+legislative institutions, corrupt political cultures, legacies of racism and other
+forms of endemic prejudice - in which these costs of obfuscation a nd
+disenfranchisement are worth bearing for the time being. But defenders of
+judicial review ought to start making their claims for the practice frankly on
+that basis - and make it with a degree of humility and shame in regard to th e
+circumstances that elicit -rather than preaching it abroad as the epitome of
+respect for rights and as a normal and normatively desirable element of moder
+constitutional democracy.
+142. See Tushnet, supra note 11, at 158-63, for a good general discussion of the limits on th e
+usefulness of this line of argument for supporting judicial review.
+1406
+w dering ever ly d. e t e ts al n
+This content downloaded from
+163.14.34.49 on Tue, 15 Sep 2026 07:02:54 UTC
+All use subject to https://about.jstor.org/terms

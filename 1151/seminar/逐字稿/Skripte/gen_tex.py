@@ -12,9 +12,9 @@
 產物：Teile/<週>.tex（已存在而未給 --force 時拒絕覆蓋）、--srt-out 給的 reviewed srt。
 每處替換都斷言 before 在該 cue 內恰出現一次；編註的「詞」須在該 cue 內出現。
 """
-import csv, re, sys, pathlib, argparse
+import csv, re, sys, pathlib, argparse, urllib.parse
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+ROOT = pathlib.Path(__file__).absolute().parents[1]
 CJK = r'[　-〿㐀-鿿＀-￯]'
 
 
@@ -34,6 +34,8 @@ def read_tsv(p, cols):
 
 
 def fullwidth(s):
+    s = re.sub(r'[,，]\s*。', '，', s)          # W02 之 srt 句末多為「,。」，視為逗號；句末標點由 breaks 表定
+    s = re.sub(r'[,，]\s*([？！])', r'\1', s)
     s = re.sub(rf'(?<={CJK}),\s*|,\s*(?={CJK})', '，', s)
     s = re.sub(rf'(?<={CJK})\?|\?(?={CJK})|(?<={CJK})\?$', '？', s)
     s = re.sub(rf'(?<={CJK})!|!(?={CJK})', '！', s)
@@ -75,15 +77,23 @@ def main():
     meta = {r['key']: r['value'] for r in read_tsv(nd / 'meta.tsv', ['key', 'value'])}
     label = meta.get('label', a.week.split('_')[0].lower())
 
+    # 〇、刪去的重複解碼（find_loops.py 產生的 drop.tsv）
+    drops = {int(r['cue']): r['reason'] for f in ('drop.tsv', 'drop.manual.tsv') for r in read_tsv(nd / f, ['cue', 'reason'])}
+
     # 一、校訂
     n_edit = 0
-    for p in sorted(nd.glob('chunk*.edits.tsv')):
+    for p in sorted(nd.glob('*.edits.tsv')):
         for r in read_tsv(p, ['cue', 'before', 'after', 'basis']):
             k = int(r['cue'])
             cnt = text[k].count(r['before'])
             assert cnt == 1, f'{p.name} cue {k}：「{r["before"]}」出現 {cnt} 次'
             text[k] = text[k].replace(r['before'], r['after'])
             n_edit += 1
+    # 全書人名與用語對照（Notizen/names.tsv：wrong、right、basis），套在各週校訂之後
+    for r in read_tsv(ROOT / 'Notizen' / 'names.tsv', ['wrong', 'right', 'basis']):
+        for k in text:
+            if r['wrong'] in text[k]:
+                text[k] = text[k].replace(r['wrong'], r['right']); n_edit += 1
     for k in text:
         text[k] = fullwidth(text[k]).strip()
 
@@ -131,7 +141,8 @@ def main():
                 key, _, post = r['引'].partition('|')
                 body += f'\\cite[{post}]{{{key}}}。' if post else f'\\cite{{{key}}}。'
             elif r['出處'].startswith('http'):
-                body += f'\\url{{{r["出處"].split(" ; ")[0]}}}。'
+                u = urllib.parse.unquote(r['出處'].split(' ; ')[0]).replace('%', '\\%').replace('#', '\\#')
+                body += f'\\url{{{u}}}。'
             out.append(f'\\footnote{{{body}}}')
             last = pos
         out.append(tex(s[last:]))
@@ -169,7 +180,7 @@ def main():
         return body
 
     bibtext = {}
-    for r in read_tsv(nd / 'bibtext.tsv', ['key', 'text']):
+    for r in read_tsv(ROOT / 'Notizen' / 'bibtext.tsv', ['key', 'text']):
         bibtext[r['key']] = r['text']
 
     lines = [f'% 自 Notizen/{a.week}/ 各表由 Skripte/gen_tex.py 產生；改字改表後重產，不手改本檔。',
@@ -187,8 +198,16 @@ def main():
     if order[0] not in titles:
         titles[order[0]] = meta.get('first_section', '開場')
     paras.add(order[0])
+    for k in sorted(drops):            # 刪去的 cue 若是段首或節首，移到下一個 cue
+        if k in titles and k + 1 not in titles:
+            titles[k + 1] = titles.pop(k)
+        if k in paras:
+            paras.add(k + 1)
     for k in order:
         st, en = times[k]
+        if k in drops:
+            lines.append(f'% cue {k} {st:.3f} {en:.3f} 刪：{drops[k]}')
+            continue
         newspk = speakers.get(k)
         if k in titles:
             lines += ['', f'\\section{{{tex(titles[k])}}}']
@@ -203,7 +222,10 @@ def main():
                 md[-1] += f'**{cur}**：'
         lines.append(f'% cue {k} {st:.3f} {en:.3f}')
         lines.append(f'\\hypertarget{{{label}:cue:{k}}}{{}}{render_cue(k)}')
-        md[-1] += render_md(k)
+        piece = render_md(k)
+        if md[-1] and re.match(r'[A-Za-z0-9(]', piece) and re.search(r'[A-Za-z0-9.,;:)]$', md[-1]):
+            md[-1] += ' '
+        md[-1] += piece
         if splits.get(k):
             cur = splits[k][-1][1]
     (nd / 'reviewed.tsv').write_text('cue\tstart\tend\ttext\n' + ''.join(
@@ -216,7 +238,7 @@ def main():
         md += [''] + [f'[^{i}]: {b}' for i, b in enumerate(md_notes, 1)]
         pathlib.Path(a.md_out).write_text('\n'.join(md) + '\n', encoding='utf-8')
     if a.srt_out:
-        blocks = [f'{k}\n{srt_ts(times[k][0])} --> {srt_ts(times[k][1])}\n{text[k]}\n' for k in order]
+        blocks = [f'{k}\n{srt_ts(times[k][0])} --> {srt_ts(times[k][1])}\n{text[k]}\n' for k in order if k not in drops]
         pathlib.Path(a.srt_out).write_text('\n'.join(blocks), encoding='utf-8')
     print(f'{out.relative_to(ROOT)}：{len(order)} cue，替換 {n_edit} 處，段 {len(paras)}，節 {len(titles)}，'
           f'說話人標記 {len(speakers) + sum(map(len, splits.values()))}，編註 {sum(map(len, notes.values()))}')
