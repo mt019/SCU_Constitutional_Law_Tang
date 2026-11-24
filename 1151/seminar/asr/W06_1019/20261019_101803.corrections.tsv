@@ -1,0 +1,3529 @@
+# 時間碼	原字	改字	規則
+00:00:00,580	但是他現在要講的是	但是他現在要講的是，	punct/segment-end
+00:00:02,760	反對裡面的核心問題	反對裡面的核心問題，	punct/segment-end
+00:00:04,880	那他對這個核心	那他對這個核心，	punct/segment-end
+00:00:06,910	他有一個定義	他有一個定義，	punct/segment-end
+00:00:09,100	他要使他存化	他要使他存化，	punct/segment-end
+00:00:10,100	要使他怎樣怎樣	要使他怎樣怎樣，	punct/segment-end
+00:00:11,100	好啦	好啦，	punct/segment-end
+00:00:12,060	這個是一部分	這個是一部分，	punct/segment-end
+00:00:14,180	然後我們看一下這個	然後我們看一下這個，	punct/segment-end
+00:00:15,180	你們現在講一這個	你們現在講一這個，	punct/segment-end
+00:00:17,770	這個鄭偉	這個鄭偉，	punct/segment-end
+00:00:18,770	我甚至想罵你	我甚至想罵你，	punct/segment-end
+00:00:19,770	你這個每一個都整個不一樣	你這個每一個都整個不一樣，	punct/segment-end
+00:00:21,830	有大有小	有大有小，	punct/segment-end
+00:00:22,830	還有橫的	還有橫的，	punct/segment-end
+00:00:23,830	還有直的	還有直的，	punct/segment-end
+00:00:24,830	還有罵最發糟的	還有罵最發糟的，	punct/segment-end
+00:00:25,840	大家你們都沒有罵他	大家你們都沒有罵他，	punct/segment-end
+00:00:28,110	這個人	這個人，	punct/segment-end
+00:00:29,110	你看這個人	你看這個人，	punct/segment-end
+00:00:30,110	如果彈簧請教 一定會老師罵的	如果彈簧請教 一定會老師罵的，	punct/segment-end
+00:00:32,110	你可以有互強互弱 互大互小 互高互低	你可以有互強互弱 互大互小 互高互低，	punct/segment-end
+00:00:37,110	從事要把調子定這一樣	從事要把調子定這一樣，	punct/segment-end
+00:00:40,270	那我們看一下這個	那我們看一下這個，	punct/segment-end
+00:00:41,270	你們現在講義的翻過來的那頁有沒有	你們現在講義的翻過來的那頁有沒有，	punct/segment-end
+00:00:44,230	我們有些什麼樣的目色	我們有些什麼樣的目色，	punct/segment-end
+00:00:47,640	這個是義凡你要講的 我方你講一下而已	這個是義凡你要講的 我方你講一下而已，	punct/segment-end
+00:00:49,640	第一塊是Introduction	第一塊是 Introduction	spacing/pangu
+00:00:49,640	第一塊是 Introduction	第一塊是 Introduction，	punct/segment-end
+00:00:51,840	Introduction大概是問題的說明	Introduction 大概是問題的說明	spacing/pangu
+00:00:51,840	Introduction 大概是問題的說明	Introduction 大概是問題的說明，	punct/segment-end
+00:00:55,050	我覺得應該等一下你大概兩分鐘就講完	我覺得應該等一下你大概兩分鐘就講完，	punct/segment-end
+00:00:58,580	下面就是Definition of Judiciary Review	下面就是 Definition of Judiciary Review	spacing/pangu
+00:00:58,580	下面就是 Definition of Judiciary Review	下面就是 Definition of Judiciary Review，	punct/segment-end
+00:01:00,760	這個比較活躍	這個比較活躍，	punct/segment-end
+00:01:01,640	因為他的Definition	因為他的 Definition	spacing/pangu
+00:01:01,640	因為他的 Definition	因為他的 Definition，	punct/segment-end
+00:01:03,960	跟我的Definition不一樣	跟我的 Definition 不一樣	spacing/pangu
+00:01:03,960	跟我的 Definition 不一樣	跟我的 Definition 不一樣，	punct/segment-end
+00:01:05,510	我實在太受大致的法系的意義	我實在太受大致的法系的意義，	punct/segment-end
+00:01:07,620	他是非常匿名的法系的意義	他是非常匿名的法系的意義，	punct/segment-end
+00:01:09,880	所以他對這個Definition是不一樣的	所以他對這個 Definition 是不一樣的	spacing/pangu
+00:01:09,880	所以他對這個 Definition 是不一樣的	所以他對這個 Definition 是不一樣的，	punct/segment-end
+00:01:12,050	我不能說完全不一樣	我不能說完全不一樣，	punct/segment-end
+00:01:13,970	就是我那個重點不一樣	就是我那個重點不一樣，	punct/segment-end
+00:01:15,450	他說什麼叫做司法審查	他說什麼叫做司法審查，	punct/segment-end
+00:01:17,660	他的司法審查	他的司法審查，	punct/segment-end
+00:01:19,240	他甚至沒有完全使用	他甚至沒有完全使用，	punct/segment-end
+00:01:22,790	因為他有些可能不施定	因為他有些可能不施定，	punct/segment-end
+00:01:24,210	不一定是Constitutional Review	不一定是 Constitutional Review	spacing/pangu
+00:01:24,210	不一定是 Constitutional Review	不一定是 Constitutional Review，	punct/segment-end
+00:01:25,840	然後第二大塊呢	然後第二大塊呢，	punct/segment-end
+00:01:27,500	他有四個Assumptions	他有四個 Assumptions	spacing/pangu
+00:01:27,500	他有四個 Assumptions	他有四個 Assumptions，	punct/segment-end
+00:01:29,340	有四個假設,他是在這四個假設之下來討論	有四個假設，他是在這四個假設之下來討論	punct/width
+00:01:29,340	有四個假設，他是在這四個假設之下來討論	有四個假設，他是在這四個假設之下來討論，	punct/segment-end
+00:01:34,560	違線審查	違憲審查	correction_map/違憲審查
+00:01:34,560	所以他是有條件的,他自己說他是有條件的反違憲審查論	所以他是有條件的，他自己說他是有條件的反違憲審查論	punct/width
+00:01:34,560	所以他是有條件的，他自己說他是有條件的反違憲審查論	所以他是有條件的，他自己說他是有條件的反違憲審查論，	punct/segment-end
+00:01:40,750	不是全部條件,他如果這個條件這四個假設不存在的時候	不是全部條件，他如果這個條件這四個假設不存在的時候	punct/width
+00:01:40,750	不是全部條件，他如果這個條件這四個假設不存在的時候	不是全部條件，他如果這個條件這四個假設不存在的時候，	punct/segment-end
+00:01:46,650	違線審查	違憲審查	correction_map/違憲審查
+00:01:46,650	他覺得有違憲審查並不見得是錯誤	他覺得有違憲審查並不見得是錯誤，	punct/segment-end
+00:01:50,130	第三塊,the form of the argument	第三塊，the form of the argument	punct/width
+00:01:50,130	第三塊，the form of the argument	第三塊，the form of the argument，	punct/segment-end
+00:01:54,190	就是論證的這個形式	就是論證的這個形式，	punct/segment-end
+00:01:57,920	這個地方等一下,剛才麗凡要怎麼講	這個地方等一下，剛才麗凡要怎麼講	punct/width
+00:01:57,920	這個地方等一下，剛才麗凡要怎麼講	這個地方等一下，剛才麗凡要怎麼講，	punct/segment-end
+00:02:01,110	這裡我覺得是比較費解的	這裡我覺得是比較費解的，	punct/segment-end
+00:02:04,660	我不懂為什麼要講	我不懂為什麼要講，	punct/segment-end
+00:02:05,860	第四大塊	第四大塊，	punct/segment-end
+00:02:10,460	是跟結果有關的	是跟結果有關的，	punct/segment-end
+00:02:13,020	跟結果有關的理論	跟結果有關的理論，	punct/segment-end
+00:02:18,240	它有兩塊	它有兩塊，	punct/segment-end
+00:02:20,010	有一塊是跟程序有關的理論	有一塊是跟程序有關的理論，	punct/segment-end
+00:02:22,650	有一塊是跟結果	有一塊是跟結果，	punct/segment-end
+00:02:24,210	所以分別出現在	所以分別出現在，	punct/segment-end
+00:02:25,610	第四跟第五	第四跟第五，	punct/segment-end
+00:02:27,170	換句話說	換句話說，	punct/segment-end
+00:02:28,120	違線審查	違憲審查	correction_map/違憲審查
+00:02:28,120	你支持違憲審查	你支持違憲審查，	punct/segment-end
+00:02:30,290	那有一些是因為	那有一些是因為，	punct/segment-end
+00:02:32,790	違線審查	違憲審查	correction_map/違憲審查
+00:02:32,790	考慮到違憲審查	考慮到違憲審查，	punct/segment-end
+00:02:34,630	它會產生	它會產生，	punct/segment-end
+00:02:35,970	好多結果 正確的結果 公平的結果 這是一個	好多結果 正確的結果 公平的結果 這是一個，	punct/segment-end
+00:02:40,250	另外有一種第五小節 他叫做Chapter 5	另外有一種第五小節 他叫做 Chapter 5	spacing/pangu
+00:02:40,250	另外有一種第五小節 他叫做 Chapter 5	另外有一種第五小節 他叫做 Chapter 5，	punct/segment-end
+00:02:44,410	他認為是張了 沒關系 總之Section Chapter一樣	他認為是張了 沒關系 總之 Section Chapter 一樣	spacing/pangu
+00:02:44,410	他認為是張了 沒關系 總之 Section Chapter 一樣	他認為是張了 沒關系 總之 Section Chapter 一樣，	punct/segment-end
+00:02:48,920	那第五節呢 這一塊呢 他認為第二種支持微信審查	那第五節呢 這一塊呢 他認為第二種支持微信審查，	punct/segment-end
+00:02:54,610	不論呢 是跟程序相關的理由	不論呢 是跟程序相關的理由，	punct/segment-end
+00:02:57,900	支持微信審查有結果相關的理由 也有程序相關的理由	支持微信審查有結果相關的理由 也有程序相關的理由，	punct/segment-end
+00:03:03,760	好,然後另外還有一個很常見的理由呢,是在第六塊,所謂的tyranny of the majority	好，然後另外還有一個很常見的理由呢，是在第六塊，所謂的tyranny of the majority	punct/width
+00:03:03,760	好，然後另外還有一個很常見的理由呢，是在第六塊，所謂的tyranny of the majority	好，然後另外還有一個很常見的理由呢，是在第六塊，所謂的 tyranny of the majority	spacing/pangu
+00:03:03,760	好，然後另外還有一個很常見的理由呢，是在第六塊，所謂的 tyranny of the majority	好，然後另外還有一個很常見的理由呢，是在第六塊，所謂的 tyranny of the majority，	punct/segment-end
+00:03:12,190	就是因為我們擔心會有多數暴力,這個可能因為我們受到了美國所謂的feminist paper 的影響	就是因為我們擔心會有多數暴力，這個可能因為我們受到了美國所謂的feminist paper 的影響	punct/width
+00:03:12,190	就是因為我們擔心會有多數暴力，這個可能因為我們受到了美國所謂的feminist paper 的影響	就是因為我們擔心會有多數暴力，這個可能因為我們受到了美國所謂的 feminist paper 的影響	spacing/pangu
+00:03:12,190	就是因為我們擔心會有多數暴力，這個可能因為我們受到了美國所謂的 feminist paper 的影響	就是因為我們擔心會有多數暴力，這個可能因為我們受到了美國所謂的 feminist paper 的影響，	punct/segment-end
+00:03:20,590	大家就會朗朗上口說,因為我們多數呢會欺負少數啊,多數欺負少數,少數就沒有辦法反抗啊	大家就會朗朗上口說，因為我們多數呢會欺負少數啊，多數欺負少數，少數就沒有辦法反抗啊	punct/width
+00:03:20,590	大家就會朗朗上口說，因為我們多數呢會欺負少數啊，多數欺負少數，少數就沒有辦法反抗啊	大家就會朗朗上口說，因為我們多數呢會欺負少數啊，多數欺負少數，少數就沒有辦法反抗啊，	punct/segment-end
+00:03:30,260	所以我們要有個別的機構來反應	所以我們要有個別的機構來反應，	punct/segment-end
+00:03:33,470	來壓抑多數的暴力	來壓抑多數的暴力，	punct/segment-end
+00:03:35,530	制裁控制多數的暴力	制裁控制多數的暴力，	punct/segment-end
+00:03:37,960	那這是第六	那這是第六，	punct/segment-end
+00:03:39,250	然後第七塊	然後第七塊，	punct/segment-end
+00:03:42,440	我們注意它的標題開始是core case	我們注意它的標題開始是 core case	spacing/pangu
+00:03:42,440	我們注意它的標題開始是 core case	我們注意它的標題開始是 core case，	punct/segment-end
+00:03:45,370	我現在講反對回線審查的核心	我現在講反對回線審查的核心，	punct/segment-end
+00:03:50,050	那麼如果是非核心的情境	那麼如果是非核心的情境，	punct/segment-end
+00:03:52,710	那又不一樣	那又不一樣，	punct/segment-end
+00:03:53,880	它不會完全反對	它不會完全反對，	punct/segment-end
+00:03:55,640	在非核心	在非核心，	punct/segment-end
+00:03:56,720	就是剛才前面的第二節	就是剛才前面的第二節，	punct/segment-end
+00:03:58,480	有四個假設	有四個假設，	punct/segment-end
+00:03:59,760	如果有一個或者幾個	如果有一個或者幾個，	punct/segment-end
+00:04:01,600	不存在的時候	不存在的時候，	punct/segment-end
+00:04:02,560	那他不會真正的反對	那他不會真正的反對，	punct/segment-end
+00:04:04,660	或者他有些	或者他有些，	punct/segment-end
+00:04:05,780	他認為不適合心的思想	他認為不適合心的思想，	punct/segment-end
+00:04:07,540	最後是他的結論	最後是他的結論，	punct/segment-end
+00:04:08,940	好了	好了，	punct/segment-end
+00:04:09,220	我能講呢	我能講呢，	punct/segment-end
+00:04:10,440	我講完了	我講完了，	punct/segment-end
+00:04:10,920	來	來，	punct/segment-end
+00:04:11,160	你開始吧	你開始吧，	punct/segment-end
+00:04:12,440	前面introduction	前面 introduction	spacing/pangu
+00:04:12,440	前面 introduction	前面 introduction，	punct/segment-end
+00:04:13,670	你跟我們介紹一下	你跟我們介紹一下，	punct/segment-end
+00:04:14,590	他說什麼	他說什麼，	punct/segment-end
+00:04:15,150	前面introduction就是	前面 introduction 就是	spacing/pangu
+00:04:15,150	前面 introduction 就是	前面 introduction 就是，	punct/segment-end
+00:04:16,830	他	他，	punct/segment-end
+00:04:17,690	你告訴我們在哪裡	你告訴我們在哪裡，	punct/segment-end
+00:04:18,830	還是你不要玩	還是你不要玩，	punct/segment-end
+00:04:21,380	在哪裡	在哪裡，	punct/segment-end
+00:04:22,050	大家看的是哪一份	大家看的是哪一份，	punct/segment-end
+00:04:27,350	哪一段	哪一段，	punct/segment-end
+00:04:27,830	對	對，	punct/segment-end
+00:04:28,150	你要我們眼睛	你要我們眼睛，	punct/segment-end
+00:04:29,550	跟著你到哪裡去	跟著你到哪裡去，	punct/segment-end
+00:04:31,110	就是	就是，	punct/segment-end
+00:04:34,290	就是最開始的	就是最開始的，	punct/segment-end
+00:04:35,690	1346的abstract的部分	1346 的 abstract 的部分	spacing/pangu
+00:04:35,690	1346 的 abstract 的部分	1346 的 abstract 的部分，	punct/segment-end
+00:04:38,450	前面的1346考	前面的 1346 考	spacing/pangu
+00:04:38,450	前面的 1346 考	前面的 1346 考，	punct/segment-end
+00:04:40,650	你要先講abstract	你要先講 abstract	spacing/pangu
+00:04:40,650	你要先講 abstract	你要先講 abstract，	punct/segment-end
+00:04:42,330	對	對，	punct/segment-end
+00:04:42,770	他就是先講	他就是先講，	punct/segment-end
+00:04:46,120	他這篇文章要寫什麼	他這篇文章要寫什麼，	punct/segment-end
+00:04:48,060	要批評的是什麼	要批評的是什麼，	punct/segment-end
+00:04:51,770	標的	標的，	punct/segment-end
+00:04:53,920	然後通過什麼方式去執行	然後通過什麼方式去執行，	punct/segment-end
+00:04:57,830	講完了嗎	講完了嗎，	punct/segment-end
+00:05:01,930	很快啊	很快啊，	punct/segment-end
+00:05:02,490	跳過來了	跳過來了，	punct/segment-end
+00:05:03,110	你覺得他講什麼	你覺得他講什麼，	punct/segment-end
+00:05:04,780	Introduction的部分就是	Introduction 的部分就是	spacing/pangu
+00:05:04,780	Introduction 的部分就是	Introduction 的部分就是，	punct/segment-end
+00:05:06,840	他先舉了	他先舉了，	punct/segment-end
+00:05:09,550	一些例子去顯示	一些例子去顯示，	punct/segment-end
+00:05:15,390	如果當法官確信某項法律	如果當法官確信某項法律，	punct/segment-end
+00:05:18,550	有侵害個人權利治愈的時候	有侵害個人權利治愈的時候，	punct/segment-end
+00:05:21,620	他們有怎麼樣的一些案件	他們有怎麼樣的一些案件，	punct/segment-end
+00:05:24,240	能夠做出這種跟民主程序的互動	能夠做出這種跟民主程序的互動，	punct/segment-end
+00:05:31,270	然後他就說	然後他就說，	punct/segment-end
+00:05:34,250	後面1348頁的最後	後面 1348 頁的最後	spacing/pangu
+00:05:34,250	後面 1348 頁的最後	後面 1348 頁的最後，	punct/segment-end
+00:05:37,330	他就說	他就說，	punct/segment-end
+00:05:37,790	就是他先承認了這些上述的一些判決	就是他先承認了這些上述的一些判決，	punct/segment-end
+00:05:48,160	對於個人權利的保護的有一些起到了一些正面的作用	對於個人權利的保護的有一些起到了一些正面的作用，	punct/segment-end
+00:05:55,300	然後他就引出了後面的一些論證	然後他就引出了後面的一些論證，	punct/segment-end
+00:05:57,800	就是他想要說明在他的文章後面的一些假設之下	就是他想要說明在他的文章後面的一些假設之下，	punct/segment-end
+00:06:03,940	這並不是最好的方法	這並不是最好的方法，	punct/segment-end
+00:06:05,620	我們看一下P3-48月最後一句	我們看一下 P3-48 月最後一句	spacing/pangu
+00:06:05,620	我們看一下 P3-48 月最後一句	我們看一下 P3-48 月最後一句，	punct/segment-end
+00:06:08,260	這本文	這本文，	punct/segment-end
+00:06:09,540	我們讓司法來審查立法	我們讓司法來審查立法，	punct/segment-end
+00:06:15,270	作為一種最終決策的形式	作為一種最終決策的形式，	punct/segment-end
+00:06:23,390	它本文中指是	它本文中指是，	punct/segment-end
+00:06:28,070	它認為在一個自由民主社會	它認為在一個自由民主社會，	punct/segment-end
+00:06:30,390	我們讓司法來審查立法	我們讓司法來審查立法，	punct/segment-end
+00:06:34,600	然後作為一個最終的決策	然後作為一個最終的決策，	punct/segment-end
+00:06:36,700	這是一個不適當的	這是一個不適當的，	punct/segment-end
+00:06:40,590	所以它反對	所以它反對，	punct/segment-end
+00:06:42,090	好 下面	好 下面，	punct/segment-end
+00:06:42,850	第3、4、9還有比較	第 3、4、9 還有比較	spacing/pangu
+00:06:42,850	第 3、4、9 還有比較	第 3、4、9 還有比較，	punct/segment-end
+00:06:44,890	還有什麼要講嗎	還有什麼要講嗎，	punct/segment-end
+00:06:45,890	第3、4、9	第 3、4、9	spacing/pangu
+00:06:45,890	第 3、4、9	第 3、4、9，	punct/segment-end
+00:06:47,390	嗯	嗯，	punct/segment-end
+00:06:48,390	有嗎	有嗎，	punct/segment-end
+00:06:49,390	有你就講	有你就講，	punct/segment-end
+00:06:50,390	沒有就要跳	沒有就要跳，	punct/segment-end
+00:06:51,390	我不知道你要講什麼	我不知道你要講什麼，	punct/segment-end
+00:06:52,390	你動路要快啊	你動路要快啊，	punct/segment-end
+00:06:53,390	不然我今天就講過來了	不然我今天就講過來了，	punct/segment-end
+00:06:54,690	好 那我跳到後面好了	好 那我跳到後面好了，	punct/segment-end
+00:06:57,690	多少	多少，	punct/segment-end
+00:06:58,190	你多少年還在第一大段嗎	你多少年還在第一大段嗎，	punct/segment-end
+00:07:00,770	還在一嗎	還在一嗎，	punct/segment-end
+00:07:01,750	還在introduction嗎	還在 introduction 嗎	spacing/pangu
+00:07:01,750	還在 introduction 嗎	還在 introduction 嗎，	punct/segment-end
+00:07:03,750	可以看introduction	可以看 introduction	spacing/pangu
+00:07:03,750	可以看 introduction	可以看 introduction，	punct/segment-end
+00:07:06,680	但是就是他舉了一些例子	但是就是他舉了一些例子，	punct/segment-end
+00:07:09,430	好那你講在哪裡啊	好那你講在哪裡啊，	punct/segment-end
+00:07:11,530	那什麼例子	那什麼例子，	punct/segment-end
+00:07:12,500	他下面還會說到	他下面還會說到，	punct/segment-end
+00:07:14,240	他不斷的都是用這幾個例子	他不斷的都是用這幾個例子，	punct/segment-end
+00:07:16,360	好你講在哪裡	好你講在哪裡，	punct/segment-end
+00:07:17,720	我覺得比較有意思的	我覺得比較有意思的，	punct/segment-end
+00:07:20,550	就是他寫的方式比較有意思的是	就是他寫的方式比較有意思的是，	punct/segment-end
+00:07:22,630	一三五一頁後面	一三五一頁後面，	punct/segment-end
+00:07:24,110	就是他就講	就是他就講，	punct/segment-end
+00:07:34,180	就是他就是先講了一下	就是他就是先講了一下，	punct/segment-end
+00:07:37,450	那個時間當時的	那個時間當時的，	punct/segment-end
+00:07:40,690	危險審查	違憲審查	correction_map/違憲審查
+00:07:40,690	對於違憲審查的攻擊的狀	對於違憲審查的攻擊的狀，	punct/segment-end
+00:07:43,810	危險審查	違憲審查	correction_map/違憲審查
+00:07:43,810	違憲審查的運行的狀態	違憲審查的運行的狀態，	punct/segment-end
+00:07:46,930	跟被攻擊的狀態	跟被攻擊的狀態，	punct/segment-end
+00:07:48,670	就是他講隨著這個	就是他講隨著這個，	punct/segment-end
+00:07:51,470	在什麼地方	在什麼地方，	punct/segment-end
+00:07:52,530	1350的最下	1350 的最下	spacing/pangu
+00:07:52,530	1350 的最下	1350 的最下，	punct/segment-end
+00:08:02,790	OK 好 趕快	OK 好 趕快，	punct/segment-end
+00:08:08,840	我們這個小注十一	我們這個小注十一，	punct/segment-end
+00:08:11,020	我們這兩個人都會讀到	我們這兩個人都會讀到，	punct/segment-end
+00:08:14,440	Question 然後下禮拜	Question 然後下禮拜，	punct/segment-end
+00:08:25,270	好 然後呢 要講什麼	好 然後呢 要講什麼，	punct/segment-end
+00:08:28,070	你要講什麼	你要講什麼，	punct/segment-end
+00:08:28,870	就是他的這個寫法	就是他的這個寫法，	punct/segment-end
+00:08:33,090	我覺得蠻有意思的就是	我覺得蠻有意思的就是，	punct/segment-end
+00:09:01,580	當家座會有民主原則或國民主權原則	當家座會有民主原則或國民主權原則，	punct/segment-end
+00:09:04,920	所以就擰不了讀問一個問題	所以就擰不了讀問一個問題，	punct/segment-end
+00:09:07,420	那我們人民或者我們人民的代表所做的決定	那我們人民或者我們人民的代表所做的決定，	punct/segment-end
+00:09:11,120	那為什麼可以由沒有民意基礎的機關把它推翻掉呢	那為什麼可以由沒有民意基礎的機關把它推翻掉呢，	punct/segment-end
+00:09:15,770	那這種反多數學的困難究竟要怎麼理解	那這種反多數學的困難究竟要怎麼理解，	punct/segment-end
+00:09:19,060	這是典型的	這是典型的，	punct/segment-end
+00:09:20,270	典型的討論贊成或者是反對的	典型的討論贊成或者是反對的，	punct/segment-end
+00:09:23,920	所以他也承認了小柱8那裡	所以他也承認了小柱 8 那裡	spacing/pangu
+00:09:23,920	所以他也承認了小柱 8 那裡	所以他也承認了小柱 8 那裡，	punct/segment-end
+00:09:26,440	危險審查	違憲審查	correction_map/違憲審查
+00:09:26,440	違憲審查基本上是美式民主下的一種脫軌的制度	違憲審查基本上是美式民主下的一種脫軌的制度，	punct/segment-end
+00:09:32,660	正常情形你就是在民主程序裡去決定	正常情形你就是在民主程序裡去決定，	punct/segment-end
+00:09:35,380	你為什麼就要給一個非民主的程序	你為什麼就要給一個非民主的程序，	punct/segment-end
+00:09:37,910	來審查民主決定做的決定	來審查民主決定做的決定，	punct/segment-end
+00:09:40,090	能不能接受啊	能不能接受啊，	punct/segment-end
+00:09:41,340	那這裡面有一些我們以前有講過	那這裡面有一些我們以前有講過，	punct/segment-end
+00:09:44,370	比方說我們認為這是因為憲法是高性	比方說我們認為這是因為憲法是高性，	punct/segment-end
+00:09:47,790	我們不是法官高於立法者	我們不是法官高於立法者，	punct/segment-end
+00:09:50,100	而是立法者通過的法律	而是立法者通過的法律，	punct/segment-end
+00:09:52,940	按照憲法規定說他不能抵觸憲法	按照憲法規定說他不能抵觸憲法，	punct/segment-end
+00:09:55,780	那麼什麼叫做法	那麼什麼叫做法，	punct/segment-end
+00:09:57,460	以及什麼叫做憲法	以及什麼叫做憲法，	punct/segment-end
+00:09:59,070	就是我們法官來解釋	就是我們法官來解釋，	punct/segment-end
+00:10:00,770	這不是我比他高	這不是我比他高，	punct/segment-end
+00:10:02,350	而是因為我正好有這個情勢的權	而是因為我正好有這個情勢的權，	punct/segment-end
+00:10:04,930	就這樣子	就這樣子，	punct/segment-end
+00:10:05,660	所以我就可以審查	所以我就可以審查，	punct/segment-end
+00:10:07,000	臺灣講太多了	臺灣講太多了，	punct/segment-end
+00:10:08,380	那剩下的問題它沒有解決	那剩下的問題它沒有解決，	punct/segment-end
+00:10:09,900	這是刑事的論證	這是刑事的論證，	punct/segment-end
+00:10:11,060	那為什麼你的決定就是最終的決定	那為什麼你的決定就是最終的決定，	punct/segment-end
+00:10:13,500	為什麼你的決定有居數令	為什麼你的決定有居數令，	punct/segment-end
+00:10:15,360	你可以審查	你可以審查，	punct/segment-end
+00:10:16,360	你可以說不合	你可以說不合，	punct/segment-end
+00:10:17,520	但是你沒有理由說我不私用	但是你沒有理由說我不私用，	punct/segment-end
+00:10:19,960	甚至於把整個的法律宣告違線	甚至於把整個的法律宣告違線，	punct/segment-end
+00:10:22,260	失效	失效，	punct/segment-end
+00:10:23,060	臺灣現在是失效	臺灣現在是失效，	punct/segment-end
+00:10:24,410	這是他講的strong case	這是他講的 strong case	spacing/pangu
+00:10:24,410	這是他講的 strong case	這是他講的 strong case，	punct/segment-end
+00:10:28,190	不是weak	不是 weak	spacing/pangu
+00:10:28,190	不是 weak	不是 weak，	punct/segment-end
+00:10:29,140	那他認為weak的是另外一件事	那他認為 weak 的是另外一件事	spacing/pangu
+00:10:29,140	那他認為 weak 的是另外一件事	那他認為 weak 的是另外一件事，	punct/segment-end
+00:10:32,520	他講的那個core主要是針對strong	他講的那個 core 主要是針對 strong	spacing/pangu
+00:10:32,520	他講的那個 core 主要是針對 strong	他講的那個 core 主要是針對 strong，	punct/segment-end
+00:10:35,160	好了	好了，	punct/segment-end
+00:10:35,980	這1351有什麼要講的嗎	這 1351 有什麼要講的嗎	spacing/pangu
+00:10:35,980	這 1351 有什麼要講的嗎	這 1351 有什麼要講的嗎，	punct/segment-end
+00:10:38,600	好	好，	punct/segment-end
+00:10:40,220	那沒	那沒，	punct/segment-end
+00:10:41,420	1351有還是沒有	1351 有還是沒有	spacing/pangu
+00:10:41,420	1351 有還是沒有	1351 有還是沒有，	punct/segment-end
+00:10:43,180	有但是	有但是，	punct/segment-end
+00:10:44,540	好那就講吧	好那就講吧，	punct/segment-end
+00:10:45,880	第一大段一開始的地方是不是	第一大段一開始的地方是不是，	punct/segment-end
+00:10:53,750	我剛開始講了	我剛開始講了，	punct/segment-end
+00:10:55,090	你是一個核心的論證	你是一個核心的論證，	punct/segment-end
+00:11:00,600	and的什麼	and 的什麼	spacing/pangu
+00:11:00,600	and 的什麼	and 的什麼，	punct/segment-end
+00:11:03,040	跟它的歷史上的manifestation無關	跟它的歷史上的 manifestation 無關	spacing/pangu
+00:11:03,040	跟它的歷史上的 manifestation 無關	跟它的歷史上的 manifestation 無關，	punct/segment-end
+00:11:07,750	跟它的歷史的這個表現無關	跟它的歷史的這個表現無關，	punct/segment-end
+00:11:11,860	也跟下面這個question無關	也跟下面這個 question 無關	spacing/pangu
+00:11:11,860	也跟下面這個 question 無關	也跟下面這個 question 無關，	punct/segment-end
+00:11:17,850	跟它的特別的效力	跟它的特別的效力，	punct/segment-end
+00:11:20,710	特定的效力無關	特定的效力無關，	punct/segment-end
+00:11:22,270	有些決定的	有些決定的，	punct/segment-end
+00:11:23,970	你可能喜歡	你可能喜歡，	punct/segment-end
+00:11:24,670	有些決定你不喜歡	有些決定你不喜歡，	punct/segment-end
+00:11:25,810	這我不管	這我不管，	punct/segment-end
+00:11:27,120	我現在要講的是	我現在要講的是，	punct/segment-end
+00:11:28,500	我要建構一個反圍線審查的核心論	我要建構一個反圍線審查的核心論，	punct/segment-end
+00:11:32,390	那怎麼樣叫做核心	那怎麼樣叫做核心，	punct/segment-end
+00:11:34,400	他到這裡解釋了嗎	他到這裡解釋了嗎，	punct/segment-end
+00:11:36,350	馬上要解釋了	馬上要解釋了，	punct/segment-end
+00:11:38,350	好 馬上看哪邊解釋了	好 馬上看哪邊解釋了，	punct/segment-end
+00:11:40,510	就是	就是，	punct/segment-end
+00:11:40,870	叫到哪裡去	叫到哪裡去，	punct/segment-end
+00:11:42,290	1351到1353的這	1351 到 1353 的這	spacing/pangu
+00:11:42,290	1351 到 1353 的這	1351 到 1353 的這，	punct/segment-end
+00:11:44,790	52到53	52 到 53	spacing/pangu
+00:11:44,790	52 到 53	52 到 53，	punct/segment-end
+00:11:46,650	對	對，	punct/segment-end
+00:11:47,490	找一下吧	找一下吧，	punct/segment-end
+00:11:48,710	1353嗎	1353 嗎	spacing/pangu
+00:11:48,710	1353 嗎	1353 嗎，	punct/segment-end
+00:11:51,710	如果具體點的話就是1352吧	如果具體點的話就是 1352 吧	spacing/pangu
+00:11:51,710	如果具體點的話就是 1352 吧	如果具體點的話就是 1352 吧，	punct/segment-end
+00:11:54,570	好 1352	好 1352，	punct/segment-end
+00:11:55,510	來	來，	punct/segment-end
+00:11:55,990	就是核心	就是核心，	punct/segment-end
+00:11:58,900	他的想法核心就是	他的想法核心就是，	punct/segment-end
+00:12:00,480	他要把那些跟美國	他要把那些跟美國，	punct/segment-end
+00:12:03,080	跟美國憲政歷史的	跟美國憲政歷史的，	punct/segment-end
+00:12:06,830	這種文化的	這種文化的，	punct/segment-end
+00:12:08,530	或者是個案性具體的這種	或者是個案性具體的這種，	punct/segment-end
+00:12:11,010	血肉	血肉，	punct/segment-end
+00:12:13,450	從它的核心的骨架當中	從它的核心的骨架當中，	punct/segment-end
+00:12:16,170	剔除掉	剔除掉，	punct/segment-end
+00:12:17,630	那它怎麼還能	那它怎麼還能，	punct/segment-end
+00:12:18,770	剔除掉它怎麼還能做骨架呢	剔除掉它怎麼還能做骨架呢，	punct/segment-end
+00:12:20,910	再看一看你的理解	再看一看你的理解，	punct/segment-end
+00:12:24,110	那下面還有嗎	那下面還有嗎，	punct/segment-end
+00:12:26,860	1353到最後	1353 到最後	spacing/pangu
+00:12:26,860	1353 到最後	1353 到最後，	punct/segment-end
+00:12:32,980	最後一點吧	最後一點吧，	punct/segment-end
+00:12:33,780	我覺得最後一段	我覺得最後一段，	punct/segment-end
+00:12:35,540	我們看一下1353的	我們看一下 1353 的	spacing/pangu
+00:12:35,540	我們看一下 1353 的	我們看一下 1353 的，	punct/segment-end
+00:12:38,080	In this essay本文裡面	In this essay 本文裡面	spacing/pangu
+00:12:38,080	In this essay 本文裡面	In this essay 本文裡面，	punct/segment-end
+00:12:47,010	危險審查	違憲審查	correction_map/違憲審查
+00:13:03,320	當公民對於權力有不同見解的時候,	當公民對於權力有不同見解的時候，	punct/width
+00:13:09,950	違線審查	違憲審查	correction_map/違憲審查
+00:13:09,950	違憲審查並沒有辦法讓這個社會聚焦在這個權利和真實的爭點上	違憲審查並沒有辦法讓這個社會聚焦在這個權利和真實的爭點上，	punct/segment-end
+00:13:18,690	比方說墮胎跟反墮胎	比方說墮胎跟反墮胎，	punct/segment-end
+00:13:20,770	你到底贊成什麼	你到底贊成什麼，	punct/segment-end
+00:13:21,950	你反對什麼	你反對什麼，	punct/segment-end
+00:13:22,690	違線審查	違憲審查	correction_map/違憲審查
+00:13:22,690	透過違憲審查	透過違憲審查，	punct/segment-end
+00:13:24,570	無助於讓公民聚焦在問題的本質上	無助於讓公民聚焦在問題的本質上，	punct/segment-end
+00:13:29,190	你可能會講大法官的解釋方法是什麼	你可能會講大法官的解釋方法是什麼，	punct/segment-end
+00:13:32,290	你憑什麼這樣子講	你憑什麼這樣子講，	punct/segment-end
+00:13:33,530	它會歪曲掉	它會歪曲掉，	punct/segment-end
+00:13:34,640	會扭到別的地方去	會扭到別的地方去，	punct/segment-end
+00:13:36,360	對於解決問題	對於解決問題，	punct/segment-end
+00:13:38,130	真實的問題	真實的問題，	punct/segment-end
+00:13:39,070	real issue沒有幫助	real issue 沒有幫助	spacing/pangu
+00:13:39,070	real issue 沒有幫助	real issue 沒有幫助，	punct/segment-end
+00:13:40,990	另外 on the contrary, it is distracting with a side issues abo	另外 on the contrary, it is distracting with a side issues abo	punct/segment-end
+00:13:48,930	回見審查座的決定,大法官座的決定會使人們導向	回見審查座的決定，大法官座的決定會使人們導向	punct/width
+00:13:48,930	回見審查座的決定，大法官座的決定會使人們導向	回見審查座的決定，大法官座的決定會使人們導向，	punct/segment-end
+00:13:53,780	有沒有符合解釋先例啊,這樣子有沒有脫離文藝啊	有沒有符合解釋先例啊，這樣子有沒有脫離文藝啊	punct/width
+00:13:53,780	有沒有符合解釋先例啊，這樣子有沒有脫離文藝啊	有沒有符合解釋先例啊，這樣子有沒有脫離文藝啊，	punct/segment-end
+00:13:58,650	這樣的解釋方法是不正確啊,不變得到那裡去	這樣的解釋方法是不正確啊，不變得到那裡去	punct/width
+00:13:58,650	這樣的解釋方法是不正確啊，不變得到那裡去	這樣的解釋方法是不正確啊，不變得到那裡去，	punct/segment-end
+00:14:02,320	但是對於墮胎與否,墮胎要不要承認它是一個權利	但是對於墮胎與否，墮胎要不要承認它是一個權利	punct/width
+00:14:02,320	但是對於墮胎與否，墮胎要不要承認它是一個權利	但是對於墮胎與否，墮胎要不要承認它是一個權利，	punct/segment-end
+00:14:06,990	這裡面牽涉的真實爭點,人會忽略掉	這裡面牽涉的真實爭點，人會忽略掉	punct/width
+00:14:06,990	這裡面牽涉的真實爭點，人會忽略掉	這裡面牽涉的真實爭點，人會忽略掉，	punct/segment-end
+00:14:17,500	那講到政治的正當性	那講到政治的正當性，	punct/segment-end
+00:14:20,570	如果牽涉到這個民主的價值的話	如果牽涉到這個民主的價值的話，	punct/segment-end
+00:14:30,550	你為什麼讓那些沒有選舉的極少數的大馬官	你為什麼讓那些沒有選舉的極少數的大馬官，	punct/segment-end
+00:14:35,330	他們有權利來做這個決定	他們有權利來做這個決定，	punct/segment-end
+00:14:41,820	你這樣做等於是剝奪了一般公民的圖標群	你這樣做等於是剝奪了一般公民的圖標群，	punct/segment-end
+00:14:45,690	當我們最終要決定要不要在這個社會承認某種權力的時候	當我們最終要決定要不要在這個社會承認某種權力的時候，	punct/segment-end
+00:14:59,750	那我們一向引以一向珍惜一向遵守的所謂代義的原則	那我們一向引以一向珍惜一向遵守的所謂代義的原則，	punct/segment-end
+00:15:06,790	還有政治平等每人都可以參與的這個原則	還有政治平等每人都可以參與的這個原則，	punct/segment-end
+00:15:10,370	實際上就被你們當法官給掃除了	實際上就被你們當法官給掃除了，	punct/segment-end
+00:15:14,700	你們當法官也不是我們選的	你們當法官也不是我們選的，	punct/segment-end
+00:15:17,050	你們有什麼代意	你們有什麼代意，	punct/segment-end
+00:15:17,910	你們有什麼	你們有什麼，	punct/segment-end
+00:15:18,850	我們怎麼在你們身上體現出政治參與的平等	我們怎麼在你們身上體現出政治參與的平等，	punct/segment-end
+00:15:22,890	沒有啊	沒有啊，	punct/segment-end
+00:15:24,060	好了	好了，	punct/segment-end
+00:15:25,690	那麼下面看一下他怎麼做	那麼下面看一下他怎麼做，	punct/segment-end
+00:15:31,050	本文如何建構	本文如何建構，	punct/segment-end
+00:15:33,000	第三五三頁來你講	第三五三頁來你講，	punct/segment-end
+00:15:35,270	我將進步以下列的方法來進行	我將進步以下列的方法來進行，	punct/segment-end
+00:15:47,360	OK,它叫做strong judicial review of legislation	OK,它叫做 strong judicial review of legislation	spacing/pangu
+00:15:47,360	OK,它叫做 strong judicial review of legislation	OK,它叫做 strong judicial review of legislation，	punct/segment-end
+00:15:50,910	違線審查	違憲審查	correction_map/違憲審查
+00:15:50,910	它講的是強烈的違憲審查	它講的是強烈的違憲審查，	punct/segment-end
+00:15:54,640	不是weak judicial review	不是 weak judicial review	spacing/pangu
+00:15:54,640	不是 weak judicial review	不是 weak judicial review，	punct/segment-end
+00:15:56,310	OK,然後呢,weak不是它要討論	OK,然後呢，weak不是它要討論	punct/width
+00:15:56,310	OK,然後呢，weak不是它要討論	OK,然後呢，weak 不是它要討論	spacing/pangu
+00:15:56,310	OK,然後呢，weak 不是它要討論	OK,然後呢，weak 不是它要討論，	punct/segment-end
+00:16:01,660	它要講的是具有拘束力	它要講的是具有拘束力，	punct/segment-end
+00:16:04,780	甚至於可以讓它失效	甚至於可以讓它失效，	punct/segment-end
+00:16:07,220	像我們這種	像我們這種，	punct/segment-end
+00:16:08,160	有個案拒絕適用	有個案拒絕適用，	punct/segment-end
+00:16:10,430	像我們的行政法院的法官	像我們的行政法院的法官，	punct/segment-end
+00:16:12,340	當它發現呢	當它發現呢，	punct/segment-end
+00:16:13,890	它裁判所需要依據的命令	它裁判所需要依據的命令，	punct/segment-end
+00:16:16,050	他沒有權利宣告法律思效	他沒有權利宣告法律思效，	punct/segment-end
+00:16:19,910	但是他可以拒絕適用他認為違法的命令在本案	但是他可以拒絕適用他認為違法的命令在本案，	punct/segment-end
+00:16:24,820	這是一種	這是一種，	punct/segment-end
+00:16:26,150	這也是他所謂的strong	這也是他所謂的 strong	spacing/pangu
+00:16:26,150	這也是他所謂的 strong	這也是他所謂的 strong，	punct/segment-end
+00:16:27,860	另外一個strong是更strong	另外一個 strong 是更 strong	spacing/pangu
+00:16:27,860	另外一個 strong 是更 strong	另外一個 strong 是更 strong，	punct/segment-end
+00:16:29,770	就像我們大法官直接宣告法律違憲而失效	就像我們大法官直接宣告法律違憲而失效，	punct/segment-end
+00:16:33,830	從此失去效力	從此失去效力，	punct/segment-end
+00:16:35,390	那失效都是向後失效	那失效都是向後失效，	punct/segment-end
+00:16:38,090	但是如果跟上次上禮拜講過	但是如果跟上次上禮拜講過，	punct/segment-end
+00:16:40,050	如果更嚴重也有一種可能	如果更嚴重也有一種可能，	punct/segment-end
+00:16:42,170	他也許會涉及失效	他也許會涉及失效，	punct/segment-end
+00:16:43,750	那因為這個牽涉到法的安定性	那因為這個牽涉到法的安定性，	punct/segment-end
+00:16:46,030	危險審查	違憲審查	correction_map/違憲審查
+00:16:46,030	所以通常大法官,違憲審查不會允許這樣。	所以通常大法官，違憲審查不會允許這樣。	punct/width
+00:16:49,020	危險審查	違憲審查	correction_map/違憲審查
+00:16:49,020	但不管怎樣,他要講的本文要針對的對象,違憲審查,是指strong judicial review,不是weak,好吧,這	但不管怎樣，他要講的本文要針對的對象，違憲審查，是指strong judicial review,不是weak,好吧，這	punct/width
+00:16:49,020	但不管怎樣，他要講的本文要針對的對象，違憲審查，是指strong judicial review,不是weak,好吧，這	但不管怎樣，他要講的本文要針對的對象，違憲審查，是指 strong judicial review,不是 weak,好吧	spacing/pangu
+00:17:15,480	我們講一解釋一下這個part two	我們講一解釋一下這個 part two	spacing/pangu
+00:17:15,480	我們講一解釋一下這個 part two	我們講一解釋一下這個 part two，	punct/segment-end
+00:17:30,630	為什麼剛才講part two有四個assumption	為什麼剛才講 part two 有四個 assumption	spacing/pangu
+00:17:30,630	為什麼剛才講 part two 有四個 assumption	為什麼剛才講 part two 有四個 assumption，	punct/segment-end
+00:17:33,460	因為	因為，	punct/segment-end
+00:17:33,900	因為它就是理想	因為它就是理想，	punct/segment-end
+00:17:36,560	我認為它就是一個理想當中的	我認為它就是一個理想當中的，	punct/segment-end
+00:17:38,520	民主社會運行的一個狀態	民主社會運行的一個狀態，	punct/segment-end
+00:17:42,030	你可以這樣子講	你可以這樣子講，	punct/segment-end
+00:17:42,930	但是它為什麼要有四個假設	但是它為什麼要有四個假設，	punct/segment-end
+00:17:44,850	因為它是在這四個假設之下	因為它是在這四個假設之下，	punct/segment-end
+00:17:48,160	危險審查	違憲審查	correction_map/違憲審查
+00:17:48,160	它來勾及違憲審查	它來勾及違憲審查，	punct/segment-end
+00:17:50,590	那四個假設如果不在的時候	那四個假設如果不在的時候，	punct/segment-end
+00:17:52,740	危險審查	違憲審查	correction_map/違憲審查
+00:17:52,740	還要不要批評違憲審查	還要不要批評違憲審查，	punct/segment-end
+00:17:54,620	是另一個方便	是另一個方便，	punct/segment-end
+00:17:55,550	也就是說它不是一個頑固分子	也就是說它不是一個頑固分子，	punct/segment-end
+00:17:59,390	它有通融的一面	它有通融的一面，	punct/segment-end
+00:18:00,750	我們一般講	我們一般講，	punct/segment-end
+00:18:02,800	我是泛泛地講我反對	我是泛泛地講我反對，	punct/segment-end
+00:18:05,060	但是我之所以反對	但是我之所以反對，	punct/segment-end
+00:18:06,520	是基於下面有四個假設的情況下	是基於下面有四個假設的情況下，	punct/segment-end
+00:18:09,600	我反對	我反對，	punct/segment-end
+00:18:10,160	四個假設	四個假設，	punct/segment-end
+00:18:11,490	那我覺得是沒有理由	那我覺得是沒有理由，	punct/segment-end
+00:18:13,710	危險審查	違憲審查	correction_map/違憲審查
+00:18:13,710	讓違憲審查來取代一般的立法者	讓違憲審查來取代一般的立法者，	punct/segment-end
+00:18:17,240	可是,如果這四個講詞不存在,那我就不一定統統反對。	可是，如果這四個講詞不存在，那我就不一定統統反對。	punct/width
+00:18:23,070	繼續,In Part 3,	繼續，In Part 3,	punct/width
+00:18:31,980	好,General Character,剛才我不是跟你講說,我們如果從名稱上是看不懂嗎?	好，General Character,剛才我不是跟你講說，我們如果從名稱上是看不懂嗎？	punct/width
+00:18:40,020	論證,什麼叫做General Character of Arguing?	論證，什麼叫做General Character of Arguing?	punct/width
+00:18:40,020	論證，什麼叫做General Character of Arguing?	論證，什麼叫做 General Character of Arguing?	spacing/pangu
+00:18:48,090	那這個一般性識他剛剛他用的那個用語各位還有印象嗎	那這個一般性識他剛剛他用的那個用語各位還有印象嗎，	punct/segment-end
+00:18:52,890	他的用語叫做什麼form of argument	他的用語叫做什麼 form of argument	spacing/pangu
+00:18:52,890	他的用語叫做什麼 form of argument	他的用語叫做什麼 form of argument，	punct/segment-end
+00:18:56,220	論證的形式吧	論證的形式吧，	punct/segment-end
+00:18:58,050	各位有沒有記住啊	各位有沒有記住啊，	punct/segment-end
+00:18:59,260	一般	一般，	punct/segment-end
+00:19:00,430	沒有啊	沒有啊，	punct/segment-end
+00:19:03,580	論證的形式	論證的形式，	punct/segment-end
+00:19:05,010	他論證的形式就是在講	他論證的形式就是在講，	punct/segment-end
+00:19:07,680	我批評、違憲、審查、我提出來的論證	我批評、違憲、審查、我提出來的論證，	punct/segment-end
+00:19:11,080	他的一般性識是怎樣	他的一般性識是怎樣，	punct/segment-end
+00:19:13,120	等下我們看看他怎麼一般性識	等下我們看看他怎麼一般性識，	punct/segment-end
+00:19:14,770	然後,that argument will attend to both outcomes and process re	然後，that argument will attend to both outcomes and process re	punct/width
+00:19:14,770	然後，that argument will attend to both outcomes and process re	然後，that argument will attend to both outcomes and process re	punct/segment-end
+00:19:22,990	你繼續講這句什麼意思	你繼續講這句什麼意思，	punct/segment-end
+00:19:25,080	違線審查	違憲審查	correction_map/違憲審查
+00:19:25,080	它就是分為從結果面上來看一個違憲審查的案	它就是分為從結果面上來看一個違憲審查的案，	punct/segment-end
+00:19:30,080	你覺得它是分嗎,還是both,and	你覺得它是分嗎，還是both,and	punct/width
+00:19:30,080	你覺得它是分嗎，還是both,and	你覺得它是分嗎，還是 both,and	spacing/pangu
+00:19:30,080	你覺得它是分嗎，還是 both,and	你覺得它是分嗎，還是 both,and，	punct/segment-end
+00:19:33,840	它說我的論證會兼顧到	它說我的論證會兼顧到，	punct/segment-end
+00:19:37,630	對,兼顧到	對，兼顧到	punct/width
+00:19:37,630	對，兼顧到	對，兼顧到，	punct/segment-end
+00:19:43,020	它的論證形式,就是它的論證的性質	它的論證形式，就是它的論證的性質	punct/width
+00:19:43,020	它的論證形式，就是它的論證的性質	它的論證形式，就是它的論證的性質，	punct/segment-end
+00:19:47,440	它會同時兼顧結果相關的理由	它會同時兼顧結果相關的理由，	punct/segment-end
+00:19:52,010	和程序相關的理由	和程序相關的理由，	punct/segment-end
+00:19:53,950	有些是結果面的理由	有些是結果面的理由，	punct/segment-end
+00:19:56,210	有些是程序面的理由	有些是程序面的理由，	punct/segment-end
+00:19:57,430	它會兼顧	它會兼顧，	punct/segment-end
+00:19:58,070	然後呢	然後呢，	punct/segment-end
+00:20:00,330	In part 4 來繼續	In part 4 來繼續，	punct/segment-end
+00:20:03,740	它分別講的就是	它分別講的就是，	punct/segment-end
+00:20:04,960	結果相關的理由	結果相關的理由，	punct/segment-end
+00:20:07,110	第 5 個部分就是程序相關的理由	第 5 個部分就是程序相關的理由，	punct/segment-end
+00:20:11,090	好 講完了	好 講完了，	punct/segment-end
+00:20:11,750	In part 6 第 6 部分	In part 6 第 6 部分，	punct/segment-end
+00:20:33,210	好 這是什麼意思	好 這是什麼意思，	punct/segment-end
+00:20:34,450	這句話這一段有點翻過來	這句話這一段有點翻過來，	punct/segment-end
+00:20:37,210	它要怎麼樣	它要怎麼樣，	punct/segment-end
+00:20:39,070	它要去expose the fallacy	它要去 expose the fallacy	spacing/pangu
+00:20:39,070	它要去 expose the fallacy	它要去 expose the fallacy，	punct/segment-end
+00:20:42,940	要去闡述這樣的論證	要去闡述這樣的論證，	punct/segment-end
+00:20:47,060	一般的人反對	一般的人反對，	punct/segment-end
+00:20:50,400	讓這個代義機關勝出	讓這個代義機關勝出，	punct/segment-end
+00:20:54,990	違線審查	違憲審查	correction_map/違憲審查
+00:20:54,990	就是大家認為應該有違憲審查	就是大家認為應該有違憲審查，	punct/segment-end
+00:20:58,430	不應該讓代義機關勝出	不應該讓代義機關勝出，	punct/segment-end
+00:21:00,740	主要的理由就是	主要的理由就是，	punct/segment-end
+00:21:01,910	因為代義機關會有多數欺負少數的多數暴力問題	因為代義機關會有多數欺負少數的多數暴力問題，	punct/segment-end
+00:21:05,570	但是他要expose the fallacy of this argument	但是他要 expose the fallacy of this argument	spacing/pangu
+00:21:05,570	但是他要 expose the fallacy of this argument	但是他要 expose the fallacy of this argument，	punct/segment-end
+00:21:10,830	他要破解這樣的論證的錯誤	他要破解這樣的論證的錯誤，	punct/segment-end
+00:21:15,550	你們都認為有多數暴力	你們都認為有多數暴力，	punct/segment-end
+00:21:18,690	違線審查	違憲審查	correction_map/違憲審查
+00:21:18,690	所以要有違憲審查	所以要有違憲審查，	punct/segment-end
+00:21:20,990	跟你們講錯了	跟你們講錯了，	punct/segment-end
+00:21:22,490	這一節第六節	這一節第六節，	punct/segment-end
+00:21:24,430	就專門跟你講是錯戰	就專門跟你講是錯戰，	punct/segment-end
+00:21:26,100	所以它是反過來	所以它是反過來，	punct/segment-end
+00:21:28,300	它平常就是我反對	它平常就是我反對，	punct/segment-end
+00:21:29,820	我反對我反對	我反對我反對，	punct/segment-end
+00:21:30,700	它現在是反對你們反對	它現在是反對你們反對，	punct/segment-end
+00:21:33,020	所以它也是反對	所以它也是反對，	punct/segment-end
+00:21:36,120	因為你們搞錯了	因為你們搞錯了，	punct/segment-end
+00:21:38,400	所以你們反對	所以你們反對，	punct/segment-end
+00:21:54,910	跟我剛才前面講的那四個假設不一樣的情況	跟我剛才前面講的那四個假設不一樣的情況，	punct/segment-end
+00:22:00,160	那我批評它們是基於這四個假設	那我批評它們是基於這四個假設，	punct/segment-end
+00:22:03,760	那這個四個假設如果變了呢	那這個四個假設如果變了呢，	punct/segment-end
+00:22:05,680	那我可能會有點改變	那我可能會有點改變，	punct/segment-end
+00:22:07,020	我講一下如果非典型的情況是怎麼樣	我講一下如果非典型的情況是怎麼樣，	punct/segment-end
+00:22:09,780	好,我們往下來	好，我們往下來	punct/width
+00:22:09,780	好，我們往下來	好，我們往下來，	punct/segment-end
+00:22:10,980	一、二、一間三百五十三頁	一、二、一間三百五十三頁，	punct/segment-end
+00:22:12,840	代分層選後的絕對修理	代分層選後的絕對修理，	punct/segment-end
+00:22:14,500	應該是中間才有代分層	應該是中間才有代分層，	punct/segment-end
+00:22:16,500	來,維線審查的定義	來，維線審查的定義	punct/width
+00:22:16,500	來，維線審查的定義	來，維線審查的定義，	punct/segment-end
+00:22:18,840	或者司法審查的定義	或者司法審查的定義，	punct/segment-end
+00:22:20,710	從哪裡看,試看	從哪裡看，試看	punct/width
+00:22:20,710	從哪裡看，試看	從哪裡看，試看，	punct/segment-end
+00:22:22,850	從一、三、五、四中間	從一、三、五、四中間，	punct/segment-end
+00:22:25,530	如果核心句子的話	如果核心句子的話，	punct/segment-end
+00:22:34,340	就是它說	就是它說，	punct/segment-end
+00:22:37,400	然後它	然後它，	punct/segment-end
+00:22:38,590	下面嘛	下面嘛，	punct/segment-end
+00:22:43,700	從這一段開始來	從這一段開始來，	punct/segment-end
+00:22:45,060	法院有權利在個案當中	法院有權利在個案當中，	punct/segment-end
+00:22:57,150	拒絕適用某個法律	拒絕適用某個法律，	punct/segment-end
+00:23:02,010	甚至於去修改修正那個法律的效果	甚至於去修改修正那個法律的效果，	punct/segment-end
+00:23:09,370	讓它的適用	讓它的適用，	punct/segment-end
+00:23:14,890	讓那個法律的適用	讓那個法律的適用，	punct/segment-end
+00:23:16,090	能夠符合個案的權利	能夠符合個案的權利，	punct/segment-end
+00:23:17,890	人民的個人的權利	人民的個人的權利，	punct/segment-end
+00:23:21,210	就是你認為它是違線	就是你認為它是違線，	punct/segment-end
+00:23:24,230	甚至也還有權利	甚至也還有權利，	punct/segment-end
+00:23:25,810	可以去修改那個法律的效力	可以去修改那個法律的效力，	punct/segment-end
+00:23:28,230	這句話講得很抽象	這句話講得很抽象，	punct/segment-end
+00:23:29,570	我不知道它怎麼修改	我不知道它怎麼修改，	punct/segment-end
+00:23:30,730	比方說我舉個例子	比方說我舉個例子，	punct/segment-end
+00:23:32,600	辦法官解釋的方法當中	辦法官解釋的方法當中，	punct/segment-end
+00:23:34,760	是不是有用到所謂的核線性解釋	是不是有用到所謂的核線性解釋，	punct/segment-end
+00:23:37,930	它有很多種可能	它有很多種可能，	punct/segment-end
+00:23:39,320	但是我把它線索成這一種	但是我把它線索成這一種，	punct/segment-end
+00:23:42,870	跟憲法意識	跟憲法意識，	punct/segment-end
+00:23:44,220	或者跟人群保障相符的	或者跟人群保障相符的，	punct/segment-end
+00:23:46,440	其他的我就不用了	其他的我就不用了，	punct/segment-end
+00:23:48,040	這個算不算是他講的這個	這個算不算是他講的這個，	punct/segment-end
+00:23:49,870	我們現在是用大陸法系的話	我們現在是用大陸法系的話，	punct/segment-end
+00:23:52,280	用我們這邊理解的話	用我們這邊理解的話，	punct/segment-end
+00:23:53,540	來講他這句很抽象的話	來講他這句很抽象的話，	punct/segment-end
+00:23:55,450	他這句話講得太抽象	他這句話講得太抽象，	punct/segment-end
+00:23:57,000	因為Modify有幾千幾百種方法	因為 Modify 有幾千幾百種方法	spacing/pangu
+00:23:57,000	因為 Modify 有幾千幾百種方法	因為 Modify 有幾千幾百種方法，	punct/segment-end
+00:23:59,810	然後它Modify的是Effect效果	然後它 Modify 的是 Effect 效果	spacing/pangu
+00:23:59,810	然後它 Modify 的是 Effect 效果	然後它 Modify 的是 Effect 效果，	punct/segment-end
+00:24:03,810	一個違憲的法律	一個違憲的法律，	punct/segment-end
+00:24:06,100	一個法律的效果	一個法律的效果，	punct/segment-end
+00:24:07,840	我們指它修改成	我們指它修改成，	punct/segment-end
+00:24:09,340	它符合憲法有關於人權規定	它符合憲法有關於人權規定，	punct/segment-end
+00:24:12,410	跟人權規定相符	跟人權規定相符，	punct/segment-end
+00:24:14,110	那最我能最能想象到	那最我能最能想象到，	punct/segment-end
+00:24:16,370	是不是就是核心性解釋方法	是不是就是核心性解釋方法，	punct/segment-end
+00:24:18,830	為什麼我只採用其中一部分	為什麼我只採用其中一部分，	punct/segment-end
+00:24:22,420	因為其他都跟憲法一直相反	因為其他都跟憲法一直相反，	punct/segment-end
+00:24:25,870	都跟人權保障相反	都跟人權保障相反，	punct/segment-end
+00:24:27,570	所以我只取這一塊	所以我只取這一塊，	punct/segment-end
+00:24:29,120	你們有興趣看一下	你們有興趣看一下，	punct/segment-end
+00:24:31,190	四字272號幾次	四字 272 號幾次	spacing/pangu
+00:24:31,190	四字 272 號幾次	四字 272 號幾次，	punct/segment-end
+00:24:33,830	你們就聽懂我在講什麼	你們就聽懂我在講什麼，	punct/segment-end
+00:24:35,550	我不知道	我不知道，	punct/segment-end
+00:24:37,740	反正現在老師錄的視頻有太多	反正現在老師錄的視頻有太多，	punct/segment-end
+00:24:40,440	我也搞不清楚	我也搞不清楚，	punct/segment-end
+00:24:41,420	老師我講到這個	老師我講到這個，	punct/segment-end
+00:24:42,520	但是總之你們可以看得到	但是總之你們可以看得到，	punct/segment-end
+00:24:44,300	我們有這樣的課	我們有這樣的課，	punct/segment-end
+00:24:45,680	正在講這些東西	正在講這些東西，	punct/segment-end
+00:24:47,070	好來	好來，	punct/segment-end
+00:24:48,320	因為我覺得如果他上面這句話	因為我覺得如果他上面這句話，	punct/segment-end
+00:24:51,360	在下面一段有一個對應	在下面一段有一個對應，	punct/segment-end
+00:24:53,620	就是在那個	就是在那個，	punct/segment-end
+00:24:55,470	另外一個	另外一個，	punct/segment-end
+00:24:58,250	就是他那個後面	就是他那個後面，	punct/segment-end
+00:24:59,910	就是裡面他就講	就是裡面他就講，	punct/segment-end
+00:25:01,090	一三	一三，	punct/segment-end
+00:25:03,630	一三五五頁	一三五五頁，	punct/segment-end
+00:25:05,270	一三五五頁的那一段裡面	一三五五頁的那一段裡面，	punct/segment-end
+00:25:08,630	他就是講	他就是講，	punct/segment-end
+00:25:09,850	他就是在相反的情況下講	他就是在相反的情況下講，	punct/segment-end
+00:25:13,120	若是Week Judicial Review的時候	若是 Week Judicial Review 的時候	spacing/pangu
+00:25:13,120	若是 Week Judicial Review 的時候	若是 Week Judicial Review 的時候，	punct/segment-end
+00:25:15,300	他就講	他就講，	punct/segment-end
+00:25:15,900	在那個括號裡面就講說	在那個括號裡面就講說，	punct/segment-end
+00:25:20,260	他是適用或者修正期適用	他是適用或者修正期適用，	punct/segment-end
+00:25:24,540	是	是，	punct/segment-end
+00:25:25,070	然後你要說什麼	然後你要說什麼，	punct/segment-end
+00:25:26,230	你覺得修正期適用	你覺得修正期適用，	punct/segment-end
+00:25:29,250	這一段他是講	這一段他是講，	punct/segment-end
+00:25:33,370	不能做的事情	不能做的事情，	punct/segment-end
+00:25:35,110	所以我在想他這個是不是就是	所以我在想他這個是不是就是，	punct/segment-end
+00:25:36,890	前面strong judicial review可以做的事情	前面 strong judicial review 可以做的事情	spacing/pangu
+00:25:36,890	前面 strong judicial review 可以做的事情	前面 strong judicial review 可以做的事情，	punct/segment-end
+00:25:40,380	是啊	是啊，	punct/segment-end
+00:25:41,260	那現在我說strong judicial review可以做的事情	那現在我說 strong judicial review 可以做的事情	spacing/pangu
+00:25:41,260	那現在我說 strong judicial review 可以做的事情	那現在我說 strong judicial review 可以做的事情，	punct/segment-end
+00:25:45,730	那我沒有挑戰	那我沒有挑戰，	punct/segment-end
+00:25:48,330	也沒有質疑他的分類	也沒有質疑他的分類，	punct/segment-end
+00:25:50,550	我只是說他現在講的這個話不容易懂	我只是說他現在講的這個話不容易懂，	punct/segment-end
+00:25:54,810	什麼叫做modified effect of aesthetic	什麼叫做 modified effect of aesthetic	spacing/pangu
+00:25:54,810	什麼叫做 modified effect of aesthetic	什麼叫做 modified effect of aesthetic，	punct/segment-end
+00:25:59,170	你如何修改一個綠的效率	你如何修改一個綠的效率，	punct/segment-end
+00:26:03,250	你怎麼修改	你怎麼修改，	punct/segment-end
+00:26:04,350	你怎麼把它調整	你怎麼把它調整，	punct/segment-end
+00:26:06,560	那我的意思就是	那我的意思就是，	punct/segment-end
+00:26:08,460	我隨便指一個例子	我隨便指一個例子，	punct/segment-end
+00:26:09,700	我馬上想到的就是	我馬上想到的就是，	punct/segment-end
+00:26:11,120	核心性解釋方法	核心性解釋方法，	punct/segment-end
+00:26:12,400	核心性解釋方法	核心性解釋方法，	punct/segment-end
+00:26:14,090	我需要再多講嗎	我需要再多講嗎，	punct/segment-end
+00:26:15,170	有沒有畫個圈圈講	有沒有畫個圈圈講，	punct/segment-end
+00:26:16,610	現在是個大圈圈	現在是個大圈圈，	punct/segment-end
+00:26:17,830	這個法條或者這個法律	這個法條或者這個法律，	punct/segment-end
+00:26:20,270	它可能解釋的範圍這麼大	它可能解釋的範圍這麼大，	punct/segment-end
+00:26:22,530	但是大法官說	但是大法官說，	punct/segment-end
+00:26:24,080	這個法條啊	這個法條啊，	punct/segment-end
+00:26:25,380	注意啊	注意啊，	punct/segment-end
+00:26:25,880	這個框框	這個框框，	punct/segment-end
+00:26:26,500	它的意思就是這裡	它的意思就是這裡，	punct/segment-end
+00:26:28,330	這個方法我們的一小半	這個方法我們的一小半，	punct/segment-end
+00:26:29,990	這個才對	這個才對，	punct/segment-end
+00:26:31,110	其他的我們不認為	其他的我們不認為，	punct/segment-end
+00:26:32,730	我簡單的講是客氣	我簡單的講是客氣，	punct/segment-end
+00:26:34,870	我沒有把你直接宣告為險	我沒有把你直接宣告為險，	punct/segment-end
+00:26:37,250	因為你這個解釋的可能性當中	因為你這個解釋的可能性當中，	punct/segment-end
+00:26:41,060	有一種是核心的	有一種是核心的，	punct/segment-end
+00:26:42,610	那我就乾脆告訴你	那我就乾脆告訴你，	punct/segment-end
+00:26:44,120	這個解釋只能做這個	這個解釋只能做這個，	punct/segment-end
+00:26:45,680	這條文只能做這個解釋	這條文只能做這個解釋，	punct/segment-end
+00:26:47,320	我只限在這個方法	我只限在這個方法，	punct/segment-end
+00:26:48,990	這樣子就是我已經修改了	這樣子就是我已經修改了，	punct/segment-end
+00:26:52,220	這個法律試用的效果	這個法律試用的效果，	punct/segment-end
+00:26:54,480	它本來可以試用這麼大一個方法	它本來可以試用這麼大一個方法，	punct/segment-end
+00:26:56,600	我跟你講不對	我跟你講不對，	punct/segment-end
+00:26:57,700	核心性解釋中間的這一塊	核心性解釋中間的這一塊，	punct/segment-end
+00:26:59,620	就這裡	就這裡，	punct/segment-end
+00:27:00,140	這裡才對	這裡才對，	punct/segment-end
+00:27:01,200	我這樣講有點抽象	我這樣講有點抽象，	punct/segment-end
+00:27:03,970	但是沒有問題	但是沒有問題，	punct/segment-end
+00:27:04,830	你們自己去看272號解釋	你們自己去看 272 號解釋	spacing/pangu
+00:27:04,830	你們自己去看 272 號解釋	你們自己去看 272 號解釋，	punct/segment-end
+00:27:06,710	還有其他的解釋也還有	還有其他的解釋也還有，	punct/segment-end
+00:27:08,830	我現在想不起來的解釋	我現在想不起來的解釋，	punct/segment-end
+00:27:10,920	509嘛	509 嘛	spacing/pangu
+00:27:10,920	509 嘛	509 嘛，	punct/segment-end
+00:27:12,620	去看看就明白了	去看看就明白了，	punct/segment-end
+00:27:16,190	好了	好了，	punct/segment-end
+00:27:16,430	往下跳	往下跳，	punct/segment-end
+00:27:17,960	不要講這個	不要講這個，	punct/segment-end
+00:27:19,620	此外	此外，	punct/segment-end
+00:27:30,880	不會被試用	不會被試用，	punct/segment-end
+00:27:32,640	不被試用	不被試用，	punct/segment-end
+00:27:34,080	然後往下跳	然後往下跳，	punct/segment-end
+00:28:10,070	或者他應調整為如下的方法適用	或者他應調整為如下的方法適用，	punct/segment-end
+00:28:13,010	但是甚至於他也有可能	但是甚至於他也有可能，	punct/segment-end
+00:28:15,510	乾脆就說這個法律整個無效	乾脆就說這個法律整個無效，	punct/segment-end
+00:28:18,130	這都是講的strong	這都是講的 strong	spacing/pangu
+00:28:18,130	這都是講的 strong	這都是講的 strong，	punct/segment-end
+00:28:23,100	他要講的是strong judicial review	他要講的是 strong judicial review	spacing/pangu
+00:28:23,100	他要講的是 strong judicial review	他要講的是 strong judicial review，	punct/segment-end
+00:28:25,550	危險審查	違憲審查	correction_map/違憲審查
+00:28:25,550	他要反違憲審查	他要反違憲審查，	punct/segment-end
+00:28:28,180	是指反這種審查	是指反這種審查，	punct/segment-end
+00:28:29,740	比之相對的	比之相對的，	punct/segment-end
+00:28:31,260	是weak judicial review	是 weak judicial review	spacing/pangu
+00:28:31,260	是 weak judicial review	是 weak judicial review，	punct/segment-end
+00:28:32,740	其實你們在這裡	其實你們在這裡，	punct/segment-end
+00:28:34,160	你們看到呢	你們看到呢，	punct/segment-end
+00:28:35,020	這個論文大陸法系的話來講	這個論文大陸法系的話來講，	punct/segment-end
+00:28:37,150	他就不會這樣講	他就不會這樣講，	punct/segment-end
+00:28:38,110	危險審查	違憲審查	correction_map/違憲審查
+00:28:38,110	他說的違憲審查的效率有不同	他說的違憲審查的效率有不同，	punct/segment-end
+00:28:43,230	你不會覺得這個是兩種不同的威脅省者	你不會覺得這個是兩種不同的威脅省者，	punct/segment-end
+00:28:46,210	但他認為是不同的威脅省者	但他認為是不同的威脅省者，	punct/segment-end
+00:28:48,220	他反的是前者不反對後裁	他反的是前者不反對後裁，	punct/segment-end
+00:28:50,740	來 看一下WIC	來 看一下 WIC	spacing/pangu
+00:28:50,740	來 看一下 WIC	來 看一下 WIC，	punct/segment-end
+00:28:51,960	1350件	1350 件	spacing/pangu
+00:28:51,960	1350 件	1350 件，	punct/segment-end
+00:29:13,090	他可以審查是不是相符	他可以審查是不是相符，	punct/segment-end
+00:29:15,230	有沒有跟人權的規定相符	有沒有跟人權的規定相符，	punct/segment-end
+00:29:17,760	但是他沒有權利拒絕試用	但是他沒有權利拒絕試用，	punct/segment-end
+00:29:21,050	或者是修改他的試用的範圍	或者是修改他的試用的範圍，	punct/segment-end
+00:29:36,490	你雖然這樣子講	你雖然這樣子講，	punct/segment-end
+00:29:38,670	你說我沒有權利拒絕試用	你說我沒有權利拒絕試用，	punct/segment-end
+00:29:40,850	並不表示我所做的違宣告	並不表示我所做的違宣告，	punct/segment-end
+00:29:43,970	一點用都沒有	一點用都沒有，	punct/segment-end
+00:29:45,210	沒有任何銷利品	沒有任何銷利品，	punct/segment-end
+00:29:46,740	不是這樣的意思	不是這樣的意思，	punct/segment-end
+00:29:47,840	像這裡就是我們	像這裡就是我們，	punct/segment-end
+00:29:49,880	我今天舉這個例子	我今天舉這個例子，	punct/segment-end
+00:29:51,650	臺灣	臺灣，	punct/segment-end
+00:29:52,470	除了我	除了我，	punct/segment-end
+00:29:53,670	我不知道還有誰	我不知道還有誰，	punct/segment-end
+00:29:54,650	我們現在講比較憲法	我們現在講比較憲法，	punct/segment-end
+00:29:56,770	我們太受到德國的影響	我們太受到德國的影響，	punct/segment-end
+00:29:58,730	其他的都看不見	其他的都看不見，	punct/segment-end
+00:30:00,800	但是事實上不真的這樣	但是事實上不真的這樣，	punct/segment-end
+00:30:02,930	好 你看下面這個句子	好 你看下面這個句子，	punct/segment-end
+00:30:05,460	在英國	在英國，	punct/segment-end
+00:30:06,300	繼續啊 繼續啊	繼續啊 繼續啊，	punct/segment-end
+00:30:21,370	它可以發布什麼	它可以發布什麼，	punct/segment-end
+00:30:23,580	我宣告不合	我宣告不合，	punct/segment-end
+00:30:25,310	用我們臺灣的話講就是宣告違憲	用我們臺灣的話講就是宣告違憲，	punct/segment-end
+00:30:28,560	違憲就是違反憲法	違憲就是違反憲法，	punct/segment-end
+00:30:31,100	宣告與憲法一旨不相符合	宣告與憲法一旨不相符合，	punct/segment-end
+00:30:34,130	宣告	宣告，	punct/segment-end
+00:30:37,760	兩者不相容	兩者不相容，	punct/segment-end
+00:30:39,270	當法院發現它是跟convention right	當法院發現它是跟 convention right	spacing/pangu
+00:30:39,270	當法院發現它是跟 convention right	當法院發現它是跟 convention right，	punct/segment-end
+00:30:44,880	你可以解釋一下什麼叫convention right嗎	你可以解釋一下什麼叫 convention right 嗎	spacing/pangu
+00:30:44,880	你可以解釋一下什麼叫 convention right 嗎	你可以解釋一下什麼叫 convention right 嗎，	punct/segment-end
+00:30:47,680	convention是什麼convention	convention 是什麼 convention	spacing/pangu
+00:30:47,680	convention 是什麼 convention	convention 是什麼 convention，	punct/segment-end
+00:30:50,170	你們聽得懂嗎	你們聽得懂嗎，	punct/segment-end
+00:30:51,010	下面那個字	下面那個字，	punct/segment-end
+00:30:55,890	英國本來沒有	英國本來沒有，	punct/segment-end
+00:30:57,220	老師在視頻裡面有講過了	老師在視頻裡面有講過了，	punct/segment-end
+00:30:59,300	英國本來沒有成文憲法	英國本來沒有成文憲法，	punct/segment-end
+00:31:03,140	英國是不成文憲法的國家	英國是不成文憲法的國家，	punct/segment-end
+00:31:04,920	到現在為止還是	到現在為止還是，	punct/segment-end
+00:31:06,670	它可能是世界上唯一的一個	它可能是世界上唯一的一個，	punct/segment-end
+00:31:09,340	不成文憲法的國家	不成文憲法的國家，	punct/segment-end
+00:31:11,300	它就沒有一部法典叫憲法	它就沒有一部法典叫憲法，	punct/segment-end
+00:31:13,440	它不是沒有憲法	它不是沒有憲法，	punct/segment-end
+00:31:15,970	它的憲法散落在不同的地方	它的憲法散落在不同的地方，	punct/segment-end
+00:31:18,110	好那現在一個根本的問題	好那現在一個根本的問題，	punct/segment-end
+00:31:19,990	請問那麼英國的人權規定	請問那麼英國的人權規定，	punct/segment-end
+00:31:22,310	藏在哪裡	藏在哪裡，	punct/segment-end
+00:31:23,050	那就是藏在這裡	那就是藏在這裡，	punct/segment-end
+00:31:24,300	它通過了一個法律	它通過了一個法律，	punct/segment-end
+00:31:26,340	叫做Human Rights Act	叫做 Human Rights Act	spacing/pangu
+00:31:26,340	叫做 Human Rights Act	叫做 Human Rights Act，	punct/segment-end
+00:31:28,100	下一方再下一方	下一方再下一方，	punct/segment-end
+00:31:29,400	看到嗎	看到嗎，	punct/segment-end
+00:31:30,160	這是1998年通過這個Human Rights Act	這是 1998 年通過這個 Human Rights Act	spacing/pangu
+00:31:30,160	這是 1998 年通過這個 Human Rights Act	這是 1998 年通過這個 Human Rights Act，	punct/segment-end
+00:31:33,680	然後規定了2000年開始施行	然後規定了 2000 年開始施行	spacing/pangu
+00:31:33,680	然後規定了 2000 年開始施行	然後規定了 2000 年開始施行，	punct/segment-end
+00:31:36,080	所以他現在零施行二十幾年	所以他現在零施行二十幾年，	punct/segment-end
+00:31:38,660	那他就把歐洲人權公約裡面的所有的那些人權	那他就把歐洲人權公約裡面的所有的那些人權，	punct/segment-end
+00:31:42,940	就直接搬進英國內國法來	就直接搬進英國內國法來，	punct/segment-end
+00:31:45,490	然後說這個政府的行為不可以違反	然後說這個政府的行為不可以違反，	punct/segment-end
+00:31:50,580	歐洲人權公約裡面所規定	歐洲人權公約裡面所規定，	punct/segment-end
+00:31:53,530	然後搬進了我們國家人權法裡面的人權	然後搬進了我們國家人權法裡面的人權，	punct/segment-end
+00:31:57,990	所以他叫做convention right	所以他叫做 convention right	spacing/pangu
+00:31:57,990	所以他叫做 convention right	所以他叫做 convention right，	punct/segment-end
+00:31:59,890	Mansion是指歐洲人群公約的共約權利	Mansion 是指歐洲人群公約的共約權利	spacing/pangu
+00:31:59,890	Mansion 是指歐洲人群公約的共約權利	Mansion 是指歐洲人群公約的共約權利，	punct/segment-end
+00:32:04,100	共約權利就是人權	共約權利就是人權，	punct/segment-end
+00:32:05,600	我這樣講有沒有聽懂	我這樣講有沒有聽懂，	punct/segment-end
+00:32:08,400	它有點像金蟬托克	它有點像金蟬托克，	punct/segment-end
+00:32:09,820	這個事情是有趣的事情	這個事情是有趣的事情，	punct/segment-end
+00:32:12,210	這是立法技術	這是立法技術，	punct/segment-end
+00:32:13,250	你們會不會覺得英國人做事情	你們會不會覺得英國人做事情，	punct/segment-end
+00:32:16,730	常常超過你的想象	常常超過你的想象，	punct/segment-end
+00:32:18,490	你會這樣子嗎	你會這樣子嗎，	punct/segment-end
+00:32:20,890	你會覺得不行	你會覺得不行，	punct/segment-end
+00:32:22,030	我們一定要在憲法裡面	我們一定要在憲法裡面，	punct/segment-end
+00:32:24,270	然後P一個專章	然後 P 一個專章	spacing/pangu
+00:32:24,270	然後 P 一個專章	然後 P 一個專章，	punct/segment-end
+00:32:25,490	像我們第二章一樣	像我們第二章一樣，	punct/segment-end
+00:32:26,970	像德國人第一章一樣	像德國人第一章一樣，	punct/segment-end
+00:32:28,630	搶基本權	搶基本權，	punct/segment-end
+00:32:29,510	這叫做我們國家引進了人權	這叫做我們國家引進了人權，	punct/segment-end
+00:32:32,250	他說不要那麼麻煩	他說不要那麼麻煩，	punct/segment-end
+00:32:34,460	我們國家反正就沒有憲法	我們國家反正就沒有憲法，	punct/segment-end
+00:32:36,480	我們就制定一個法律	我們就制定一個法律，	punct/segment-end
+00:32:38,490	他說這個文權法不能違反	他說這個文權法不能違反，	punct/segment-end
+00:32:41,200	那這個裡面規定的東西	那這個裡面規定的東西，	punct/segment-end
+00:32:42,700	就說他跟歐洲人權公約長的一樣	就說他跟歐洲人權公約長的一樣，	punct/segment-end
+00:32:44,780	就搬進來了	就搬進來了，	punct/segment-end
+00:32:45,440	臺灣想要做	臺灣想要做，	punct/segment-end
+00:32:47,810	我們想要把兩公約內國法化	我們想要把兩公約內國法化，	punct/segment-end
+00:32:50,430	但是我們說兩公約的那東西	但是我們說兩公約的那東西，	punct/segment-end
+00:32:52,850	在臺灣只具有法的效率	在臺灣只具有法的效率，	punct/segment-end
+00:32:54,490	不具有憲法的效率	不具有憲法的效率，	punct/segment-end
+00:32:55,890	這是一個有趣的問題	這是一個有趣的問題，	punct/segment-end
+00:32:57,510	你覺得立法者	你覺得立法者，	punct/segment-end
+00:32:58,740	可不可以搬一個法界法	可不可以搬一個法界法，	punct/segment-end
+00:32:59,880	還是說他具有憲法效率	還是說他具有憲法效率，	punct/segment-end
+00:33:01,280	那為什麼英國可以	那為什麼英國可以，	punct/segment-end
+00:33:03,060	有沒有人可以回答我這個問題	有沒有人可以回答我這個問題，	punct/segment-end
+00:33:04,540	我今天這個一定講不完	我今天這個一定講不完，	punct/segment-end
+00:33:06,320	我也不相信	我也不相信，	punct/segment-end
+00:33:08,450	這個亦凡已經全部開完了	這個亦凡已經全部開完了，	punct/segment-end
+00:33:10,260	沒關系	沒關系，	punct/segment-end
+00:33:10,960	反正您講究竟然算多少	反正您講究竟然算多少，	punct/segment-end
+00:33:12,400	現在的重點是	現在的重點是，	punct/segment-end
+00:33:14,110	我們講到的東西	我們講到的東西，	punct/segment-end
+00:33:15,690	跟我國有關的部分	跟我國有關的部分，	punct/segment-end
+00:33:17,540	我需要利用這個機會	我需要利用這個機會，	punct/segment-end
+00:33:19,380	讓你們去做一個對比	讓你們去做一個對比，	punct/segment-end
+00:33:20,660	因為這是你們一定可以做到	因為這是你們一定可以做到，	punct/segment-end
+00:33:23,370	我這樣講話聽說話	我這樣講話聽說話，	punct/segment-end
+00:33:25,490	我剛剛講的問題怎麼回答我	我剛剛講的問題怎麼回答我，	punct/segment-end
+00:33:27,320	在住這麼多人	在住這麼多人，	punct/segment-end
+00:33:28,840	我們臺灣能不能用過法律	我們臺灣能不能用過法律，	punct/segment-end
+00:33:31,300	比方說我想把兩公約	比方說我想把兩公約，	punct/segment-end
+00:33:32,860	我們也把它內國法化	我們也把它內國法化，	punct/segment-end
+00:33:34,490	因為定義個兩公約	因為定義個兩公約，	punct/segment-end
+00:33:35,650	施行法	施行法，	punct/segment-end
+00:33:36,410	把兩公約搬進來	把兩公約搬進來，	punct/segment-end
+00:33:39,160	但是為什麼我說	但是為什麼我說，	punct/segment-end
+00:33:41,210	沒有像英國一樣說	沒有像英國一樣說，	punct/segment-end
+00:33:42,650	他就給予他憲法的效力	他就給予他憲法的效力，	punct/segment-end
+00:33:45,000	我們還是說他只具有法律的效力	我們還是說他只具有法律的效力，	punct/segment-end
+00:33:47,340	為什麼我們不敢這樣做	為什麼我們不敢這樣做，	punct/segment-end
+00:33:49,170	跟我剛才講的	跟我剛才講的，	punct/segment-end
+00:33:52,100	英國沒有成文憲法是有關的	英國沒有成文憲法是有關的，	punct/segment-end
+00:33:54,460	英國所有的東西到目前為止都叫法律	英國所有的東西到目前為止都叫法律，	punct/segment-end
+00:33:57,660	有的不叫法律	有的不叫法律，	punct/segment-end
+00:33:58,760	有的叫慣例	有的叫慣例，	punct/segment-end
+00:33:59,680	有的藏在什麼地方	有的藏在什麼地方，	punct/segment-end
+00:34:01,220	那不重要	那不重要，	punct/segment-end
+00:34:02,770	大家通通都是用法律的形式	大家通通都是用法律的形式，	punct/segment-end
+00:34:05,320	記不記得你們以前學憲法的時候說	記不記得你們以前學憲法的時候說，	punct/segment-end
+00:34:07,880	有成文憲法有不成文憲法	有成文憲法有不成文憲法，	punct/segment-end
+00:34:10,050	那他的最大的差別不是他的形式	那他的最大的差別不是他的形式，	punct/segment-end
+00:34:13,320	而是他修改的機關	而是他修改的機關，	punct/segment-end
+00:34:17,080	還有修改的程序	還有修改的程序，	punct/segment-end
+00:34:18,550	不成文獻法	不成文獻法，	punct/segment-end
+00:34:20,190	他的修改機關跟普通法律	他的修改機關跟普通法律，	punct/segment-end
+00:34:23,940	是一樣的	是一樣的，	punct/segment-end
+00:34:24,640	都是立法制	都是立法制，	punct/segment-end
+00:34:25,940	因為英國的國會是自上的	因為英國的國會是自上的，	punct/segment-end
+00:34:28,330	他沒有不能做的事情	他沒有不能做的事情，	punct/segment-end
+00:34:30,850	OK 第一件事	OK 第一件事，	punct/segment-end
+00:34:32,510	第二件事情	第二件事情，	punct/segment-end
+00:34:33,230	修改的程序	修改的程序，	punct/segment-end
+00:34:34,420	我們是很複雜	我們是很複雜，	punct/segment-end
+00:34:35,640	要四分之三	要四分之三，	punct/segment-end
+00:34:36,400	美國要四分之三	美國要四分之三，	punct/segment-end
+00:34:37,360	還有很多道手續	還有很多道手續，	punct/segment-end
+00:34:38,560	他沒有	他沒有，	punct/segment-end
+00:34:39,360	他通過跟普通法律	他通過跟普通法律，	punct/segment-end
+00:34:42,060	一樣的方法	一樣的方法，	punct/segment-end
+00:34:43,440	但他就在裡面寫說	但他就在裡面寫說，	punct/segment-end
+00:34:44,800	你不能違反他	你不能違反他，	punct/segment-end
+00:34:45,820	這下去對我調好	這下去對我調好，	punct/segment-end
+00:34:47,550	那有違反怎麼辦呢	那有違反怎麼辦呢，	punct/segment-end
+00:34:49,020	那法院現在是英國最高法院	那法院現在是英國最高法院，	punct/segment-end
+00:34:51,550	你就直接宣告不符合	你就直接宣告不符合，	punct/segment-end
+00:34:53,440	不符合就是違線了	不符合就是違線了，	punct/segment-end
+00:34:55,230	繼續	繼續，	punct/segment-end
+00:34:56,030	它不是說都沒有效果	它不是說都沒有效果，	punct/segment-end
+00:34:57,860	有什麼效果	有什麼效果，	punct/segment-end
+00:35:09,120	這樣的一個宣告	這樣的一個宣告，	punct/segment-end
+00:35:10,180	違線的宣告	違線的宣告，	punct/segment-end
+00:35:19,680	這句話講得太複雜了	這句話講得太複雜了，	punct/segment-end
+00:35:21,520	意思就是說	意思就是說，	punct/segment-end
+00:35:22,420	不影響到細爭規定的效力	不影響到細爭規定的效力，	punct/segment-end
+00:35:24,900	繼續執行	繼續執行，	punct/segment-end
+00:35:25,800	它不影響	它不影響，	punct/segment-end
+00:35:30,640	對於當事人	對於當事人，	punct/segment-end
+00:35:32,220	提起訴訟的雙方或多方當事人來講	提起訴訟的雙方或多方當事人來講，	punct/segment-end
+00:35:35,930	也沒有拘束力	也沒有拘束力，	punct/segment-end
+00:35:36,930	所以照這樣看起來	所以照這樣看起來，	punct/segment-end
+00:35:38,930	它不是廢話一句嗎	它不是廢話一句嗎，	punct/segment-end
+00:35:40,060	你宣告不符合	你宣告不符合，	punct/segment-end
+00:35:41,720	然後呢	然後呢，	punct/segment-end
+00:35:42,540	原法繼續執行	原法繼續執行，	punct/segment-end
+00:35:44,250	對我們雙方當事人也沒有拘束力	對我們雙方當事人也沒有拘束力，	punct/segment-end
+00:35:53,500	有效果	有效果，	punct/segment-end
+00:35:54,380	什麼效果	什麼效果，	punct/segment-end
+00:36:10,660	好,這句話最重要,這句話什麼意思?	好，這句話最重要，這句話什麼意思？	punct/width
+00:36:12,930	就是在依據這個指引嘛,依據這個審查的	就是在依據這個指引嘛，依據這個審查的	punct/width
+00:36:12,930	就是在依據這個指引嘛，依據這個審查的	就是在依據這個指引嘛，依據這個審查的，	punct/segment-end
+00:36:19,320	我說宣告他違憲嘛,我剛剛說宣告不符合	我說宣告他違憲嘛，我剛剛說宣告不符合	punct/width
+00:36:19,320	我說宣告他違憲嘛，我剛剛說宣告不符合	我說宣告他違憲嘛，我剛剛說宣告不符合，	punct/segment-end
+00:36:22,740	依據這個法院的宣告,不符合的宣告	依據這個法院的宣告，不符合的宣告	punct/width
+00:36:22,740	依據這個法院的宣告，不符合的宣告	依據這個法院的宣告，不符合的宣告，	punct/segment-end
+00:36:26,000	然後呢	然後呢，	punct/segment-end
+00:36:27,800	可以發動一個	可以發動一個，	punct/segment-end
+00:36:29,430	誰誰	誰誰，	punct/segment-end
+00:36:29,950	主持	主持，	punct/segment-end
+00:36:31,790	部長	部長，	punct/segment-end
+00:36:32,750	部長就獲得了一個授權	部長就獲得了一個授權，	punct/segment-end
+00:36:35,760	他可以啟動一個什麼	他可以啟動一個什麼，	punct/segment-end
+00:36:38,060	啟動一個快速修法程序	啟動一個快速修法程序，	punct/segment-end
+00:36:40,510	對這樣子我聽懂嗎	對這樣子我聽懂嗎，	punct/segment-end
+00:36:41,810	相當於臺灣的禁副二讀	相當於臺灣的禁副二讀，	punct/segment-end
+00:36:43,690	不要一讀了	不要一讀了，	punct/segment-end
+00:36:45,030	直接跳進去	直接跳進去，	punct/segment-end
+00:36:46,510	然後呢	然後呢，	punct/segment-end
+00:36:47,210	如果你想修	如果你想修，	punct/segment-end
+00:36:50,880	你想要去掉這個不違線的部分	你想要去掉這個不違線的部分，	punct/segment-end
+00:36:53,950	那也是修法	那也是修法，	punct/segment-end
+00:36:55,300	但是你可以快速修法	但是你可以快速修法，	punct/segment-end
+00:36:56,980	所以它不是全然沒有效果	所以它不是全然沒有效果，	punct/segment-end
+00:36:59,420	它的效果是程序效果	它的效果是程序效果，	punct/segment-end
+00:37:01,730	而且是德不是因	而且是德不是因，	punct/segment-end
+00:37:04,000	注意這個字	注意這個字，	punct/segment-end
+00:37:05,060	部長不受拘束	部長不受拘束，	punct/segment-end
+00:37:07,280	你不認為應該修改	你不認為應該修改，	punct/segment-end
+00:37:09,330	你就把它當作廢紙放在旁邊	你就把它當作廢紙放在旁邊，	punct/segment-end
+00:37:11,130	但如果你認為	但如果你認為，	punct/segment-end
+00:37:12,680	講得很有道理	講得很有道理，	punct/segment-end
+00:37:13,660	我想要接近修改	我想要接近修改，	punct/segment-end
+00:37:14,700	好	好，	punct/segment-end
+00:37:14,920	它就給你的上方保健	它就給你的上方保健，	punct/segment-end
+00:37:16,390	我們就直接進入20	我們就直接進入 20	spacing/pangu
+00:37:16,390	我們就直接進入 20	我們就直接進入 20，	punct/segment-end
+00:37:19,590	我這樣講有聽懂嗎	我這樣講有聽懂嗎，	punct/segment-end
+00:37:21,660	你們會不會覺得	你們會不會覺得，	punct/segment-end
+00:37:23,320	英國人做的事情	英國人做的事情，	punct/segment-end
+00:37:24,500	超乎你的想象	超乎你的想象，	punct/segment-end
+00:37:26,100	這就是我們比較線盤的	這就是我們比較線盤的，	punct/segment-end
+00:37:28,250	我們的眼界可以大開	我們的眼界可以大開，	punct/segment-end
+00:37:30,470	因為世界上有很多事情	因為世界上有很多事情，	punct/segment-end
+00:37:32,390	我們現在是被我們的腦袋	我們現在是被我們的腦袋，	punct/segment-end
+00:37:34,240	被這個框框條條給束縛住了	被這個框框條條給束縛住了，	punct/segment-end
+00:37:36,920	我們怎麼能想象這樣的事情呢	我們怎麼能想象這樣的事情呢，	punct/segment-end
+00:37:39,230	有那麼嚴重嗎	有那麼嚴重嗎，	punct/segment-end
+00:37:41,170	好了講完了	好了講完了，	punct/segment-end
+00:37:41,930	然後2356頁	然後 2356 頁	spacing/pangu
+00:37:41,930	然後 2356 頁	然後 2356 頁，	punct/segment-end
+00:37:45,900	講到紐西蘭它是怎麼樣	講到紐西蘭它是怎麼樣，	punct/segment-end
+00:37:47,720	大概講一下就好了	大概講一下就好了，	punct/segment-end
+00:37:49,280	它也會宣告不服	它也會宣告不服，	punct/segment-end
+00:37:50,400	然後呢	然後呢，	punct/segment-end
+00:37:52,780	對那個立法程序也不產生任何法律上的效果	對那個立法程序也不產生任何法律上的效果，	punct/segment-end
+00:37:57,460	所以紐西蘭的	所以紐西蘭的，	punct/segment-end
+00:37:59,440	這是更弱	這是更弱，	punct/segment-end
+00:38:00,440	紐西蘭是weak and weak	紐西蘭是 weak and weak	spacing/pangu
+00:38:00,440	紐西蘭是 weak and weak	紐西蘭是 weak and weak，	punct/segment-end
+00:38:04,220	然後呢	然後呢，	punct/segment-end
+00:38:06,190	還有沒有	還有沒有，	punct/segment-end
+00:38:06,950	Canada呢	Canada 呢	spacing/pangu
+00:38:06,950	Canada 呢	Canada 呢，	punct/segment-end
+00:38:07,790	Canada是強還是弱	Canada 是強還是弱	spacing/pangu
+00:38:07,790	Canada 是強還是弱	Canada 是強還是弱，	punct/segment-end
+00:38:09,440	中間	中間，	punct/segment-end
+00:38:11,550	中間	中間，	punct/segment-end
+00:38:12,430	為什麼是中間	為什麼是中間，	punct/segment-end
+00:38:13,490	他認為是	他認為是，	punct/segment-end
+00:38:14,250	對	對，	punct/segment-end
+00:38:15,110	他有說是中間	他有說是中間，	punct/segment-end
+00:38:16,290	為什麼他認為是中間	為什麼他認為是中間，	punct/segment-end
+00:38:18,290	我也不懂	我也不懂，	punct/segment-end
+00:38:20,060	我覺得他很強啊	我覺得他很強啊，	punct/segment-end
+00:38:21,920	就是很少的使用	就是很少的使用，	punct/segment-end
+00:38:23,980	它是叫	它是叫，	punct/segment-end
+00:38:25,960	介於中間的案子	介於中間的案子，	punct/segment-end
+00:38:27,960	那你先念這句	那你先念這句，	punct/segment-end
+00:38:36,110	現法	憲法	regex_correction_map/憲法
+00:38:36,110	有沒有憲法名為依據	有沒有憲法名為依據，	punct/segment-end
+00:38:37,730	有	有，	punct/segment-end
+00:38:38,130	其次,美國沒有,它有	其次，美國沒有，它有	punct/width
+00:38:38,130	其次，美國沒有，它有	其次，美國沒有，它有，	punct/segment-end
+00:38:40,940	然後,the course there,中間跳過	然後，the course there,中間跳過	punct/width
+00:38:40,940	然後，the course there,中間跳過	然後，the course there,中間跳過，	punct/segment-end
+00:38:46,600	它可以拒絕試用	它可以拒絕試用，	punct/segment-end
+00:38:49,180	如果被宣告違反加拿大憲法裡面的人權規定的話	如果被宣告違反加拿大憲法裡面的人權規定的話，	punct/segment-end
+00:38:55,760	它有人權清單	它有人權清單，	punct/segment-end
+00:38:56,980	一樣的,名字不一樣,意思是一樣的	一樣的，名字不一樣，意思是一樣的	punct/width
+00:38:56,980	一樣的，名字不一樣，意思是一樣的	一樣的，名字不一樣，意思是一樣的，	punct/segment-end
+00:39:00,150	所以到這裡,一樣嘛	所以到這裡，一樣嘛	punct/width
+00:39:00,150	所以到這裡，一樣嘛	所以到這裡，一樣嘛，	punct/segment-end
+00:39:01,630	這是strong呢?我不懂它為什麼是inmediate	這是strong呢？我不懂它為什麼是inmediate	punct/width
+00:39:01,630	這是strong呢？我不懂它為什麼是inmediate	這是 strong 呢？我不懂它為什麼是 inmediate	spacing/pangu
+00:39:01,630	這是 strong 呢？我不懂它為什麼是 inmediate	這是 strong 呢？我不懂它為什麼是 inmediate，	punct/segment-end
+00:39:04,980	把它講嗎?but	把它講嗎？but	punct/width
+00:39:04,980	把它講嗎？but	把它講嗎？but，	punct/segment-end
+00:39:34,340	這句話什麼意思?我看不懂。	這句話什麼意思？我看不懂。	punct/width
+00:39:37,530	就是有一個制度	就是有一個制度，	punct/segment-end
+00:39:39,950	或者是有一種可能性	或者是有一種可能性，	punct/segment-end
+00:39:43,050	重點是這句	重點是這句，	punct/segment-end
+00:39:46,190	他們的議會還是可以立法	他們的議會還是可以立法，	punct/segment-end
+00:39:49,010	儘管	儘管，	punct/segment-end
+00:39:59,160	很少被使用	很少被使用，	punct/segment-end
+00:40:00,500	但是因為這個樣子	但是因為這個樣子，	punct/segment-end
+00:40:03,070	他還把它算成實	他還把它算成實，	punct/segment-end
+00:40:04,690	借在兩者之中	借在兩者之中，	punct/segment-end
+00:40:06,370	但是這句話	但是這句話，	punct/segment-end
+00:40:08,050	我其實說真的	我其實說真的，	punct/segment-end
+00:40:09,230	我沒有完全看懂	我沒有完全看懂，	punct/segment-end
+00:40:10,740	這個可能還要再去查	這個可能還要再去查，	punct/segment-end
+00:40:12,490	最主要應該是	最主要應該是，	punct/segment-end
+00:40:13,910	小柱32這裡	小柱 32 這裡	spacing/pangu
+00:40:13,910	小柱 32 這裡	小柱 32 這裡，	punct/segment-end
+00:40:15,590	有沒有	有沒有，	punct/segment-end
+00:40:17,390	所以你看不懂啊	所以你看不懂啊，	punct/segment-end
+00:40:19,000	那你就要去看看這個小柱32在講什麼	那你就要去看看這個小柱 32 在講什麼	spacing/pangu
+00:40:19,000	那你就要去看看這個小柱 32 在講什麼	那你就要去看看這個小柱 32 在講什麼，	punct/segment-end
+00:40:21,880	換句話說	換句話說，	punct/segment-end
+00:40:23,440	從前面看起來	從前面看起來，	punct/segment-end
+00:40:25,090	這個法院是可以審查立法	這個法院是可以審查立法，	punct/segment-end
+00:40:29,230	沒問題	沒問題，	punct/segment-end
+00:40:30,020	因為寫在憲法裡	因為寫在憲法裡，	punct/segment-end
+00:40:31,470	而且它也可以拒絕試用	而且它也可以拒絕試用，	punct/segment-end
+00:40:33,460	也沒問題	也沒問題，	punct/segment-end
+00:40:34,360	然後它現在唯一的差別	然後它現在唯一的差別，	punct/segment-end
+00:40:37,410	就是即便是被宣告為違憲	就是即便是被宣告為違憲，	punct/segment-end
+00:40:40,670	這個時候呢	這個時候呢，	punct/segment-end
+00:40:42,170	還是可以	還是可以，	punct/segment-end
+00:40:44,850	他們的立法者	他們的立法者，	punct/segment-end
+00:40:47,340	還是可以legislate the right in the charter	還是可以 legislate the right in the charter	spacing/pangu
+00:40:47,340	還是可以 legislate the right in the charter	還是可以 legislate the right in the charter，	punct/segment-end
+00:40:51,090	他還是可以就這個權利來加以立法	他還是可以就這個權利來加以立法，	punct/segment-end
+00:40:55,020	這句話意思不清楚	這句話意思不清楚，	punct/segment-end
+00:40:56,550	所以不清楚是要開槍度32	所以不清楚是要開槍度 32	spacing/pangu
+00:40:56,550	所以不清楚是要開槍度 32	所以不清楚是要開槍度 32，	punct/segment-end
+00:40:58,560	那這裡一定是顯然對於剛才的效果有了打折	那這裡一定是顯然對於剛才的效果有了打折，	punct/segment-end
+00:41:02,430	好了,然後往下講	好了，然後往下講	punct/width
+00:41:02,430	好了，然後往下講	好了，然後往下講，	punct/segment-end
+00:41:04,020	美國呢,第3、第7頁都不快	美國呢，第3、第7頁都不快	punct/width
+00:41:04,020	美國呢，第3、第7頁都不快	美國呢，第 3、第 7 頁都不快	spacing/pangu
+00:41:04,020	美國呢，第 3、第 7 頁都不快	美國呢，第 3、第 7 頁都不快，	punct/segment-end
+00:41:07,820	這個在老師的文章裡面有講到	這個在老師的文章裡面有講到，	punct/segment-end
+00:41:15,780	我是認為我們跟大陸反系站在一起看這個文章	我是認為我們跟大陸反系站在一起看這個文章，	punct/segment-end
+00:41:20,690	主要的是應該要強調	主要的是應該要強調，	punct/segment-end
+00:41:22,550	危險審查	違憲審查	correction_map/違憲審查
+00:41:22,550	是抽象的違憲審查	是抽象的違憲審查，	punct/segment-end
+00:41:24,200	危險審查	違憲審查	correction_map/違憲審查
+00:41:24,200	還是個案當中所做的具體違憲審查	還是個案當中所做的具體違憲審查，	punct/segment-end
+00:41:27,570	或者是兩個都有	或者是兩個都有，	punct/segment-end
+00:41:29,170	像德國人是兩個都有	像德國人是兩個都有，	punct/segment-end
+00:41:30,990	像法國人只有抽象沒有具體	像法國人只有抽象沒有具體，	punct/segment-end
+00:41:33,410	像美國人只有具體沒有抽象	像美國人只有具體沒有抽象，	punct/segment-end
+00:41:35,770	我會從比較憲法的觀點看中的是這個	我會從比較憲法的觀點看中的是這個，	punct/segment-end
+00:41:38,710	但是這個畢竟是個美國人	但是這個畢竟是個美國人，	punct/segment-end
+00:41:40,570	他不會去想這樣的事情	他不會去想這樣的事情，	punct/segment-end
+00:41:43,300	所以他現在直接講到美國	所以他現在直接講到美國，	punct/segment-end
+00:41:45,290	就是直接講下去	就是直接講下去，	punct/segment-end
+00:41:46,730	他告訴你們下面有些什麼樣的問題	他告訴你們下面有些什麼樣的問題，	punct/segment-end
+00:41:50,490	然後第三個	然後第三個，	punct/segment-end
+00:41:53,130	1358頁	1358 頁	spacing/pangu
+00:41:53,130	1358 頁	1358 頁，	punct/segment-end
+00:41:54,420	剛才講的是第一個	剛才講的是第一個，	punct/segment-end
+00:42:01,940	第一個Distinction	第一個 Distinction	spacing/pangu
+00:42:01,940	第一個 Distinction	第一個 Distinction，	punct/segment-end
+00:42:04,340	到1357頁之前	到 1357 頁之前	spacing/pangu
+00:42:04,340	到 1357 頁之前	到 1357 頁之前，	punct/segment-end
+00:42:08,110	是第一個distinction	是第一個 distinction	spacing/pangu
+00:42:08,110	是第一個 distinction	是第一個 distinction，	punct/segment-end
+00:42:09,770	簡單的講就是	簡單的講就是，	punct/segment-end
+00:42:13,350	聽懂嗎	聽懂嗎，	punct/segment-end
+00:42:15,470	強的跟弱的	強的跟弱的，	punct/segment-end
+00:42:21,310	第二個distinction	第二個 distinction	spacing/pangu
+00:42:21,310	第二個 distinction	第二個 distinction，	punct/segment-end
+00:42:24,730	從1357頁開始	從 1357 頁開始	spacing/pangu
+00:42:24,730	從 1357 頁開始	從 1357 頁開始，	punct/segment-end
+00:42:27,220	有沒有	有沒有，	punct/segment-end
+00:42:29,270	那你繼續講	那你繼續講，	punct/segment-end
+00:42:32,840	我先想一下	我先想一下，	punct/segment-end
+00:42:35,020	大家可以看我的	大家可以看我的，	punct/segment-end
+00:42:36,660	那個檔案的第80	那個檔案的第 80	spacing/pangu
+00:42:36,660	那個檔案的第 80	那個檔案的第 80，	punct/segment-end
+00:42:38,740	PDF的第81頁	PDF 的第 81 頁	spacing/pangu
+00:42:38,740	PDF 的第 81 頁	PDF 的第 81 頁，	punct/segment-end
+00:42:40,970	就是我有整理	就是我有整理，	punct/segment-end
+00:42:42,590	那個表格跟圖形	那個表格跟圖形，	punct/segment-end
+00:42:45,370	表格	表格，	punct/segment-end
+00:42:46,130	就是把剛剛講的	就是把剛剛講的，	punct/segment-end
+00:42:47,130	沒關系	沒關系，	punct/segment-end
+00:42:47,910	你先講	你先講，	punct/segment-end
+00:42:48,670	你現在看到的這個是什麼	你現在看到的這個是什麼，	punct/segment-end
+00:42:50,210	好	好，	punct/segment-end
+00:42:50,510	它是第二種分類	它是第二種分類，	punct/segment-end
+00:42:52,010	現在的第二種分類	現在的第二種分類，	punct/segment-end
+00:42:54,540	微信審查了第二種分類	微信審查了第二種分類，	punct/segment-end
+00:42:58,340	是什麼跟什麼	是什麼跟什麼，	punct/segment-end
+00:42:59,280	是	是，	punct/segment-end
+00:43:02,200	對啊	對啊，	punct/segment-end
+00:43:05,320	在第一個分類是按照效力	在第一個分類是按照效力，	punct/segment-end
+00:43:10,440	現在第二個分類	現在第二個分類，	punct/segment-end
+00:43:12,120	按照這個權力所在的位置	按照這個權力所在的位置，	punct/segment-end
+00:43:15,020	你是放在憲法裡的	你是放在憲法裡的，	punct/segment-end
+00:43:16,960	還是不放在憲法裡	還是不放在憲法裡，	punct/segment-end
+00:43:18,810	對嗎	對嗎，	punct/segment-end
+00:43:20,060	是這個意思嗎	是這個意思嗎，	punct/segment-end
+00:43:21,280	嗯	嗯，	punct/segment-end
+00:43:21,470	這種分類我覺得是很少看到的	這種分類我覺得是很少看到的，	punct/segment-end
+00:43:27,400	因為沒有這樣分了	因為沒有這樣分了，	punct/segment-end
+00:43:29,220	這是作者	這是作者，	punct/segment-end
+00:43:30,480	當你把人權放進憲法裡	當你把人權放進憲法裡，	punct/segment-end
+00:43:56,130	違線審查	違憲審查	correction_map/違憲審查
+00:43:56,130	這個時候所做的違憲審查	這個時候所做的違憲審查，	punct/segment-end
+00:43:58,140	就如同大法官說	就如同大法官說，	punct/segment-end
+00:43:59,770	我們現在違反了中央地方分權	我們現在違反了中央地方分權，	punct/segment-end
+00:44:02,470	或者違反權利分地原則一樣	或者違反權利分地原則一樣，	punct/segment-end
+00:44:04,570	你違反了憲法這一章的根據保障	你違反了憲法這一章的根據保障，	punct/segment-end
+00:44:07,110	他認為這個意思是相同的	他認為這個意思是相同的，	punct/segment-end
+00:44:09,050	有沒有清楚最以上是2	有沒有清楚最以上是 2	spacing/pangu
+00:44:09,050	有沒有清楚最以上是 2	有沒有清楚最以上是 2，	punct/segment-end
+00:44:13,120	但是這個2有沒有對照組	但是這個 2 有沒有對照組	spacing/pangu
+00:44:13,120	但是這個 2 有沒有對照組	但是這個 2 有沒有對照組，	punct/segment-end
+00:44:16,810	有沒有不是的	有沒有不是的，	punct/segment-end
+00:44:18,490	說在第三五八頁	說在第三五八頁，	punct/segment-end
+00:44:36,980	他就是英國跟美國的那個對照	他就是英國跟美國的那個對照，	punct/segment-end
+00:44:40,460	看一下第三五八頁的第一大段	看一下第三五八頁的第一大段，	punct/segment-end
+00:44:42,610	小株36	小株 36	spacing/pangu
+00:44:42,610	小株 36	小株 36，	punct/segment-end
+00:44:55,520	就這一句	就這一句，	punct/segment-end
+00:44:56,240	有聽懂嗎	有聽懂嗎，	punct/segment-end
+00:44:58,590	我們剛才說分類吧	我們剛才說分類吧，	punct/segment-end
+00:45:00,870	你要A跟B	你要 A 跟 B	spacing/pangu
+00:45:00,870	你要 A 跟 B	你要 A 跟 B，	punct/segment-end
+00:45:02,110	你現在是第二大類	你現在是第二大類，	punct/segment-end
+00:45:03,430	第二大類是看你講的人權	第二大類是看你講的人權，	punct/segment-end
+00:45:06,090	它放的位置	它放的位置，	punct/segment-end
+00:45:07,270	人權在憲法體系中的位置	人權在憲法體系中的位置，	punct/segment-end
+00:45:10,120	人權是放進憲法法典	人權是放進憲法法典，	punct/segment-end
+00:45:12,080	還是人權是放進其他的地方	還是人權是放進其他的地方，	punct/segment-end
+00:45:14,400	但你不在憲法法典	但你不在憲法法典，	punct/segment-end
+00:45:16,210	聽懂嗎	聽懂嗎，	punct/segment-end
+00:45:18,840	有聽懂嗎	有聽懂嗎，	punct/segment-end
+00:45:22,330	注意看他這一句	注意看他這一句，	punct/segment-end
+00:45:26,570	1358頁就是剛才講小竹36的下面句	1358 頁就是剛才講小竹 36 的下面句	spacing/pangu
+00:45:26,570	1358 頁就是剛才講小竹 36 的下面句	1358 頁就是剛才講小竹 36 的下面句，	punct/segment-end
+00:45:31,510	Weak Judicial Review 答答答答	Weak Judicial Review 答答答答，	punct/segment-end
+00:45:35,700	英國就是這樣	英國就是這樣，	punct/segment-end
+00:45:46,900	它主要是要討論這個	它主要是要討論這個，	punct/segment-end
+00:45:48,540	主要是要討論立法者通過的法律	主要是要討論立法者通過的法律，	punct/segment-end
+00:45:54,930	抵觸了放在憲法之中的人權條款	抵觸了放在憲法之中的人權條款，	punct/segment-end
+00:45:59,040	這種情況	這種情況，	punct/segment-end
+00:45:59,900	好 以上是第二個分配	好 以上是第二個分配，	punct/segment-end
+00:46:01,910	第三個分類	第三個分類，	punct/segment-end
+00:46:03,150	1358頁最底下	1358 頁最底下	spacing/pangu
+00:46:03,150	1358 頁最底下	1358 頁最底下，	punct/segment-end
+00:46:05,500	第三個分類	第三個分類，	punct/segment-end
+00:46:07,020	我已經講過很多遍	我已經講過很多遍，	punct/segment-end
+00:46:08,680	你讀書要找到脈絡	你讀書要找到脈絡，	punct/segment-end
+00:46:11,800	不然你就沒有辦法接著做報告	不然你就沒有辦法接著做報告，	punct/segment-end
+00:46:14,840	它現在不是有脈絡嗎	它現在不是有脈絡嗎，	punct/segment-end
+00:46:16,820	它的脈絡你要把它找出來	它的脈絡你要把它找出來，	punct/segment-end
+00:46:18,300	那第三個分類	那第三個分類，	punct/segment-end
+00:46:19,820	請講	請講，	punct/segment-end
+00:46:21,200	第三個分類就是事前審查跟事後審查	第三個分類就是事前審查跟事後審查，	punct/segment-end
+00:46:25,120	好	好，	punct/segment-end
+00:46:25,480	那你現在看到的第一個是事前還是事後	那你現在看到的第一個是事前還是事後，	punct/segment-end
+00:46:30,400	事後	事後，	punct/segment-end
+00:46:31,440	那前面有一個是xtante review	那前面有一個是 xtante review	spacing/pangu
+00:46:31,440	那前面有一個是 xtante review	那前面有一個是 xtante review，	punct/segment-end
+00:46:34,820	事件	事件，	punct/segment-end
+00:46:35,420	現在我們大概全世界	現在我們大概全世界，	punct/segment-end
+00:46:37,620	違線審查	違憲審查	correction_map/違憲審查
+00:46:37,620	違憲審查國家都是事後	違憲審查國家都是事後，	punct/segment-end
+00:46:41,040	就是法律生效以後去做審查	就是法律生效以後去做審查，	punct/segment-end
+00:46:43,550	還沒有生效以前的審查	還沒有生效以前的審查，	punct/segment-end
+00:46:45,440	大概只有法國	大概只有法國，	punct/segment-end
+00:46:46,340	那在這個地方	那在這個地方，	punct/segment-end
+00:46:48,670	你會非常懷疑	你會非常懷疑，	punct/segment-end
+00:46:50,370	違線審查	違憲審查	correction_map/違憲審查
+00:46:50,370	在法國從事違憲審查的那個機關	在法國從事違憲審查的那個機關，	punct/segment-end
+00:46:53,090	老師這個文章裡面有寫	老師這個文章裡面有寫，	punct/segment-end
+00:46:54,950	書裡面有寫	書裡面有寫，	punct/segment-end
+00:46:56,210	這個叫做憲法委	這個叫做憲法委，	punct/segment-end
+00:46:57,980	他試院嗎	他試院嗎，	punct/segment-end
+00:47:00,340	還沒有生效的法律	還沒有生效的法律，	punct/segment-end
+00:47:03,990	你可以審查	你可以審查，	punct/segment-end
+00:47:04,830	那我認為你是法院嗎	那我認為你是法院嗎，	punct/segment-end
+00:47:06,770	是在試用法律	是在試用法律，	punct/segment-end
+00:47:09,170	還是你是立法者	還是你是立法者，	punct/segment-end
+00:47:11,180	你是兩院之外的第三院	你是兩院之外的第三院，	punct/segment-end
+00:47:14,500	那兩院	那兩院，	punct/segment-end
+00:47:15,500	因為法國也是兩院	因為法國也是兩院，	punct/segment-end
+00:47:16,980	如果臺灣只有一院	如果臺灣只有一院，	punct/segment-end
+00:47:18,220	那就變成第二院	那就變成第二院，	punct/segment-end
+00:47:19,540	辦法官變成第二院	辦法官變成第二院，	punct/segment-end
+00:47:21,740	你是事前審查	你是事前審查，	punct/segment-end
+00:47:22,780	立法院說了不算	立法院說了不算，	punct/segment-end
+00:47:24,060	你還可以再說一次	你還可以再說一次，	punct/segment-end
+00:47:25,240	他通過了	他通過了，	punct/segment-end
+00:47:26,140	你可以不讓他通過	你可以不讓他通過，	punct/segment-end
+00:47:27,040	我學高幫微信給你通過	我學高幫微信給你通過，	punct/segment-end
+00:47:28,750	事前審查	事前審查，	punct/segment-end
+00:47:30,020	還沒有公布	還沒有公布，	punct/segment-end
+00:47:31,300	還沒有生效	還沒有生效，	punct/segment-end
+00:47:32,080	我就先審查	我就先審查，	punct/segment-end
+00:47:33,200	這種情況下	這種情況下，	punct/segment-end
+00:47:35,770	最大的問題是	最大的問題是，	punct/segment-end
+00:47:37,020	你要不要認定	你要不要認定，	punct/segment-end
+00:47:38,630	那個審查機構	那個審查機構，	punct/segment-end
+00:47:39,810	那個事前	那個事前，	punct/segment-end
+00:47:40,450	違線審查	違憲審查	correction_map/違憲審查
+00:47:40,450	那個事前違憲審查機關	那個事前違憲審查機關，	punct/segment-end
+00:47:42,670	是法院	是法院，	punct/segment-end
+00:47:43,750	它算 judicial review model	它算 judicial review model，	punct/segment-end
+00:47:46,390	這樣的意思	這樣的意思，	punct/segment-end
+00:47:47,930	第四個	第四個，	punct/segment-end
+00:47:48,830	第四個	第四個，	punct/segment-end
+00:47:52,150	它就是看我檢查是由普通法院進行	它就是看我檢查是由普通法院進行，	punct/segment-end
+00:48:00,300	還是集中式的新聞審查	還是集中式的新聞審查，	punct/segment-end
+00:48:04,140	還是像美國一樣	還是像美國一樣，	punct/segment-end
+00:48:05,420	在這個地方你要照它的字面翻	在這個地方你要照它的字面翻，	punct/segment-end
+00:48:08,740	然後你才去用老師的話說	然後你才去用老師的話說，	punct/segment-end
+00:48:10,900	我們是普通法院審查	我們是普通法院審查，	punct/segment-end
+00:48:13,520	還是一個專業特別的憲法法院審查	還是一個專業特別的憲法法院審查，	punct/segment-end
+00:48:17,600	如果是後者	如果是後者，	punct/segment-end
+00:48:20,100	通常只有憲法法院有審查權	通常只有憲法法院有審查權，	punct/segment-end
+00:48:22,430	所以它是極權式的威脅審查	所以它是極權式的威脅審查，	punct/segment-end
+00:48:24,890	然後如果前面	然後如果前面，	punct/segment-end
+00:48:27,030	Ordinary courts一定是很多法院	Ordinary courts 一定是很多法院	spacing/pangu
+00:48:27,030	Ordinary courts 一定是很多法院	Ordinary courts 一定是很多法院，	punct/segment-end
+00:48:29,750	任何法院只要它在個案中都可以審查	任何法院只要它在個案中都可以審查，	punct/segment-end
+00:48:34,160	所以我說這叫分權式的威脅審查	所以我說這叫分權式的威脅審查，	punct/segment-end
+00:48:37,090	但是在臺灣因為很多原因	但是在臺灣因為很多原因，	punct/segment-end
+00:48:39,940	大家不喜歡用分權跟極權	大家不喜歡用分權跟極權，	punct/segment-end
+00:48:42,470	所以大部分就叫分權式的審查	所以大部分就叫分權式的審查，	punct/segment-end
+00:48:44,590	跟集中式的審查	跟集中式的審查，	punct/segment-end
+00:48:46,200	但我認為這個名詞是有問題的	但我認為這個名詞是有問題的，	punct/segment-end
+00:48:50,110	因為它會造成誤會	因為它會造成誤會，	punct/segment-end
+00:48:51,530	你說集權式的審查	你說集權式的審查，	punct/segment-end
+00:48:53,410	你說很多法院都有權	你說很多法院都有權，	punct/segment-end
+00:48:55,130	只不過把它集中到這個法院	只不過把它集中到這個法院，	punct/segment-end
+00:48:56,980	實際叫集中式	實際叫集中式，	punct/segment-end
+00:48:58,410	如果我講集權式	如果我講集權式，	punct/segment-end
+00:49:00,090	那只有這個法院有其他法院是沒有的	那只有這個法院有其他法院是沒有的，	punct/segment-end
+00:49:02,720	這不一樣的	這不一樣的，	punct/segment-end
+00:49:04,520	集權式的審查必然是集中審查	集權式的審查必然是集中審查，	punct/segment-end
+00:49:07,240	集中審查不一定是集權審查	集中審查不一定是集權審查，	punct/segment-end
+00:49:09,800	三個法院都有權	三個法院都有權，	punct/segment-end
+00:49:11,020	我為了抗訊原因把它集中到這個法院	我為了抗訊原因把它集中到這個法院，	punct/segment-end
+00:49:13,320	所以這個名詞我是不同意的	所以這個名詞我是不同意的，	punct/segment-end
+00:49:15,630	那我也不認為集權一定是壞事	那我也不認為集權一定是壞事，	punct/segment-end
+00:49:17,990	中央集權一定是壞事	中央集權一定是壞事，	punct/segment-end
+00:49:20,030	所以我不認為這個是有什麼必要在這裡做文章	所以我不認為這個是有什麼必要在這裡做文章，	punct/segment-end
+00:49:25,460	總之這個是書裡面有講到的就是	總之這個是書裡面有講到的就是，	punct/segment-end
+00:49:28,680	文章叫什麼的分線還在修改	文章叫什麼的分線還在修改，	punct/segment-end
+00:49:31,220	書還沒出來	書還沒出來，	punct/segment-end
+00:49:32,540	好了第二個部分	好了第二個部分，	punct/segment-end
+00:49:33,780	剛剛第一部分講完了	剛剛第一部分講完了，	punct/segment-end
+00:49:35,220	危險審查	違憲審查	correction_map/違憲審查
+00:49:35,220	有關於違憲審查	有關於違憲審查，	punct/segment-end
+00:49:36,980	危險審查	違憲審查	correction_map/違憲審查
+00:49:36,980	我要攻擊的是違憲審查	我要攻擊的是違憲審查，	punct/segment-end
+00:49:39,290	危險審查	違憲審查	correction_map/違憲審查
+00:49:39,290	什麼叫違憲審查	什麼叫違憲審查，	punct/segment-end
+00:49:40,330	大概差不多講完了	大概差不多講完了，	punct/segment-end
+00:49:41,250	它主要是針對的	它主要是針對的，	punct/segment-end
+00:49:42,760	strong的或事後的	strong 的或事後的	spacing/pangu
+00:49:42,760	strong 的或事後的	strong 的或事後的，	punct/segment-end
+00:49:45,440	或是寫在線反法用的	或是寫在線反法用的，	punct/segment-end
+00:49:48,030	所以也是constitutional review的一種	所以也是 constitutional review 的一種	spacing/pangu
+00:49:48,030	所以也是 constitutional review 的一種	所以也是 constitutional review 的一種，	punct/segment-end
+00:49:50,170	然後呢至於說是哪一個法院來審查	然後呢至於說是哪一個法院來審查，	punct/segment-end
+00:49:54,110	他有沒有在意嗎	他有沒有在意嗎，	punct/segment-end
+00:49:55,250	就是沒有講很多	就是沒有講很多，	punct/segment-end
+00:49:59,790	這個部分我們看不出來	這個部分我們看不出來，	punct/segment-end
+00:50:02,150	他好像不太在意	他好像不太在意，	punct/segment-end
+00:50:04,730	他不在意他要批評的是哪一個	他不在意他要批評的是哪一個，	punct/segment-end
+00:50:08,170	換句話說	換句話說，	punct/segment-end
+00:50:09,240	憲法法院也是他批評的對象	憲法法院也是他批評的對象，	punct/segment-end
+00:50:11,800	美國聯邦最高法院也是	美國聯邦最高法院也是，	punct/segment-end
+00:50:13,680	違線審查	違憲審查	correction_map/違憲審查
+00:50:13,680	反正只要是違憲審查就好	反正只要是違憲審查就好，	punct/segment-end
+00:50:16,730	這個第四個他沒有特別在意	這個第四個他沒有特別在意，	punct/segment-end
+00:50:19,010	好來講四個假設	好來講四個假設，	punct/segment-end
+00:50:20,720	現在進行到一天三百五十九夜	現在進行到一天三百五十九夜，	punct/segment-end
+00:50:26,020	這個假設就是	這個假設就是，	punct/segment-end
+00:50:28,830	大家可以看那個	大家可以看那個，	punct/segment-end
+00:50:30,190	附錄	附錄，	punct/segment-end
+00:50:31,320	附錄整理的	附錄整理的，	punct/segment-end
+00:50:32,540	如果直接講的話	如果直接講的話，	punct/segment-end
+00:50:40,350	先講一下他要說什麼	先講一下他要說什麼，	punct/segment-end
+00:50:42,150	他為什麼需要假設	他為什麼需要假設，	punct/segment-end
+00:51:01,920	這兩個不一樣	這兩個不一樣，	punct/segment-end
+00:51:11,590	它為什麼需要設這四個假設的	它為什麼需要設這四個假設的，	punct/segment-end
+00:51:14,980	這句話你要看著	這句話你要看著，	punct/segment-end
+00:51:16,370	你如果看不懂	你如果看不懂，	punct/segment-end
+00:51:17,480	這一段就沒有辦法異解它為什麼要講一句	這一段就沒有辦法異解它為什麼要講一句，	punct/segment-end
+00:51:20,480	這才是你覺得要講的	這才是你覺得要講的，	punct/segment-end
+00:51:22,140	它怎麼那麼奇怪	它怎麼那麼奇怪，	punct/segment-end
+00:51:23,000	是為了論證上面的區分	是為了論證上面的區分，	punct/segment-end
+00:51:27,240	如果是	如果是，	punct/segment-end
+00:51:28,040	你先不要抽象	你先不要抽象，	punct/segment-end
+00:51:29,440	你不要去先講剛才那麼一句抽象的話	你不要去先講剛才那麼一句抽象的話，	punct/segment-end
+00:51:33,560	你就把他這句話講完你就懂了嘛	你就把他這句話講完你就懂了嘛，	punct/segment-end
+00:51:36,520	是嗎	是嗎，	punct/segment-end
+00:51:37,840	他說我主要	他說我主要，	punct/segment-end
+00:51:40,870	因為我區別了the core case	因為我區別了 the core case	spacing/pangu
+00:51:40,870	因為我區別了 the core case	因為我區別了 the core case，	punct/segment-end
+00:51:43,970	和non core case	和 non core case	spacing/pangu
+00:51:43,970	和 non core case	和 non core case，	punct/segment-end
+00:51:45,570	對吧	對吧，	punct/segment-end
+00:51:46,370	我要批評的是核心的	我要批評的是核心的，	punct/segment-end
+00:51:49,040	微線審查	違憲審查	correction_map/違憲審查
+00:51:49,040	違憲審查	違憲審查，	punct/segment-end
+00:51:51,190	核心的	核心的，	punct/segment-end
+00:51:52,030	典型的	典型的，	punct/segment-end
+00:51:53,350	我覺得the core case很難翻的	我覺得 the core case 很難翻的	spacing/pangu
+00:51:53,350	我覺得 the core case 很難翻的	我覺得 the core case 很難翻的，	punct/segment-end
+00:51:55,600	微線審查	違憲審查	correction_map/違憲審查
+00:51:55,600	你把它翻成是典型的違憲審查	你把它翻成是典型的違憲審查，	punct/segment-end
+00:51:57,500	微線審查	違憲審查	correction_map/違憲審查
+00:51:57,500	與非典型的違憲審查	與非典型的違憲審查，	punct/segment-end
+00:51:59,820	微線審查	違憲審查	correction_map/違憲審查
+00:51:59,820	我批評的是典型違憲審查	我批評的是典型違憲審查，	punct/segment-end
+00:52:02,170	那在這樣的情況之下呢	那在這樣的情況之下呢，	punct/segment-end
+00:52:04,540	我一定要講	我一定要講，	punct/segment-end
+00:52:05,360	這個典型的微線情況	這個典型的微線情況，	punct/segment-end
+00:52:07,110	是在什麼樣的假設下	是在什麼樣的假設下，	punct/segment-end
+00:52:12,480	它來運轉	它來運轉，	punct/segment-end
+00:52:13,390	所以我需要講一下這四個假設	所以我需要講一下這四個假設，	punct/segment-end
+00:52:16,080	如果這四個假設不存在	如果這四個假設不存在，	punct/segment-end
+00:52:18,800	危險審查	違憲審查	correction_map/違憲審查
+00:52:18,800	那就不是我講的典型的違憲審查	那就不是我講的典型的違憲審查，	punct/segment-end
+00:52:21,120	那這個時候有可能	那這個時候有可能，	punct/segment-end
+00:52:23,430	危險審查	違憲審查	correction_map/違憲審查
+00:52:23,430	違憲審查也許是好的	違憲審查也許是好的，	punct/segment-end
+00:52:25,510	例外我允許	例外我允許，	punct/segment-end
+00:52:27,560	這樣講有聽懂嗎	這樣講有聽懂嗎，	punct/segment-end
+00:52:30,170	這樣子講完了	這樣子講完了，	punct/segment-end
+00:52:32,570	才你剛才加你剛才結論	才你剛才加你剛才結論，	punct/segment-end
+00:52:34,630	這是為了它行文的需要	這是為了它行文的需要，	punct/segment-end
+00:52:36,310	你不講在你這樣抽象的講	你不講在你這樣抽象的講，	punct/segment-end
+00:52:38,620	你同好非常德國式	你同好非常德國式，	punct/segment-end
+00:52:40,600	那你這樣講	那你這樣講，	punct/segment-end
+00:52:42,240	我們聽不懂你要講什麼	我們聽不懂你要講什麼，	punct/segment-end
+00:52:43,740	你勢必還是要再解釋一遍	你勢必還是要再解釋一遍，	punct/segment-end
+00:52:46,320	為了行文的需要是什麼	為了行文的需要是什麼，	punct/segment-end
+00:52:48,190	所以你就照它的脈絡講完	所以你就照它的脈絡講完，	punct/segment-end
+00:52:50,370	所以你可以說	所以你可以說，	punct/segment-end
+00:52:51,330	可見它是為了行文的需要	可見它是為了行文的需要，	punct/segment-end
+00:52:53,920	行文的需要是作者接近你	行文的需要是作者接近你，	punct/segment-end
+00:52:55,550	每個人我要寫文章	每個人我要寫文章，	punct/segment-end
+00:52:57,340	我要怎麼寫	我要怎麼寫，	punct/segment-end
+00:52:57,920	你能管得到嗎	你能管得到嗎，	punct/segment-end
+00:52:58,740	那我要這麼寫	那我要這麼寫，	punct/segment-end
+00:52:59,840	我有這個考慮	我有這個考慮，	punct/segment-end
+00:53:00,590	但是你要記得	但是你要記得，	punct/segment-end
+00:53:02,460	那現在整個文章	那現在整個文章，	punct/segment-end
+00:53:04,220	是以這四個假設作為前提	是以這四個假設作為前提，	punct/segment-end
+00:53:06,260	批評的	批評的，	punct/segment-end
+00:53:07,370	這四個假設如果不存在	這四個假設如果不存在，	punct/segment-end
+00:53:09,160	它不見得反對為限	它不見得反對為限，	punct/segment-end
+00:53:10,340	它不見得反對為限	它不見得反對為限，	punct/segment-end
+00:53:11,860	這樣子可以了嗎	這樣子可以了嗎，	punct/segment-end
+00:53:13,730	好 先講	好 先講，	punct/segment-end
+00:53:14,660	第一個1361D嗎	第一個 1361D 嗎	spacing/pangu
+00:53:14,660	第一個 1361D 嗎	第一個 1361D 嗎，	punct/segment-end
+00:53:18,580	對差不多	對差不多，	punct/segment-end
+00:53:21,290	好來 趕快就要1361D	好來 趕快就要 1361D	spacing/pangu
+00:53:21,290	好來 趕快就要 1361D	好來 趕快就要 1361D，	punct/segment-end
+00:53:22,850	這樣有ABCD嗎	這樣有 ABCD 嗎	spacing/pangu
+00:53:22,850	這樣有 ABCD 嗎	這樣有 ABCD 嗎，	punct/segment-end
+00:53:23,970	我已經講過了	我已經講過了，	punct/segment-end
+00:53:25,300	他把脈絡抓出來	他把脈絡抓出來，	punct/segment-end
+00:53:26,520	A在1361D	A 在 1361D	spacing/pangu
+00:53:26,520	A 在 1361D	A 在 1361D，	punct/segment-end
+00:53:28,770	B在1363D	B 在 1363D	spacing/pangu
+00:53:28,770	B 在 1363D	B 在 1363D，	punct/segment-end
+00:53:30,890	C在1364D	C 在 1364D	spacing/pangu
+00:53:30,890	C 在 1364D	C 在 1364D，	punct/segment-end
+00:53:33,640	在1366D	在 1366D	spacing/pangu
+00:53:33,640	在 1366D	在 1366D，	punct/segment-end
+00:53:35,420	好了啦	好了啦，	punct/segment-end
+00:53:36,230	頭腳完了	頭腳完了，	punct/segment-end
+00:53:37,390	你看腳腳尾巴	你看腳腳尾巴，	punct/segment-end
+00:53:38,490	那這就結束了	那這就結束了，	punct/segment-end
+00:53:39,550	A是什麼	A 是什麼	spacing/pangu
+00:53:39,550	A 是什麼	A 是什麼，	punct/segment-end
+00:53:40,870	民主的機制	民主的機制，	punct/segment-end
+00:53:46,680	來 民主的機制是什麼意思	來 民主的機制是什麼意思，	punct/segment-end
+00:53:49,020	民主就是有	民主就是有，	punct/segment-end
+00:53:52,870	嗯	嗯，	punct/segment-end
+00:53:53,940	假設	假設，	punct/segment-end
+00:53:55,570	經由選舉	經由選舉，	punct/segment-end
+00:54:11,010	然後產生代表	然後產生代表，	punct/segment-end
+00:54:13,580	然後還有人民	然後還有人民，	punct/segment-end
+00:54:14,900	人民和人民的	人民和人民的，	punct/segment-end
+00:54:16,280	經由選舉產生的人民代表	經由選舉產生的人民代表，	punct/segment-end
+00:54:18,220	他們來制定法律	他們來制定法律，	punct/segment-end
+00:54:19,760	然後來制定公共政策	然後來制定公共政策，	punct/segment-end
+00:54:22,620	那 this society has a broadly democratic political system	那 this society has a broadly democratic political system，	punct/segment-end
+00:54:29,070	我們說這樣的社會呢	我們說這樣的社會呢，	punct/segment-end
+00:54:31,090	就有一個廣義的民主的政治的體系	就有一個廣義的民主的政治的體系，	punct/segment-end
+00:54:39,410	什麼意思	什麼意思，	punct/segment-end
+00:54:39,990	就是有一個大	就是有一個大，	punct/segment-end
+00:54:44,820	什麼意思	什麼意思，	punct/segment-end
+00:54:45,120	universal是全面的	universal 是全面的	spacing/pangu
+00:54:45,120	universal 是全面的	universal 是全面的，	punct/segment-end
+00:54:49,420	成年人普遍的都有投票權	成年人普遍的都有投票權，	punct/segment-end
+00:54:59,180	由人民選出的代表組成的國會	由人民選出的代表組成的國會，	punct/segment-end
+00:55:02,900	有代議式的國會	有代議式的國會，	punct/segment-end
+00:55:11,700	這個legislature的代表是怎麼來的呢	這個 legislature 的代表是怎麼來的呢	spacing/pangu
+00:55:11,700	這個 legislature 的代表是怎麼來的呢	這個 legislature 的代表是怎麼來的呢，	punct/segment-end
+00:55:16,020	立法委員是怎麼來的呢	立法委員是怎麼來的呢，	punct/segment-end
+00:55:18,040	他們是經由公平和經常性的選舉	他們是經由公平和經常性的選舉，	punct/segment-end
+00:55:22,190	我現在講的這幾句話	我現在講的這幾句話，	punct/segment-end
+00:55:26,640	他也許不像大陸反系人講那麼清楚	他也許不像大陸反系人講那麼清楚，	punct/segment-end
+00:55:30,890	但是你可以反過來講	但是你可以反過來講，	punct/segment-end
+00:55:33,020	這是他對於所謂的民主機制的定義	這是他對於所謂的民主機制的定義，	punct/segment-end
+00:55:36,550	我們的決策是透過民主的程序完成	我們的決策是透過民主的程序完成，	punct/segment-end
+00:55:40,650	而這些民主的機關	而這些民主的機關，	punct/segment-end
+00:55:43,510	他們的代表是人民有普遍的選舉	他們的代表是人民有普遍的選舉，	punct/segment-end
+00:55:47,800	每個人都有成年人	每個人都有成年人，	punct/segment-end
+00:55:48,980	每個人都有選舉權	每個人都有選舉權，	punct/segment-end
+00:55:50,060	然後定期的選舉	然後定期的選舉，	punct/segment-end
+00:55:52,100	然後公平的選舉所產生	然後公平的選舉所產生，	punct/segment-end
+00:55:54,510	這樣才叫做Democratic Institutions	這樣才叫做 Democratic Institutions	spacing/pangu
+00:55:54,510	這樣才叫做 Democratic Institutions	這樣才叫做 Democratic Institutions，	punct/segment-end
+00:55:57,660	然後除此之外呢	然後除此之外呢，	punct/segment-end
+00:56:00,160	還會有牽涉到立法程序	還會有牽涉到立法程序，	punct/segment-end
+00:56:01,840	下面你看在下一句	下面你看在下一句，	punct/segment-end
+00:56:03,480	述46的那一句	述 46 的那一句	spacing/pangu
+00:56:03,480	述 46 的那一句	述 46 的那一句，	punct/segment-end
+00:56:09,940	立法者就公共議題來進行辯論來進行投票	立法者就公共議題來進行辯論來進行投票，	punct/segment-end
+00:56:20,260	還有立法程序	還有立法程序，	punct/segment-end
+00:56:21,940	這裡就會用大部分反系的話	這裡就會用大部分反系的話，	punct/segment-end
+00:56:24,050	為什麼我們要強調正當立法程序	為什麼我們要強調正當立法程序，	punct/segment-end
+00:56:27,500	那如果沒有正當立法程序	那如果沒有正當立法程序，	punct/segment-end
+00:56:29,930	那就沒有經過適當的討論辯論和投票	那就沒有經過適當的討論辯論和投票，	punct/segment-end
+00:56:37,460	而且還要注意一下這句	而且還要注意一下這句，	punct/segment-end
+00:56:39,460	這句就一般人寫不出來了	這句就一般人寫不出來了，	punct/segment-end
+00:56:40,880	他說你要說它是個民主的機制	他說你要說它是個民主的機制，	punct/segment-end
+00:56:44,130	這個民主的機制本身還要蘊含著各種各樣的防衛措施	這個民主的機制本身還要蘊含著各種各樣的防衛措施，	punct/segment-end
+00:56:54,100	兩院制	兩院制，	punct/segment-end
+00:56:55,120	有醫院發封了	有醫院發封了，	punct/segment-end
+00:56:56,730	還有另外一個醫院可以check	還有另外一個醫院可以 check	spacing/pangu
+00:56:56,730	還有另外一個醫院可以 check	還有另外一個醫院可以 check，	punct/segment-end
+00:56:58,150	兩院是互相制衡	兩院是互相制衡，	punct/segment-end
+00:57:04,240	在各個委員會當中	在各個委員會當中，	punct/segment-end
+00:57:06,580	他們進行強有力的審查	他們進行強有力的審查，	punct/segment-end
+00:57:08,630	委員會不能虛掉	委員會不能虛掉，	punct/segment-end
+00:57:10,720	還要有委員會	還要有委員會，	punct/segment-end
+00:57:14,750	而且討論還要經過很多次	而且討論還要經過很多次，	punct/segment-end
+00:57:18,850	所以都不是單一的表決	所以都不是單一的表決，	punct/segment-end
+00:57:20,760	有一次表決就瘋了	有一次表決就瘋了，	punct/segment-end
+00:57:22,620	不可能三四次四次表決都瘋了	不可能三四次四次表決都瘋了，	punct/segment-end
+00:57:26,180	你就用我的白話講	你就用我的白話講，	punct/segment-end
+00:57:29,880	要不要採用兩院字	要不要採用兩院字，	punct/segment-end
+00:57:31,580	那兩院字在審議的過程中	那兩院字在審議的過程中，	punct/segment-end
+00:57:34,400	有沒有委員會	有沒有委員會，	punct/segment-end
+00:57:35,280	以及我們有沒有三讀程序	以及我們有沒有三讀程序，	punct/segment-end
+00:57:37,980	我們大陸法新發獎	我們大陸法新發獎，	punct/segment-end
+00:57:39,540	這些都是賬的機制	這些都是賬的機制，	punct/segment-end
+00:57:42,180	不然你說我們有投票	不然你說我們有投票，	punct/segment-end
+00:57:45,230	這些人是我們選的	這些人是我們選的，	punct/segment-end
+00:57:47,290	這樣就講完了嗎	這樣就講完了嗎，	punct/segment-end
+00:57:48,610	你看它的論證	你看它的論證，	punct/segment-end
+00:57:50,740	你要在這種地方去學習看	你要在這種地方去學習看，	punct/segment-end
+00:57:53,750	美國人或者是British的這種系統	美國人或者是 British 的這種系統	spacing/pangu
+00:57:53,750	美國人或者是 British 的這種系統	美國人或者是 British 的這種系統，	punct/segment-end
+00:57:59,470	Angler Saxons系統下面的人	Angler Saxons 系統下面的人	spacing/pangu
+00:57:59,470	Angler Saxons 系統下面的人	Angler Saxons 系統下面的人，	punct/segment-end
+00:58:01,470	他們想事情解事情的方法	他們想事情解事情的方法，	punct/segment-end
+00:58:03,670	它是用你最容易講的先講	它是用你最容易講的先講，	punct/segment-end
+00:58:05,680	然後再一層層加上去	然後再一層層加上去，	punct/segment-end
+00:58:07,550	再一層層加上去	再一層層加上去，	punct/segment-end
+00:58:09,010	這跟大陸法系不同	這跟大陸法系不同，	punct/segment-end
+00:58:10,560	我認為民主程序由下列三變	我認為民主程序由下列三變，	punct/segment-end
+00:58:13,610	按一二三這樣的行為	按一二三這樣的行為，	punct/segment-end
+00:58:16,320	所以他們的思維不是這樣的思維	所以他們的思維不是這樣的思維，	punct/segment-end
+00:58:19,260	它是一層層加上去	它是一層層加上去，	punct/segment-end
+00:58:20,780	加上去好像乎土一樣	加上去好像乎土一樣，	punct/segment-end
+00:58:22,900	胖了三遍	胖了三遍，	punct/segment-end
+00:58:23,740	這個腹就扎死	這個腹就扎死，	punct/segment-end
+00:58:24,800	我先講底座	我先講底座，	punct/segment-end
+00:58:26,370	然後我再加一層	然後我再加一層，	punct/segment-end
+00:58:27,840	我再加一層	我再加一層，	punct/segment-end
+00:58:28,840	胖死上去	胖死上去，	punct/segment-end
+00:58:30,280	這樣有聽懂嗎	這樣有聽懂嗎，	punct/segment-end
+00:58:32,490	那再往下	那再往下，	punct/segment-end
+00:58:36,650	有關於代議是立法委員	有關於代議是立法委員，	punct/segment-end
+00:58:39,440	他們是怎麼思考他們自己的	他們是怎麼思考他們自己的，	punct/segment-end
+00:58:41,820	這句話在一般的人也不會寫	這句話在一般的人也不會寫，	punct/segment-end
+00:58:44,760	他說有時候把他們當成是	他說有時候把他們當成是，	punct/segment-end
+00:58:47,370	他們會去思考	他們會去思考，	punct/segment-end
+00:58:49,890	思考什麼	思考什麼，	punct/segment-end
+00:58:52,570	當成是代議代表	當成是代議代表，	punct/segment-end
+00:58:56,120	代表什麼叫代表	代表什麼叫代表，	punct/segment-end
+00:58:58,130	他去思考他們選民的利益跟意見	他去思考他們選民的利益跟意見，	punct/segment-end
+00:59:01,560	他投票的時候投下去想	他投票的時候投下去想，	punct/segment-end
+00:59:05,410	我是淡水區選出來的利益	我是淡水區選出來的利益，	punct/segment-end
+00:59:07,610	我這樣投下去	我這樣投下去，	punct/segment-end
+00:59:09,020	我反對淡水該打球	我反對淡水該打球，	punct/segment-end
+00:59:10,440	大概我不能打球	大概我不能打球，	punct/segment-end
+00:59:12,420	還有時是這樣	還有時是這樣，	punct/segment-end
+00:59:14,100	然後你注意看在下一句	然後你注意看在下一句，	punct/segment-end
+00:59:16,200	Sometimes有時候	Sometimes 有時候	spacing/pangu
+00:59:16,200	Sometimes 有時候	Sometimes 有時候，	punct/segment-end
+00:59:18,720	他是把整個社會來做考慮的	他是把整個社會來做考慮的，	punct/segment-end
+00:59:22,110	是不是我講的一層一層	是不是我講的一層一層，	punct/segment-end
+00:59:24,750	湯上去的	湯上去的，	punct/segment-end
+00:59:25,900	這就是寫作方法	這就是寫作方法，	punct/segment-end
+00:59:28,220	這裡用我們大陸法系的話講	這裡用我們大陸法系的話講，	punct/segment-end
+00:59:31,320	就是民意代表他考慮的利益	就是民意代表他考慮的利益，	punct/segment-end
+00:59:35,560	一方面是選區的利益	一方面是選區的利益，	punct/segment-end
+00:59:37,980	一方面是社會整體或國家整體的	一方面是社會整體或國家整體的，	punct/segment-end
+00:59:40,890	用我們的話講呢	用我們的話講呢，	punct/segment-end
+00:59:42,850	它是法定代表	它是法定代表，	punct/segment-end
+00:59:44,310	它不是單純的委任代表	它不是單純的委任代表，	punct/segment-end
+00:59:47,200	它不是要照原選區選民的意思	它不是要照原選區選民的意思，	punct/segment-end
+00:59:50,320	一定要照原選區選民的意思	一定要照原選區選民的意思，	punct/segment-end
+00:59:52,580	它不是	它不是，	punct/segment-end
+00:59:53,950	簡單的用我的話講是這樣子	簡單的用我的話講是這樣子，	punct/segment-end
+00:59:56,540	還有最後它一點	還有最後它一點，	punct/segment-end
+00:59:58,030	它說我也假設這裡面有政黨	它說我也假設這裡面有政黨，	punct/segment-end
+01:00:00,880	還有政黨屬性	還有政黨屬性，	punct/segment-end
+01:00:02,460	政黨歸屬的問題	政黨歸屬的問題，	punct/segment-end
+01:00:05,410	就是你隸屬於政黨	就是你隸屬於政黨，	punct/segment-end
+01:00:06,970	所以小鷹下個命令	所以小鷹下個命令，	punct/segment-end
+01:00:09,370	綠色的都會集結起來	綠色的都會集結起來，	punct/segment-end
+01:00:11,450	我是說立法委員就是政黨	我是說立法委員就是政黨，	punct/segment-end
+01:00:14,690	他還要假定在這個民主機制裡面也有政黨	他還要假定在這個民主機制裡面也有政黨，	punct/segment-end
+01:00:19,410	然後委員會有政黨立數	然後委員會有政黨立數，	punct/segment-end
+01:00:21,930	這些都是我們要考慮的	這些都是我們要考慮的，	punct/segment-end
+01:00:23,950	這是我的假定	這是我的假定，	punct/segment-end
+01:00:24,950	我說這是一個民主機制	我說這是一個民主機制，	punct/segment-end
+01:00:27,170	講到這裡	講到這裡，	punct/segment-end
+01:00:28,640	我覺得一般人大體上應該是講完	我覺得一般人大體上應該是講完，	punct/segment-end
+01:00:31,810	但是好像作者比較還有強調一些其他的東西	但是好像作者比較還有強調一些其他的東西，	punct/segment-end
+01:00:37,960	比方說1362頁	比方說 1362 頁	spacing/pangu
+01:00:37,960	比方說 1362 頁	比方說 1362 頁，	punct/segment-end
+01:00:40,820	361頁的底下	361 頁的底下	spacing/pangu
+01:00:40,820	361 頁的底下	361 頁的底下，	punct/segment-end
+01:00:45,670	他有一個	他有一個，	punct/segment-end
+01:00:46,490	他有好幾個value	他有好幾個 value	spacing/pangu
+01:00:46,490	他有好幾個 value	他有好幾個 value，	punct/segment-end
+01:00:49,060	這裡為止,它好像比它強調的是一種民主的文化	這裡為止，它好像比它強調的是一種民主的文化	punct/width
+01:00:49,060	這裡為止，它好像比它強調的是一種民主的文化	這裡為止，它好像比它強調的是一種民主的文化，	punct/segment-end
+01:01:09,420	這種民主的文化是非常看重負責任的自變以及政治上的平等	這種民主的文化是非常看重負責任的自變以及政治上的平等，	punct/segment-end
+01:01:21,540	然後呢,下面馬上就1361跳到1362轉過來	然後呢，下面馬上就1361跳到1362轉過來	punct/width
+01:01:21,540	然後呢，下面馬上就1361跳到1362轉過來	然後呢，下面馬上就 1361 跳到 1362 轉過來	spacing/pangu
+01:01:21,540	然後呢，下面馬上就 1361 跳到 1362 轉過來	然後呢，下面馬上就 1361 跳到 1362 轉過來，	punct/segment-end
+01:01:27,460	第二個這種價值就是政治上的平等	第二個這種價值就是政治上的平等，	punct/segment-end
+01:01:34,930	大概是,它要講的是這樣	大概是，它要講的是這樣	punct/width
+01:01:34,930	大概是，它要講的是這樣	大概是，它要講的是這樣，	punct/segment-end
+01:01:39,020	那下面他就會牽涉到別的東西	那下面他就會牽涉到別的東西，	punct/segment-end
+01:01:41,720	我們就先付了	我們就先付了，	punct/segment-end
+01:01:42,500	以上第361到362	以上第 361 到 362	spacing/pangu
+01:01:42,500	以上第 361 到 362	以上第 361 到 362，	punct/segment-end
+01:01:46,420	第一種價值講完了	第一種價值講完了，	punct/segment-end
+01:01:47,600	也就是說	也就是說，	punct/segment-end
+01:01:49,600	他先從制度的最根本講解	他先從制度的最根本講解，	punct/segment-end
+01:01:51,910	我們的一層層價格	我們的一層層價格，	punct/segment-end
+01:01:53,430	價格完你們到底挖到了興趣	價格完你們到底挖到了興趣，	punct/segment-end
+01:01:55,410	我現在之所以講解	我現在之所以講解，	punct/segment-end
+01:01:56,950	他們會運行價值	他們會運行價值，	punct/segment-end
+01:01:58,880	運行民主的價值	運行民主的價值，	punct/segment-end
+01:02:00,540	第一種是deliberation的價值	第一種是 deliberation 的價值	spacing/pangu
+01:02:00,540	第一種是 deliberation 的價值	第一種是 deliberation 的價值，	punct/segment-end
+01:02:03,060	第二種是equality的價值	第二種是 equality 的價值	spacing/pangu
+01:02:03,060	第二種是 equality 的價值	第二種是 equality 的價值，	punct/segment-end
+01:02:05,360	你認為如果民主沒有deliberation	你認為如果民主沒有 deliberation	spacing/pangu
+01:02:05,360	你認為如果民主沒有 deliberation	你認為如果民主沒有 deliberation，	punct/segment-end
+01:02:08,800	這叫什麼民主	這叫什麼民主，	punct/segment-end
+01:02:09,720	是臺灣現在的問題	是臺灣現在的問題，	punct/segment-end
+01:02:12,330	我們有民主的形式	我們有民主的形式，	punct/segment-end
+01:02:14,310	我們有民主的內核	我們有民主的內核，	punct/segment-end
+01:02:16,400	Equality臺灣是有的	Equality 臺灣是有的	spacing/pangu
+01:02:16,400	Equality 臺灣是有的	Equality 臺灣是有的，	punct/segment-end
+01:02:19,030	基本上一人一票	基本上一人一票，	punct/segment-end
+01:02:20,660	然後選舉的制度	然後選舉的制度，	punct/segment-end
+01:02:22,160	兼有區域代表	兼有區域代表，	punct/segment-end
+01:02:23,710	也兼有別力代表	也兼有別力代表，	punct/segment-end
+01:02:24,950	所以我們的Equality	所以我們的 Equality	spacing/pangu
+01:02:24,950	所以我們的 Equality	所以我們的 Equality，	punct/segment-end
+01:02:25,980	應該還可以	應該還可以，	punct/segment-end
+01:02:26,940	但是我們現在的問題	但是我們現在的問題，	punct/segment-end
+01:02:28,420	可能是Deliberation	可能是 Deliberation	spacing/pangu
+01:02:28,420	可能是 Deliberation	可能是 Deliberation，	punct/segment-end
+01:02:29,540	但是這個Deliberation	但是這個 Deliberation	spacing/pangu
+01:02:29,540	但是這個 Deliberation	但是這個 Deliberation，	punct/segment-end
+01:02:31,360	得慢慢來	得慢慢來，	punct/segment-end
+01:02:32,060	如果我們選舉的時候	如果我們選舉的時候，	punct/segment-end
+01:02:33,790	大家都要順起來	大家都要順起來，	punct/segment-end
+01:02:35,030	羊油很舒服	羊油很舒服，	punct/segment-end
+01:02:36,370	不要去討論政策	不要去討論政策，	punct/segment-end
+01:02:37,730	那就沒有Deliberation	那就沒有 Deliberation	spacing/pangu
+01:02:37,730	那就沒有 Deliberation	那就沒有 Deliberation，	punct/segment-end
+01:02:39,180	我有講什麼不對	我有講什麼不對，	punct/segment-end
+01:02:41,660	那為什麼他要強調Deliberation	那為什麼他要強調 Deliberation	spacing/pangu
+01:02:41,660	那為什麼他要強調 Deliberation	那為什麼他要強調 Deliberation，	punct/segment-end
+01:02:44,380	他也承認民主有缺點	他也承認民主有缺點，	punct/segment-end
+01:02:46,900	不是藍藍	不是藍藍，	punct/segment-end
+01:02:48,010	但是他也要告訴你終極的理想是要有deliberation	但是他也要告訴你終極的理想是要有 deliberation	spacing/pangu
+01:02:48,010	但是他也要告訴你終極的理想是要有 deliberation	但是他也要告訴你終極的理想是要有 deliberation，	punct/segment-end
+01:02:53,060	要有思辨 要有討論	要有思辨 要有討論，	punct/segment-end
+01:02:54,880	要對公共政治議題本身要進行討論	要對公共政治議題本身要進行討論，	punct/segment-end
+01:02:58,350	所以你可以說蔣茫安吉的這個什麼切劍機長	所以你可以說蔣茫安吉的這個什麼切劍機長，	punct/segment-end
+01:03:03,110	方便讓你去講他為什麼	方便讓你去講他為什麼，	punct/segment-end
+01:03:06,080	但是這個不討論這個就沒有deliberation	但是這個不討論這個就沒有 deliberation	spacing/pangu
+01:03:06,080	但是這個不討論這個就沒有 deliberation	但是這個不討論這個就沒有 deliberation，	punct/segment-end
+01:03:09,780	這是我要講的意思	這是我要講的意思，	punct/segment-end
+01:03:11,520	好了 到這裡所謂的democratic institution	好了 到這裡所謂的 democratic institution	spacing/pangu
+01:03:11,520	好了 到這裡所謂的 democratic institution	好了 到這裡所謂的 democratic institution，	punct/segment-end
+01:03:15,570	他講完了 很複雜 沒有那麼簡單	他講完了 很複雜 沒有那麼簡單，	punct/segment-end
+01:03:18,250	好 現在講第二個節目	好 現在講第二個節目，	punct/segment-end
+01:03:20,470	危險審查	違憲審查	correction_map/違憲審查
+01:03:20,470	他現在講,在這個前提之下,我來接近違憲審查	他現在講，在這個前提之下，我來接近違憲審查	punct/width
+01:03:20,470	他現在講，在這個前提之下，我來接近違憲審查	他現在講，在這個前提之下，我來接近違憲審查，	punct/segment-end
+01:03:24,190	因為我們民主是正常運作	因為我們民主是正常運作，	punct/segment-end
+01:03:26,550	危險審查	違憲審查	correction_map/違憲審查
+01:03:26,550	所以我當然覺得沒有理由交給違憲審查來做最終局的解釋	所以我當然覺得沒有理由交給違憲審查來做最終局的解釋，	punct/segment-end
+01:03:30,340	第二個假設	第二個假設，	punct/segment-end
+01:03:31,650	好,司法的見識或者司法的機關	好，司法的見識或者司法的機關	punct/width
+01:03:31,650	好，司法的見識或者司法的機關	好，司法的見識或者司法的機關，	punct/segment-end
+01:03:38,990	來	來，	punct/segment-end
+01:04:26,360	就是這個意思	就是這個意思，	punct/segment-end
+01:04:27,860	然後這裡面比較有問題的是	然後這裡面比較有問題的是，	punct/segment-end
+01:04:31,790	司法和其他的名義機關有什麼不同	司法和其他的名義機關有什麼不同，	punct/segment-end
+01:04:35,530	他說the courts are mostly not elective or representative insti	他說 the courts are mostly not elective or representative inst	spacing/pangu
+01:04:35,530	他說 the courts are mostly not elective or representative inst	他說 the courts are mostly not elective or representative inst	punct/segment-end
+01:04:41,840	絕大多數的情況下	絕大多數的情況下，	punct/segment-end
+01:04:44,110	法院不是選舉的也不是代議的機關	法院不是選舉的也不是代議的機關，	punct/segment-end
+01:04:46,810	不是代表名義	不是代表名義，	punct/segment-end
+01:04:48,570	不是名義代表的機關	不是名義代表的機關，	punct/segment-end
+01:04:49,970	他做他的事情	他做他的事情，	punct/segment-end
+01:04:51,670	就算是某些州	就算是某些州，	punct/segment-end
+01:04:53,270	可是在美國有少數有一些州	可是在美國有少數有一些州，	punct/segment-end
+01:04:55,290	他是用選的	他是用選的，	punct/segment-end
+01:04:56,350	即便是這樣子	即便是這樣子，	punct/segment-end
+01:04:57,970	他們也沒有所謂的	他們也沒有所謂的，	punct/segment-end
+01:05:00,090	再往下看四行	再往下看四行，	punct/segment-end
+01:05:03,430	沒有所謂的選舉負責禁	沒有所謂的選舉負責禁，	punct/segment-end
+01:05:07,060	因為我們這邊的話講就是	因為我們這邊的話講就是，	punct/segment-end
+01:05:08,890	負政治責任	負政治責任，	punct/segment-end
+01:05:10,470	所以你做了一個判決	所以你做了一個判決，	punct/segment-end
+01:05:12,670	我不滿意	我不滿意，	punct/segment-end
+01:05:13,390	所以我向你罷免	所以我向你罷免，	punct/segment-end
+01:05:14,290	我幫你罷免	我幫你罷免，	punct/segment-end
+01:05:15,010	這個意思嗎	這個意思嗎，	punct/segment-end
+01:05:16,210	可以	可以，	punct/segment-end
+01:05:16,760	這個不像立法者	這個不像立法者，	punct/segment-end
+01:05:18,510	立法者我們剛剛去年經過了大罷免	立法者我們剛剛去年經過了大罷免，	punct/segment-end
+01:05:21,600	我們現在不管這個偉大的柯總招	我們現在不管這個偉大的柯總招，	punct/segment-end
+01:05:25,190	那是什麼想法	那是什麼想法，	punct/segment-end
+01:05:26,330	我們是講正常的情況	我們是講正常的情況，	punct/segment-end
+01:05:28,090	是說因為你做不好	是說因為你做不好，	punct/segment-end
+01:05:30,070	所以我要罷免你	所以我要罷免你，	punct/segment-end
+01:05:31,070	我要你負政治責任	我要你負政治責任，	punct/segment-end
+01:05:33,120	我現在使用的負責手段就是罷免	我現在使用的負責手段就是罷免，	punct/segment-end
+01:05:36,320	這是Political Accountability的解釋	這是 Political Accountability 的解釋	spacing/pangu
+01:05:36,320	這是 Political Accountability 的解釋	這是 Political Accountability 的解釋，	punct/segment-end
+01:05:39,870	我們為什麼要罷免	我們為什麼要罷免，	punct/segment-end
+01:05:42,360	就是要讓客與他政治責任	就是要讓客與他政治責任，	punct/segment-end
+01:05:45,110	在政治上他必須向我負責	在政治上他必須向我負責，	punct/segment-end
+01:05:47,480	可是你很難想象	可是你很難想象，	punct/segment-end
+01:05:49,050	法官可以因為判決做不好被罷免	法官可以因為判決做不好被罷免，	punct/segment-end
+01:05:51,950	就算他是選的	就算他是選的，	punct/segment-end
+01:05:53,470	他也不是負政治責任	他也不是負政治責任，	punct/segment-end
+01:05:55,130	這是他要講的	這是他要講的，	punct/segment-end
+01:05:58,610	請繼續	請繼續，	punct/segment-end
+01:06:01,630	危險審查	違憲審查	correction_map/違憲審查
+01:06:01,630	對,很多人都認為我們司法機關來從事違憲審查	對，很多人都認為我們司法機關來從事違憲審查	punct/width
+01:06:01,630	對，很多人都認為我們司法機關來從事違憲審查	對，很多人都認為我們司法機關來從事違憲審查，	punct/segment-end
+01:06:07,550	因為司法機關是獨立的,很好	因為司法機關是獨立的，很好	punct/width
+01:06:07,550	因為司法機關是獨立的，很好	因為司法機關是獨立的，很好，	punct/segment-end
+01:06:22,820	好,很好,這句話就是大家講的意思	好，很好，這句話就是大家講的意思	punct/width
+01:06:22,820	好，很好，這句話就是大家講的意思	好，很好，這句話就是大家講的意思，	punct/segment-end
+01:06:24,840	來,為什麼我們特別贊成	來，為什麼我們特別贊成	punct/width
+01:06:24,840	來，為什麼我們特別贊成	來，為什麼我們特別贊成，	punct/segment-end
+01:06:27,190	很多人特別贊成由司法來進行審查	很多人特別贊成由司法來進行審查，	punct/segment-end
+01:06:29,990	因為法院呢	因為法院呢，	punct/segment-end
+01:06:33,290	不受民意干擾	不受民意幹擾	opencc/s2tw
+01:06:33,290	不受民意幹擾	不受民意幹擾，	punct/segment-end
+01:06:35,700	對	對，	punct/segment-end
+01:06:36,100	這是一個	這是一個，	punct/segment-end
+01:06:37,240	沒有證據壓力	沒有證據壓力，	punct/segment-end
+01:06:39,060	然後還有一個據你沒講	然後還有一個據你沒講，	punct/segment-end
+01:06:43,240	就原則問題來進行辯論	就原則問題來進行辯論，	punct/segment-end
+01:06:46,250	覺得法官是不是就原則問題進行辯論	覺得法官是不是就原則問題進行辯論，	punct/segment-end
+01:06:50,070	這樣子可以了嗎	這樣子可以了嗎，	punct/segment-end
+01:07:19,330	他不反對審查,但是重點是,你可不可以審查完了,你就做成最終的決定,既有拘束力,而且還可以把法律宣告不效。	他不反對審查，但是重點是，你可不可以審查完了，你就做成最終的決定，既有拘束力，而且還可以把法律宣告不效。	punct/width
+01:07:33,110	這是他質疑的,我沒有說你不能審查,所以他不反對weak,他反對strong judicial review.	這是他質疑的，我沒有說你不能審查，所以他不反對weak,他反對strong judicial review.	punct/width
+01:07:33,110	這是他質疑的，我沒有說你不能審查，所以他不反對weak,他反對strong judicial review.	這是他質疑的，我沒有說你不能審查，所以他不反對 weak,他反對 strong judicial review.	spacing/pangu
+01:07:40,700	然後小柱49下一句	然後小柱 49 下一句	spacing/pangu
+01:07:40,700	然後小柱 49 下一句	然後小柱 49 下一句，	punct/segment-end
+01:07:44,460	我們面對的這種法院	我們面對的這種法院，	punct/segment-end
+01:07:53,630	這種法院是一二三	這種法院是一二三，	punct/segment-end
+01:07:55,670	這句話什麼意思	這句話什麼意思，	punct/segment-end
+01:08:03,650	我們講的法院不是指	我們講的法院不是指，	punct/segment-end
+01:08:06,200	什麼叫做act on their own motion	什麼叫做 act on their own motion	spacing/pangu
+01:08:06,200	什麼叫做 act on their own motion	什麼叫做 act on their own motion，	punct/segment-end
+01:08:11,030	這句話不太不難懂	這句話不太不難懂，	punct/segment-end
+01:08:13,030	這句話是什麼意思	這句話是什麼意思，	punct/segment-end
+01:08:14,390	所有人都可以回答	所有人都可以回答，	punct/segment-end
+01:08:17,740	這個法院不是他想要怎麼樣	這個法院不是他想要怎麼樣，	punct/segment-end
+01:08:22,430	他就可以怎麼樣	他就可以怎麼樣，	punct/segment-end
+01:08:23,290	意思是說這個法院	意思是說這個法院，	punct/segment-end
+01:08:24,770	是要應人民的申請	是要應人民的申請，	punct/segment-end
+01:08:26,710	或者他是被動的	或者他是被動的，	punct/segment-end
+01:08:29,190	簡單講就是被動	簡單講就是被動，	punct/segment-end
+01:08:30,230	他不是主動	他不是主動，	punct/segment-end
+01:08:33,910	他不可以主動	他不可以主動，	punct/segment-end
+01:08:35,000	你們覺得法院可以主動嗎	你們覺得法院可以主動嗎，	punct/segment-end
+01:08:37,220	我入屆不平拔刀相處	我入屆不平拔刀相處，	punct/segment-end
+01:08:39,280	老子愛拔刀我就拔刀	老子愛拔刀我就拔刀，	punct/segment-end
+01:08:41,040	沒有人來申請	沒有人來申請，	punct/segment-end
+01:08:42,440	也沒有人來告訴我可以拔刀	也沒有人來告訴我可以拔刀，	punct/segment-end
+01:08:43,980	他不是指這種法院	他不是指這種法院，	punct/segment-end
+01:08:46,260	然後第二個就比較難講了	然後第二個就比較難講了，	punct/segment-end
+01:08:50,440	這個我就不知道該怎麼回答	這個我就不知道該怎麼回答，	punct/segment-end
+01:08:52,870	因為我剛才講過了	因為我剛才講過了，	punct/segment-end
+01:08:54,570	他這個文章最大的漏洞	他這個文章最大的漏洞，	punct/segment-end
+01:08:55,990	是他忘記了大陸法系的法院	是他忘記了大陸法系的法院，	punct/segment-end
+01:08:58,350	違線審查	違憲審查	correction_map/違憲審查
+01:08:58,350	是有抽象違憲審查	是有抽象違憲審查，	punct/segment-end
+01:09:00,450	我可以比方說某些國家的法院	我可以比方說某些國家的法院，	punct/segment-end
+01:09:04,450	他們甚至於可以因應政府的請求	他們甚至於可以因應政府的請求，	punct/segment-end
+01:09:09,390	就某個問題提供諮詢意見	就某個問題提供諮詢意見，	punct/segment-end
+01:09:12,090	我們如果要這樣做	我們如果要這樣做，	punct/segment-end
+01:09:13,980	會不會違線的	會不會違線的，	punct/segment-end
+01:09:14,780	你可以來問一問	你可以來問一問，	punct/segment-end
+01:09:16,020	這是abstract reference	這是 abstract reference	spacing/pangu
+01:09:16,020	這是 abstract reference	這是 abstract reference，	punct/segment-end
+01:09:18,540	五月的個案	五月的個案，	punct/segment-end
+01:09:20,280	所以它是抽象的	所以它是抽象的，	punct/segment-end
+01:09:21,690	Reference就是送來給我那麼久	Reference 就是送來給我那麼久	spacing/pangu
+01:09:21,690	Reference 就是送來給我那麼久	Reference 就是送來給我那麼久，	punct/segment-end
+01:09:24,360	你有申請抽象申請	你有申請抽象申請，	punct/segment-end
+01:09:26,750	用白話講可能是比較相似的	用白話講可能是比較相似的，	punct/segment-end
+01:09:29,320	好了不是指這個法院	好了不是指這個法院，	punct/segment-end
+01:09:31,730	那現在在這裡我就不懂	那現在在這裡我就不懂，	punct/segment-end
+01:09:33,430	它也會包含德國的法院	它也會包含德國的法院，	punct/segment-end
+01:09:35,270	德國的法院抽象審查	德國的法院抽象審查，	punct/segment-end
+01:09:37,530	它們這邊都沒有講到抽象審查	它們這邊都沒有講到抽象審查，	punct/segment-end
+01:09:39,870	它是不在了法院	它是不在了法院，	punct/segment-end
+01:09:40,950	好第二點	好第二點，	punct/segment-end
+01:09:42,090	老師他這邊講是不是	老師他這邊講是不是，	punct/segment-end
+01:09:43,730	不是做憲法審查的法院	不是做憲法審查的法院，	punct/segment-end
+01:09:46,650	你先不管	你先不管，	punct/segment-end
+01:09:48,880	等一下再讓他講	等一下再讓他講，	punct/segment-end
+01:09:50,000	第二點是什麼	第二點是什麼，	punct/segment-end
+01:09:51,280	他說我們現在處理的	他說我們現在處理的，	punct/segment-end
+01:09:53,360	我們現在講的法院	我們現在講的法院，	punct/segment-end
+01:09:54,580	我所謂的法院	我所謂的法院，	punct/segment-end
+01:09:55,780	一,不是那種法院	一，不是那種法院	punct/width
+01:09:55,780	一，不是那種法院	一，不是那種法院，	punct/segment-end
+01:09:57,260	二, deal with issues in the context of binary adversarial pre	二，deal with issues in the context of binary adversarial pres	punct/width
+01:09:57,260	二，deal with issues in the context of binary adversarial pres	二，deal with issues in the context of binary adversarial pres	punct/segment-end
+01:10:07,680	好,這句話什麼意思	好，這句話什麼意思	punct/width
+01:10:07,680	好，這句話什麼意思	好，這句話什麼意思，	punct/segment-end
+01:10:08,760	兩兆的並且是徵送式的	兩兆的並且是徵送式的，	punct/segment-end
+01:10:12,130	他們是在兩兆徵送式的環境裡面的	他們是在兩兆徵送式的環境裡面的，	punct/segment-end
+01:10:18,030	這是個典型的訴說	這是個典型的訴說，	punct/segment-end
+01:10:20,590	第三	第三，	punct/segment-end
+01:10:22,330	就是什麼意思	就是什麼意思，	punct/segment-end
+01:10:33,240	會有受到就是之前相關聯的案件	會有受到就是之前相關聯的案件，	punct/segment-end
+01:10:40,180	就是講先例	就是講先例，	punct/segment-end
+01:10:42,350	他會討論我們這個案子	他會討論我們這個案子，	punct/segment-end
+01:10:46,150	跟我們已經的判決分裂	跟我們已經的判決分裂，	punct/segment-end
+01:10:48,480	是一樣的還是不一樣的	是一樣的還是不一樣的，	punct/segment-end
+01:10:50,590	我現在講這個人	我現在講這個人，	punct/segment-end
+01:10:53,650	因為他是美國人	因為他是美國人，	punct/segment-end
+01:10:55,030	他是講英文法系的	他是講英文法系的，	punct/segment-end
+01:10:57,150	正在大陸法性這件事情	正在大陸法性這件事情，	punct/segment-end
+01:11:00,060	我至少我的理解沒有那麼 popular	我至少我的理解沒有那麼 popular，	punct/segment-end
+01:11:04,400	我是討論的	我是討論的，	punct/segment-end
+01:11:05,820	我認為法官作為最高級的法院	我認為法官作為最高級的法院，	punct/segment-end
+01:11:08,890	而且是唯一的有權的實現法院機關	而且是唯一的有權的實現法院機關，	punct/segment-end
+01:11:11,610	法官必須要受到他的判決協定	法官必須要受到他的判決協定，	punct/segment-end
+01:11:15,090	你不可以自己違反自己	你不可以自己違反自己，	punct/segment-end
+01:11:17,590	即便說那個你是300年前的你還是你	即便說那個你是 300 年前的你還是你	spacing/pangu
+01:11:17,590	即便說那個你是 300 年前的你還是你	即便說那個你是 300 年前的你還是你，	punct/segment-end
+01:11:21,030	你可以推翻	你可以推翻，	punct/segment-end
+01:11:21,960	你沒有嚴格的判決協定居住的原則	你沒有嚴格的判決協定居住的原則，	punct/segment-end
+01:11:25,660	但是不是沒有	但是不是沒有，	punct/segment-end
+01:11:26,880	你不能說我不能推翻	你不能說我不能推翻，	punct/segment-end
+01:11:29,730	但是你要自己知道	但是你要自己知道，	punct/segment-end
+01:11:31,810	我現在講的已經苛責啦	我現在講的已經苛責啦，	punct/segment-end
+01:11:33,770	我們現在大法官哪裡有這種能力	我們現在大法官哪裡有這種能力，	punct/segment-end
+01:11:35,740	知道自己知道他講的	知道自己知道他講的，	punct/segment-end
+01:11:37,740	跟以前的判決先例到底一樣還不一樣	跟以前的判決先例到底一樣還不一樣，	punct/segment-end
+01:11:39,740	我現在講是貼物業團	我現在講是貼物業團，	punct/segment-end
+01:11:42,090	這是需要工作的	這是需要工作的，	punct/segment-end
+01:11:43,090	你想看我們現在將近有一千個判決	你想看我們現在將近有一千個判決，	punct/segment-end
+01:11:45,090	是不是每一判決	是不是每一判決，	punct/segment-end
+01:11:47,150	有一個助理就有去查	有一個助理就有去查，	punct/segment-end
+01:11:49,750	我們這麼解釋有沒有抵觸到監情講過的話	我們這麼解釋有沒有抵觸到監情講過的話，	punct/segment-end
+01:11:52,670	現在誰還記得呢	現在誰還記得呢，	punct/segment-end
+01:11:54,190	因為沒有一個人可以活那麼久	因為沒有一個人可以活那麼久，	punct/segment-end
+01:11:56,410	我已經離開了	我已經離開了，	punct/segment-end
+01:11:57,410	我在的時候通通都是我在講的	我在的時候通通都是我在講的，	punct/segment-end
+01:12:00,080	那我現在走啊	那我現在走啊，	punct/segment-end
+01:12:01,360	那我怎麼知道誰會講呢	那我怎麼知道誰會講呢，	punct/segment-end
+01:12:04,360	只會靠助理去查啦	只會靠助理去查啦，	punct/segment-end
+01:12:06,600	然後繼續它也假設認識有層級的	然後繼續它也假設認識有層級的，	punct/segment-end
+01:12:09,960	然後第三個	然後第三個，	punct/segment-end
+01:12:12,300	1364它也假設法院裡面的法官	1364 它也假設法院裡面的法官	spacing/pangu
+01:12:12,300	1364 它也假設法院裡面的法官	1364 它也假設法院裡面的法官，	punct/segment-end
+01:12:16,550	至少會有五個到九個	至少會有五個到九個，	punct/segment-end
+01:12:18,690	會有很多人	會有很多人，	punct/segment-end
+01:12:19,450	所以合議制的法院	所以合議制的法院，	punct/segment-end
+01:12:22,140	不是單議法官	不是單議法官，	punct/segment-end
+01:12:23,360	不是獨認制的法院	不是獨認制的法院，	punct/segment-end
+01:12:24,800	然後我們也會認識到所謂的法院	然後我們也會認識到所謂的法院，	punct/segment-end
+01:12:30,030	它在這個政治系統裡面	它在這個政治系統裡面，	punct/segment-end
+01:12:31,880	會享有一定的高	會享有一定的高，	punct/segment-end
+01:12:33,580	很高的從高的地位	很高的從高的地位，	punct/segment-end
+01:12:34,980	這樣可以了嗎	這樣可以了嗎，	punct/segment-end
+01:12:39,480	好	好，	punct/segment-end
+01:12:40,130	這是它講的第二個前提	這是它講的第二個前提，	punct/segment-end
+01:12:42,810	有司法機關	有司法機關，	punct/segment-end
+01:12:45,040	好 第三個	好 第三個，	punct/segment-end
+01:12:50,360	這需要解釋一下	這需要解釋一下，	punct/segment-end
+01:12:52,140	這很難翻	這很難翻，	punct/segment-end
+01:12:53,950	什麼叫commitment to right	什麼叫 commitment to right	spacing/pangu
+01:12:53,950	什麼叫 commitment to right	什麼叫 commitment to right，	punct/segment-end
+01:12:55,810	這個要翻成什麼	這個要翻成什麼，	punct/segment-end
+01:12:58,660	我覺得承諾不太夠	我覺得承諾不太夠，	punct/segment-end
+01:13:01,350	就是有一種	就是有一種，	punct/segment-end
+01:13:02,070	大家都會花心思去關注那些	大家都會花心思去關注那些，	punct/segment-end
+01:13:06,870	不管是多數還是少數	不管是多數還是少數，	punct/segment-end
+01:13:08,210	長期還是短期	長期還是短期，	punct/segment-end
+01:13:09,410	或者是那種	或者是那種，	punct/segment-end
+01:13:10,830	就是比較有參與感的那種感覺	就是比較有參與感的那種感覺，	punct/segment-end
+01:13:15,320	真的嗎	真的嗎，	punct/segment-end
+01:13:15,880	那你要翻成什麼	那你要翻成什麼，	punct/segment-end
+01:13:17,320	總是要翻一個嗎	總是要翻一個嗎，	punct/segment-end
+01:13:18,970	就翻成承諾吧	就翻成承諾吧，	punct/segment-end
+01:13:20,520	就是比較	就是比較，	punct/segment-end
+01:13:21,300	承諾	承諾，	punct/segment-end
+01:13:21,800	承諾權利嗎	承諾權利嗎，	punct/segment-end
+01:13:23,620	這聽起來有點奇怪	這聽起來有點奇怪，	punct/segment-end
+01:13:25,380	對不對	對不對，	punct/segment-end
+01:13:26,170	我覺得你可不可以考慮	我覺得你可不可以考慮，	punct/segment-end
+01:13:28,240	把它翻成是尊重權利	把它翻成是尊重權利，	punct/segment-end
+01:13:31,010	或者是敬重權利	或者是敬重權利，	punct/segment-end
+01:13:36,940	就是我們是誠心誠意的	就是我們是誠心誠意的，	punct/segment-end
+01:13:39,480	要保護權利	要保護權利，	punct/segment-end
+01:13:40,480	這個意思	這個意思，	punct/segment-end
+01:13:43,440	我的commitment	我的 commitment	spacing/pangu
+01:13:43,440	我的 commitment	我的 commitment，	punct/segment-end
+01:13:44,640	就是我同意	就是我同意，	punct/segment-end
+01:13:45,960	我宣示	我宣示，	punct/segment-end
+01:13:47,000	我要保護權利	我要保護權利，	punct/segment-end
+01:13:48,600	或者是賬權利	或者是賬權利，	punct/segment-end
+01:13:52,320	我覺得尊重可能太多	我覺得尊重可能太多，	punct/segment-end
+01:13:55,950	也許是保障	也許是保障，	punct/segment-end
+01:13:57,250	賬應該比它接近中文	賬應該比它接近中文，	punct/segment-end
+01:13:59,950	對權利是有保障的	對權利是有保障的，	punct/segment-end
+01:14:03,160	尊重我們要保障	尊重我們要保障，	punct/segment-end
+01:14:04,960	下面這裡要講什麼	下面這裡要講什麼，	punct/segment-end
+01:14:08,280	這裡比較難幹	這裡比較難幹，	punct/segment-end
+01:14:09,440	你要講哪裡	你要講哪裡，	punct/segment-end
+01:14:10,300	要不要跳過	要不要跳過，	punct/segment-end
+01:14:14,800	跳過	跳過，	punct/segment-end
+01:14:16,060	那你總是要跟我們解釋一下	那你總是要跟我們解釋一下，	punct/segment-end
+01:14:17,760	它什麼意思啊	它什麼意思啊，	punct/segment-end
+01:14:19,160	對不對	對不對，	punct/segment-end
+01:14:20,980	這總是	這總是，	punct/segment-end
+01:14:22,430	這是它第三個假設	這是它第三個假設，	punct/segment-end
+01:14:24,970	我們如果沒有這個假設	我們如果沒有這個假設，	punct/segment-end
+01:14:27,970	我就	我就，	punct/segment-end
+01:14:28,430	我的反對違線是它	我的反對違線是它，	punct/segment-end
+01:14:32,650	它就不反了	它就不反了，	punct/segment-end
+01:14:33,690	它是在這個四個假設下	它是在這個四個假設下，	punct/segment-end
+01:14:35,810	它就反了	它就反了，	punct/segment-end
+01:14:36,790	那這個這個假設一定是我們大家都同意要去保障基本權	那這個這個假設一定是我們大家都同意要去保障基本權，	punct/segment-end
+01:14:42,860	我們如果不同意保障基本權我就反對RU看什麼	我們如果不同意保障基本權我就反對 RU 看什麼	spacing/pangu
+01:14:42,860	我們如果不同意保障基本權我就反對 RU 看什麼	我們如果不同意保障基本權我就反對 RU 看什麼，	punct/segment-end
+01:14:47,190	只是我們同意保障基本權是怎麼個保障法	只是我們同意保障基本權是怎麼個保障法，	punct/segment-end
+01:14:51,650	是這個意思	是這個意思，	punct/segment-end
+01:14:52,410	有沒有	有沒有，	punct/segment-end
+01:14:54,160	來我們看一下1365頁	來我們看一下 1365 頁	spacing/pangu
+01:14:54,160	來我們看一下 1365 頁	來我們看一下 1365 頁，	punct/segment-end
+01:15:00,450	你為什麼沒看到這句	你為什麼沒看到這句，	punct/segment-end
+01:15:02,090	它要使得這個假設變得比較具體	它要使得這個假設變得比較具體，	punct/segment-end
+01:15:29,150	他取了這些例子,這些例子都足以證明這個社會是看重並且保障人權。	他取了這些例子，這些例子都足以證明這個社會是看重並且保障人權。	punct/width
+01:15:38,530	不然你定住幹什麼	不然你定住幹什麼，	punct/segment-end
+01:15:40,110	好了	好了，	punct/segment-end
+01:15:42,420	這樣可以了嗎	這樣可以了嗎，	punct/segment-end
+01:15:48,870	動不快	動不快，	punct/segment-end
+01:15:51,550	這邊是最麻煩	這邊是最麻煩，	punct/segment-end
+01:15:54,140	最麻煩的是這個	最麻煩的是這個，	punct/segment-end
+01:15:55,980	一般人大概寫不到這裡	一般人大概寫不到這裡，	punct/segment-end
+01:15:58,220	這是作者厲害的地方	這是作者厲害的地方，	punct/segment-end
+01:15:59,970	你們寫寫看	你們寫寫看，	punct/segment-end
+01:16:01,520	你們會寫3跟4嗎	你們會寫 3 跟 4 嗎	spacing/pangu
+01:16:01,520	你們會寫 3 跟 4 嗎	你們會寫 3 跟 4 嗎，	punct/segment-end
+01:16:03,400	我覺得你寫到1跟2	我覺得你寫到 1 跟 2	spacing/pangu
+01:16:03,400	我覺得你寫到 1 跟 2	我覺得你寫到 1 跟 2，	punct/segment-end
+01:16:04,700	究竟不得了	究竟不得了，	punct/segment-end
+01:16:05,830	讓你寫你不會寫3跟4	讓你寫你不會寫 3 跟 4	spacing/pangu
+01:16:05,830	讓你寫你不會寫 3 跟 4	讓你寫你不會寫 3 跟 4，	punct/segment-end
+01:16:07,550	寫到3也不會寫到4	寫到 3 也不會寫到 4	spacing/pangu
+01:16:07,550	寫到 3 也不會寫到 4	寫到 3 也不會寫到 4，	punct/segment-end
+01:16:09,350	他也寫到4	他也寫到 4	spacing/pangu
+01:16:09,350	他也寫到 4	他也寫到 4，	punct/segment-end
+01:16:10,130	來	來，	punct/segment-end
+01:16:10,330	什麼意思	什麼意思，	punct/segment-end
+01:16:14,520	這個翻譯一下	這個翻譯一下，	punct/segment-end
+01:16:15,620	關於權力的分歧	關於權力的分歧，	punct/segment-end
+01:16:18,440	對	對，	punct/segment-end
+01:16:18,960	關於權力是有分歧的	關於權力是有分歧的，	punct/segment-end
+01:16:22,040	或者是你想不同意也可以	或者是你想不同意也可以，	punct/segment-end
+01:16:24,590	關於權力的見解分歧	關於權力的見解分歧，	punct/segment-end
+01:16:29,910	關於權力的認知分歧	關於權力的認知分歧，	punct/segment-end
+01:16:32,940	還是什麼分歧	還是什麼分歧，	punct/segment-end
+01:16:33,880	好來 怎麼個分歧	好來 怎麼個分歧，	punct/segment-end
+01:16:43,840	我們對於權力的共識	我們對於權力的共識，	punct/segment-end
+01:16:54,600	您的意思	您的意思，	punct/segment-end
+01:16:58,620	我說我們對權力	我說我們對權力，	punct/segment-end
+01:17:01,380	我剛才講要保障人權	我剛才講要保障人權，	punct/segment-end
+01:17:03,330	保障人權是我們的共識	保障人權是我們的共識，	punct/segment-end
+01:17:05,350	我們對權力保障有共識	我們對權力保障有共識，	punct/segment-end
+01:17:07,650	並不排除	並不排除，	punct/segment-end
+01:17:14,000	不能說我們對權力保障	不能說我們對權力保障，	punct/segment-end
+01:17:16,610	這件事情有共識	這件事情有共識，	punct/segment-end
+01:17:18,060	就是說我們對於所有重要的政治問題	就是說我們對於所有重要的政治問題，	punct/segment-end
+01:17:21,840	不會出現一般性的分歧	不會出現一般性的分歧，	punct/segment-end
+01:17:25,830	有共識我們認為權力很重要	有共識我們認為權力很重要，	punct/segment-end
+01:17:29,920	要保障	要保障，	punct/segment-end
+01:17:30,540	可是這個權利保障到哪裡	可是這個權利保障到哪裡，	punct/segment-end
+01:17:32,460	這個權利有沒有包含墮胎	這個權利有沒有包含墮胎，	punct/segment-end
+01:17:34,380	這個總是大家可以討論嗎	這個總是大家可以討論嗎，	punct/segment-end
+01:17:37,190	所以我們有分歧	所以我們有分歧，	punct/segment-end
+01:17:38,350	有共識	有共識，	punct/segment-end
+01:17:40,020	共識之中有分歧	共識之中有分歧，	punct/segment-end
+01:17:41,620	因為我們中文話講	因為我們中文話講，	punct/segment-end
+01:17:42,620	應該是這樣講	應該是這樣講，	punct/segment-end
+01:17:43,420	好了	好了，	punct/segment-end
+01:17:44,320	然後	然後，	punct/segment-end
+01:17:50,320	哪兩件事	哪兩件事，	punct/segment-end
+01:17:53,400	他們是什麼權利	他們是什麼權利，	punct/segment-end
+01:17:57,670	他們相當於什麼	他們相當於什麼，	punct/segment-end
+01:17:58,910	所以言論自由	所以言論自由，	punct/segment-end
+01:18:01,660	言論自由是什麼權	言論自由是什麼權，	punct/segment-end
+01:18:03,200	言論自由相當於什麼	言論自由相當於什麼，	punct/segment-end
+01:18:04,770	這裡面有不同的層次	這裡面有不同的層次，	punct/segment-end
+01:18:06,650	好了 這裡還要講什麼	好了 這裡還要講什麼，	punct/segment-end
+01:18:12,150	需要講什麼嗎	需要講什麼嗎，	punct/segment-end
+01:18:14,500	後面要有更多	後面要有更多，	punct/segment-end
+01:18:17,260	好 你就要照顧	好 你就要照顧，	punct/segment-end
+01:18:19,280	我讓你照顧	我讓你照顧，	punct/segment-end
+01:18:21,500	他要總結一下嗎	他要總結一下嗎，	punct/segment-end
+01:18:23,470	不要了吧	不要了吧，	punct/segment-end
+01:18:25,950	第3 來	第 3 來	spacing/pangu
+01:18:25,950	第 3 來	第 3 來，	punct/segment-end
+01:18:29,770	我論證的這個形式	我論證的這個形式，	punct/segment-end
+01:18:39,570	就是承接上面的四個假設	就是承接上面的四個假設，	punct/segment-end
+01:18:41,520	我就可以直接看到	我就可以直接看到，	punct/segment-end
+01:18:45,660	1371 來	1371 來，	punct/segment-end
+01:18:47,660	你跳哪裡啊?講啊	你跳哪裡啊？講啊	punct/width
+01:18:47,660	你跳哪裡啊？講啊	你跳哪裡啊？講啊，	punct/segment-end
+01:18:50,930	我自己覺得比較重要的句子是	我自己覺得比較重要的句子是，	punct/segment-end
+01:18:58,910	在什麼地方?	在什麼地方？	punct/width
+01:19:02,910	在1371	在 1371	spacing/pangu
+01:19:02,910	在 1371	在 1371，	punct/segment-end
+01:19:05,480	你要讓人家跟得到你啊?	你要讓人家跟得到你啊？	punct/width
+01:19:07,480	這這麼多是第幾段啊?	這這麼多是第幾段啊？	punct/width
+01:19:09,480	1371的第一段	1371 的第一段	spacing/pangu
+01:19:09,480	1371 的第一段	1371 的第一段，	punct/segment-end
+01:19:11,480	第一段?	第一段？	punct/width
+01:19:13,730	Let's assume 那裡嗎?	Let's assume 那裡嗎？	punct/width
+01:19:16,200	對	對，	punct/segment-end
+01:19:18,200	是這句嗎?	是這句嗎？	punct/width
+01:19:19,200	對	對，	punct/segment-end
+01:19:20,200	這是這一段的最後一句嗎	這是這一段的最後一句嗎，	punct/segment-end
+01:19:23,120	對	對，	punct/segment-end
+01:19:24,240	你怎麼每次都不會講到	你怎麼每次都不會講到，	punct/segment-end
+01:19:25,640	老師幫你去找	老師幫你去找，	punct/segment-end
+01:19:26,640	我們面對的問題是	我們面對的問題是，	punct/segment-end
+01:19:46,260	好這句話要解釋一下	好這句話要解釋一下，	punct/segment-end
+01:19:48,080	可以	可以，	punct/segment-end
+01:19:48,480	但是這裡他只是還是	但是這裡他只是還是，	punct/segment-end
+01:19:51,470	他還沒有講到他對於這個form的argument	他還沒有講到他對於這個 form 的 argument	spacing/pangu
+01:19:51,470	他還沒有講到他對於這個 form 的 argument	他還沒有講到他對於這個 form 的 argument，	punct/segment-end
+01:19:54,780	他還是在講問題	他還是在講問題，	punct/segment-end
+01:19:56,380	它下面就是	它下面就是，	punct/segment-end
+01:19:59,010	這句話什麼意思	這句話什麼意思，	punct/segment-end
+01:19:59,810	先講完	先講完，	punct/segment-end
+01:20:00,410	沒有說	沒有說，	punct/segment-end
+01:20:01,510	這句話的意思是說	這句話的意思是說，	punct/segment-end
+01:20:03,810	我們面對的問題	我們面對的問題，	punct/segment-end
+01:20:04,910	違線審查	違憲審查	correction_map/違憲審查
+01:20:04,910	我們到底反不反對違憲審查	我們到底反不反對違憲審查，	punct/segment-end
+01:20:07,160	問題在於	問題在於，	punct/segment-end
+01:20:08,190	立法者所做的決定	立法者所做的決定，	punct/segment-end
+01:20:10,270	是不是就是最終的決定	是不是就是最終的決定，	punct/segment-end
+01:20:11,870	還是不對	還是不對，	punct/segment-end
+01:20:13,270	我們有理由讓他再被審查一次	我們有理由讓他再被審查一次，	punct/segment-end
+01:20:17,610	而且可以對司法推廣	而且可以對司法推廣，	punct/segment-end
+01:20:20,190	這就是我們講的問題	這就是我們講的問題，	punct/segment-end
+01:20:21,710	違線審查	違憲審查	correction_map/違憲審查
+01:20:21,710	我們講的違憲審查	我們講的違憲審查，	punct/segment-end
+01:20:23,440	就因為司法可以推翻	就因為司法可以推翻，	punct/segment-end
+01:20:24,640	司法可以做second guess,再查一次,再審查一次	司法可以做second guess,再查一次，再審查一次	punct/width
+01:20:24,640	司法可以做second guess,再查一次，再審查一次	司法可以做 second guess,再查一次，再審查一次	spacing/pangu
+01:20:24,640	司法可以做 second guess,再查一次，再審查一次	司法可以做 second guess,再查一次，再審查一次，	punct/segment-end
+01:20:28,800	是這樣的問題	是這樣的問題，	punct/segment-end
+01:20:30,060	但是還是沒有回到我剛才講的	但是還是沒有回到我剛才講的，	punct/segment-end
+01:20:33,410	那他講的form of argument	那他講的 form of argument	spacing/pangu
+01:20:33,410	那他講的 form of argument	那他講的 form of argument，	punct/segment-end
+01:20:36,310	我們論證的形式是怎樣的	我們論證的形式是怎樣的，	punct/segment-end
+01:20:40,220	所以這一段是多好辦的	所以這一段是多好辦的，	punct/segment-end
+01:20:42,330	這一段是不容易找的	這一段是不容易找的，	punct/segment-end
+01:20:46,130	下面是以那個Hobbs	下面是以那個 Hobbs	spacing/pangu
+01:20:46,130	下面是以那個 Hobbs	下面是以那個 Hobbs，	punct/segment-end
+01:20:54,220	Hobbs,再下一段,來,講吧	Hobbs,再下一段，來，講吧	punct/width
+01:20:54,220	Hobbs,再下一段，來，講吧	Hobbs,再下一段，來，講吧，	punct/segment-end
+01:21:05,300	好,什麼意思?	好，什麼意思？	punct/width
+01:21:21,690	用你的白話講	用你的白話講，	punct/segment-end
+01:21:23,830	我們現在面臨的	我們現在面臨的，	punct/segment-end
+01:21:26,170	在解決這個問題	在解決這個問題，	punct/segment-end
+01:21:30,430	他這邊強調的是	他這邊強調的是，	punct/segment-end
+01:21:31,990	那個程序上面的	那個程序上面的，	punct/segment-end
+01:21:34,930	你不要讓你的句子	你不要讓你的句子，	punct/segment-end
+01:21:37,250	講得那麼模糊	講得那麼模糊，	punct/segment-end
+01:21:38,370	我們就把他的意思翻出來	我們就把他的意思翻出來，	punct/segment-end
+01:21:40,230	我們要設定一個決策程序	我們要設定一個決策程序，	punct/segment-end
+01:21:55,050	我們要設定一個解決爭議的決策程序	我們要設定一個解決爭議的決策程序，	punct/segment-end
+01:22:01,040	而不是重啟爭議的決策程序	而不是重啟爭議的決策程序，	punct/segment-end
+01:22:04,420	聽懂嗎	聽懂嗎，	punct/segment-end
+01:22:06,530	這是他的任務	這是他的任務，	punct/segment-end
+01:22:08,530	然後呢	然後呢，	punct/segment-end
+01:22:13,900	故事是什麼東西	故事是什麼東西，	punct/segment-end
+01:22:21,410	是程序嗎	是程序嗎，	punct/segment-end
+01:22:24,840	其他同學看一下這個句子	其他同學看一下這個句子，	punct/segment-end
+01:22:30,190	你的問題就是	你的問題就是，	punct/segment-end
+01:22:31,540	我不能說你	我不能說你，	punct/segment-end
+01:22:33,340	普遍的問題	普遍的問題，	punct/segment-end
+01:22:34,740	都是這樣子	都是這樣子，	punct/segment-end
+01:22:36,290	碰到了	碰到了，	punct/segment-end
+01:22:37,760	你現在這個問題	你現在這個問題，	punct/segment-end
+01:22:39,800	不是只有英文	不是只有英文，	punct/segment-end
+01:22:40,640	因為德文比英文	因為德文比英文，	punct/segment-end
+01:22:41,760	用更多的關系代文字	用更多的關系代文字，	punct/segment-end
+01:22:45,310	帶一大堆東西	帶一大堆東西，	punct/segment-end
+01:22:47,230	所以你要找到它帶的是什麼	所以你要找到它帶的是什麼，	punct/segment-end
+01:22:49,150	你找不到了	你找不到了，	punct/segment-end
+01:22:50,320	這個句子就解不通了	這個句子就解不通了，	punct/segment-end
+01:22:51,500	德文一個句子裡面	德文一個句子裡面，	punct/segment-end
+01:22:52,830	可以有八個關系代文字	可以有八個關系代文字，	punct/segment-end
+01:22:54,290	那我們這裡才一個兩個	那我們這裡才一個兩個，	punct/segment-end
+01:22:56,720	這裡有兩個	這裡有兩個，	punct/segment-end
+01:22:57,500	第一個是故事	第一個是故事，	punct/segment-end
+01:22:58,590	第二個也是故事	第二個也是故事，	punct/segment-end
+01:22:59,630	第二個故事是controverses	第二個故事是 controverses	spacing/pangu
+01:22:59,630	第二個故事是 controverses	第二個故事是 controverses，	punct/segment-end
+01:23:04,170	那就是由那個爭議的存在	那就是由那個爭議的存在，	punct/segment-end
+01:23:08,350	要求我們首先要建立一個決策的程序	要求我們首先要建立一個決策的程序，	punct/segment-end
+01:23:14,010	因為爭議要解決爭議	因為爭議要解決爭議，	punct/segment-end
+01:23:17,910	所以我們要先講我們怎麼解決這個爭議的程序	所以我們要先講我們怎麼解決這個爭議的程序，	punct/segment-end
+01:23:21,410	這個意思	這個意思，	punct/segment-end
+01:23:22,610	然後呢	然後呢，	punct/segment-end
+01:23:23,800	我們要設定這個程序	我們要設定這個程序，	punct/segment-end
+01:23:25,800	這個爭議的程序	這個爭議的程序，	punct/segment-end
+01:23:27,810	是能夠解決這個爭議	是能夠解決這個爭議，	punct/segment-end
+01:23:29,750	而就是重燃這個爭議	而就是重燃這個爭議，	punct/segment-end
+01:23:31,770	聽懂	聽懂，	punct/segment-end
+01:23:36,120	迫步這句話是什麼	迫步這句話是什麼，	punct/segment-end
+01:23:37,630	用你的白話講給我們聽	用你的白話講給我們聽，	punct/segment-end
+01:23:41,740	現在我這句都翻完了	現在我這句都翻完了，	punct/segment-end
+01:23:43,360	白話是什麼意思	白話是什麼意思，	punct/segment-end
+01:23:44,180	講住64前面這句白話是什麼意思	講住 64 前面這句白話是什麼意思	spacing/pangu
+01:23:44,180	講住 64 前面這句白話是什麼意思	講住 64 前面這句白話是什麼意思，	punct/segment-end
+01:23:48,600	我覺得跟後面他講那個程序面是呼應的	我覺得跟後面他講那個程序面是呼應的，	punct/segment-end
+01:23:54,060	意思就是說	意思就是說，	punct/segment-end
+01:23:59,060	什麼問題都會兼有程序跟	什麼問題都會兼有程序跟，	punct/segment-end
+01:24:04,370	我不用說實體	我不用說實體，	punct/segment-end
+01:24:07,270	我應該說結果	我應該說結果，	punct/segment-end
+01:24:08,550	我們現在是不是想要解決爭議	我們現在是不是想要解決爭議，	punct/segment-end
+01:24:11,970	想要解決爭議	想要解決爭議，	punct/segment-end
+01:24:13,710	我們就首先要創造一個解決爭議的程序	我們就首先要創造一個解決爭議的程序，	punct/segment-end
+01:24:17,610	然後這個解決爭議的程序	然後這個解決爭議的程序，	punct/segment-end
+01:24:20,340	做完了以後	做完了以後，	punct/segment-end
+01:24:21,240	我們希望要解決爭議	我們希望要解決爭議，	punct/segment-end
+01:24:23,100	而不是重燃爭議	而不是重燃爭議，	punct/segment-end
+01:24:24,410	這是結果	這是結果，	punct/segment-end
+01:24:25,400	看一遍這個句子	看一遍這個句子，	punct/segment-end
+01:24:30,220	所有人都看	所有人都看，	punct/segment-end
+01:24:32,320	我知道這個對你們難	我知道這個對你們難，	punct/segment-end
+01:24:33,710	但是這就是老師存在的價值	但是這就是老師存在的價值，	punct/segment-end
+01:24:36,080	如果這麼簡單	如果這麼簡單，	punct/segment-end
+01:24:37,460	就不要老師了	就不要老師了，	punct/segment-end
+01:24:38,430	那一般的老師是不會講這個	那一般的老師是不會講這個，	punct/segment-end
+01:24:40,370	因為講這個我也很累	因為講這個我也很累，	punct/segment-end
+01:24:41,940	而且我也不一定會對	而且我也不一定會對，	punct/segment-end
+01:24:43,870	但是這個就是你要了解	但是這個就是你要了解，	punct/segment-end
+01:24:45,930	這個句子的難處	這個句子的難處，	punct/segment-end
+01:24:47,050	我們剛才前面讀到那個序言	我們剛才前面讀到那個序言，	punct/segment-end
+01:24:49,070	他有講	他有講，	punct/segment-end
+01:24:49,610	他的論證形式是兼具	他的論證形式是兼具，	punct/segment-end
+01:24:52,570	既有結果有關的理由	既有結果有關的理由，	punct/segment-end
+01:24:57,460	也有程序有關的理由	也有程序有關的理由，	punct/segment-end
+01:25:00,250	那為什麼會是這樣呢	那為什麼會是這樣呢，	punct/segment-end
+01:25:02,140	他用霍夫對於講	他用霍夫對於講，	punct/segment-end
+01:25:03,890	霍夫說我們因為有爭議	霍夫說我們因為有爭議，	punct/segment-end
+01:25:06,570	所以我們首先要去	所以我們首先要去，	punct/segment-end
+01:25:08,900	一個解決爭議的程序	一個解決爭議的程序，	punct/segment-end
+01:25:12,270	其次我們經過的	其次我們經過的，	punct/segment-end
+01:25:15,490	這個解決爭議程序的操作	這個解決爭議程序的操作，	punct/segment-end
+01:25:17,190	我們希望它能解決爭議	我們希望它能解決爭議，	punct/segment-end
+01:25:19,780	而不是再度點燃爭議	而不是再度點燃爭議，	punct/segment-end
+01:25:22,030	後面那句是結果	後面那句是結果，	punct/segment-end
+01:25:24,730	前面那句是程序	前面那句是程序，	punct/segment-end
+01:25:26,430	所以既有結果	所以既有結果，	punct/segment-end
+01:25:34,460	也有process-related reasons	也有 process-related reasons	spacing/pangu
+01:25:34,460	也有 process-related reasons	也有 process-related reasons，	punct/segment-end
+01:25:37,470	好啦到這裡就好了	好啦到這裡就好了，	punct/segment-end
+01:25:40,130	還需要再講了嗎	還需要再講了嗎，	punct/segment-end
+01:25:41,790	應該我不管啦	應該我不管啦，	punct/segment-end
+01:25:42,890	應該可以不必了吧	應該可以不必了吧，	punct/segment-end
+01:25:44,350	後面有很多	後面有很多，	punct/segment-end
+01:25:48,080	它還有很多那個介紹	它還有很多那個介紹，	punct/segment-end
+01:25:50,720	來我們看一下那個1357	來我們看一下那個 1357	spacing/pangu
+01:25:50,720	來我們看一下那個 1357	來我們看一下那個 1357，	punct/segment-end
+01:25:55,900	1375說是後	1375 說是後	spacing/pangu
+01:25:55,900	1375 說是後	1375 說是後，	punct/segment-end
+01:26:03,260	剛才講的都是有關於outcome reasons	剛才講的都是有關於 outcome reasons	spacing/pangu
+01:26:03,260	剛才講的都是有關於 outcome reasons	剛才講的都是有關於 outcome reasons，	punct/segment-end
+01:26:07,330	然後再講一遍	然後再講一遍，	punct/segment-end
+01:26:08,370	第三七三頁	第三七三頁，	punct/segment-end
+01:26:09,670	一段第一大段	一段第一大段，	punct/segment-end
+01:26:11,940	有沒有	有沒有，	punct/segment-end
+01:26:12,780	這叫做	這叫做，	punct/segment-end
+01:26:28,840	這種這種這一種	這種這種這一種，	punct/segment-end
+01:26:34,150	這種頭腦	這種頭腦，	punct/segment-end
+01:26:37,030	我們通常在中文的著作裡面是看的	我們通常在中文的著作裡面是看的，	punct/segment-end
+01:26:40,310	用了腦袋沒有東西	用了腦袋沒有東西，	punct/segment-end
+01:26:42,050	連終翻譯用了	連終翻譯用了，	punct/segment-end
+01:26:45,020	更不要說想到	更不要說想到，	punct/segment-end
+01:26:47,290	還沒有寫下	還沒有寫下，	punct/segment-end
+01:26:48,050	現在只講第一半哦	現在只講第一半哦，	punct/segment-end
+01:26:50,110	還沒講完咯	還沒講完咯，	punct/segment-end
+01:26:51,170	是程序	是程序，	punct/segment-end
+01:26:53,040	而是結果有關的理由	而是結果有關的理由，	punct/segment-end
+01:26:55,220	結果有關的理由是指這個東西	結果有關的理由是指這個東西，	punct/segment-end
+01:26:58,200	比方說好的	比方說好的，	punct/segment-end
+01:27:00,390	公正的	公正的，	punct/segment-end
+01:27:01,750	正確的	正確的，	punct/segment-end
+01:27:03,570	然後往下	然後往下，	punct/segment-end
+01:27:06,100	程序在前	程序在前，	punct/segment-end
+01:27:07,950	1375頁的	1375 頁的	spacing/pangu
+01:27:07,950	1375 頁的	1375 頁的，	punct/segment-end
+01:27:09,310	什麼叫做process related reasons	什麼叫做 process related reasons	spacing/pangu
+01:27:09,310	什麼叫做 process related reasons	什麼叫做 process related reasons，	punct/segment-end
+01:27:12,700	是在這裡	是在這裡，	punct/segment-end
+01:27:13,360	聽懂嗎	聽懂嗎，	punct/segment-end
+01:27:15,280	你要說什麼	你要說什麼，	punct/segment-end
+01:27:17,600	請講	請講，	punct/segment-end
+01:27:18,000	程序的那一段在1372的最後面	程序的那一段在 1372 的最後面	spacing/pangu
+01:27:18,000	程序的那一段在 1372 的最後面	程序的那一段在 1372 的最後面，	punct/segment-end
+01:27:21,430	1372的最後面	1372 的最後面	spacing/pangu
+01:27:21,430	1372 的最後面	1372 的最後面，	punct/segment-end
+01:27:23,360	好	好，	punct/segment-end
+01:27:23,680	1372最後面它有講對	1372 最後面它有講對	spacing/pangu
+01:27:23,680	1372 最後面它有講對	1372 最後面它有講對，	punct/segment-end
+01:27:25,890	它現在這個區別	它現在這個區別，	punct/segment-end
+01:27:27,370	主要是在1372區分的	主要是在 1372 區分的	spacing/pangu
+01:27:27,370	主要是在 1372 區分的	主要是在 1372 區分的，	punct/segment-end
+01:27:29,500	對	對，	punct/segment-end
+01:27:30,510	那1372講的是什麼	那 1372 講的是什麼	spacing/pangu
+01:27:30,510	那 1372 講的是什麼	那 1372 講的是什麼，	punct/segment-end
+01:27:32,800	你如果不講這個	你如果不講這個，	punct/segment-end
+01:27:34,960	你如果不講1375	你如果不講 1375	spacing/pangu
+01:27:34,960	你如果不講 1375	你如果不講 1375，	punct/segment-end
+01:27:36,900	也可以講1372	也可以講 1372	spacing/pangu
+01:27:36,900	也可以講 1372	也可以講 1372，	punct/segment-end
+01:27:38,120	但我猜想	但我猜想，	punct/segment-end
+01:27:39,260	應該是1375的詳細	應該是 1375 的詳細	spacing/pangu
+01:27:39,260	應該是 1375 的詳細	應該是 1375 的詳細，	punct/segment-end
+01:27:41,410	對吧	對吧，	punct/segment-end
+01:27:43,590	對	對，	punct/segment-end
+01:27:44,070	但是如果是後面的話	但是如果是後面的話，	punct/segment-end
+01:27:46,820	它會更展開講	它會更展開講，	punct/segment-end
+01:27:48,080	好	好，	punct/segment-end
+01:27:48,520	那你先講1372	那你先講 1372	spacing/pangu
+01:27:48,520	那你先講 1372	那你先講 1372，	punct/segment-end
+01:27:50,180	它們兩個是相關的	它們兩個是相關的，	punct/segment-end
+01:27:54,810	沒錯	沒錯，	punct/segment-end
+01:27:55,370	對	對，	punct/segment-end
+01:27:56,670	然後呢	然後呢，	punct/segment-end
+01:27:58,310	你要講1372是什麼	你要講 1372 是什麼	spacing/pangu
+01:27:58,310	你要講 1372 是什麼	你要講 1372 是什麼，	punct/segment-end
+01:27:59,770	就是它就是簡略的	就是它就是簡略的，	punct/segment-end
+01:28:02,840	我們來講一下它後面	我們來講一下它後面，	punct/segment-end
+01:28:05,240	是 林遊戲講了	是 林遊戲講了，	punct/segment-end
+01:28:22,290	我們不管結論如何	我們不管結論如何，	punct/segment-end
+01:28:24,570	我們要求的是某人他應該做成決定	我們要求的是某人他應該做成決定，	punct/segment-end
+01:28:29,340	或者某人應該參與做成決定	或者某人應該參與做成決定，	punct/segment-end
+01:28:33,160	這就是程序	這就是程序，	punct/segment-end
+01:28:34,690	比方說我在座的沒有經過你同意	比方說我在座的沒有經過你同意，	punct/segment-end
+01:28:39,320	說我們下禮拜不讓你來上課	說我們下禮拜不讓你來上課，	punct/segment-end
+01:28:42,670	你會很生氣啊	你會很生氣啊，	punct/segment-end
+01:28:44,180	這個結果當然是會你不高興的	這個結果當然是會你不高興的，	punct/segment-end
+01:28:47,100	如果對你有利的結果	如果對你有利的結果，	punct/segment-end
+01:28:48,140	你可能不太在意說我有沒有在意	你可能不太在意說我有沒有在意，	punct/segment-end
+01:28:50,320	但是如果這對你	但是如果這對你，	punct/segment-end
+01:28:52,690	尤其是對你不利	尤其是對你不利，	punct/segment-end
+01:28:53,770	你會馬上問一句	你會馬上問一句，	punct/segment-end
+01:28:54,770	為什麼沒有通知我	為什麼沒有通知我，	punct/segment-end
+01:28:56,520	為什麼沒有得我同意	為什麼沒有得我同意，	punct/segment-end
+01:28:57,880	為什麼沒有參與決定	為什麼沒有參與決定，	punct/segment-end
+01:28:59,320	為什麼把我排除在外	為什麼把我排除在外，	punct/segment-end
+01:29:00,780	這就是這個意思	這就是這個意思，	punct/segment-end
+01:29:02,020	那剛才講的跟結果有關的是說	那剛才講的跟結果有關的是說，	punct/segment-end
+01:29:05,200	這個決定做出來是正確的嗎	這個決定做出來是正確的嗎，	punct/segment-end
+01:29:07,980	是好的嗎	是好的嗎，	punct/segment-end
+01:29:09,200	是對的嗎	是對的嗎，	punct/segment-end
+01:29:10,280	是這方面的事情	是這方面的事情，	punct/segment-end
+01:29:11,540	好了 講完了	好了 講完了，	punct/segment-end
+01:29:12,530	不講了	不講了，	punct/segment-end
+01:29:13,300	來	來，	punct/segment-end
+01:29:13,480	201376年第四大怪	201376 年第四大怪	spacing/pangu
+01:29:13,480	201376 年第四大怪	201376 年第四大怪，	punct/segment-end
+01:29:20,380	來了	來了，	punct/segment-end
+01:29:21,890	這裡有很多東西	這裡有很多東西，	punct/segment-end
+01:29:32,350	真是蠻多的	真是蠻多的，	punct/segment-end
+01:29:36,960	跟結果有關的理由	跟結果有關的理由，	punct/segment-end
+01:29:40,970	來	來，	punct/segment-end
+01:30:09,270	好,講這句就可以	好，講這句就可以	punct/width
+01:30:09,270	好，講這句就可以	好，講這句就可以，	punct/segment-end
+01:30:10,850	根據這個RATS的見解	根據這個 RATS 的見解	spacing/pangu
+01:30:10,850	根據這個 RATS 的見解	根據這個 RATS 的見解，	punct/segment-end
+01:30:14,200	一個非常自然的方式	一個非常自然的方式，	punct/segment-end
+01:30:17,440	就是去假定	就是去假定，	punct/segment-end
+01:30:19,080	假定基本權的執行	假定基本權的執行，	punct/segment-end
+01:30:25,670	誰來執行基本權	誰來執行基本權，	punct/segment-end
+01:30:28,080	應該要把它委託給哪一個政治決策程序	應該要把它委託給哪一個政治決策程序，	punct/segment-end
+01:30:35,910	在特定的時間跟地點下	在特定的時間跟地點下，	punct/segment-end
+01:30:40,580	哪一個政治決策程序	哪一個政治決策程序，	punct/segment-end
+01:30:45,670	最可能把它們執行好	最可能把它們執行好，	punct/segment-end
+01:30:50,550	會產生最少的副作用	會產生最少的副作用，	punct/segment-end
+01:30:53,670	那你就把它委託給他	那你就把它委託給他，	punct/segment-end
+01:30:55,940	這句話的意思說	這句話的意思說，	punct/segment-end
+01:30:57,940	如果立法者他就能夠最好的執行基本權	如果立法者他就能夠最好的執行基本權，	punct/segment-end
+01:31:05,250	那你就委託給他	那你就委託給他，	punct/segment-end
+01:31:07,170	那反過來	那反過來，	punct/segment-end
+01:31:08,760	如果是司法者最能執行	如果是司法者最能執行，	punct/segment-end
+01:31:13,350	落實基本權	落實基本權，	punct/segment-end
+01:31:15,190	而且最不產生副作用	而且最不產生副作用，	punct/segment-end
+01:31:17,990	那你就委託給司法者	那你就委託給司法者，	punct/segment-end
+01:31:19,630	所以他的標準是中性	所以他的標準是中性，	punct/segment-end
+01:31:21,370	我們是講結果	我們是講結果，	punct/segment-end
+01:31:24,250	誰最能執行	誰最能執行，	punct/segment-end
+01:31:26,620	是不是這樣子	是不是這樣子，	punct/segment-end
+01:31:32,160	誰最有辦法落實基本權	誰最有辦法落實基本權，	punct/segment-end
+01:31:35,410	那我們就委託給他	那我們就委託給他，	punct/segment-end
+01:31:37,050	如果是法院證的落實	如果是法院證的落實，	punct/segment-end
+01:31:38,830	那為什麼不讓法院省	那為什麼不讓法院省，	punct/segment-end
+01:31:40,070	那如果是立法者	那如果是立法者，	punct/segment-end
+01:31:41,990	那你為什麼不讓法院	那你為什麼不讓法院，	punct/segment-end
+01:31:42,970	我就聽不懂	我就聽不懂，	punct/segment-end
+01:31:44,010	然後往下	然後往下，	punct/segment-end
+01:31:54,590	這個常常看到	這個常常看到，	punct/segment-end
+01:31:56,450	什麼意思	什麼意思，	punct/segment-end
+01:31:57,700	法院有這個能力嗎	法院有這個能力嗎，	punct/segment-end
+01:32:00,540	國會有這個能力嗎	國會有這個能力嗎，	punct/segment-end
+01:32:03,980	這個是不是牽涉到	這個是不是牽涉到，	punct/segment-end
+01:32:06,170	法院法系德國人喜歡講的	法院法系德國人喜歡講的，	punct/segment-end
+01:32:10,030	功能罪事理論	功能罪事理論，	punct/segment-end
+01:32:11,970	這是不是機關功能的問題	這是不是機關功能的問題，	punct/segment-end
+01:32:14,850	我想不然你們聽不懂	我想不然你們聽不懂，	punct/segment-end
+01:32:20,500	哪一個機關比較有能力	哪一個機關比較有能力，	punct/segment-end
+01:32:23,100	那這裡是institutional competence	那這裡是 institutional competence	spacing/pangu
+01:32:23,100	那這裡是 institutional competence	那這裡是 institutional competence，	punct/segment-end
+01:32:26,210	是機關能力的問題	是機關能力的問題，	punct/segment-end
+01:32:27,750	那現在講到你要把它交給法院	那現在講到你要把它交給法院，	punct/segment-end
+01:32:29,920	那我們一般是不是討論到	那我們一般是不是討論到，	punct/segment-end
+01:32:32,140	微線審查	違憲審查	correction_map/違憲審查
+01:32:32,140	法院有能力做違憲審查	法院有能力做違憲審查，	punct/segment-end
+01:32:34,040	法院有能力落實基本權嗎	法院有能力落實基本權嗎，	punct/segment-end
+01:32:36,710	大家有聽懂嗎	大家有聽懂嗎，	punct/segment-end
+01:32:39,430	OK好繼續	OK 好繼續	spacing/pangu
+01:32:39,430	OK 好繼續	OK 好繼續，	punct/segment-end
+01:32:46,750	好但是這個作者的意見不一樣	好但是這個作者的意見不一樣，	punct/segment-end
+01:32:49,390	每一個機關它的功能都是有限的	每一個機關它的功能都是有限的，	punct/segment-end
+01:32:53,810	你們去看老師的四線學識系路的見解	你們去看老師的四線學識系路的見解，	punct/segment-end
+01:32:56,580	基本上也是這樣的	基本上也是這樣的，	punct/segment-end
+01:32:58,030	我從來不認為司法院是萬能	我從來不認為司法院是萬能，	punct/segment-end
+01:33:00,630	那所以我們要考慮	那所以我們要考慮，	punct/segment-end
+01:33:03,700	每一個個案是我們要考慮	每一個個案是我們要考慮，	punct/segment-end
+01:33:05,540	那這裡他講說法院在解決某些問題很棒	那這裡他講說法院在解決某些問題很棒，	punct/segment-end
+01:33:11,340	但是不是解決所有的問題都很棒	但是不是解決所有的問題都很棒，	punct/segment-end
+01:33:14,560	對某些問題他毫無能為力	對某些問題他毫無能為力，	punct/segment-end
+01:33:17,200	Technically技術上講	Technically 技術上講	spacing/pangu
+01:33:17,200	Technically 技術上講	Technically 技術上講，	punct/segment-end
+01:33:21,830	我們用權力這個術語	我們用權力這個術語，	punct/segment-end
+01:33:25,160	去指涉	去指涉，	punct/segment-end
+01:33:27,610	指涉什麼	指涉什麼，	punct/segment-end
+01:33:29,200	用權力這個字來指涉什麼	用權力這個字來指涉什麼，	punct/segment-end
+01:33:34,070	指涉法院通常會決定的問題	指涉法院通常會決定的問題，	punct/segment-end
+01:33:37,870	可以吧	可以吧，	punct/segment-end
+01:33:43,290	你的意思	你的意思，	punct/segment-end
+01:33:44,340	你的問題是	你的問題是，	punct/segment-end
+01:33:45,320	你的這個困難是出在characteristically the side	你的這個困難是出在 characteristically the side	spacing/pangu
+01:33:45,320	你的這個困難是出在 characteristically the side	你的這個困難是出在 characteristically the side，	punct/segment-end
+01:33:49,550	你把它翻成通常決定	你把它翻成通常決定，	punct/segment-end
+01:33:51,190	因為	因為，	punct/segment-end
+01:33:54,860	因為繼續繼續	因為繼續繼續，	punct/segment-end
+01:33:56,440	你不要看我	你不要看我，	punct/segment-end
+01:33:57,280	慢慢往下看	慢慢往下看，	punct/segment-end
+01:33:58,220	繼續因為	繼續因為，	punct/segment-end
+01:34:07,350	原告他認為他有一個權利的主張	原告他認為他有一個權利的主張，	punct/segment-end
+01:34:11,210	應該在法院裡面被廳審	應該在法院裡面被廳審，	punct/segment-end
+01:34:14,180	But, but,繼續	But, but,繼續，	punct/segment-end
+01:34:33,180	但是 Longfuller好像不是當然這麼認為	但是 Longfuller 好像不是當然這麼認為	spacing/pangu
+01:34:33,180	但是 Longfuller 好像不是當然這麼認為	但是 Longfuller 好像不是當然這麼認為，	punct/segment-end
+01:34:38,880	你可能會說權力	你可能會說權力，	punct/segment-end
+01:34:41,540	權力就是指的呢	權力就是指的呢，	punct/segment-end
+01:34:43,360	原告有權力提出他的主張	原告有權力提出他的主張，	punct/segment-end
+01:34:46,810	然後讓法院來聽審	然後讓法院來聽審，	punct/segment-end
+01:34:50,020	這就是我們為什麼講的權力	這就是我們為什麼講的權力，	punct/segment-end
+01:34:52,260	但是如果照了觀察呢	但是如果照了觀察呢，	punct/segment-end
+01:34:55,190	他說也許是這樣子	他說也許是這樣子，	punct/segment-end
+01:34:57,730	但是我們不能說	但是我們不能說，	punct/segment-end
+01:34:59,980	那法院就一定是有關於權力主張適當場所	那法院就一定是有關於權力主張適當場所，	punct/segment-end
+01:35:09,530	換句話講你要主張權力	換句話講你要主張權力，	punct/segment-end
+01:35:11,730	除了法院之外也有可能別的地方	除了法院之外也有可能別的地方，	punct/segment-end
+01:35:15,070	不是說只有紀念	不是說只有紀念，	punct/segment-end
+01:35:24,200	聽得懂嗎	聽得懂嗎，	punct/segment-end
+01:35:26,160	有一些權力的主張是具有雙面性	有一些權力的主張是具有雙面性，	punct/segment-end
+01:35:30,410	就是兩兆當事人	就是兩兆當事人，	punct/segment-end
+01:35:33,240	有一些是具有 multifaceted	有一些是具有 multifaceted，	punct/segment-end
+01:35:38,030	多面性多方的	多面性多方的，	punct/segment-end
+01:35:41,260	前面兩兆當事人	前面兩兆當事人，	punct/segment-end
+01:35:44,410	那你可以說A跟B	那你可以說 A 跟 B	spacing/pangu
+01:35:44,410	那你可以說 A 跟 B	那你可以說 A 跟 B，	punct/segment-end
+01:35:46,260	誰有權力誰贏誰輸	誰有權力誰贏誰輸，	punct/segment-end
+01:35:47,920	這是債權人債務人	這是債權人債務人，	punct/segment-end
+01:35:49,540	哪一個是債權人是債務人	哪一個是債權人是債務人，	punct/segment-end
+01:35:51,230	但是你多方的時候呢	但是你多方的時候呢，	punct/segment-end
+01:35:53,000	這個時候法院就不是很有能力	這個時候法院就不是很有能力，	punct/segment-end
+01:35:56,240	那你先去想想看	那你先去想想看，	punct/segment-end
+01:35:58,670	我們講到基本人權的時候	我們講到基本人權的時候，	punct/segment-end
+01:36:00,690	他真正的只是原告跟被告兩方	他真正的只是原告跟被告兩方，	punct/segment-end
+01:36:03,270	那如果是多方的時候	那如果是多方的時候，	punct/segment-end
+01:36:06,440	法院你還覺得你很有能力嗎	法院你還覺得你很有能力嗎，	punct/segment-end
+01:36:08,350	在這裡面他已經暗示了好幾遍	在這裡面他已經暗示了好幾遍，	punct/segment-end
+01:36:10,910	法院能是比較適合	法院能是比較適合，	punct/segment-end
+01:36:13,380	我覺得我不能說	我覺得我不能說，	punct/segment-end
+01:36:14,680	我沒有看到名文	我沒有看到名文，	punct/segment-end
+01:36:16,010	但是我感覺他已經在暗示你	但是我感覺他已經在暗示你，	punct/segment-end
+01:36:17,920	法院說的是	法院說的是，	punct/segment-end
+01:36:19,120	法院適合做的事情是	法院適合做的事情是，	punct/segment-end
+01:36:22,510	然後呢,上面剛才前面還有一個字	然後呢，上面剛才前面還有一個字	punct/width
+01:36:22,510	然後呢，上面剛才前面還有一個字	然後呢，上面剛才前面還有一個字，	punct/segment-end
+01:36:25,700	Advisor,Adversarial,Adversarial,兩兆真兇事	Advisor,Adversarial,Adversarial,兩兆真兇事，	punct/segment-end
+01:36:32,640	剛才那個字你念錯,我有糾正你在哪裡	剛才那個字你念錯，我有糾正你在哪裡	punct/width
+01:36:32,640	剛才那個字你念錯，我有糾正你在哪裡	剛才那個字你念錯，我有糾正你在哪裡，	punct/segment-end
+01:36:35,120	Adversarial,剛才你念錯,我有糾正你在哪裡	Adversarial,剛才你念錯，我有糾正你在哪裡	punct/width
+01:36:35,120	Adversarial,剛才你念錯，我有糾正你在哪裡	Adversarial,剛才你念錯，我有糾正你在哪裡，	punct/segment-end
+01:36:40,640	這道嗎,我們知道太多了	這道嗎，我們知道太多了	punct/width
+01:36:40,640	這道嗎，我們知道太多了	這道嗎，我們知道太多了，	punct/segment-end
+01:36:49,170	好了,我找到了,今天請我示範	好了，我找到了，今天請我示範	punct/width
+01:36:49,170	好了，我找到了，今天請我示範	好了，我找到了，今天請我示範，	punct/segment-end
+01:36:53,300	第363頁,告訴第三方	第363頁，告訴第三方	punct/width
+01:36:53,300	第363頁，告訴第三方	第 363 頁，告訴第三方	spacing/pangu
+01:36:53,300	第 363 頁，告訴第三方	第 363 頁，告訴第三方，	punct/segment-end
+01:36:59,440	這是不是一再出現	這是不是一再出現，	punct/segment-end
+01:37:07,740	法院是不是都是這樣子	法院是不是都是這樣子，	punct/segment-end
+01:37:10,490	兩兆徵送式	兩兆徵送式，	punct/segment-end
+01:37:12,070	兩兆又是徵送的	兩兆又是徵送的，	punct/segment-end
+01:37:14,330	這種比較適合法院	這種比較適合法院，	punct/segment-end
+01:37:15,750	那如果是多面向的	那如果是多面向的，	punct/segment-end
+01:37:17,500	是多兆的	是多兆的，	punct/segment-end
+01:37:18,330	那你叫法院怎麼辦	那你叫法院怎麼辦，	punct/segment-end
+01:37:20,230	你們自己去想想看	你們自己去想想看，	punct/segment-end
+01:37:22,590	我們在臺灣講	我們在臺灣講，	punct/segment-end
+01:37:23,790	大陸法系的話會說	大陸法系的話會說，	punct/segment-end
+01:37:26,230	哎呀功能最適合理論	哎呀功能最適合理論，	punct/segment-end
+01:37:27,750	這個功能最適合哪個機構	這個功能最適合哪個機構，	punct/segment-end
+01:37:29,990	可是我們常常很少去討論	可是我們常常很少去討論，	punct/segment-end
+01:37:32,870	那你的功能最適合定義是什麼	那你的功能最適合定義是什麼，	punct/segment-end
+01:37:36,380	法院適合做什麼	法院適合做什麼，	punct/segment-end
+01:37:37,710	立馬者適合做什麼	立馬者適合做什麼，	punct/segment-end
+01:37:39,190	其他部門適合做什麼	其他部門適合做什麼，	punct/segment-end
+01:37:40,830	講話有聽懂嗎	講話有聽懂嗎，	punct/segment-end
+01:37:43,650	我不知道我沒怎麼講,我的意思是,我沒有否定誰講對誰說的錯	我不知道我沒怎麼講，我的意思是，我沒有否定誰講對誰說的錯	punct/width
+01:37:43,650	我不知道我沒怎麼講，我的意思是，我沒有否定誰講對誰說的錯	我不知道我沒怎麼講，我的意思是，我沒有否定誰講對誰說的錯，	punct/segment-end
+01:37:51,700	我只是覺得,你們應該要在比較線法的這些課程活動裡面	我只是覺得，你們應該要在比較線法的這些課程活動裡面	punct/width
+01:37:51,700	我只是覺得，你們應該要在比較線法的這些課程活動裡面	我只是覺得，你們應該要在比較線法的這些課程活動裡面，	punct/segment-end
+01:37:57,430	去把不同地方學到的東西,有意識的,有意識的,我想到它們把它串組起來	去把不同地方學到的東西，有意識的，有意識的，我想到它們把它串組起來	punct/width
+01:37:57,430	去把不同地方學到的東西，有意識的，有意識的，我想到它們把它串組起來	去把不同地方學到的東西，有意識的，有意識的，我想到它們把它串組起來，	punct/segment-end
+01:38:04,560	然後你們將來用了之後,會比較容易融會貫通	然後你們將來用了之後，會比較容易融會貫通	punct/width
+01:38:04,560	然後你們將來用了之後，會比較容易融會貫通	然後你們將來用了之後，會比較容易融會貫通，	punct/segment-end
+01:38:09,450	好,來,It's tempting,下一段	好，來，It's tempting,下一段	punct/width
+01:38:09,450	好，來，It's tempting,下一段	好，來，It's tempting,下一段，	punct/segment-end
+01:38:21,950	好像有這樣的傾向	好像有這樣的傾向，	punct/segment-end
+01:38:23,510	我們會把跟結果相關的理由	我們會把跟結果相關的理由，	punct/segment-end
+01:38:27,590	把它跟違憲審查在一起	把它跟違憲審查在一起，	punct/segment-end
+01:38:30,400	然後呢	然後呢，	punct/segment-end
+01:38:31,920	說跟程序相關的呢	說跟程序相關的呢，	punct/segment-end
+01:38:33,980	我們就反對違憲審查	我們就反對違憲審查，	punct/segment-end
+01:38:35,580	他說呢	他說呢，	punct/segment-end
+01:38:37,860	不對	不對，	punct/segment-end
+01:38:59,330	因為要講因為程序上的理由	因為要講因為程序上的理由，	punct/segment-end
+01:39:02,720	通常我們強調的是我要參加我要參加	通常我們強調的是我要參加我要參加，	punct/segment-end
+01:39:06,150	那你會把它跟所謂的選舉和代議機構連在一起	那你會把它跟所謂的選舉和代議機構連在一起，	punct/segment-end
+01:39:11,610	所以你通常會以司法因為只限於當事人	所以你通常會以司法因為只限於當事人，	punct/segment-end
+01:39:18,280	所以他沒有辦法讓大家廣泛的參與	所以他沒有辦法讓大家廣泛的參與，	punct/segment-end
+01:39:20,730	會用這個理由去反對危險時差	會用這個理由去反對危險時差，	punct/segment-end
+01:39:23,360	但是從結果的觀點來看	但是從結果的觀點來看，	punct/segment-end
+01:39:25,890	你會認為結果有關的應該是支持司法時差	你會認為結果有關的應該是支持司法時差，	punct/segment-end
+01:39:29,550	說這個是錯的	說這個是錯的，	punct/segment-end
+01:39:43,230	你不能反過來講	你不能反過來講，	punct/segment-end
+01:39:44,450	再加一句	再加一句，	punct/segment-end
+01:39:49,650	它兩個方向它都有	它兩個方向它都有，	punct/segment-end
+01:39:52,240	結果相關的理由而言	結果相關的理由而言，	punct/segment-end
+01:39:56,830	它有時支持危險時差	它有時支持危險時差，	punct/segment-end
+01:40:00,220	有時反對危險生產	有時反對危險生產，	punct/segment-end
+01:40:02,910	不能假設所	不能假設所，	punct/segment-end
+01:40:04,920	這個一定是支持的	這個一定是支持的，	punct/segment-end
+01:40:06,600	這個一定是反對的	這個一定是反對的，	punct/segment-end
+01:40:07,740	不是這樣的	不是這樣的，	punct/segment-end
+01:40:08,660	下面他舉了很多	下面他舉了很多，	punct/segment-end
+01:40:09,820	Rance講的一些話	Rance 講的一些話	spacing/pangu
+01:40:09,820	Rance 講的一些話	Rance 講的一些話，	punct/segment-end
+01:40:11,460	講的一些什麼理由	講的一些什麼理由，	punct/segment-end
+01:40:13,080	我們來看一下	我們來看一下，	punct/segment-end
+01:40:14,200	你喜歡講案子	你喜歡講案子，	punct/segment-end
+01:40:15,080	我們講案子1377	我們講案子 1377	spacing/pangu
+01:40:15,080	我們講案子 1377	我們講案子 1377，	punct/segment-end
+01:40:16,240	這裡有好幾個案子	這裡有好幾個案子，	punct/segment-end
+01:40:17,660	是嗎	是嗎，	punct/segment-end
+01:40:20,130	就是他那個角柱	就是他那個角柱，	punct/segment-end
+01:40:27,130	可能82就可以	可能 82 就可以	spacing/pangu
+01:40:27,130	可能 82 就可以	可能 82 就可以，	punct/segment-end
+01:40:37,150	假如你認為	假如你認為，	punct/segment-end
+01:40:41,800	立法者他不能免俗	立法者他不能免俗，	punct/segment-end
+01:40:45,170	會受到很多社會的壓力	會受到很多社會的壓力，	punct/segment-end
+01:40:47,380	那你認為	那你認為，	punct/segment-end
+01:40:48,870	立法者就可以免俗嗎	立法者就可以免俗嗎，	punct/segment-end
+01:40:51,280	那剛才下面他講了	那剛才下面他講了，	punct/segment-end
+01:40:54,630	這個是有名的案子	這個是有名的案子，	punct/segment-end
+01:40:56,520	在小柱82裡面	在小柱 82 裡面	spacing/pangu
+01:40:56,520	在小柱 82 裡面	在小柱 82 裡面，	punct/segment-end
+01:40:58,190	說什麼	說什麼，	punct/segment-end
+01:41:00,770	說什麼	說什麼，	punct/segment-end
+01:41:03,170	講掛鼓	講掛鼓，	punct/segment-end
+01:41:05,250	就是	就是，	punct/segment-end
+01:41:07,080	拒絕	拒絕，	punct/segment-end
+01:41:22,360	日本人的後代	日本人的後代，	punct/segment-end
+01:41:28,890	你們知道	你們知道，	punct/segment-end
+01:41:34,470	二次世界大戰剛開始	二次世界大戰剛開始，	punct/segment-end
+01:41:36,760	尤其是珍珠港被摳襲了以後	尤其是珍珠港被摳襲了以後，	punct/segment-end
+01:41:38,900	美國人對於日裔的美國人都非常懷疑	美國人對於日裔的美國人都非常懷疑，	punct/segment-end
+01:41:41,710	因為這些日本人效忠於他的電話	因為這些日本人效忠於他的電話，	punct/segment-end
+01:41:44,470	就把他們通通裝去關起來	就把他們通通裝去關起來，	punct/segment-end
+01:41:46,490	是另外的美國式的集中營	是另外的美國式的集中營，	punct/segment-end
+01:41:49,140	這個事情一直到好久好久好久以後	這個事情一直到好久好久好久以後，	punct/segment-end
+01:41:53,080	才有黑場	才有黑場，	punct/segment-end
+01:41:54,100	那你剛剛不是說司法是不會受到壓力的嗎	那你剛剛不是說司法是不會受到壓力的嗎，	punct/segment-end
+01:42:02,950	司法是可以不受到世俗壓力的嗎	司法是可以不受到世俗壓力的嗎，	punct/segment-end
+01:42:06,210	只有立法者因為有選人的壓力	只有立法者因為有選人的壓力，	punct/segment-end
+01:42:08,620	所以立法者會做一些優俗或者免俗的決定嗎	所以立法者會做一些優俗或者免俗的決定嗎，	punct/segment-end
+01:42:12,460	不會啊	不會啊，	punct/segment-end
+01:42:13,420	那你跟我解釋一下	那你跟我解釋一下，	punct/segment-end
+01:42:14,660	CORROMA組怎麼把這些人都關掉那麼久	CORROMA 組怎麼把這些人都關掉那麼久	spacing/pangu
+01:42:14,660	CORROMA 組怎麼把這些人都關掉那麼久	CORROMA 組怎麼把這些人都關掉那麼久，	punct/segment-end
+01:42:16,930	關到二次大戰截後我們把它放掉	關到二次大戰截後我們把它放掉，	punct/segment-end
+01:42:20,340	聽懂沒有聽懂	聽懂沒有聽懂，	punct/segment-end
+01:42:21,910	美國有拍一些騙子講他們	美國有拍一些騙子講他們，	punct/segment-end
+01:42:24,810	然後Shank 繼續	然後 Shank 繼續	spacing/pangu
+01:42:24,810	然後 Shank 繼續	然後 Shank 繼續，	punct/segment-end
+01:42:26,490	第二名案子 Fox or Shank versus Lewis	第二名案子 Fox or Shank versus Lewis，	punct/segment-end
+01:42:35,010	什麼叫conscription	什麼叫 conscription	spacing/pangu
+01:42:35,010	什麼叫 conscription	什麼叫 conscription，	punct/segment-end
+01:42:36,380	增兵制	增兵制，	punct/segment-end
+01:42:37,500	繼續	繼續，	punct/segment-end
+01:42:46,000	這個 這一句話是我覺得寫的最好	這個 這一句話是我覺得寫的最好，	punct/segment-end
+01:42:48,890	什麼意思 有沒有人可以解釋一下	什麼意思 有沒有人可以解釋一下，	punct/segment-end
+01:42:51,810	這個人可以 這個人答得出來	這個人可以 這個人答得出來，	punct/segment-end
+01:42:54,500	表示你的憲法知識 非常好	表示你的憲法知識 非常好，	punct/segment-end
+01:42:56,540	知識 非常好	知識 非常好，	punct/segment-end
+01:42:59,390	這個 美國有一個很有名的大法官叫Holmes	這個 美國有一個很有名的大法官叫 Holmes	spacing/pangu
+01:42:59,390	這個 美國有一個很有名的大法官叫 Holmes	這個 美國有一個很有名的大法官叫 Holmes，	punct/segment-end
+01:43:05,700	他說言論自由保障的人有發言的權力	他說言論自由保障的人有發言的權力，	punct/segment-end
+01:43:10,790	但是不是條件	但是不是條件，	punct/segment-end
+01:43:12,490	請問人可以在戲院就是昏暗的情況下	請問人可以在戲院就是昏暗的情況下，	punct/segment-end
+01:43:19,390	謊稱失火嗎	謊稱失火嗎，	punct/segment-end
+01:43:22,270	可以這樣嗎	可以這樣嗎，	punct/segment-end
+01:43:23,450	所以當然不可以啊	所以當然不可以啊，	punct/segment-end
+01:43:25,760	所以呢	所以呢，	punct/segment-end
+01:43:27,800	所以你在一次世界大戰期間	所以你在一次世界大戰期間，	punct/segment-end
+01:43:31,810	你可以批評徵兵嗎	你可以批評徵兵嗎，	punct/segment-end
+01:43:33,970	一次世界大戰批評徵兵	一次世界大戰批評徵兵，	punct/segment-end
+01:43:36,920	就相當於一個人在黑暗的戲院當中	就相當於一個人在黑暗的戲院當中，	punct/segment-end
+01:43:40,750	謊稱失火一樣	謊稱失火一樣，	punct/segment-end
+01:43:41,890	這不是言論自由保障的範圍	這不是言論自由保障的範圍，	punct/segment-end
+01:43:44,110	聽起來是不是很不小	聽起來是不是很不小，	punct/segment-end
+01:43:46,320	誒,這好像事情也會發生啊	誒，這好像事情也會發生啊	punct/width
+01:43:46,320	誒，這好像事情也會發生啊	誒，這好像事情也會發生啊，	punct/segment-end
+01:43:49,920	最近一個照片啊,掐了那個總統的什麼就把他趕出去	最近一個照片啊，掐了那個總統的什麼就把他趕出去	punct/width
+01:43:49,920	最近一個照片啊，掐了那個總統的什麼就把他趕出去	最近一個照片啊，掐了那個總統的什麼就把他趕出去，	punct/segment-end
+01:43:54,330	那他也沒有言論自由啊,聽得懂嗎?	那他也沒有言論自由啊，聽得懂嗎？	punct/width
+01:43:59,850	言論自由包含	言論自由包含，	punct/segment-end
+01:44:02,720	Strake Scott,來	Strake Scott,來，	punct/segment-end
+01:44:07,420	這兩個人一起的,來繼續	這兩個人一起的，來繼續	punct/width
+01:44:07,420	這兩個人一起的，來繼續	這兩個人一起的，來繼續，	punct/segment-end
+01:44:16,040	說什麼,說什麼	說什麼，說什麼	punct/width
+01:44:16,040	說什麼，說什麼	說什麼，說什麼，	punct/segment-end
+01:44:17,890	簡單來講就是認為他們不是美國人啦	簡單來講就是認為他們不是美國人啦，	punct/segment-end
+01:44:23,610	他們不受到這個憲法上人的保護	他們不受到這個憲法上人的保護，	punct/segment-end
+01:44:29,010	抓了他們送回給他們的歷史財產	抓了他們送回給他們的歷史財產，	punct/segment-end
+01:44:37,610	這几案子都是美國憲法上的嚴重點	這几案子都是美國憲法上的嚴重點，	punct/segment-end
+01:44:42,670	好啦	好啦，	punct/segment-end
+01:44:43,300	他舉這個例子意思已經講完了	他舉這個例子意思已經講完了，	punct/segment-end
+01:44:45,880	你們不是說從結果觀點來講	你們不是說從結果觀點來講，	punct/segment-end
+01:44:51,080	並比較好嗎	並比較好嗎，	punct/segment-end
+01:44:52,310	因為必法則不能免俗啊	因為必法則不能免俗啊，	punct/segment-end
+01:44:55,200	有壓力啊	有壓力啊，	punct/segment-end
+01:44:56,300	或向社會投降啊	或向社會投降啊，	punct/segment-end
+01:44:58,160	那你現在回答我這幾個最高法院的案子	那你現在回答我這幾個最高法院的案子，	punct/segment-end
+01:45:01,720	是不是也有壓力	是不是也有壓力，	punct/segment-end
+01:45:02,860	是不是下次會跟我講	是不是下次會跟我講，	punct/segment-end
+01:45:04,510	為什麼要做這樣的局勢	為什麼要做這樣的局勢，	punct/segment-end
+01:45:06,540	好	好，	punct/segment-end
+01:45:08,630	第三七八頁	第三七八頁，	punct/segment-end
+01:45:12,300	有沒有要講的	有沒有要講的，	punct/segment-end
+01:45:15,560	我後面更多	我後面更多，	punct/segment-end
+01:45:17,240	好	好，	punct/segment-end
+01:45:18,000	隨便你隨便你	隨便你隨便你，	punct/segment-end
+01:45:18,940	下面多你講來	下面多你講來，	punct/segment-end
+01:45:20,670	那為什麼有一二三四	那為什麼有一二三四，	punct/segment-end
+01:45:22,270	三七九月講什麼	三七九月講什麼，	punct/segment-end
+01:45:26,840	你如果不再多回答我的問題	你如果不再多回答我的問題，	punct/segment-end
+01:45:29,430	大概都跳完了	大概都跳完了，	punct/segment-end
+01:45:31,250	一三七九	一三七九，	punct/segment-end
+01:45:33,800	三	三，	punct/segment-end
+01:45:36,640	謝謝他就是	謝謝他就是，	punct/segment-end
+01:45:39,290	他說有三個	他說有三個，	punct/segment-end
+01:45:41,040	有三個優點	有三個優點，	punct/segment-end
+01:45:42,120	優點	優點，	punct/segment-end
+01:45:43,330	有的時候呢	有的時候呢，	punct/segment-end
+01:45:44,940	有的時候	有的時候，	punct/segment-end
+01:45:48,040	有人認為	有人認為，	punct/segment-end
+01:45:49,310	違線審查	違憲審查	correction_map/違憲審查
+01:45:49,310	有法院來進行違憲審查	有法院來進行違憲審查，	punct/segment-end
+01:45:52,530	會具有下面三個優點	會具有下面三個優點，	punct/segment-end
+01:45:54,500	第一	第一，	punct/segment-end
+01:46:07,020	B. 權力的增典送到法院的呈現	B. 權力的增典送到法院的呈現，	punct/segment-end
+01:46:12,670	呈現到法院的時候	呈現到法院的時候，	punct/segment-end
+01:46:14,290	是在一個具體個案的情境下送進去	是在一個具體個案的情境下送進去，	punct/segment-end
+01:46:17,910	所以下面的1393的A	所以下面的 1393 的 A	spacing/pangu
+01:46:17,910	所以下面的 1393 的 A	所以下面的 1393 的 A，	punct/segment-end
+01:46:20,310	叫做Orientation to particular cases	叫做 Orientation to particular cases	spacing/pangu
+01:46:20,310	叫做 Orientation to particular cases	叫做 Orientation to particular cases，	punct/segment-end
+01:46:23,960	我把它翻成叫做個案導向	我把它翻成叫做個案導向，	punct/segment-end
+01:46:27,070	導向於個案	導向於個案，	punct/segment-end
+01:46:28,510	聽得懂嗎	聽得懂嗎，	punct/segment-end
+01:46:30,600	原告告進來是不是有個個案	原告告進來是不是有個個案，	punct/segment-end
+01:46:33,720	臺灣我已經講過了	臺灣我已經講過了，	punct/segment-end
+01:46:35,820	危險審查	違憲審查	correction_map/違憲審查
+01:46:35,820	因為我們是抽象違憲審查	因為我們是抽象違憲審查，	punct/segment-end
+01:46:37,240	一個機關來申請	一個機關來申請，	punct/segment-end
+01:46:38,590	他也是有個案	他也是有個案，	punct/segment-end
+01:46:39,810	但是他不限於這個個案	但是他不限於這個個案，	punct/segment-end
+01:46:41,210	他問的也不是這個法條在個案的適用	他問的也不是這個法條在個案的適用，	punct/segment-end
+01:46:44,050	他要的是你把這個法條整個決告危險	他要的是你把這個法條整個決告危險，	punct/segment-end
+01:46:46,610	這是另外一件事	這是另外一件事，	punct/segment-end
+01:46:47,870	但是在美國你一定是一個個案才能進來	但是在美國你一定是一個個案才能進來，	punct/segment-end
+01:46:51,360	否則就不是我司法權的範圍	否則就不是我司法權的範圍，	punct/segment-end
+01:46:54,400	所以這當然是個案導向	所以這當然是個案導向，	punct/segment-end
+01:46:56,190	那這個他認為是對法院主張	那這個他認為是對法院主張，	punct/segment-end
+01:46:59,050	危險審查	違憲審查	correction_map/違憲審查
+01:46:59,050	我們應該給法院違憲審查	我們應該給法院違憲審查，	punct/segment-end
+01:47:00,990	因為我們從結果來看	因為我們從結果來看，	punct/segment-end
+01:47:02,960	現在我們是講結果嘛,這個是好的,那為什麼結果是好的呢,看1380頁,它對這裡看你去看,有沒有,1380頁B的前面,	現在我們是講結果嘛，這個是好的，那為什麼結果是好的呢，看1380頁，它對這裡看你去看，有沒有，1380頁B的前面，	punct/width
+01:47:02,960	現在我們是講結果嘛，這個是好的，那為什麼結果是好的呢，看1380頁，它對這裡看你去看，有沒有，1380頁B的前面，	現在我們是講結果嘛，這個是好的，那為什麼結果是好的呢，看 1380 頁，它對這裡看你去看，有沒有，1380 頁 B 的前	spacing/pangu
+01:47:16,250	危險審查	違憲審查	correction_map/違憲審查
+01:47:16,250	你們認為個案導向是比較適合由違憲審查機關、司法機關來進行的	你們認為個案導向是比較適合由違憲審查機關、司法機關來進行的，	punct/segment-end
+01:47:43,720	但是如果我們從權力的觀點來看	但是如果我們從權力的觀點來看，	punct/segment-end
+01:47:46,620	我們要知道這個權力的爭議	我們要知道這個權力的爭議，	punct/segment-end
+01:47:48,850	那這個爭議要怎麼消除	那這個爭議要怎麼消除，	punct/segment-end
+01:47:50,430	你不是只要考慮個案兩個人	你不是只要考慮個案兩個人，	punct/segment-end
+01:47:52,570	要考慮到全面	要考慮到全面，	punct/segment-end
+01:47:54,090	所以他認為	所以他認為，	punct/segment-end
+01:47:54,810	你這個個案導向	你這個個案導向，	punct/segment-end
+01:47:56,100	其實不是優點	其實不是優點，	punct/segment-end
+01:47:57,060	好	好，	punct/segment-end
+01:47:57,650	B 第二個優點	B 第二個優點，	punct/segment-end
+01:47:58,810	違線審查	違憲審查	correction_map/違憲審查
+01:47:58,810	對於違憲審查來講	對於違憲審查來講，	punct/segment-end
+01:48:01,440	違線審查	違憲審查	correction_map/違憲審查
+01:48:01,440	你喜歡違憲審查	你喜歡違憲審查，	punct/segment-end
+01:48:02,580	第二個結果上的理由	第二個結果上的理由，	punct/segment-end
+01:48:05,570	人權清單導向	人權清單導向，	punct/segment-end
+01:48:11,660	這句話什麼意思	這句話什麼意思，	punct/segment-end
+01:48:13,280	用講的就好像是很複雜	用講的就好像是很複雜，	punct/segment-end
+01:48:14,960	就是他覺得人權清單	就是他覺得人權清單，	punct/segment-end
+01:48:18,440	是用書面去	是用書面去，	punct/segment-end
+01:48:21,100	你現在要講的是1381嗎	你現在要講的是 1381 嗎	spacing/pangu
+01:48:21,100	你現在要講的是 1381 嗎	你現在要講的是 1381 嗎，	punct/segment-end
+01:48:28,670	你想要講這個嗎	你想要講這個嗎，	punct/segment-end
+01:48:30,170	你為什麼要講書面	你為什麼要講書面，	punct/segment-end
+01:48:31,580	是這個意思嗎	是這個意思嗎，	punct/segment-end
+01:48:32,400	對	對，	punct/segment-end
+01:48:32,820	對啊	對啊，	punct/segment-end
+01:48:34,320	好來看一下	好來看一下，	punct/segment-end
+01:48:38,520	為什麼 is that	為什麼 is that，	punct/segment-end
+01:48:50,280	把這幾個字圈起來	把這幾個字圈起來，	punct/segment-end
+01:48:51,720	抽象的權利爭點	抽象的權利爭點，	punct/segment-end
+01:48:57,200	就是一個被文字固定下來的權利法案	就是一個被文字固定下來的權利法案，	punct/segment-end
+01:49:06,690	它就是已經是一個抽象者	它就是已經是一個抽象者，	punct/segment-end
+01:49:08,930	可以有助於爭議的人	可以有助於爭議的人，	punct/segment-end
+01:49:10,910	可以有助於爭議的人	可以有助於爭議的人，	punct/segment-end
+01:49:13,170	關注到那些抽象的權利問題	關注到那些抽象的權利問題，	punct/segment-end
+01:49:17,490	對這個意思	對這個意思，	punct/segment-end
+01:49:19,500	我們不是要講這個權利有還是沒有	我們不是要講這個權利有還是沒有，	punct/segment-end
+01:49:22,650	這個權利的範圍邊界等等	這個權利的範圍邊界等等，	punct/segment-end
+01:49:24,710	這就是抽象的問題	這就是抽象的問題，	punct/segment-end
+01:49:26,160	這不是個案的問題	這不是個案的問題，	punct/segment-end
+01:49:27,280	不是個別的問題	不是個別的問題，	punct/segment-end
+01:49:32,010	但是另外一面也有情有念力	但是另外一面也有情有念力，	punct/segment-end
+01:49:34,540	所以看起來好像也不是這樣子	所以看起來好像也不是這樣子，	punct/segment-end
+01:49:38,710	那1382頁那裡面有講到	那 1382 頁那裡面有講到	spacing/pangu
+01:49:38,710	那 1382 頁那裡面有講到	那 1382 頁那裡面有講到，	punct/segment-end
+01:49:42,390	你把它放到人權清單	你把它放到人權清單，	punct/segment-end
+01:49:45,640	那這時候還會出現的問題是	那這時候還會出現的問題是，	punct/segment-end
+01:49:47,870	人權清單裡面的權利	人權清單裡面的權利，	punct/segment-end
+01:49:49,410	有可能1382頁第四行	有可能 1382 頁第四行	spacing/pangu
+01:49:49,410	有可能 1382 頁第四行	有可能 1382 頁第四行，	punct/segment-end
+01:49:52,420	是positive rights和negative rights的問題	是 positive rights 和 negative rights 的問題	spacing/pangu
+01:49:52,420	是 positive rights 和 negative rights 的問題	是 positive rights 和 negative rights 的問題，	punct/segment-end
+01:49:56,830	positive rights你可以把它分成經濟權	positive rights 你可以把它分成經濟權	spacing/pangu
+01:49:56,830	positive rights 你可以把它分成經濟權	positive rights 你可以把它分成經濟權，	punct/segment-end
+01:49:59,350	也就是所謂的經濟社會權	也就是所謂的經濟社會權，	punct/segment-end
+01:50:01,340	要求國家要給我什麼東西	要求國家要給我什麼東西，	punct/segment-end
+01:50:03,760	做什麼東西 拿什麼東西給我	做什麼東西 拿什麼東西給我，	punct/segment-end
+01:50:06,360	他們自由權要求國家不要開設	他們自由權要求國家不要開設，	punct/segment-end
+01:50:09,980	那這兩個權力	那這兩個權力，	punct/segment-end
+01:50:12,360	你認為當我們把他交給法院去解釋會	你認為當我們把他交給法院去解釋會，	punct/segment-end
+01:50:16,080	危險審查	違憲審查	correction_map/違憲審查
+01:50:16,080	你認為支持違憲審查的時候	你認為支持違憲審查的時候，	punct/segment-end
+01:50:18,240	他的結果或者他的強度會是這樣的嗎	他的結果或者他的強度會是這樣的嗎，	punct/segment-end
+01:50:21,100	好 第三個	好 第三個，	punct/segment-end
+01:50:23,650	危險審查	違憲審查	correction_map/違憲審查
+01:50:23,650	支持違憲審查	支持違憲審查，	punct/segment-end
+01:50:25,180	因為法院呢	因為法院呢，	punct/segment-end
+01:50:27,000	和說明理由	和說明理由，	punct/segment-end
+01:50:29,900	然後呢	然後呢，	punct/segment-end
+01:50:31,270	作者認為法院是有說明理由	作者認為法院是有說明理由，	punct/segment-end
+01:50:33,990	不過	不過，	punct/segment-end
+01:50:34,510	不過	不過，	punct/segment-end
+01:50:35,870	那個說明的品質	那個說明的品質，	punct/segment-end
+01:50:38,130	可能就是他覺得會有不同的	可能就是他覺得會有不同的，	punct/segment-end
+01:50:42,170	跟理想上有差距嗎	跟理想上有差距嗎，	punct/segment-end
+01:50:46,070	他的意思是說	他的意思是說，	punct/segment-end
+01:50:48,610	這句話真的是比較難解釋的	這句話真的是比較難解釋的，	punct/segment-end
+01:50:51,370	你要找到句子來給我們講	你要找到句子來給我們講，	punct/segment-end
+01:50:53,010	你要想講哪裡	你要想講哪裡，	punct/segment-end
+01:50:54,450	基本上法院是有說明的理由	基本上法院是有說明的理由，	punct/segment-end
+01:51:02,080	但是法院說明的理由	但是法院說明的理由，	punct/segment-end
+01:51:04,220	有助於解決我們大家對於權力的爭議或者分析嗎	有助於解決我們大家對於權力的爭議或者分析嗎，	punct/segment-end
+01:51:10,440	如果看那個1383的最後	如果看那個 1383 的最後	spacing/pangu
+01:51:10,440	如果看那個 1383 的最後	如果看那個 1383 的最後，	punct/segment-end
+01:51:16,810	但是法院會花很多的力去討論先例	但是法院會花很多的力去討論先例，	punct/segment-end
+01:51:32,450	然後這裡還會牽涉到解釋方法	然後這裡還會牽涉到解釋方法，	punct/segment-end
+01:51:36,300	這些枝枝節佔掉了大部分的篇幅	這些枝枝節佔掉了大部分的篇幅，	punct/segment-end
+01:51:40,570	而真正這個權力的本質	而真正這個權力的本質，	punct/segment-end
+01:51:43,970	或者是對關於這個權力的抽象的問題點	或者是對關於這個權力的抽象的問題點，	punct/segment-end
+01:51:48,140	法院卻往有非常少的篇幅	法院卻往有非常少的篇幅，	punct/segment-end
+01:51:51,910	他舉的那個例子就是Role vs Wade	他舉的那個例子就是 Role vs Wade	spacing/pangu
+01:51:51,910	他舉的那個例子就是 Role vs Wade	他舉的那個例子就是 Role vs Wade，	punct/segment-end
+01:51:54,950	你看這句話了嗎	你看這句話了嗎，	punct/segment-end
+01:51:57,340	看到了嗎	看到了嗎，	punct/segment-end
+01:51:58,180	他就比較Role vs Wade	他就比較 Role vs Wade	spacing/pangu
+01:51:58,180	他就比較 Role vs Wade	他就比較 Role vs Wade，	punct/segment-end
+01:51:59,920	他說在法院最高法院的判決裡面	他說在法院最高法院的判決裡面，	punct/segment-end
+01:52:02,840	這個一共有50頁的意見書裡	這個一共有 50 頁的意見書裡	spacing/pangu
+01:52:02,840	這個一共有 50 頁的意見書裡	這個一共有 50 頁的意見書裡，	punct/segment-end
+01:52:07,200	那只有幾個段落	那只有幾個段落，	punct/segment-end
+01:52:10,730	討論到再升職的權力的道德上的重要性	討論到再升職的權力的道德上的重要性，	punct/segment-end
+01:52:17,200	相對於隱私權	相對於隱私權，	punct/segment-end
+01:52:19,680	因為這個Role vs Wade是墮胎嘛	因為這個 Role vs Wade 是墮胎嘛	spacing/pangu
+01:52:19,680	因為這個 Role vs Wade 是墮胎嘛	因為這個 Role vs Wade 是墮胎嘛，	punct/segment-end
+01:52:22,690	那這是不是生殖的重要性 道德上的重要性	那這是不是生殖的重要性 道德上的重要性，	punct/segment-end
+01:52:28,750	跟隱私 這哪個 哪個重哪個 哪個輕	跟隱私 這哪個 哪個重哪個 哪個輕，	punct/segment-end
+01:52:32,320	很像最近有一次八月老師在高雄的演講影片出來	很像最近有一次八月老師在高雄的演講影片出來，	punct/segment-end
+01:52:36,480	就是在講 這個算是基本權的衝突	就是在講 這個算是基本權的衝突，	punct/segment-end
+01:52:40,370	這裡有隱私權 然後有生命權 或者是生殖這樣的頻率	這裡有隱私權 然後有生命權 或者是生殖這樣的頻率，	punct/segment-end
+01:52:46,430	這個怎麼比 這個案子的重點其實是在這裡	這個怎麼比 這個案子的重點其實是在這裡，	punct/segment-end
+01:52:50,530	但是法院只花了很少的篇幅講這個	但是法院只花了很少的篇幅講這個，	punct/segment-end
+01:52:53,950	然後	然後，	punct/segment-end
+01:52:56,480	結論也許你贊成	結論也許你贊成，	punct/segment-end
+01:53:04,490	可是論證其實是很張白的	可是論證其實是很張白的，	punct/segment-end
+01:53:07,340	很有限的	很有限的，	punct/segment-end
+01:53:09,700	所以簡單的講就是	所以簡單的講就是，	punct/segment-end
+01:53:11,520	法院會給你理	法院會給你理，	punct/segment-end
+01:53:12,960	但是法院給的理由	但是法院給的理由，	punct/segment-end
+01:53:14,810	因為種種的考慮	因為種種的考慮，	punct/segment-end
+01:53:16,570	包含法院認為	包含法院認為，	punct/segment-end
+01:53:18,310	它的正當性不足	它的正當性不足，	punct/segment-end
+01:53:19,820	願意跟你公開的討論	願意跟你公開的討論，	punct/segment-end
+01:53:21,850	這個問題的生死	這個問題的生死，	punct/segment-end
+01:53:23,070	它只能跟你講	它只能跟你講，	punct/segment-end
+01:53:25,630	我是哪裡得到的授權	我是哪裡得到的授權，	punct/segment-end
+01:53:26,990	我們以前的先例是怎麼樣	我們以前的先例是怎麼樣，	punct/segment-end
+01:53:29,070	所以我們應該是這樣的解釋	所以我們應該是這樣的解釋，	punct/segment-end
+01:53:30,880	他不能向地法則說	他不能向地法則說，	punct/segment-end
+01:53:34,650	我就是反對	我就是反對，	punct/segment-end
+01:53:35,630	我為什麼什麼什麼反對	我為什麼什麼什麼反對，	punct/segment-end
+01:53:36,950	我就是贊爭	我就是贊爭，	punct/segment-end
+01:53:37,870	我為什麼什麼什麼贊爭	我為什麼什麼什麼贊爭，	punct/segment-end
+01:53:39,230	他不是這樣的	他不是這樣的，	punct/segment-end
+01:53:40,690	所以作者不認為	所以作者不認為，	punct/segment-end
+01:53:42,530	他會覺得交給法院有交	他會覺得交給法院有交，	punct/segment-end
+01:53:46,330	你看哪一段1386頁	你看哪一段 1386 頁	spacing/pangu
+01:53:46,330	你看哪一段 1386 頁	你看哪一段 1386 頁，	punct/segment-end
+01:53:48,650	在回應那個Robert	在回應那個 Robert	spacing/pangu
+01:53:48,650	在回應那個 Robert	在回應那個 Robert，	punct/segment-end
+01:53:54,630	那就是Ronald Dorkin	那就是 Ronald Dorkin	spacing/pangu
+01:53:54,630	那就是 Ronald Dorkin	那就是 Ronald Dorkin，	punct/segment-end
+01:53:56,370	他有一句名言	他有一句名言，	punct/segment-end
+01:53:58,000	他說那法院呢	他說那法院呢，	punct/segment-end
+01:54:00,030	是最是一個forum of council	是最是一個 forum of council	spacing/pangu
+01:54:00,030	是最是一個 forum of council	是最是一個 forum of council，	punct/segment-end
+01:54:04,360	是一個講原則的地點	是一個講原則的地點，	punct/segment-end
+01:54:07,380	找到那句話嗎	找到那句話嗎，	punct/segment-end
+01:54:09,360	找到那個Walking的phrase嗎	找到那個 Walking 的 phrase 嗎	spacing/pangu
+01:54:09,360	找到那個 Walking 的 phrase 嗎	找到那個 Walking 的 phrase 嗎，	punct/segment-end
+01:54:15,120	危險審查	違憲審查	correction_map/違憲審查
+01:54:15,120	第三號我們說法官應該要做違憲審查	第三號我們說法官應該要做違憲審查，	punct/segment-end
+01:54:33,210	那有沒有多胎權應該要回到法院去	那有沒有多胎權應該要回到法院去，	punct/segment-end
+01:54:36,790	因為法院應該被視為是講原則的地方	因為法院應該被視為是講原則的地方，	punct/segment-end
+01:54:45,410	原則的場所	原則的場所，	punct/segment-end
+01:54:48,340	這是Ronald Walking的名言	這是 Ronald Walking 的名言	spacing/pangu
+01:54:48,340	這是 Ronald Walking 的名言	這是 Ronald Walking 的名言，	punct/segment-end
+01:54:50,960	針對這句話	針對這句話，	punct/segment-end
+01:54:53,410	那現在他對比的是	那現在他對比的是，	punct/segment-end
+01:54:56,590	一個是美國聯邦最高法院說墮胎怎樣怎樣	一個是美國聯邦最高法院說墮胎怎樣怎樣，	punct/segment-end
+01:55:00,960	危險審查	違憲審查	correction_map/違憲審查
+01:55:00,960	另外一個是沒有像美國這種違憲審查制度的因果	另外一個是沒有像美國這種違憲審查制度的因果，	punct/segment-end
+01:55:05,000	他們在國會里面針對墮胎的辯論	他們在國會裡面針對墮胎的辯論	opencc/s2tw
+01:55:05,000	他們在國會裡面針對墮胎的辯論	他們在國會裡面針對墮胎的辯論，	punct/segment-end
+01:55:07,620	你覺得誰的說理比較清楚	你覺得誰的說理比較清楚，	punct/segment-end
+01:55:10,110	哪一個說理比較充分	哪一個說理比較充分，	punct/segment-end
+01:55:11,580	講的是這個對比	講的是這個對比，	punct/segment-end
+01:55:15,650	有趣嗎	有趣嗎，	punct/segment-end
+01:55:17,500	然後最後是1386頁他所做的結論	然後最後是 1386 頁他所做的結論	spacing/pangu
+01:55:17,500	然後最後是 1386 頁他所做的結論	然後最後是 1386 頁他所做的結論，	punct/segment-end
+01:55:20,990	有沒有	有沒有，	punct/segment-end
+01:55:22,710	這個正常的數過來	這個正常的數過來，	punct/segment-end
+01:55:25,530	12345678左右	12345678 左右	spacing/pangu
+01:55:25,530	12345678 左右	12345678 左右，	punct/segment-end
+01:55:28,190	儘管Rollard Walking	儘管 Rollard Walking	spacing/pangu
+01:55:28,190	儘管 Rollard Walking	儘管 Rollard Walking，	punct/segment-end
+01:55:30,830	他說Forum of Principles是法院	他說 Forum of Principles 是法院	spacing/pangu
+01:55:30,830	他說 Forum of Principles 是法院	他說 Forum of Principles 是法院，	punct/segment-end
+01:55:46,270	法院的論證都是這種論證	法院的論證都是這種論證，	punct/segment-end
+01:55:49,290	法院很少針對問題核心抽象的來討論說	法院很少針對問題核心抽象的來討論說，	punct/segment-end
+01:55:55,340	做胎是好的還是壞的	做胎是好的還是壞的，	punct/segment-end
+01:55:57,060	我們贊成還是我們反對	我們贊成還是我們反對，	punct/segment-end
+01:55:58,820	因為法院會覺得我們沒有這個基礎講這個話	因為法院會覺得我們沒有這個基礎講這個話，	punct/segment-end
+01:56:03,020	我們也不是民意代表	我們也不是民意代表，	punct/segment-end
+01:56:04,610	這種事情不是哲學家	這種事情不是哲學家，	punct/segment-end
+01:56:06,310	我不是法官	我不是法官，	punct/segment-end
+01:56:07,470	能不能聽懂了	能不能聽懂了，	punct/segment-end
+01:56:09,780	好了 這裡可以了	好了 這裡可以了，	punct/segment-end
+01:56:10,900	來 第五大段	來 第五大段，	punct/segment-end
+01:56:13,440	我要加速了	我要加速了，	punct/segment-end
+01:56:15,140	來 快	來 快，	punct/segment-end
+01:56:16,040	這裡是講什麼	這裡是講什麼，	punct/segment-end
+01:56:17,830	就是程序面	就是程序面，	punct/segment-end
+01:56:19,430	就是像剛剛前面講的那個	就是像剛剛前面講的那個，	punct/segment-end
+01:56:22,000	然後你可以跟我講	然後你可以跟我講，	punct/segment-end
+01:56:23,520	他為什麼認為程序面而言	他為什麼認為程序面而言，	punct/segment-end
+01:56:25,680	也是比較適合由國會	也是比較適合由國會，	punct/segment-end
+01:56:27,560	來做成正義的決定	來做成正義的決定，	punct/segment-end
+01:56:29,810	而不適合由法院	而不適合由法院，	punct/segment-end
+01:56:31,230	這就比較難講了	這就比較難講了，	punct/segment-end
+01:56:33,210	他就設想一個例	他就設想一個例，	punct/segment-end
+01:56:35,350	一個abstract algebra	一個 abstract algebra	spacing/pangu
+01:56:35,350	一個 abstract algebra	一個 abstract algebra，	punct/segment-end
+01:56:39,210	你們大家找到這個字嗎	你們大家找到這個字嗎，	punct/segment-end
+01:56:45,430	說一三八七頁嗎	說一三八七頁嗎，	punct/segment-end
+01:56:48,180	對對對	對對對，	punct/segment-end
+01:56:50,570	他就是舉一個抽象的例子	他就是舉一個抽象的例子，	punct/segment-end
+01:56:55,690	去做寫	去做寫，	punct/segment-end
+01:56:57,630	為了寫作上的方式	為了寫作上的方式，	punct/segment-end
+01:57:00,630	沒關系他舉了什麼例子是重點	沒關系他舉了什麼例子是重點，	punct/segment-end
+01:57:02,960	他就是	他就是，	punct/segment-end
+01:57:03,660	你怎麼記得多名這樣講話這麼抽象	你怎麼記得多名這樣講話這麼抽象，	punct/segment-end
+01:57:06,000	他就是假設說有一群公民	他就是假設說有一群公民，	punct/segment-end
+01:57:10,780	然後有一群公民	然後有一群公民，	punct/segment-end
+01:57:14,350	然後組成一個集合	然後組成一個集合，	punct/segment-end
+01:57:17,000	但是其中的有一部分的人是依據某些程序	但是其中的有一部分的人是依據某些程序，	punct/segment-end
+01:57:22,450	然後他們有能夠做出這種有影響的decision	然後他們有能夠做出這種有影響的 decision	spacing/pangu
+01:57:22,450	然後他們有能夠做出這種有影響的 decision	然後他們有能夠做出這種有影響的 decision，	punct/segment-end
+01:57:29,340	但是如果是在這個決策團體之外的其他的公民	但是如果是在這個決策團體之外的其他的公民，	punct/segment-end
+01:57:36,440	如果就是對先前的做出的	如果就是對先前的做出的，	punct/segment-end
+01:57:42,690	你現在講的這一段呢	你現在講的這一段呢，	punct/segment-end
+01:57:44,390	你需要去處理一個問題	你需要去處理一個問題，	punct/segment-end
+01:57:46,180	看有沒有講到所謂的	看有沒有講到所謂的，	punct/segment-end
+01:57:52,150	我們做一個決定	我們做一個決定，	punct/segment-end
+01:57:54,910	這個決定的程序裡面會牽涉到政治正當性的人	這個決定的程序裡面會牽涉到政治正當性的人，	punct/segment-end
+01:58:00,130	為什麼把我排除啊	為什麼把我排除啊，	punct/segment-end
+01:58:03,280	我沒有排除我需要被拘束啊	我沒有排除我需要被拘束啊，	punct/segment-end
+01:58:06,490	那立法者是比較沒有問題	那立法者是比較沒有問題，	punct/segment-end
+01:58:09,590	一人一票完去選	一人一票完去選，	punct/segment-end
+01:58:10,930	選出來的代表	選出來的代表，	punct/segment-end
+01:58:12,870	然後很多個代表在裡面經過討論	然後很多個代表在裡面經過討論，	punct/segment-end
+01:58:15,630	所以你可以說他不代表你嗎	所以你可以說他不代表你嗎，	punct/segment-end
+01:58:17,860	那司法程序就不一樣啊	那司法程序就不一樣啊，	punct/segment-end
+01:58:20,800	你不是原告你	你不是原告你，	punct/segment-end
+01:58:21,930	不是對考你怎麼參加	不是對考你怎麼參加，	punct/segment-end
+01:58:23,230	怎麼參加	怎麼參加，	punct/segment-end
+01:58:25,460	所以你可以換個角度	所以你可以換個角度，	punct/segment-end
+01:58:29,570	所以大法官或者是抽象違憲審查	所以大法官或者是抽象違憲審查，	punct/segment-end
+01:58:33,850	他也注意到這個問題	他也注意到這個問題，	punct/segment-end
+01:58:35,600	所以他要歡迎法官之流	所以他要歡迎法官之流，	punct/segment-end
+01:58:37,690	請各界提供意見	請各界提供意見，	punct/segment-end
+01:58:39,760	大法官也會指定所謂的	大法官也會指定所謂的，	punct/segment-end
+01:58:43,560	專家學者陳述意見給我們聽	專家學者陳述意見給我們聽，	punct/segment-end
+01:58:49,190	就是我們要知道	就是我們要知道，	punct/segment-end
+01:58:51,190	我們知道這件事影響很多人	我們知道這件事影響很多人，	punct/segment-end
+01:58:53,330	如果只有原告被告	如果只有原告被告，	punct/segment-end
+01:58:54,600	他的程序的觀點來看	他的程序的觀點來看，	punct/segment-end
+01:58:56,980	他的正當性是不足的	他的正當性是不足的，	punct/segment-end
+01:58:58,770	所以讓他打開	所以讓他打開，	punct/segment-end
+01:59:00,110	我這樣講應該可以聽得懂吧	我這樣講應該可以聽得懂吧，	punct/segment-end
+01:59:03,420	我們現在在不同的情景	我們現在在不同的情景，	punct/segment-end
+01:59:05,150	我是用不同的話講給你們聽他講的事情	我是用不同的話講給你們聽他講的事情，	punct/segment-end
+01:59:08,110	好	好，	punct/segment-end
+01:59:08,630	那現在你要告訴我	那現在你要告訴我，	punct/segment-end
+01:59:10,390	這個地方有斯格利亞	這個地方有斯格利亞，	punct/segment-end
+01:59:12,160	他引了很多斯格利亞的話	他引了很多斯格利亞的話，	punct/segment-end
+01:59:13,660	在一三九零頁	在一三九零頁，	punct/segment-end
+01:59:14,980	對不對	對不對，	punct/segment-end
+01:59:16,080	斯格利亞講什麼	斯格利亞講什麼，	punct/segment-end
+01:59:17,310	有沒有	有沒有，	punct/segment-end
+01:59:19,560	他有沒有講斯格利亞	他有沒有講斯格利亞，	punct/segment-end
+01:59:20,660	斯格利亞在這件事情上還算坦白的	斯格利亞在這件事情上還算坦白的，	punct/segment-end
+01:59:23,060	斯格利亞的這個案子	斯格利亞的這個案子，	punct/segment-end
+01:59:26,060	是client parenthood	是 client parenthood	spacing/pangu
+01:59:26,060	是 client parenthood	是 client parenthood，	punct/segment-end
+01:59:28,420	這個案子是牽涉到那個roll versus way	這個案子是牽涉到那個 roll versus way	spacing/pangu
+01:59:28,420	這個案子是牽涉到那個 roll versus way	這個案子是牽涉到那個 roll versus way，	punct/segment-end
+01:59:33,020	差一點被推翻	差一點被推翻，	punct/segment-end
+01:59:34,470	但是沒有推翻	但是沒有推翻，	punct/segment-end
+01:59:35,290	基本上他們說	基本上他們說，	punct/segment-end
+01:59:36,900	我們要所謂的reasoned judgment	我們要所謂的 reasoned judgment	spacing/pangu
+01:59:36,900	我們要所謂的 reasoned judgment	我們要所謂的 reasoned judgment，	punct/segment-end
+01:59:40,710	然後他認為這個reasoned judgment是非常荒謬的	然後他認為這個 reasoned judgment 是非常荒謬的	spacing/pangu
+01:59:40,710	然後他認為這個 reasoned judgment 是非常荒謬的	然後他認為這個 reasoned judgment 是非常荒謬的，	punct/segment-end
+01:59:45,340	我是說斯克利亞	我是說斯克利亞，	punct/segment-end
+01:59:48,450	斯克利亞認為看到了嗎	斯克利亞認為看到了嗎，	punct/segment-end
+01:59:51,440	第三九零頁最底下一段	第三九零頁最底下一段，	punct/segment-end
+01:59:57,680	我們憲法訴訟的情緒的實質	我們憲法訴訟的情緒的實質，	punct/segment-end
+02:00:01,600	真實, consists primarily of making value judgment	真實，consists primarily of making value judgment	punct/width
+02:00:01,600	真實，consists primarily of making value judgment	真實，consists primarily of making value judgment，	punct/segment-end
+02:00:06,450	主要說穿的就是在做價值判斷	主要說穿的就是在做價值判斷，	punct/segment-end
+02:00:10,160	非民選的人	非民選的人，	punct/segment-end
+02:00:13,860	有什麼理由替你們大家做價值恩惡	有什麼理由替你們大家做價值恩惡，	punct/segment-end
+02:00:16,810	那你們大家都沒有參與	那你們大家都沒有參與，	punct/segment-end
+02:00:20,450	覺得程序上這樣子說	覺得程序上這樣子說，	punct/segment-end
+02:00:23,260	我們有正當性嗎	我們有正當性嗎，	punct/segment-end
+02:00:25,170	你們聽懂嗎	你們聽懂嗎，	punct/segment-end
+02:00:27,530	第三九一頁他又再次的強調了這個	第三九一頁他又再次的強調了這個，	punct/segment-end
+02:00:30,940	有沒有	有沒有，	punct/segment-end
+02:00:41,090	人民應該抗議	人民應該抗議，	punct/segment-end
+02:00:47,850	我們現在說的這個意思	我們現在說的這個意思，	punct/segment-end
+02:00:53,460	是我們大法官的價值判斷	是我們大法官的價值判斷，	punct/segment-end
+02:00:55,560	還是人民的價值判斷	還是人民的價值判斷，	punct/segment-end
+02:00:57,510	是我們說的	是我們說的，	punct/segment-end
+02:00:59,710	這樣有清楚嗎	這樣有清楚嗎，	punct/segment-end
+02:01:03,990	那後面它還有一個	那後面它還有一個，	punct/segment-end
+02:01:07,020	它有五個什麼什麼東西	它有五個什麼什麼東西，	punct/segment-end
+02:01:09,510	第三九三	第三九三，	punct/segment-end
+02:01:11,650	第一點來講下	第一點來講下，	punct/segment-end
+02:01:33,200	第三九三	第三九三，	punct/segment-end
+02:01:34,220	贊成維建審查	贊成維建審查，	punct/segment-end
+02:01:36,080	認為這個可以克服民主價值	認為這個可以克服民主價值，	punct/segment-end
+02:01:38,660	來,講	來，講	punct/width
+02:01:38,660	來，講	來，講，	punct/segment-end
+02:01:39,870	找到了嗎?1393	找到了嗎？1393	punct/width
+02:01:39,870	找到了嗎？1393	找到了嗎？1393，	punct/segment-end
+02:01:44,140	法官並沒有做他們自己的判斷	法官並沒有做他們自己的判斷，	punct/segment-end
+02:01:55,600	好,這樣子有聽懂嗎?	好，這樣子有聽懂嗎？	punct/width
+02:02:08,680	法官說:沒有沒有 我不是在強加我的價值判斷於你的	法官說：沒有沒有 我不是在強加我的價值判斷於你的	punct/width
+02:02:08,680	法官說：沒有沒有 我不是在強加我的價值判斷於你的	法官說：沒有沒有 我不是在強加我的價值判斷於你的，	punct/segment-end
+02:02:13,890	我是在解釋放在憲法人權條款裡面	我是在解釋放在憲法人權條款裡面，	punct/segment-end
+02:02:19,540	我在解釋	我在解釋，	punct/segment-end
+02:02:20,820	這是我們常常看到的典型的例子	這是我們常常看到的典型的例子，	punct/segment-end
+02:02:24,120	113 憲判法	113 憲判法，	punct/segment-end
+02:02:26,110	我們憲法哪一條?	我們憲法哪一條？	punct/width
+02:02:28,060	廢死 所不可憂的思想	廢死 所不可憂的思想，	punct/segment-end
+02:02:33,710	法官說:沒有 我講的都是憲法的意思	法官說：沒有 我講的都是憲法的意思	punct/width
+02:02:33,710	法官說：沒有 我講的都是憲法的意思	法官說：沒有 我講的都是憲法的意思，	punct/segment-end
+02:02:36,020	我沒有講我的意思	我沒有講我的意思，	punct/segment-end
+02:02:37,360	我現在講的聽得懂吧	我現在講的聽得懂吧，	punct/segment-end
+02:02:39,320	你們今天要一面	你們今天要一面，	punct/segment-end
+02:02:40,730	我都在盡量幫你們了嘛	我都在盡量幫你們了嘛，	punct/segment-end
+02:02:42,760	我們這個學期 你要找到你可以寫的東西	我們這個學期 你要找到你可以寫的東西，	punct/segment-end
+02:02:45,470	不然你要怎麼教你的報告	不然你要怎麼教你的報告，	punct/segment-end
+02:02:48,340	我已經提醒了你要去看這些東西	我已經提醒了你要去看這些東西，	punct/segment-end
+02:02:51,620	因為它都是非常有爭議的案件	因為它都是非常有爭議的案件，	punct/segment-end
+02:02:53,820	它的正當性在哪裡	它的正當性在哪裡，	punct/segment-end
+02:02:55,920	你覺得它怎麼不正當怎麼正當	你覺得它怎麼不正當怎麼正當，	punct/segment-end
+02:02:57,720	今天用了一大堆材料給你	今天用了一大堆材料給你，	punct/segment-end
+02:02:59,660	好第二個	好第二個，	punct/segment-end
+02:03:00,900	第三九三對比一下	第三九三對比一下，	punct/segment-end
+02:03:12,520	對	對，	punct/segment-end
+02:03:12,760	法官只不過在執行	法官只不過在執行，	punct/segment-end
+02:03:14,920	這個社會對於權利已經有的承諾	這個社會對於權利已經有的承諾，	punct/segment-end
+02:03:18,040	我們沒有說什麼	我們沒有說什麼，	punct/segment-end
+02:03:19,820	好 第三 第三組是	好 第三 第三組是，	punct/segment-end
+02:03:23,420	好 你們覺得這樣講對不對	好 你們覺得這樣講對不對，	punct/segment-end
+02:03:41,450	我們做了決定 我們有去梳理	我們做了決定 我們有去梳理，	punct/segment-end
+02:03:44,040	你不服你小朋友去推翻嗎	你不服你小朋友去推翻嗎，	punct/segment-end
+02:03:45,840	這裡有一個有趣的問題	這裡有一個有趣的問題，	punct/segment-end
+02:03:48,180	美國要怎麼推翻	美國要怎麼推翻，	punct/segment-end
+02:03:50,420	這也牽涉到老師的理論	這也牽涉到老師的理論，	punct/segment-end
+02:03:52,820	為什麼我同意我贊成	為什麼我同意我贊成，	punct/segment-end
+02:03:55,380	危險審查	違憲審查	correction_map/違憲審查
+02:03:55,380	而且我儘量擴大違憲審查的範圍	而且我儘量擴大違憲審查的範圍，	punct/segment-end
+02:03:58,190	危險審查	違憲審查	correction_map/違憲審查
+02:03:58,190	要借購一個無漏洞的違憲審查	要借購一個無漏洞的違憲審查，	punct/segment-end
+02:04:00,190	但是我仍然覺得	但是我仍然覺得，	punct/segment-end
+02:04:02,650	它的效力應該只是	它的效力應該只是，	punct/segment-end
+02:04:05,230	這個回合的最終	這個回合的最終，	punct/segment-end
+02:04:06,810	它不可以具有永久的最終去輸入	它不可以具有永久的最終去輸入，	punct/segment-end
+02:04:09,930	我也甚至於認為立法者	我也甚至於認為立法者，	punct/segment-end
+02:04:13,110	可以重新啟動下一輪的立法	可以重新啟動下一輪的立法，	punct/segment-end
+02:04:15,990	跟你現在做的完全	跟你現在做的完全，	punct/segment-end
+02:04:18,240	內容完全相同	內容完全相同，	punct/segment-end
+02:04:19,830	內容完全相反	內容完全相反，	punct/segment-end
+02:04:21,150	你說這個危險	你說這個危險，	punct/segment-end
+02:04:22,280	危險是一個可以再立法	危險是一個可以再立法，	punct/segment-end
+02:04:23,540	比方說你說	比方說你說，	punct/segment-end
+02:04:24,660	所以刑法當中那個焚燒國旗罪被我宣告危險	所以刑法當中那個焚燒國旗罪被我宣告危險，	punct/segment-end
+02:04:33,400	那你可不可以再立一個同樣的規定	那你可不可以再立一個同樣的規定，	punct/segment-end
+02:04:36,460	我會認為可以 如果你立得出來	我會認為可以 如果你立得出來，	punct/segment-end
+02:04:38,680	然後如果立出來了 又有人來申請	然後如果立出來了 又有人來申請，	punct/segment-end
+02:04:40,960	那我不要再次的審查	那我不要再次的審查，	punct/segment-end
+02:04:43,090	我不贊成405號的鑑棋罪	我不贊成 405 號的鑑棋罪	spacing/pangu
+02:04:43,090	我不贊成 405 號的鑑棋罪	我不贊成 405 號的鑑棋罪，	punct/segment-end
+02:04:46,940	我鑑棋就告訴你在278號告訴你	我鑑棋就告訴你在 278 號告訴你	spacing/pangu
+02:04:46,940	我鑑棋就告訴你在 278 號告訴你	我鑑棋就告訴你在 278 號告訴你，	punct/segment-end
+02:04:48,940	怎麼再來問一次 那當然危險退回去	怎麼再來問一次 那當然危險退回去，	punct/segment-end
+02:04:51,870	我不這麼認為	我不這麼認為，	punct/segment-end
+02:04:54,250	時過境遷 社會改變	時過境遷 社會改變，	punct/segment-end
+02:04:56,980	剛才他不是講他是實行社會上大多數人的意思嗎	剛才他不是講他是實行社會上大多數人的意思嗎，	punct/segment-end
+02:04:59,980	不是他的意思	不是他的意思，	punct/segment-end
+02:05:00,980	那你怎麼可以堅持你過去的意志建立	那你怎麼可以堅持你過去的意志建立，	punct/segment-end
+02:05:03,170	你就說是不可以的	你就說是不可以的，	punct/segment-end
+02:05:05,170	我認為這就要重新來	我認為這就要重新來，	punct/segment-end
+02:05:06,300	這是一個第三個看法	這是一個第三個看法，	punct/segment-end
+02:05:08,300	第四個看法	第四個看法，	punct/segment-end
+02:05:09,300	這是我們臺灣人最喜歡講的	這是我們臺灣人最喜歡講的，	punct/segment-end
+02:05:17,720	尤其那幾個大法官	尤其那幾個大法官，	punct/segment-end
+02:05:18,720	誰說我們大法官沒有民主正常性	誰說我們大法官沒有民主正常性，	punct/segment-end
+02:05:21,720	我們是總統提名的	我們是總統提名的，	punct/segment-end
+02:05:22,720	立法委員同意的	立法委員同意的，	punct/segment-end
+02:05:23,720	總統是人民民選的	總統是人民民選的，	punct/segment-end
+02:05:24,720	立法委員是民選的	立法委員是民選的，	punct/segment-end
+02:05:25,720	所以我們有間接靈異記住	所以我們有間接靈異記住，	punct/segment-end
+02:05:28,720	記不記得這個話	記不記得這個話，	punct/segment-end
+02:05:30,160	在哪裡聽起來似曾相似	在哪裡聽起來似曾相似，	punct/segment-end
+02:05:32,560	老師還批評了他	老師還批評了他，	punct/segment-end
+02:05:33,700	有興趣去看老師的影片	有興趣去看老師的影片，	punct/segment-end
+02:05:36,320	觀還是聽	觀還是聽，	punct/segment-end
+02:05:38,330	廢死辯論	廢死辯論，	punct/segment-end
+02:05:40,800	大法官廢死辯論案有感	大法官廢死辯論案有感，	punct/segment-end
+02:05:42,910	我覺得那個是非常有問題	我覺得那個是非常有問題，	punct/segment-end
+02:05:45,430	這就是這個想法	這就是這個想法，	punct/segment-end
+02:05:47,100	我講的每一件事情	我講的每一件事情，	punct/segment-end
+02:05:49,370	不同的文本	不同的文本，	punct/segment-end
+02:05:50,750	你會找到他們的來源	你會找到他們的來源，	punct/segment-end
+02:05:52,570	作者也不同意	作者也不同意，	punct/segment-end
+02:05:54,910	好了 第五個	好了 第五個，	punct/segment-end
+02:05:58,120	不能因為是總統提林立法院同意	不能因為是總統提林立法院同意，	punct/segment-end
+02:06:01,610	就說我們大法官代表民意	就說我們大法官代表民意，	punct/segment-end
+02:06:03,170	我們有民意技術	我們有民意技術，	punct/segment-end
+02:06:04,300	所以我們可以做決定	所以我們可以做決定，	punct/segment-end
+02:06:05,560	不是這個意思	不是這個意思，	punct/segment-end
+02:06:06,380	第五個	第五個，	punct/segment-end
+02:06:07,890	最後,法律的法律的檢查證明	最後，法律的法律的檢查證明	punct/width
+02:06:07,890	最後，法律的法律的檢查證明	最後，法律的法律的檢查證明，	punct/segment-end
+02:06:11,500	那個法律的法律可以製造成更加進行	那個法律的法律可以製造成更加進行，	punct/segment-end
+02:06:16,200	民間的進行政策的進行政策	民間的進行政策的進行政策，	punct/segment-end
+02:06:19,810	這句話看不懂	這句話看不懂，	punct/segment-end
+02:06:21,040	有時,民間的進行政策的進行政策	有時，民間的進行政策的進行政策	punct/width
+02:06:21,040	有時，民間的進行政策的進行政策	有時，民間的進行政策的進行政策，	punct/segment-end
+02:06:24,670	有時,民間的進行政策	有時，民間的進行政策	punct/width
+02:06:24,670	有時，民間的進行政策	有時，民間的進行政策，	punct/segment-end
+02:06:26,270	有時,民間的進行政策	有時，民間的進行政策	punct/width
+02:06:26,270	有時，民間的進行政策	有時，民間的進行政策，	punct/segment-end
+02:06:28,280	那你現在是說,我作為訴訟當事人	那你現在是說，我作為訴訟當事人	punct/width
+02:06:28,280	那你現在是說，我作為訴訟當事人	那你現在是說，我作為訴訟當事人，	punct/segment-end
+02:06:31,070	我就可以參加	我就可以參加，	punct/segment-end
+02:06:32,150	所以程序上面來講,你沒有錯	所以程序上面來講，你沒有錯	punct/width
+02:06:32,150	所以程序上面來講，你沒有錯	所以程序上面來講，你沒有錯，	punct/segment-end
+02:06:34,530	但是你不要忘記,那你再怎麼參加	但是你不要忘記，那你再怎麼參加	punct/width
+02:06:34,530	但是你不要忘記，那你再怎麼參加	但是你不要忘記，那你再怎麼參加，	punct/segment-end
+02:06:37,110	除非你今天把憲法訴訟 搞成公民訴訟	除非你今天把憲法訴訟 搞成公民訴訟，	punct/segment-end
+02:06:41,970	你有嗎	你有嗎，	punct/segment-end
+02:06:43,530	我現在問你們很簡單的問題	我現在問你們很簡單的問題，	punct/segment-end
+02:06:45,540	臺灣人民可不可以提起憲法訴訟	臺灣人民可不可以提起憲法訴訟，	punct/segment-end
+02:06:49,600	人民可不可以申請大法官解釋	人民可不可以申請大法官解釋，	punct/segment-end
+02:06:51,520	可以	可以，	punct/segment-end
+02:06:52,590	那人民申請解釋是沒有前提要件	那人民申請解釋是沒有前提要件，	punct/segment-end
+02:06:55,390	他必須受有對他福利的確定案件	他必須受有對他福利的確定案件，	punct/segment-end
+02:06:58,470	所以他要嘛	所以他要嘛，	punct/segment-end
+02:06:59,710	他通常是被告或者他是原告	他通常是被告或者他是原告，	punct/segment-end
+02:07:02,540	但總之他必須是個案當事人	但總之他必須是個案當事人，	punct/segment-end
+02:07:05,260	我們並沒有承認	我們並沒有承認，	punct/segment-end
+02:07:06,900	像環境法當中	像環境法當中，	punct/segment-end
+02:07:08,340	任何人可以基於公益	任何人可以基於公益，	punct/segment-end
+02:07:10,100	來申請大法官解釋	來申請大法官解釋，	punct/segment-end
+02:07:11,570	所以你現在講說	所以你現在講說，	punct/segment-end
+02:07:12,730	資格可以變成瑞士格子	資格可以變成瑞士格子，	punct/segment-end
+02:07:14,530	然後他就可以參加了	然後他就可以參加了，	punct/segment-end
+02:07:15,870	所以你不要跟我說你沒有機會參加	所以你不要跟我說你沒有機會參加，	punct/segment-end
+02:07:18,000	這個沒有正當性	這個沒有正當性，	punct/segment-end
+02:07:19,130	這個還是有問題	這個還是有問題，	punct/segment-end
+02:07:20,510	這個好像有落差 嚴重落差	這個好像有落差 嚴重落差，	punct/segment-end
+02:07:22,480	現在相反的是機關	現在相反的是機關，	punct/segment-end
+02:07:24,350	機關他就可以抽象的來申請	機關他就可以抽象的來申請，	punct/segment-end
+02:07:27,090	而我就是基於公益	而我就是基於公益，	punct/segment-end
+02:07:28,510	那你要問Hunstkelsen	那你要問 Hunstkelsen	spacing/pangu
+02:07:28,510	那你要問 Hunstkelsen	那你要問 Hunstkelsen，	punct/segment-end
+02:07:29,890	Hunstkelsen給你的理就上門	Hunstkelsen 給你的理就上門	spacing/pangu
+02:07:29,890	Hunstkelsen 給你的理就上門	Hunstkelsen 給你的理就上門，	punct/segment-end
+02:07:31,370	大家看到下層規範	大家看到下層規範，	punct/segment-end
+02:07:32,970	不可以提出上層規範	不可以提出上層規範，	punct/segment-end
+02:07:34,330	大家是為了要維護這個法規範的體系	大家是為了要維護這個法規範的體系，	punct/segment-end
+02:07:37,690	所以你當然有權利	所以你當然有權利，	punct/segment-end
+02:07:39,970	Hanskelson	Hans Kelsen	transliteration_map/Hans Kelsen
+02:07:39,970	那我就不懂,Hans Kelsen,那你應該加一句啊	那我就不懂，Hans Kelsen,那你應該加一句啊	punct/width
+02:07:39,970	那我就不懂，Hans Kelsen,那你應該加一句啊	那我就不懂，Hans Kelsen,那你應該加一句啊，	punct/segment-end
+02:07:42,810	那人民是不是也有維護階層式規範	那人民是不是也有維護階層式規範，	punct/segment-end
+02:07:46,990	階層式規範構造的一般經歷	階層式規範構造的一般經歷，	punct/segment-end
+02:07:50,200	那為什麼人民不能申請	那為什麼人民不能申請，	punct/segment-end
+02:07:52,220	Hanskelson	Hans Kelsen	transliteration_map/Hans Kelsen
+02:07:52,220	如果照Hans Kelsen的說法,機關可以	如果照Hans Kelsen的說法，機關可以	punct/width
+02:07:52,220	如果照Hans Kelsen的說法，機關可以	如果照 Hans Kelsen 的說法，機關可以	spacing/pangu
+02:07:52,220	如果照 Hans Kelsen 的說法，機關可以	如果照 Hans Kelsen 的說法，機關可以，	punct/segment-end
+02:07:56,850	為什麼人民不能申請	為什麼人民不能申請，	punct/segment-end
+02:07:58,800	我就聽不懂,但是我沒有看到哪一個國家	我就聽不懂，但是我沒有看到哪一個國家	punct/width
+02:07:58,800	我就聽不懂，但是我沒有看到哪一個國家	我就聽不懂，但是我沒有看到哪一個國家，	punct/segment-end
+02:08:01,810	允許人民來提起一般的憲法訴訟	允許人民來提起一般的憲法訴訟，	punct/segment-end
+02:08:05,480	公民訴訟,我們一般是指特定的情況下	公民訴訟，我們一般是指特定的情況下	punct/width
+02:08:05,480	公民訴訟，我們一般是指特定的情況下	公民訴訟，我們一般是指特定的情況下，	punct/segment-end
+02:08:08,870	我們沒有看到憲法訴訟變成公民訴訟	我們沒有看到憲法訴訟變成公民訴訟，	punct/segment-end
+02:08:12,030	好了 講完了	好了 講完了，	punct/segment-end
+02:08:13,920	來 第四 第六點	來 第四 第六點，	punct/segment-end
+02:08:17,630	有關於這個所謂的	有關於這個所謂的，	punct/segment-end
+02:08:21,870	二十六分	二十六分，	punct/segment-end
+02:08:24,290	所謂的多數暴力	所謂的多數暴力，	punct/segment-end
+02:08:25,850	所以我們必須要用	所以我們必須要用，	punct/segment-end
+02:08:27,450	回線審查來對抗多數暴力	回線審查來對抗多數暴力，	punct/segment-end
+02:08:29,660	作者講什麼	作者講什麼，	punct/segment-end
+02:08:30,780	來 找到最精確的論	來 找到最精確的論，	punct/segment-end
+02:08:36,260	在哪裡	在哪裡，	punct/segment-end
+02:08:37,260	在1365的最後面	在 1365 的最後面	spacing/pangu
+02:08:37,260	在 1365 的最後面	在 1365 的最後面，	punct/segment-end
+02:08:40,260	1395吧	1395 吧	spacing/pangu
+02:08:40,260	1395 吧	1395 吧，	punct/segment-end
+02:08:41,260	對 1395	對 1395，	punct/segment-end
+02:08:42,720	好 來講一講	好 來講一講，	punct/segment-end
+02:08:43,880	來哪裡	來哪裡，	punct/segment-end
+02:08:44,480	走	走，	punct/segment-end
+02:08:45,380	什麼地方	什麼地方，	punct/segment-end
+02:08:49,290	你沒有找到嗎?	你沒有找到嗎？	punct/width
+02:08:53,290	你是"at least"的嗎?	你是"at least"的嗎？	punct/width
+02:08:57,370	第二段,下一段,最後一段,I believe.	第二段，下一段，最後一段，I believe.	punct/width
+02:09:04,820	啊,嚴重的誤導,混淆。	啊，嚴重的誤導，混淆。	punct/width
+02:09:19,970	我現在是說他要怎麼解釋這個事情	我現在是說他要怎麼解釋這個事情，	punct/segment-end
+02:09:36,860	我們一般不是認為這樣子嗎	我們一般不是認為這樣子嗎，	punct/segment-end
+02:09:41,800	一般認為為什麼違憲審查具有正當性	一般認為為什麼違憲審查具有正當性，	punct/segment-end
+02:09:44,840	因為違憲審查可以用來對抗多數暴力	因為違憲審查可以用來對抗多數暴力，	punct/segment-end
+02:09:47,680	那他對這點他是怎麼解釋的	那他對這點他是怎麼解釋的，	punct/segment-end
+02:09:50,570	他反對喔	他反對喔，	punct/segment-end
+02:09:51,690	他從根本	他從根本，	punct/segment-end
+02:09:52,630	他從根本上去插解多數暴力的這個情形	他從根本上去插解多數暴力的這個情形，	punct/segment-end
+02:09:58,300	好 那你告訴我怎麼插解	好 那你告訴我怎麼插解，	punct/segment-end
+02:09:59,780	剛才這一段沒有講到	剛才這一段沒有講到，	punct/segment-end
+02:10:01,560	他後面	他後面，	punct/segment-end
+02:10:03,130	就我叫你講啊	就我叫你講啊，	punct/segment-end
+02:10:05,040	你現在也沒有時間了	你現在也沒有時間了，	punct/segment-end
+02:10:06,440	我們現在已經28分了	我們現在已經 28 分了	spacing/pangu
+02:10:06,440	我們現在已經 28 分了	我們現在已經 28 分了，	punct/segment-end
+02:10:08,080	對不對	對不對，	punct/segment-end
+02:10:08,580	也快要結束了	也快要結束了，	punct/segment-end
+02:10:10,140	事實上還是有逼你把它講完	事實上還是有逼你把它講完，	punct/segment-end
+02:10:12,630	現在距離結束	現在距離結束，	punct/segment-end
+02:10:13,530	只剩幾月了	只剩幾月了，	punct/segment-end
+02:10:14,650	他從我可以看到那個1397月	他從我可以看到那個 1397 月	spacing/pangu
+02:10:14,650	他從我可以看到那個 1397 月	他從我可以看到那個 1397 月，	punct/segment-end
+02:10:18,290	然後他就是區分那個決定上的多數少數	然後他就是區分那個決定上的多數少數，	punct/segment-end
+02:10:22,170	跟議題上的多數、少數	跟議題上的多數、少數，	punct/segment-end
+02:10:25,950	那你告訴我在什麼地方	那你告訴我在什麼地方，	punct/segment-end
+02:10:27,790	在1397的第二段	在 1397 的第二段	spacing/pangu
+02:10:27,790	在 1397 的第二段	在 1397 的第二段，	punct/segment-end
+02:10:33,760	就是在1397的那一個段	就是在 1397 的那一個段	spacing/pangu
+02:10:33,760	就是在 1397 的那一個段	就是在 1397 的那一個段，	punct/segment-end
+02:10:42,560	那哪裡你要講哪裡	那哪裡你要講哪裡，	punct/segment-end
+02:10:43,920	照你要去掉的地方講	照你要去掉的地方講，	punct/segment-end
+02:10:59,010	好 大家跟他念這段開始吧	好 大家跟他念這段開始吧，	punct/segment-end
+02:11:00,770	我們要區別 區別什麼	我們要區別 區別什麼，	punct/segment-end
+02:11:04,040	區別決定上的多數少數跟	區別決定上的多數少數跟，	punct/segment-end
+02:11:08,850	你覺得是決定上的majority	你覺得是決定上的 majority	spacing/pangu
+02:11:08,850	你覺得是決定上的 majority	你覺得是決定上的 majority，	punct/segment-end
+02:11:13,190	還有呢	還有呢，	punct/segment-end
+02:11:13,730	還有議題上的多數少數	還有議題上的多數少數，	punct/segment-end
+02:11:16,510	好 然後呢	好 然後呢，	punct/segment-end
+02:11:18,200	就是他 大家可以看我整理的	就是他 大家可以看我整理的，	punct/segment-end
+02:11:21,370	那個表格在附錄的地方	那個表格在附錄的地方，	punct/segment-end
+02:11:23,990	就是有一個在第八十	就是有一個在第八十，	punct/segment-end
+02:11:29,780	那你現在只要做你的表格講的	那你現在只要做你的表格講的，	punct/segment-end
+02:11:31,330	因為其他我們姿態的話	因為其他我們姿態的話，	punct/segment-end
+02:11:33,050	好	好，	punct/segment-end
+02:11:33,630	八十二嗎	八十二嗎，	punct/segment-end
+02:11:34,290	八十六	八十六，	punct/segment-end
+02:11:35,410	八十六	八十六，	punct/segment-end
+02:11:35,990	你們看他這麼用心	你們看他這麼用心，	punct/segment-end
+02:11:39,820	還幫你們做了這麼多表格	還幫你們做了這麼多表格，	punct/segment-end
+02:11:41,950	嚇死人了	嚇死人了，	punct/segment-end
+02:11:44,060	你花了多長時間了	你花了多長時間了，	punct/segment-end
+02:11:47,760	繼續一起開始就再做這個	繼續一起開始就再做這個，	punct/segment-end
+02:11:52,230	好來	好來，	punct/segment-end
+02:11:53,750	八十六頁來	八十六頁來，	punct/segment-end
+02:11:55,080	請講	請講，	punct/segment-end
+02:11:55,760	就是他	就是他，	punct/segment-end
+02:11:56,920	你用這個表解釋給我們聽	你用這個表解釋給我們聽，	punct/segment-end
+02:11:58,760	Decitional	decisional	en_case_map/decisional
+02:11:58,760	什麼叫decisional and Topical Majority	什麼叫 decisional and Topical Majority	spacing/pangu
+02:11:58,760	什麼叫 decisional and Topical Majority	什麼叫 decisional and Topical Majority，	punct/segment-end
+02:12:03,140	區分兩個維度吧	區分兩個維度吧，	punct/segment-end
+02:12:04,920	就是議題上的少數	就是議題上的少數，	punct/segment-end
+02:12:07,480	就是這個問題所涉及的權力	就是這個問題所涉及的權力，	punct/segment-end
+02:12:11,270	可是它的標題是多數與少數	可是它的標題是多數與少數，	punct/segment-end
+02:12:14,050	那你為什麼只有少數沒有多數呢	那你為什麼只有少數沒有多數呢，	punct/segment-end
+02:12:18,040	少數多數就是那個少數的對應的那個題	少數多數就是那個少數的對應的那個題，	punct/segment-end
+02:12:24,080	所以你是不是應該寫議題上的多數與少數	所以你是不是應該寫議題上的多數與少數，	punct/segment-end
+02:12:27,360	我不知道	我不知道，	punct/segment-end
+02:12:28,360	好 您開始來繼續講	好 您開始來繼續講，	punct/segment-end
+02:12:30,160	你現在講86業級,繼續說	你現在講86業級，繼續說	punct/width
+02:12:30,160	你現在講86業級，繼續說	你現在講 86 業級，繼續說	spacing/pangu
+02:12:30,160	你現在講 86 業級，繼續說	你現在講 86 業級，繼續說，	punct/segment-end
+02:12:32,950	他的,他去,就是他去拆分	他的，他去，就是他去拆分	punct/width
+02:12:32,950	他的，他去，就是他去拆分	他的，他去，就是他去拆分，	punct/segment-end
+02:12:37,650	然後去定位出那個核心情形的那個位置	然後去定位出那個核心情形的那個位置，	punct/segment-end
+02:12:43,040	就是既是議題上的少數	就是既是議題上的少數，	punct/segment-end
+02:12:45,470	又是,既是這個topical上的少數	又是，既是這個topical上的少數	punct/width
+02:12:45,470	又是，既是這個topical上的少數	又是，既是這個 topical 上的少數	spacing/pangu
+02:12:45,470	又是，既是這個 topical 上的少數	又是，既是這個 topical 上的少數，	punct/segment-end
+02:12:49,670	decitional	decisional	en_case_map/decisional
+02:12:49,670	又是decisional的少數	又是 decisional 的少數	spacing/pangu
+02:12:49,670	又是 decisional 的少數	又是 decisional 的少數，	punct/segment-end
+02:12:51,890	才是,就是所謂碰到這個tyranny of the majority	才是，就是所謂碰到這個tyranny of the majority	punct/width
+02:12:51,890	才是，就是所謂碰到這個tyranny of the majority	才是，就是所謂碰到這個 tyranny of the majority	spacing/pangu
+02:12:51,890	才是，就是所謂碰到這個 tyranny of the majority	才是，就是所謂碰到這個 tyranny of the majority，	punct/segment-end
+02:13:00,770	所要討論的核心問題	所要討論的核心問題，	punct/segment-end
+02:13:04,820	第一個你這張表	第一個你這張表，	punct/segment-end
+02:13:09,400	我不知道大家決定的	我不知道大家決定的，	punct/segment-end
+02:13:12,640	大家現在看起來是怎樣的	大家現在看起來是怎樣的，	punct/segment-end
+02:13:15,280	我不曉得這個表	我不曉得這個表，	punct/segment-end
+02:13:16,380	這個表是你畫的	這個表是你畫的，	punct/segment-end
+02:13:17,740	對不對	對不對，	punct/segment-end
+02:13:18,140	是吧	是吧，	punct/segment-end
+02:13:19,810	那你要去想一想	那你要去想一想，	punct/segment-end
+02:13:21,310	你這個表	你這個表，	punct/segment-end
+02:13:21,870	有沒有達成你的目的	有沒有達成你的目的，	punct/segment-end
+02:13:23,520	你希望讓我們看得一目燎然	你希望讓我們看得一目燎然，	punct/segment-end
+02:13:25,950	我現在是看到四個框框	我現在是看到四個框框，	punct/segment-end
+02:13:27,870	可是我沒有看懂	可是我沒有看懂，	punct/segment-end
+02:13:29,430	當然知道你把他	當然知道你把他，	punct/segment-end
+02:13:31,840	第三個左下牆那個	第三個左下牆那個，	punct/segment-end
+02:13:33,200	你把他框起來	你把他框起來，	punct/segment-end
+02:13:34,370	你要想辦法讓我們看得到的是	你要想辦法讓我們看得到的是，	punct/segment-end
+02:13:37,560	兩個重疊的那個部分	兩個重疊的那個部分，	punct/segment-end
+02:13:40,140	但是兩個重疊	但是兩個重疊，	punct/segment-end
+02:13:41,600	既是決定上的少數	既是決定上的少數，	punct/segment-end
+02:13:43,990	又是議題上的少數	又是議題上的少數，	punct/segment-end
+02:13:46,280	才是我們這裡講的tyranny嗎	才是我們這裡講的 tyranny 嗎	spacing/pangu
+02:13:46,280	才是我們這裡講的 tyranny 嗎	才是我們這裡講的 tyranny 嗎，	punct/segment-end
+02:13:49,190	是呢	是呢，	punct/segment-end
+02:13:51,130	是擔心的嗎	是擔心的嗎，	punct/segment-end
+02:13:52,710	才是這裡講的tyranny of majority	才是這裡講的 tyranny of majority	spacing/pangu
+02:13:52,710	才是這裡講的 tyranny of majority	才是這裡講的 tyranny of majority，	punct/segment-end
+02:13:56,010	所被欺負的	所被欺負的，	punct/segment-end
+02:13:57,340	才是我們這裡需要關心的嗎	才是我們這裡需要關心的嗎，	punct/segment-end
+02:13:59,680	你的意思是這樣嗎	你的意思是這樣嗎，	punct/segment-end
+02:14:01,030	對文章是這樣	對文章是這樣，	punct/segment-end
+02:14:02,710	好	好，	punct/segment-end
+02:14:03,230	那現在問題是	那現在問題是，	punct/segment-end
+02:14:04,770	這一點	這一點，	punct/segment-end
+02:14:05,550	那為什麼不適合	那為什麼不適合，	punct/segment-end
+02:14:07,230	就這點而言	就這點而言，	punct/segment-end
+02:14:08,670	危險審查	違憲審查	correction_map/違憲審查
+02:14:08,670	為什麼由法院來做違憲審查	為什麼由法院來做違憲審查，	punct/segment-end
+02:14:12,210	還是不如由立法者來做決定	還是不如由立法者來做決定，	punct/segment-end
+02:14:15,180	他有這樣講嗎	他有這樣講嗎，	punct/segment-end
+02:14:17,580	因為他反對啊	因為他反對啊，	punct/segment-end
+02:14:20,000	他認為那些申請	他認為那些申請，	punct/segment-end
+02:14:23,410	你找地方給我	你找地方給我，	punct/segment-end
+02:14:24,530	在哪裡講到這個	在哪裡講到這個，	punct/segment-end
+02:14:26,150	有嗎	有嗎，	punct/segment-end
+02:14:29,310	他有沒有一個sum up	他有沒有一個 sum up	spacing/pangu
+02:14:29,310	他有沒有一個 sum up	他有沒有一個 sum up，	punct/segment-end
+02:14:31,960	1397的最下面到1398的那邊	1397 的最下面到 1398 的那邊	spacing/pangu
+02:14:31,960	1397 的最下面到 1398 的那邊	1397 的最下面到 1398 的那邊，	punct/segment-end
+02:14:39,160	1397的最下面的那一段吧	1397 的最下面的那一段吧	spacing/pangu
+02:14:39,160	1397 的最下面的那一段吧	1397 的最下面的那一段吧，	punct/segment-end
+02:14:43,410	那什麼意思你說	那什麼意思你說，	punct/segment-end
+02:14:44,430	就是	就是，	punct/segment-end
+02:14:45,630	就是你現在講的destination	就是你現在講的 destination	spacing/pangu
+02:14:45,630	就是你現在講的 destination	就是你現在講的 destination，	punct/segment-end
+02:14:48,660	對不對	對不對，	punct/segment-end
+02:14:52,990	你現在要講的是	你現在要講的是，	punct/segment-end
+02:14:54,830	你要讓你自己分的東西	你要讓你自己分的東西，	punct/segment-end
+02:14:57,110	能夠跟他的文本	能夠跟他的文本，	punct/segment-end
+02:14:58,490	因為你不是作者	因為你不是作者，	punct/segment-end
+02:14:59,890	他是作者	他是作者，	punct/segment-end
+02:15:01,430	那你要把他的想法	那你要把他的想法，	punct/segment-end
+02:15:03,530	講給我們的精確的表達	講給我們的精確的表達，	punct/segment-end
+02:15:05,920	不然他才跑來跟我靠一	不然他才跑來跟我靠一，	punct/segment-end
+02:15:07,320	然後來接受講	然後來接受講，	punct/segment-end
+02:15:09,400	在1397的最後面一段	在 1397 的最後面一段	spacing/pangu
+02:15:09,400	在 1397 的最後面一段	在 1397 的最後面一段，	punct/segment-end
+02:15:13,330	我認為他是想表示說	我認為他是想表示說，	punct/segment-end
+02:15:15,790	當我們在談論多數暴力的時候	當我們在談論多數暴力的時候，	punct/segment-end
+02:15:18,410	我們要去證明自己所遭遇的	我們要去證明自己所遭遇的，	punct/segment-end
+02:15:22,890	那個真的是	那個真的是，	punct/segment-end
+02:15:24,290	他這邊用這個表格所呈現出來的	他這邊用這個表格所呈現出來的，	punct/segment-end
+02:15:28,680	這個既是議題上的少數	這個既是議題上的少數，	punct/segment-end
+02:15:30,340	又是決定上的少數的這種情況	又是決定上的少數的這種情況，	punct/segment-end
+02:15:32,980	而他才	而他才，	punct/segment-end
+02:15:35,250	才需要司法還是才不需要司法	才需要司法還是才不需要司法，	punct/segment-end
+02:15:38,550	才需要法院還是才不需要法院	才需要法院還是才不需要法院，	punct/segment-end
+02:15:42,490	可能照你的這個論證	可能照你的這個論證，	punct/segment-end
+02:15:45,630	應該是才需要法院	應該是才需要法院，	punct/segment-end
+02:15:47,370	才需要法院	才需要法院，	punct/segment-end
+02:15:48,870	不是嗎	不是嗎，	punct/segment-end
+02:15:49,740	他投票又投不貴人家	他投票又投不貴人家，	punct/segment-end
+02:15:51,520	立體上他又是孤立而隔絕的少數	立體上他又是孤立而隔絕的少數，	punct/segment-end
+02:15:54,030	沒有人跟他一樣啊	沒有人跟他一樣啊，	punct/segment-end
+02:15:55,810	這種人就是很少啊	這種人就是很少啊，	punct/segment-end
+02:15:58,170	好像臺灣的原住民是2%啊	好像臺灣的原住民是 2%啊	spacing/pangu
+02:15:58,170	好像臺灣的原住民是 2%啊	好像臺灣的原住民是 2%啊，	punct/segment-end
+02:16:01,320	也投敗投得贏嗎	也投敗投得贏嗎，	punct/segment-end
+02:16:02,710	不過原住民倒還好	不過原住民倒還好，	punct/segment-end
+02:16:06,190	因為我們的社會並沒有	因為我們的社會並沒有，	punct/segment-end
+02:16:07,410	讓他們變成孤立而隔絕的少數	讓他們變成孤立而隔絕的少數，	punct/segment-end
+02:16:09,830	孤立而隔絕少數不敢出貴的人才有	孤立而隔絕少數不敢出貴的人才有，	punct/segment-end
+02:16:12,740	比較是這種	比較是這種，	punct/segment-end
+02:16:13,990	但是現在同時已經很開放了	但是現在同時已經很開放了，	punct/segment-end
+02:16:16,230	他也不太像孤立而隔絕的少數	他也不太像孤立而隔絕的少數，	punct/segment-end
+02:16:18,730	所以他也有可能去爭取選票變成多數	所以他也有可能去爭取選票變成多數，	punct/segment-end
+02:16:21,600	不是嗎	不是嗎，	punct/segment-end
+02:16:23,510	然後你要講什麼	然後你要講什麼，	punct/segment-end
+02:16:26,990	最主要是這個文章到這裡	最主要是這個文章到這裡，	punct/segment-end
+02:16:28,890	沒有達成你要的任務	沒有達成你要的任務，	punct/segment-end
+02:16:30,550	聽得懂聽不懂	聽得懂聽不懂，	punct/segment-end
+02:16:32,470	first在1398有一個first	first 在 1398 有一個 first	spacing/pangu
+02:16:32,470	first 在 1398 有一個 first	first 在 1398 有一個 first，	punct/segment-end
+02:16:37,200	然後有一個second	然後有一個 second	spacing/pangu
+02:16:37,200	然後有一個 second	然後有一個 second，	punct/segment-end
+02:16:38,740	second在哪裡	second 在哪裡	spacing/pangu
+02:16:38,740	second 在哪裡	second 在哪裡，	punct/segment-end
+02:16:40,010	1440有一個second	1440 有一個 second	spacing/pangu
+02:16:40,010	1440 有一個 second	1440 有一個 second，	punct/segment-end
+02:16:41,390	那你結論你又不結了	那你結論你又不結了，	punct/segment-end
+02:16:44,320	你要回答我	你要回答我，	punct/segment-end
+02:16:45,620	為什麼作者的觀點	為什麼作者的觀點，	punct/segment-end
+02:16:47,910	認為即便是一般人認為	認為即便是一般人認為，	punct/segment-end
+02:16:52,160	我們為了對抗多數暴力	我們為了對抗多數暴力，	punct/segment-end
+02:16:55,150	危險審查	違憲審查	correction_map/違憲審查
+02:16:55,150	所以我們需要違憲審查	所以我們需要違憲審查，	punct/segment-end
+02:16:56,460	作者還是認為	作者還是認為，	punct/segment-end
+02:16:58,080	律法者仍然是比較有效的	律法者仍然是比較有效的，	punct/segment-end
+02:17:01,590	是解決多數暴力的情況	是解決多數暴力的情況，	punct/segment-end
+02:17:03,840	或者多數暴力也不是像你們所想象的	或者多數暴力也不是像你們所想象的，	punct/segment-end
+02:17:07,010	那麼有意義還是怎麼樣	那麼有意義還是怎麼樣，	punct/segment-end
+02:17:09,120	你覺得是怎麼樣	你覺得是怎麼樣，	punct/segment-end
+02:17:11,020	就建立在他的前提的假設上面的	就建立在他的前提的假設上面的，	punct/segment-end
+02:17:14,780	你講話都是非常抽象的	你講話都是非常抽象的，	punct/segment-end
+02:17:18,580	你現在這樣的大	你現在這樣的大，	punct/segment-end
+02:17:20,520	你會覺得剛剛講那句話	你會覺得剛剛講那句話，	punct/segment-end
+02:17:22,280	放到什麼地方都可以說	放到什麼地方都可以說，	punct/segment-end
+02:17:23,620	就是他就是認為有更好的	就是他就是認為有更好的，	punct/segment-end
+02:17:29,980	或者是更適切	或者是更適切，	punct/segment-end
+02:17:32,120	在一個理想狀態當中	在一個理想狀態當中，	punct/segment-end
+02:17:33,400	有更適切的程序跟機制	有更適切的程序跟機制，	punct/segment-end
+02:17:37,340	這個板一下	這個板一下，	punct/segment-end
+02:17:38,820	你下個禮拜找出來	你下個禮拜找出來，	punct/segment-end
+02:17:40,520	我一直在告訴你	我一直在告訴你，	punct/segment-end
+02:17:41,320	反正這個大家都帶著	反正這個大家都帶著，	punct/segment-end
+02:17:42,440	你下個禮拜找出來	你下個禮拜找出來，	punct/segment-end
+02:17:43,640	要不丟了	要不丟了，	punct/segment-end
+02:17:44,400	現在1401頁講什麼	現在 1401 頁講什麼	spacing/pangu
+02:17:44,400	現在 1401 頁講什麼	現在 1401 頁講什麼，	punct/segment-end
+02:17:46,260	非核心的案子	非核心的案子，	punct/segment-end
+02:17:49,370	非核心的案子	非核心的案子，	punct/segment-end
+02:17:50,840	大家講什麼	大家講什麼，	punct/segment-end
+02:17:51,420	就是如果那些假設不成立的話	就是如果那些假設不成立的話，	punct/segment-end
+02:17:53,630	就前面四個假設	就前面四個假設，	punct/segment-end
+02:17:54,690	如果有其中的	如果有其中的，	punct/segment-end
+02:17:55,850	是 沒關系	是 沒關系，	punct/segment-end
+02:17:56,810	就是不成立	就是不成立，	punct/segment-end
+02:17:57,450	然後呢	然後呢，	punct/segment-end
+02:17:58,350	有一個不成立也是不成立	有一個不成立也是不成立，	punct/segment-end
+02:18:00,300	然後呢	然後呢，	punct/segment-end
+02:18:00,880	危險審查	違憲審查	correction_map/違憲審查
+02:18:00,880	他因為違憲審查的這個制度	他因為違憲審查的這個制度，	punct/segment-end
+02:18:03,320	機制還是會有存在的必要性	機制還是會有存在的必要性，	punct/segment-end
+02:18:05,620	為什麼	為什麼，	punct/segment-end
+02:18:06,220	因為那些民主機制不能運作	因為那些民主機制不能運作，	punct/segment-end
+02:18:08,890	那你在不靠司法而不意,那不可以打掉嗎?	那你在不靠司法而不意，那不可以打掉嗎？	punct/width
+02:18:12,130	那從這裡來看,他有沒有提到防衛式民主?	那從這裡來看，他有沒有提到防衛式民主？	punct/width
+02:18:15,470	他有還是沒有?好像沒有,因為美國人不會講這個	他有還是沒有？好像沒有，因為美國人不會講這個	punct/width
+02:18:15,470	他有還是沒有？好像沒有，因為美國人不會講這個	他有還是沒有？好像沒有，因為美國人不會講這個，	punct/segment-end
+02:18:25,320	但是我猜想,德國人一定會講	但是我猜想，德國人一定會講	punct/width
+02:18:25,320	但是我猜想，德國人一定會講	但是我猜想，德國人一定會講，	punct/segment-end
+02:18:28,830	因為不是剛才講了嗎?民主的機制如果是正常運作的話,我當然反對	因為不是剛才講了嗎？民主的機制如果是正常運作的話，我當然反對	punct/width
+02:18:28,830	因為不是剛才講了嗎？民主的機制如果是正常運作的話，我當然反對	因為不是剛才講了嗎？民主的機制如果是正常運作的話，我當然反對，	punct/segment-end
+02:18:34,330	但是民主機制不正常運作,那我當然要靠司法	但是民主機制不正常運作，那我當然要靠司法	punct/width
+02:18:34,330	但是民主機制不正常運作，那我當然要靠司法	但是民主機制不正常運作，那我當然要靠司法，	punct/segment-end
+02:18:37,290	我猜想,這個也是一個防衛式民主非常原始的一個想法	我猜想，這個也是一個防衛式民主非常原始的一個想法	punct/width
+02:18:37,290	我猜想，這個也是一個防衛式民主非常原始的一個想法	我猜想，這個也是一個防衛式民主非常原始的一個想法，	punct/segment-end
+02:18:41,960	他如果民主都正常,那幹嘛要防衛?	他如果民主都正常，那幹嘛要防衛？	punct/width
+02:18:44,960	自己防衛自己就好	自己防衛自己就好，	punct/segment-end
+02:18:47,580	自己不能防衛	自己不能防衛，	punct/segment-end
+02:18:48,500	所以要靠司法來防衛	所以要靠司法來防衛，	punct/segment-end
+02:18:49,740	來 最後一個conclusion要講什麼	來 最後一個 conclusion 要講什麼	spacing/pangu
+02:18:49,740	來 最後一個 conclusion 要講什麼	來 最後一個 conclusion 要講什麼，	punct/segment-end
+02:18:52,660	有什麼	有什麼，	punct/segment-end
+02:18:56,200	有就有	有就有，	punct/segment-end
+02:18:57,140	沒有就沒有	沒有就沒有，	punct/segment-end
+02:18:57,800	難怪	難怪，	punct/segment-end
+02:18:58,200	沒有	沒有，	punct/segment-end
+02:18:58,740	好	好，	punct/segment-end
+02:18:59,440	那現在你自己給自己一個	那現在你自己給自己一個，	punct/segment-end
+02:19:02,210	最後的	最後的，	punct/segment-end
+02:19:03,250	老師一定給你一個最後成熟的機會	老師一定給你一個最後成熟的機會，	punct/segment-end
+02:19:05,450	來 兩分鐘	來 兩分鐘，	punct/segment-end
+02:19:06,510	你滿意嗎	你滿意嗎，	punct/segment-end
+02:19:08,570	你今天的報告	你今天的報告，	punct/segment-end
+02:19:09,470	你們也覺得他做得很辛苦	你們也覺得他做得很辛苦，	punct/segment-end
+02:19:11,770	他非常認真	他非常認真，	punct/segment-end
+02:19:12,730	然後你覺得今天	然後你覺得今天，	punct/segment-end
+02:19:14,820	像這樣給你報告	像這樣給你報告，	punct/segment-end
+02:19:16,660	你覺得滿意嗎	你覺得滿意嗎，	punct/segment-end
+02:19:18,150	不是	不是，	punct/segment-end
+02:19:19,950	就不用讓他的	就不用讓他的，	punct/segment-end
+02:19:21,050	就他反對建立在一個太嚴格的假設上面了	就他反對建立在一個太嚴格的假設上面了，	punct/segment-end
+02:19:29,470	太嚴格	太嚴格，	punct/segment-end
+02:19:30,090	那四個基礎嗎	那四個基礎嗎，	punct/segment-end
+02:19:31,450	你的意思是說什麼	你的意思是說什麼，	punct/segment-end
+02:19:32,790	對因為他的那個四個基礎	對因為他的那個四個基礎，	punct/segment-end
+02:19:34,550	都是很理想化的假設的情況下	都是很理想化的假設的情況下，	punct/segment-end
+02:19:38,900	他自己有承認這是很理想化嗎	他自己有承認這是很理想化嗎，	punct/segment-end
+02:19:41,490	他說他放得很快呢	他說他放得很快呢，	punct/segment-end
+02:19:43,840	我自己感覺	我自己感覺，	punct/segment-end
+02:19:46,190	我自己感覺就是	我自己感覺就是，	punct/segment-end
+02:19:48,040	你應該這樣回答	你應該這樣回答，	punct/segment-end
+02:19:51,610	他那四個假設放在我們一般的民主國家	他那四個假設放在我們一般的民主國家，	punct/segment-end
+02:19:56,040	危險審查	違憲審查	correction_map/違憲審查
+02:19:56,040	有違憲審查制度的國家	有違憲審查制度的國家，	punct/segment-end
+02:19:58,390	是不是都是要講的這樣	是不是都是要講的這樣，	punct/segment-end
+02:19:59,960	很難打到吧	很難打到吧，	punct/segment-end
+02:20:04,290	是嗎	是嗎，	punct/segment-end
+02:20:05,490	為什麼這麼覺得	為什麼這麼覺得，	punct/segment-end
+02:20:06,770	我現在講這個話	我現在講這個話，	punct/segment-end
+02:20:11,620	對你來講也不太公允	對你來講也不太公允，	punct/segment-end
+02:20:12,920	我只能提到這裡	我只能提到這裡，	punct/segment-end
+02:20:14,620	大家回去想一想	大家回去想一想，	punct/segment-end
+02:20:16,000	他作者是一直強調	他作者是一直強調，	punct/segment-end
+02:20:18,720	民主本身是有缺陷的	民主本身是有缺陷的，	punct/segment-end
+02:20:22,660	但是我們期待這個缺陷	但是我們期待這個缺陷，	punct/segment-end
+02:20:25,050	透過民主自己的程序來矯正	透過民主自己的程序來矯正，	punct/segment-end
+02:20:27,050	還是很有希望的	還是很有希望的，	punct/segment-end
+02:20:30,020	而且可以期待	而且可以期待，	punct/segment-end
+02:20:31,080	比透過這個司法程序來矯正	比透過這個司法程序來矯正，	punct/segment-end
+02:20:35,320	他認為也是這樣的	他認為也是這樣的，	punct/segment-end
+02:20:37,020	那他也說有很多地方不完美的缺點	那他也說有很多地方不完美的缺點，	punct/segment-end
+02:20:41,460	那他一直強調他好像不是希望得到	那他一直強調他好像不是希望得到，	punct/segment-end
+02:20:45,880	不是希望給人家像你得到了這樣的印象	不是希望給人家像你得到了這樣的印象，	punct/segment-end
+02:20:49,020	他假設的很嚴厲	他假設的很嚴厲，	punct/segment-end
+02:20:50,870	他一直是希望不要這樣的	他一直是希望不要這樣的，	punct/segment-end
+02:20:52,990	但是你居然會得到一個跟他相反的假設	但是你居然會得到一個跟他相反的假設，	punct/segment-end
+02:20:55,960	那表示他覺得說還蠻失敗的	那表示他覺得說還蠻失敗的，	punct/segment-end
+02:20:57,960	他沒有說服你	他沒有說服你，	punct/segment-end
+02:20:59,320	所以你的意思是說回現場還是很好的	所以你的意思是說回現場還是很好的，	punct/segment-end
+02:21:02,950	我們不應該反對	我們不應該反對，	punct/segment-end
+02:21:03,790	因為他現在是反對的	因為他現在是反對的，	punct/segment-end
+02:21:07,440	然後他的反對是建立在	然後他的反對是建立在，	punct/segment-end
+02:21:10,430	剛才那幾個假設	剛才那幾個假設，	punct/segment-end
+02:21:11,490	那你跟你現在的意思是說	那你跟你現在的意思是說，	punct/segment-end
+02:21:13,470	那幾個假設他也可	那幾個假設他也可，	punct/segment-end
+02:21:14,890	我們更不可能做到	我們更不可能做到，	punct/segment-end
+02:21:16,070	所以你現在是在烏托邦的反對	所以你現在是在烏託邦的反對	opencc/s2tw
+02:21:16,070	所以你現在是在烏託邦的反對	所以你現在是在烏託邦的反對，	punct/segment-end
+02:21:18,490	這意思嗎	這意思嗎，	punct/segment-end
+02:21:20,480	我不想說	我不想說，	punct/segment-end
+02:21:21,900	其實我甚至不覺得	其實我甚至不覺得，	punct/segment-end
+02:21:25,070	危險審查	違憲審查	correction_map/違憲審查
+02:21:25,070	他的這篇文章有在反對違憲審查	他的這篇文章有在反對違憲審查，	punct/segment-end
+02:21:29,230	這是因為他先前有告訴你	這是因為他先前有告訴你，	punct/segment-end
+02:21:31,350	我剛剛講的兩個小子	我剛剛講的兩個小子，	punct/segment-end
+02:21:32,470	他已經寫過很多文章	他已經寫過很多文章，	punct/segment-end
+02:21:34,260	危險審查	違憲審查	correction_map/違憲審查
+02:21:34,260	討論違憲審查	討論違憲審查，	punct/segment-end
+02:21:35,660	有很多地方哪些哪些哪些不好	有很多地方哪些哪些哪些不好，	punct/segment-end
+02:21:38,120	他現在是把它通通都撥掉	他現在是把它通通都撥掉，	punct/segment-end
+02:21:42,720	我只要講最核心的	我只要講最核心的，	punct/segment-end
+02:21:44,120	他是這個意思	他是這個意思，	punct/segment-end
+02:21:46,520	他好像有個意思說	他好像有個意思說，	punct/segment-end
+02:21:48,990	從事以後我不再發言	從事以後我不再發言，	punct/segment-end
+02:21:49,990	我講太多了	我講太多了，	punct/segment-end
+02:21:50,990	結果我們發現呢	結果我們發現呢，	punct/segment-end
+02:21:52,880	他最後一次發言還是失敗	他最後一次發言還是失敗，	punct/segment-end
+02:21:54,880	因為他沒有說服	因為他沒有說服，	punct/segment-end
+02:21:55,880	我們下課	我們下課，	punct/segment-end
+02:21:59,700	下禮拜見	下禮拜見，	punct/segment-end
+02:22:01,110	不會	不會，	punct/segment-end
+02:22:02,110	大家加油	大家加油，	punct/segment-end
+02:22:03,050	這個主題真的是不容易	這個主題真的是不容易，	punct/segment-end
+02:22:05,080	我真的不知道有這麼猛	我真的不知道有這麼猛，	punct/segment-end
+02:22:07,050	來	來，	punct/segment-end
+02:22:08,110	怎樣	怎樣，	punct/segment-end
+02:22:11,420	謝謝	謝謝，	punct/segment-end
+02:22:12,510	我還有下禮拜要	我還有下禮拜要，	punct/segment-end
+02:22:13,510	老師可以來	老師可以來，	punct/segment-end
+02:22:15,220	我不要我不來	我不要我不來，	punct/segment-end
+02:22:16,620	你們都發現為什麼我要來	你們都發現為什麼我要來，	punct/segment-end
+02:22:18,420	我當然不來	我當然不來，	punct/segment-end
+02:22:19,550	是不是	是不是，	punct/segment-end
+02:22:20,700	嘿嘿好	嘿嘿好，	punct/segment-end
+02:22:22,080	那大家可以看一下那個	那大家可以看一下那個，	punct/segment-end
+02:22:29,200	我上傳的那個資料價	我上傳的那個資料價，	punct/segment-end
+02:22:30,590	我有分析就是	我有分析就是，	punct/segment-end
+02:22:31,790	老師以前做的導遊資料到裡面	老師以前做的導遊資料到裡面，	punct/segment-end
+02:22:34,290	大家可以看一下	大家可以看一下，	punct/segment-end
+02:22:35,490	老師上學期做的	老師上學期做的，	punct/segment-end
+02:22:37,410	喔真的喔	喔真的喔，	punct/segment-end
+02:22:38,390	所以	所以，	punct/segment-end
+02:22:39,350	這學期做的萬七八糟	這學期做的萬七八糟，	punct/segment-end
+02:22:40,850	沒力氣關的	沒力氣關的，	punct/segment-end
+02:22:41,760	就那份導遊	就那份導遊，	punct/segment-end
+02:22:43,170	就是老師可以看考驗老師做的樣子	就是老師可以看考驗老師做的樣子，	punct/segment-end
+02:22:45,170	大家要像一般這樣做	大家要像一般這樣做，	punct/segment-end
+02:22:46,370	那就太累了	那就太累了，	punct/segment-end
+02:22:47,170	像亦凡這樣做的話	像亦凡這樣做的話，	punct/segment-end
+02:22:51,430	第一個要做很久	第一個要做很久，	punct/segment-end
+02:22:52,510	第二個	第二個，	punct/segment-end
+02:22:53,030	你就是要看那個	你就是要看那個，	punct/segment-end
+02:22:54,250	你就是要把它看	你就是要把它看，	punct/segment-end
+02:22:55,350	我想你這個要看完	我想你這個要看完，	punct/segment-end
+02:22:57,270	不快要一小時	不快要一小時，	punct/segment-end
+02:22:58,230	要不要	要不要，	punct/segment-end
+02:22:59,150	要吧	要吧，	punct/segment-end
+02:23:00,190	不止一個小時	不止一個小時，	punct/segment-end
+02:23:01,490	不止一個小時	不止一個小時，	punct/segment-end
+02:23:02,820	我沒有看	我沒有看，	punct/segment-end
+02:23:04,410	為什麼老師剛跟你那個討論	為什麼老師剛跟你那個討論，	punct/segment-end
+02:23:08,140	你去想一想看	你去想一想看，	punct/segment-end
+02:23:09,040	今天有沒有錄音	今天有沒有錄音，	punct/segment-end
+02:23:09,940	根據我剛才問你	根據我剛才問你，	punct/segment-end
+02:23:11,710	有沒有問題	有沒有問題，	punct/segment-end
+02:23:12,380	把那個答案整出來	把那個答案整出來，	punct/segment-end
+02:23:14,120	這就是要摘藥	這就是要摘藥，	punct/segment-end
+02:23:15,290	有聽懂嗎	有聽懂嗎，	punct/segment-end
+02:23:18,300	我已經講完了	我已經講完了，	punct/segment-end
+02:23:20,010	我希望我講的話有聽懂	我希望我講的話有聽懂，	punct/segment-end
+02:23:21,290	有人沒有聽懂嗎?	有人沒有聽懂嗎？	punct/width
+02:23:23,300	你聽懂了沒有?	你聽懂了沒有？	punct/width
+02:23:24,960	聽懂了	聽懂了，	punct/segment-end
+02:23:26,210	老師就給你挑的重點牆	老師就給你挑的重點牆，	punct/segment-end
+02:23:27,900	重點都是對著名字	重點都是對著名字，	punct/segment-end
+02:23:29,500	然後裡面它有123	然後裡面它有 123	spacing/pangu
+02:23:29,500	然後裡面它有 123	然後裡面它有 123，	punct/segment-end
+02:23:31,480	我們就有123	我們就有 123	spacing/pangu
+02:23:31,480	我們就有 123	我們就有 123，	punct/segment-end
+02:23:32,610	那你把那東西串起來	那你把那東西串起來，	punct/segment-end
+02:23:34,440	這個答案就出來了	這個答案就出來了，	punct/segment-end
+02:23:35,710	這個摘要就做完了	這個摘要就做完了，	punct/segment-end
+02:23:37,020	你現在這是筆稿	你現在這是筆稿，	punct/segment-end
+02:23:38,750	你現在這是書稿	你現在這是書稿，	punct/segment-end
+02:23:40,030	你現在把根據這個書稿	你現在把根據這個書稿，	punct/segment-end
+02:23:41,820	去回答老師剛才問你的問題	去回答老師剛才問你的問題，	punct/segment-end
+02:23:43,590	答案就有了	答案就有了，	punct/segment-end
+02:23:44,890	那這樣子我猜想	那這樣子我猜想，	punct/segment-end
+02:23:46,440	應該三四頁	應該三四頁，	punct/segment-end
+02:23:47,680	四五頁	四五頁，	punct/segment-end
+02:23:48,890	應該摘要就做完了	應該摘要就做完了，	punct/segment-end
+02:23:50,330	這間同意	這間同意，	punct/segment-end
+02:23:53,760	可是你要幫他	可是你要幫他，	punct/segment-end
+02:23:54,990	三四月太難了	三四月太難了，	punct/segment-end
+02:23:56,960	太難了	太難了，	punct/segment-end
+02:23:58,100	要把一個文章農縮成三四月太難了吧	要把一個文章農縮成三四月太難了吧，	punct/segment-end
+02:24:01,860	太難了齁	太難了齁，	punct/segment-end
+02:24:02,640	對啊	對啊，	punct/segment-end
+02:24:03,340	我們的功力可能還不夠	我們的功力可能還不夠，	punct/segment-end
+02:24:04,970	謝謝	謝謝，	punct/segment-end
+02:24:05,870	那我們下下禮拜見	那我們下下禮拜見，	punct/segment-end
+02:24:07,910	謝謝	謝謝，	punct/segment-end
+02:24:08,610	拜拜	拜拜，	punct/segment-end
+02:24:10,050	大家可以參考一下就是老師做的一個高度資料	大家可以參考一下就是老師做的一個高度資料，	punct/segment-end
+02:24:13,370	就是分段分享然後寫一點載藥	就是分段分享然後寫一點載藥，	punct/segment-end
+02:24:15,810	然後把重點標出來	然後把重點標出來，	punct/segment-end
+02:24:17,570	不要畫上點	不要畫上點，	punct/segment-end
+02:24:19,060	我重點在附路啊	我重點在附路啊，	punct/segment-end
+02:24:21,480	呵呵呵	呵呵呵，	punct/segment-end
+02:24:22,390	辛苦你了	辛苦你了，	punct/segment-end
+02:24:22,890	我們慢慢回去慢慢看	我們慢慢回去慢慢看，	punct/segment-end
+02:24:26,950	還有手機我再打印點	還有手機我再打印點，	punct/segment-end
+02:24:30,940	你是說那個零	你是說那個零，	punct/segment-end
+02:24:31,780	多號零的	多號零的，	punct/segment-end
+02:24:33,660	我就是直接放在那個工作屋裡面	我就是直接放在那個工作屋裡面，	punct/segment-end
+02:24:36,010	這個	這個，	punct/segment-end
+02:24:36,490	對的對的就是這個	對的對的就是這個，	punct/segment-end
+02:24:38,670	就是這個	就是這個。	punct/segment-end

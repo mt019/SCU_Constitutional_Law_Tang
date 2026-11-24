@@ -64,3 +64,6 @@
   font-variant-caps: small-caps;
   letter-spacing: 0.04em;
 }
+
+/* 逐字稿頁：段首時間碼（1151/seminar/逐字稿/Skripte/gen_tex.py --md-out） */
+.md-typeset .tc { font-size: 0.72em; color: var(--md-default-fg-color--light); font-variant-numeric: tabular-nums; margin-right: 0.5em; }
