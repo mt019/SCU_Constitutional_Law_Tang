@@ -6,9 +6,9 @@ set -e
 cd "$(dirname "$0")"
 MAIN=1151_憲法專題研究_大學部_逐字稿
 STY="$(sed -n 's/^\\def\\TransLaTeXDir{\(.*\)}.*/\1/p' "$MAIN.tex")"
-# biber 預設快取目錄不可用，改指到書目錄下
-mkdir -p .biber-tmp
-export PAR_GLOBAL_TEMP="$PWD/.biber-tmp"
+# biber 預設快取目錄不可用，改指到使用者快取目錄
+mkdir -p "$HOME/Library/Caches/biber-par"
+export PAR_GLOBAL_TEMP="$HOME/Library/Caches/biber-par"  # 全機共用，不在書目錄下（2026-11-24 七本書各解壓 3868 檔）
 : > build.log
 run() { "$@" </dev/null >>build.log 2>&1 || { echo "失敗：$*（見 build.log）"; exit 1; }; }
 indexes() {

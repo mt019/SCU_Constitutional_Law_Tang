@@ -1,0 +1,29 @@
+列號	判定	新註	新出處	新引	缺什麼	依據
+1	維持					/Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/constitutional-court-app.json（主文）；/Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/constitutionalCourt-reasoning-fulltext.json；課綱檔第 10 週
+2	維持					/Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/constitutional-court-app.json（主文）；總統解釋憲法聲請書 PDF（https://cons.judicial.gov.tw/download/download.aspx?id=437086）首頁函文與壹；課綱檔第 11 週
+3	改	指中華民國憲法法庭 114 年憲判字第 1 號判決（2025 年 12 月 19 日），宣告 2025 年 1 月 23 日修正公布之憲法訴訟法第 4 條第 3 項、第 30 條第 2 項至第 6 項及第 95 條違憲。判決由謝銘洋、呂太郎、蔡彩貞、陳忠五、尤伯祥五位大法官作成，蔡宗珍、楊惠欽、朱富美三位大法官拒絕參與評議，另共同提出不同意法律意見書。課綱列於第 5 週。	https://cons.judicial.gov.tw/docdata.aspx?fid=38&id=355485 ; https://news.ttv.com.tw/news/11412190002800W ; /Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/constitutional-court-app.json ; 1151/constitution/syllabus.md			判決全文頁 https://cons.judicial.gov.tw/docdata.aspx?fid=38&id=355485 理由「六、本件判決拒絕參與評議的大法官，應不計入現有總額」，該頁意見書欄只列尤伯祥、蔡彩貞兩份；三位共同提出不同意法律意見書見 https://news.ttv.com.tw/news/11412190002800W（2025-12-19 18:03）；判決日期、五位署名、主文與本機 app.json 相符
+4	維持					聲請書 id=437086 首頁壹：查緝黑金中心 2006-06-29 分案、2006-11-03 起訴書 95 年偵字第 23708 號
+5	維持					聲請書 id=437086 貳之「國務機要」段，含國務支出定義與主計處 2006-11-29 報告引文，逐字相符
+6	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 104 條；pcode=U0000001 審計部組織法第 3 條，均親自取全文
+7	維持					https://www.cna.com.tw/news/firstnews/202102040389.aspx 全文（2021-02-04）：1991 年購 6 艘拉法葉級巡防艦、台北地檢署聲請沒收、最高法院 2019 年裁定准許沒收追徵本金 3 億 1253 萬餘美元確定、瑞士司法部歸還近 2.66 億美元
+8	維持					https://english.president.gov.tw/Page/646 全文：Tsai Ing-wen (1956–)、14th–15th terms、2016.05.20–2024.05.20
+9	維持					https://www.president.gov.tw/Page/85 大事年表：76 年 7 月 14 日宣布自 7 月 15 日零時起解嚴，動員戡亂時期國家安全法同步施行
+10	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=U0010001 審計法第 21 條、第 74 條，逐字相符
+11	維持					https://www.archives.gov/founding-docs/constitution-transcript Article III Section 1，shall hold their Offices during good Behaviour
+12	維持					https://www.law.cornell.edu/uscode/text/31/703 (b)：the term of the Comptroller General is 15 years. The Comptroller General may not be reappointed.
+13	維持					聲請書 id=437086 壹：2006-11-03 起訴書以吳淑珍等人共同貪污及偽造文書罪嫌提起公訴，並以括弧記載陳水扁因憲法第 52 條之保障俟罷免或解職後再行訴究
+14	維持					https://www.president.gov.tw/Page/87：1950 年生、臺灣大學法律系畢業、第 10 至 11 任、2000.05.20-2008.05.20
+15	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 52 條，逐字相符
+16	維持					刑法 https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000001 第 28 條逐字；聲請書 id=437086 壹載起訴書請依刑法第 31 條第 1 項論以共犯；釋字第 627 號理由書（constitutionalCourt-reasoning-fulltext.json）「共同正犯、教唆犯、幫助犯以及其他參與總統所涉犯罪之人，不在總統刑事豁免權保障之範圍內」逐字相符
+17	維持					聲請書 id=437086 壹：臺灣臺北地方法院審理（北院錦刑團 95 矚重訴字第 4 號貪污等案）；釋字第 627 號理由書「九十五年度矚重訴字第四號刑事案件」
+18	改	聲請書依司法院大法官審理案件法第 5 條第 1 項第 1 款，就總統行使職權適用憲法發生疑義，以及與法院刑事案件審理之職權發生適用憲法之爭議，一併聲請解釋。釋字第 627 號解釋理由書第三部分載明：「本件聲請意旨主張總統行使職權，與臺灣臺北地方法院九十五年度矚重訴字第四號刑事案件審理之職權，發生適用憲法第五十二條之爭議；適用法院組織法第六十三條之一第一項第一款、第二款及刑事訴訟法第一百七十六條之一規定，發生有牴觸憲法第五十二條之疑義部分，核與司法院大法官審理案件法第五條第一項第一款規定不符，應不受理。」				constitutionalCourt-reasoning-fulltext.json 釋字第627號理由書「三、暫時處分及不受理部分」：「不符，應不受理」所指為爭議部分與適用法院組織法、刑事訴訟法第 176 條之 1 之牴觸疑義部分兩者，原註將不受理僅繫於爭議一項；聲請書第 5 條第 1 項第 1 款引述見 id=437086 壹
+19	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010001 第 302、303 條；pcode=C0010001 第 176-1 條，逐字相符
+20	維持					/Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/constitutional-court-app.json（主文） 釋字第627號主文二第一段逐字；聲請書 id=437086 首頁 State Secrets Privilege
+21	維持					https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0030159 沿革 2（82-02-03 更名並修正全文 35 條，原名司法院大法官會議法）、3（108-01-04 更名憲法訴訟法）
+22	維持					同上沿革頁：3（108-01-04 全文 95 條，自公布後三年施行）、5（114-01-23 修正第 4、30、95 條）；114 年憲判字第 1 號主文
+23	維持					釋字第520號理由書（constitutionalCourt-reasoning-fulltext.json）：「本件行政院為決議停止興建核能第四電廠並停止執行相關預算，適用憲法發生疑義，並與立法院行使職權，發生適用憲法之爭議」及第五條第一項第一款中段「⋯⋯規定相符，應予受理」逐字相符；日期 2001-01-15 見 app.json；課綱檔第 9 週
+24	維持					https://www.archives.gov/founding-docs/constitution-transcript Article III Section 2：The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution ... to Controversies ...
+25	維持					/Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/constitutional-court-app.json（主文） 釋字第388號（1995-10-27）主文逐字相符
+26	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000001 第 100 條第 1 項、章節編次，逐字相符
+27	維持					https://www.president.gov.tw/Page/694：1959 年出生；2024-05-20 宣誓就任第 16 任總統
+28	維持					釋字第627號理由書一（constitutionalCourt-reasoning-fulltext.json）引文與「俟總統經罷免、解職或卸任之日起，始續行偵查、審判程序」逐字相符

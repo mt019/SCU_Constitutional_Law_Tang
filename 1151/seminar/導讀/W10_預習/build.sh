@@ -5,8 +5,8 @@ set -e
 cd "$(dirname "$0")"
 MAIN=W10_Law_預習
 STY="$(sed -n 's/^\\def\\TransLaTeXDir{\(.*\)}.*/\1/p' "$MAIN.tex")"
-mkdir -p .biber-tmp
-export PAR_GLOBAL_TEMP="$PWD/.biber-tmp"
+mkdir -p "$HOME/Library/Caches/biber-par"
+export PAR_GLOBAL_TEMP="$HOME/Library/Caches/biber-par"  # 全機共用，不在書目錄下（2026-11-24 七本書各解壓 3868 檔）
 : > build.log
 run() { "$@" </dev/null >>build.log 2>&1 || { echo "失敗：$*（見 build.log）"; exit 1; }; }
 indexes() {

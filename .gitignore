@@ -23,7 +23,35 @@ _Material/法源/憲法法庭/**/extracted/
 notes/.venv/
 notes/site/
 notes/.cache/
-# 1151 逐字稿產線：wav 中間產物與快取不進版控
-1151/seminar/asr/**/*.wav
-1151/seminar/asr/.cache/
+# 1151 逐字稿產線（研討會與憲法課兩門）：wav 中間產物與快取不進版控
+1151/*/asr/**/*.wav
+1151/*/asr/.cache/
 1151/seminar/asr/trial/
+# 重轉比較用的產物（*.v2.*）、探查與修補的片段目錄（.probe/、.fix/）、-ojf 的大 json 不進版控（2026-11-24 站主裁定）；
+# 已提交的 W01 兩份 json 不受影響
+1151/*/asr/**/*.v2.*
+1151/*/asr/**/.probe/
+1151/*/asr/**/.fix/
+1151/*/asr/W*/*.json
+!1151/*/asr/W*/manifest.json
+# 1151 指定文獻：課程雲端硬碟取得的期刊論文與書籍章節，僅供修課研讀，不進公開版控
+1151/seminar/readings/W*/*.pdf
+# 1151 課程雲端硬碟另附的專書全文，同上，不進公開版控
+library/books/Fallon_Law_and_Legitimacy_in_the_Supreme_Court_2018.pdf
+library/books/Vinx_The_Guardian_of_the_Constitution_Kelsen_and_Schmitt_2015.pdf
+# Bickel 專書兩個版本（電子書與 Internet Archive 掃描本），2026-10-05 站主收，同上不進公開版控
+library/books/Bickel_The_Least_Dangerous_Branch_2ed_1986*.pdf
+# 1151 指定文獻的文字層，與 PDF 同屬課程材料，不進公開版控
+1151/seminar/readings/W*/text/
+# Python 快取
+__pycache__/
+# 湯德宗專書與主編論文集掃描本五冊（下載站取得，無文字層），2026-10-05 站主收，同上不進公開版控
+library/books/湯德宗_*.pdf
+# biber 的 PAR 解壓快取：各書 build.sh 已改指 ~/Library/Caches/biber-par，此條防舊版腳本再產生（2026-11-24）
+.biber-tmp/
+# 逐字稿編本 agent 抓取的出處原頁：留本機供查核，不進公開版控（網頁原檔常內嵌各站公開金鑰，2026-11-24 兩次被 GitHub 密鑰掃描擋下）
+1151/*/逐字稿/Notizen/工作_*/**
+!1151/*/逐字稿/Notizen/工作_*/**/
+!1151/*/逐字稿/Notizen/工作_*/**/*.py
+!1151/*/逐字稿/Notizen/工作_*/**/*.sh
+!1151/*/逐字稿/Notizen/工作_*/index.md

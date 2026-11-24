@@ -1,0 +1,31 @@
+列號	判定	新註	新出處	新引	缺什麼	依據
+1	維持					1151/constitution/syllabus.md 二節指定教科書、四節分週表（第 2、4、8、9、10、12 週標卷一頁碼）
+2	維持					1151/constitution/syllabus.md 二節指定教科書、第 6 週（10/19）釋字 3、175、14、319、461、632，標新論卷二 372、358、370、297
+3	未決				二版、2026、第 13、14、16 週已對課綱（1151/constitution/syllabus.md）；初版題名《釋憲學思心路：湯大法官德宗意見書心法尋繹》、時英出版社、2025 年僅見於本倉自編清單（library/湯德宗_著述與大法官案件清單.md），dennis-tang.site 為前端渲染取不到內文、idv.sinica.edu.tw/dennis 404、書店與 Google Books 取不到；缺版權頁或國家圖書館書目	library/湯德宗_著述與大法官案件清單.md 二-1
+4	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030159 第 35 條全文（curl 存檔逐字相符）；refs.bib 鍵 csfa 存在
+5	維持					https://cbdata.dila.edu.tw/stable/works?work=T0235 回傳 vol T08、title 金剛般若波羅蜜經、juan 1、byline 後秦 鳩摩羅什譯
+6	維持					https://cbdata.dila.edu.tw/stable/works?work=T0262（妙法蓮華經 T09，七卷，姚秦 鳩摩羅什譯）；search?q=觀世音菩薩普門品第二十五 命中 T09n0262 juan 7
+7	維持					全國法規資料庫 LawHistory A0030159（1958 制定、1993 更名、2019 年 1 月 4 日修正公布更名並自公布後三年施行）；constitutional-court-app.json「大法官法制沿革」組織法-1948-施行（第 3 條原文、1948-06-24 施行）
+8	維持					zh.wikisource.org 宋史卷 336 司馬光傳（自言「吾無過人者，但平生所爲，未嘗有不可對人言者耳」；拜尚書左僕射兼門下侍郎）；宋史卷 319 歐陽修傳（五年拜樞密副使，六年參知政事，前文有嘉祐二年貢舉）
+9	維持					1151/constitution/syllabus.md 二節參考書資料「湯德宗教授簡歷」連結與第 1 週分週表
+10	維持					https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:bekker%20page=1096a 第 1 卷第 6 章節 1-2：Rackham 譯文逐字相符，位於 Theory of Ideas 討論開頭
+11	改	課綱「參考書資料暨網路資源」列有「YT 頻道影片清單」的 Google Drive 連結。分週表第 1 週列「湯德宗教授 YT 頻道影片清單」，第 5 週（10 月 12 日）與第 15 週（12 月 21 日）的末行標「YT」。				1151/constitution/syllabus.md 二節與四節分週表。原註「表示該週案件在頻道上有對應的講次」為課綱未載明的推論，已刪
+12	維持					1151/constitution/syllabus.md 二節「前期上課心得分享」Google Drive 連結
+13	維持					1151/constitution/syllabus.md 三節教學目標
+14	維持					全國法規資料庫 LawAll A0000001 第 22 條逐字；cons.judicial.gov.tw 釋字第 603 號解釋文「受憲法第二十二條所保障」
+15	維持					全國法規資料庫 LawAll A0000001 第 7、8、10 至 18、21 條
+16	維持					cons.judicial.gov.tw docdata fid=100&id=310784 解釋文第 1 段逐字相符（含括號「本院釋字第五八五號解釋參照」）
+17	維持					https://plato.stanford.edu/entries/privacy/ 引言段（decisional privacy、same-sex marriage and abortion、In 1965 a right to privacy, independent of informational privacy and the Fourth Amendment）與 3.3.5
+18	維持					cons.judicial.gov.tw 釋字第 603 號：解釋公布 94 年 9 月 28 日；解釋文第 1、2 段逐字相符
+19	維持					plato.stanford.edu/entries/privacy/ 全文用 informational privacy；釋字第 603 號解釋文「資訊隱私權」
+20	維持					cons.judicial.gov.tw docdata fid=100&id=310690 釋字第 509 號（89 年 7 月 7 日）解釋文逐字相符；全國法規資料庫第 11 條
+21	維持					https://www.law.uchicago.edu/socratic-method（Garrett 文：discussions with a few students on whom they call…explore very difficult legal concepts and principles；develop critical thinking skills）
+22	維持					1151/constitution/syllabus.md 三節教學目標「應輪流製作授課共筆，以備期末之開書測驗（Open Book Exam.）」
+23	未決				書名、天宏出版、上冊增訂三版 2015、下冊增訂三版 2016 僅見於本倉自編清單（library/湯德宗_著述與大法官案件清單.md 二-1），dennis-tang.site 取不到內文、書店與 Google Books 取不到；缺版權頁或國家圖書館書目	library/湯德宗_著述與大法官案件清單.md 二-1
+24	維持					1151/constitution/syllabus.md 四節第 2、3 週分週表
+25	維持					doi:10.1111/j.1475-6765.1980.tb00569.x，Crossref 記載題名、EJPR 8(2)、1980 年 6 月、頁 165–187；library/text/湯德宗_權力分立新論卷一/fulltext.txt 刊本頁 68 註 22（「貌似半總統制的總統制」）、註 23（Duverger 三要素）；同書「現制為『弱勢總統制』」
+26	維持					CNA 2026-09-14（cna.com.tw/news/aipl/202609140044.aspx）：12 日台北政經學院基金會「總統直選 30 年的回顧與前瞻」研討會、副署權、國是會議與修憲合作經驗；udn 9780854（CNA 2026-09-28 專訪）：1941 年生、1991 與 1996 年兩度當選主席；udn 9380341（CNA 2026-03-14）：「1997 年與前總統李登輝合作推動修憲，確定是根據法國第五共和、雙首長制」
+27	維持					https://www.president.gov.tw/Page/86：1923–2020、77.01 繼任第七任、79.03 國民大會選為第八任、85.03 首次直選第九任、任期至 2000.05.20
+28	維持					https://www.president.gov.tw/Page/325：86 年 7 月 21 日公布令；增修條文第 3 條第 1 項、第 2 項第 3 款、第 2 條第 5 項原文
+29	維持					https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur ARTICLE 8 第 1 項兩句逐字
+30	維持					constitutional-court-app.json「總統任期」蔡英文 2016-05-20 至 2024-05-20

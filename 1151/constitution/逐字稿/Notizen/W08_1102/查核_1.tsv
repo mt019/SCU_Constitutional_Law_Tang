@@ -1,0 +1,31 @@
+列號	判定	新註	新出處	新引	缺什麼	依據
+1	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310568 解釋公布院令 84年10月13日與解釋文；本機 constitutional-court-app.json
+2	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310600 理由書首段四件聲請；解釋文三段
+3	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第57條第2款；pcode=A0000002 第3條第2項第2款、第3款
+4	維持					憲法第55條第1項、增修條文第3條第1項原文（全國法規資料庫）
+5	維持					憲法第54條原文；釋字第387號解釋文
+6	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310642 理由書首段援引八十六年七月二十一日公布施行之增修條文第三條第一項
+7	維持					https://vote.nccu.edu.tw/cec/B1992006.PDF 投票日期1992年12月19日；B1995006.PDF 1995年12月02日；https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310442 釋字第261號 79年06月21日
+8	維持					/Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/justices.json 吳庚任期；opinions/釋字第387號__00__unknown__意見書.txt 開頭「大法官 吳 庚」與「釋字第三二八號」；constitutional-court-app.json 387意見書僅吳庚一人
+9	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310509 釋字第328號 82年11月26日與解釋文引句逐字相符
+10	維持					https://www.law.cornell.edu/supremecourt/text/369/186 Decided March 26, 1962；Brennan 撰多數意見；political question 首二項引句逐字相符
+11	維持					吳庚意見書註五與正文譯文（本機 opinions/釋字第387號…意見書.txt）；Baker v. Carr 原文六項（Cornell 全文）
+12	改	湯德宗著，卷一《憲法結構與動態平衡》、卷二《違憲審查與動態平衡》，新學林 2026 年增訂五版。課綱列為指定教科書，第 8 週進度列「（卷一／173）」。				1151/constitution 課綱（syllabus）第45–46行書名與版次、第112–114行第 8 週「（卷一／173）」；課綱未寫明「173」為頁碼，亦無「起」字
+13	維持					https://history.state.gov/countries/china 1979 年條 On January 1, 1979 ... sole legitimate government ... withdrew its recognition
+14	維持					https://www.law.cornell.edu/supremecourt/text/444/996 判決日 December 13, 1979；vacated and remanded with directions to dismiss；Rehnquist 協同意見（Burger、Stewart、Stevens 加入）；Powell 協同意見以未成熟為由；https://history.state.gov/milestones/1977-1980/china-policy 共同防禦條約 December 1954
+15	維持					https://www.president.gov.tw/Page/81 第7~9任李登輝（1923-2020），民國77至89年
+16	維持					https://www.president.gov.tw/Page/81 第10~11任陳水扁（1950-），2000至2008
+17	維持					https://www.ey.gov.tw/Page/D4A3B8D669A4B277 陳建仁任至113.05.20；該頁未列卓榮泰，到職日由此推得；cna 報導僅載卓榮泰現任院長
+18	維持					https://www.ey.gov.tw/Page/D4A3B8D669A4B277 連戰 82.02.27-85.02.24、85.02.24-86.09.01；https://www.president.gov.tw/Page/82 第9任副總統 85.05.20-89.05.20
+19	維持					增修條文第2條第1項原文；https://vote.nccu.edu.tw/cec/A1996006.PDF 投票日期1996年03月23日；president.gov.tw/Page/82
+20	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310600 解釋文第一段逐字相符
+21	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310211 釋字第30號 43年01月15日；本機 constitutional-court-app.json 主文逐字相符
+22	維持					憲法第49條原文；增修條文第2條第7項、第8項原文
+23	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=38&id=352966 判決日期113年10月25日；主文二至五項宣告部分規定失其效力；理由多處論及責任政治
+24	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310184 釋字第3號解釋文「基於五權分治，平等相維之體制」；https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310356 釋字第175號解釋文「五權分治彼此相維之憲政體制」
+25	維持					憲法第27條第1項原文；增修條文第1條第2項原文
+26	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310212 釋字第31號 43年01月29日；引句逐字相符
+27	維持					https://www.ey.gov.tw/Page/D4A3B8D669A4B277 翁文灝 37.05.25-37.11.26，列於「行憲後（民國37年起）」
+28	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310600 解釋文第二段前半逐字相符
+29	改	1996 年 5 月 20 日李登輝就任第 9 任總統、連戰就任第 9 任副總統後，行政院院長連戰提出總辭，李登輝總統批示「著毋庸議」，連戰續任行政院院長。	https://www.businessweekly.com.tw/archive/Article?StrId=2027 ; /Users/iw/Documents/NTU/1142/phenom-court-data/data/processed/docs/釋字第419號.json			原出處所列 constitutionalCourt-reasoning-fulltext.json 的釋字第419號理由書不含「著毋庸議」；該詞見 docs/釋字第419號.json 所收行政院說明（「連戰院長於本次總統改選後之提出總辭……總統依其職權批示「著毋庸議」」）及商業周刊 1996/06/13 摘要；原註「率內閣總辭」未見於上列出處
+30	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310600 解釋文第二段後半逐字相符

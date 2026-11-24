@@ -39,7 +39,7 @@ def main():
         if word in seen:
             errs.append(f'{where}：同表重複')
         seen.add(word)
-        if re.search(r'[{}\\%#$&_]', note):
+        if re.search(r'[{}\\]', note):
             errs.append(f'{where}：註文含 TeX 特殊字元')
         ok_src = False
         for s in [x.strip() for x in re.split(r' ; |；', src) if x.strip()]:

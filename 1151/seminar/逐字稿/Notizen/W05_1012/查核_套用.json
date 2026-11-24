@@ -1,0 +1,79 @@
+{
+ "1": {
+  "註": "奧地利法學家（1881–1973），1919 年受託擬定奧地利聯邦憲法的草案，參與 1920 年聯邦憲法的制定，自 1919 年起任奧地利憲法法院法官，1930 年去職。所著 Wesen und Entwicklung der Staatsgerichtsbarkeit 為課綱第 5 週指定文獻，Vinx 英譯收於 The Guardian of the Constitution（2015）第 22 至 78 頁。",
+  "出處": "library/books/Vinx_The_Guardian_of_the_Constitution_Kelsen_and_Schmitt_2015.pdf ; 1151/seminar/syllabus.md ; https://www.biographien.ac.at/oebl/oebl_K/Kelsen_Hans_1881_1973.xml"
+ },
+ "5": {
+  "註": "德文，基本規範。Kelsen 在《純粹法學》（Reine Rechtslehre，1934 年初版，1960 年二版）以之為預設歷史上第一部憲法具有效力的內容，基本規範本身未經任何其他規範授權。本週文本原刊第 36 頁把狹義憲法中規定立法機關與程序的規範稱為 Grundregel（基本規則）。",
+  "出處": "https://plato.stanford.edu/entries/lawphil-theory/ ; 1151/seminar/readings/W05/sources/DeGruyter-VVDStRL-Heft5-1929-Staatsgerichtsbarkeit.txt ; https://www.biographien.ac.at/oebl/oebl_K/Kelsen_Hans_1881_1973.xml"
+ },
+ "18": {
+  "註": "德文，國事裁判。Kelsen 全文第一句為「Staatsgerichtsbarkeit ist Verfassungs-Gerichtsbarkeit」（國事裁判就是憲法裁判）。Vinx 在正文以 adjudication in matters of state 對應 Staatsgerichtsbarkeit，篇名則譯為 constitutional adjudication。"
+ },
+ "19": {
+  "註": "全稱《司法院大法官審理案件法》，前身為 1958 年 7 月 21 日制定公布的《司法院大法官會議法》（全文 20 條）；1993 年 2 月 3 日修正公布名稱及全文 35 條，由《司法院大法官會議法》更名為《司法院大法官審理案件法》；2019 年 1 月 4 日修正公布名稱及全文 95 條，更名為《憲法訴訟法》，自公布後三年即 2022 年 1 月 4 日施行。"
+ },
+ "23": {
+  "註": "Vinx 編譯本第 2 章的標題為 The guardian of the constitution: Schmitt's argument against constitutional review（憲法的守護者：Schmitt 反對違憲審查的論證），第 79 至 124 頁。所譯為 Der Hüter der Verfassung 第一章（Die Justiz als Hüter der Verfassung）第 1 至 3 節及第 4 節（c）一段，依 Vinx 題注取自 1996 年第 4 版第 12 至 48 頁、第 60 至 64 頁。"
+ },
+ "25": {
+  "註": "Vinx 本第 22 頁第 1 節的標題，德文原題 I. Das Problem der Rechtmässigkeit（原刊第 30 頁）。全文其餘各節為 II. Der Begriff der Verfassung（憲法的概念，原刊第 35 頁、Vinx 本第 27 頁）、III. Die Garantien der Rechtmässigkeit（合法性的保障，原刊第 43 頁、Vinx 本第 35 頁）、IV. Die Garantien der Verfassungsmässigkeit（合憲性的保障，原刊第 51 頁、Vinx 本第 43 頁）、V. Die juristische und politische Bedeutung der Verfassungsgerichtsbarkeit（憲法裁判在法學上與政治上的意義，原刊第 78 頁、Vinx 本第 69 頁）。"
+ },
+ "26": {
+  "註": "Vinx 本第 4 節之下分五小節：1. the constitutional court（德文 Das Verfassungsgericht，Vinx 本第 44 頁，原刊第 53 頁）、2. the object of the review（Der Gegenstand der verfassungsgerichtlichen Prüfung，第 48 頁，原刊第 57 頁）、3. the standard of the review（Der Maßstab der verfassungsgerichtlichen Prüfung，第 56 頁，原刊第 65 頁）、4. the result of the review（Das Ergebnis der verfassungsgerichtlichen Prüfung，第 61 頁，原刊第 70 頁）、5. the procedure（Das verfassungsgerichtliche Verfahren，第 64 頁，原刊第 73 頁）。"
+ },
+ "27": {
+  "註": "英文，命令，Kelsen 原文作 Verordnungen。原刊第 38 至 39 頁區分兩種：直接位於憲法之下、得代替或變更法律的命令（verfassungsunmittelbare Verordnungen，例如 Notverordnungen〔緊急命令〕），與單純執行法律的命令（gesetzausführende Verordnungen）；前者與法律一樣可能直接違憲，後者只可能間接違憲。審查客體一節（Vinx 本第 50 頁，原刊第 58 至 59 頁）主張違憲審查及於代替或變更法律的命令，並建議一併及於執行法律的命令（Durchführungsverordnungen）。",
+  "引": "kelsen1929|38--39, 58--59"
+ },
+ "36": {
+  "註": "德國的 Gesetz über das Bundesverfassungsgericht（聯邦憲法法院法，簡稱 BVerfGG），Ausfertigungsdatum 為 1951 年 3 月 12 日，現行條文為 1993 年 8 月 11 日公告之新編本（BGBl. I S. 1473），規定聯邦憲法法院的組織、管轄與程序。"
+ },
+ "53": {
+  "註": "德文原文作 Verfassungsprinzip der Gesetzmäßigkeit der Vollziehung（執行合法律性的憲法原則）。原刊第 41 頁說，此原則不只要求執行行為合乎法律，更要求執行行為「nur auf Grund eines Gesetzes, nur ermächtigt durch ein Gesetz, also niemals ohne die Grundlage eines Gesetzes」（只能依據法律、只能經法律授權、因此絕不能欠缺法律基礎）而作成；Vinx 本第 33 頁譯作 never without a statutory basis。"
+ },
+ "57": {
+  "註": "立法院於 2025 年 12 月 12 日三讀通過《公務人員退休資遣撫卹法》與《公立學校教職員退休資遣撫卹條例》修正案，媒體通稱停砍公教年金。總統於同月 26 日公布，批示應聲請憲法法庭判決及暫時處分；行政院院長卓榮泰同日表示將副署使法案生效，並即刻送請大法官解釋，政務委員林明昕說明將提出釋憲本案與暫時處分的聲請。聯合報同日報導引述相關人士，稱《警察人員人事條例》與《軍人待遇條例》修正案亦經副署公布而未編列預算，等待釋憲結果。"
+ },
+ "63": {
+  "註": "綱要第 3 條在實質上的壓制性保障（sachlich-repressive Garantien）中列出 Nichtigkeit des rechtswidrigen Aktes（違法行為的無效）、seine Vernichtung (Kassation)（撤銷）與 eventuell seine Ersetzung durch einen rechtmäßigen Akt (Reformation)（必要時以合法行為代替，即變更），並稱憲法裁判主要在於撤銷違法行為（原刊第 85 頁）。"
+ },
+ "70": {
+  "註": "立法院院長。2026 年 10 月 10 日以國慶大會主席身分致詞時，呼籲總統賴清德解決立法、行政兩院之間的對立，並稱臺灣民主不能被全世界認為是「假民主，真獨裁」。",
+  "出處": "https://udn.com/news/story/122496/9806089 ; https://udn.com/news/story/6656/9806331"
+ },
+ "76": {
+  "註": "德文原文作 Anwalt der Verfassung（Verfassungsanwalt），憲法檢察官。原刊第 75 頁建議在憲法法院設置此職，比照刑事程序的檢察官，對其認為違法的受審查行為依職權開啟審查程序，並應享有對政府與國會的獨立保障（Vinx 本第 66 頁）。",
+  "引": "kelsen1929|75"
+ },
+ "78": {
+  "註": "1919 年 8 月 11 日由帝國總統 Friedrich Ebert 在 Schwarzburg 簽署之《德意志帝國憲法》（Die Verfassung des Deutschen Reichs），載於 Reichsgesetzblatt 1919, S. 1383，依第 181 條自公布之日施行；因制憲國民會議在威瑪（Weimar）召開而通稱威瑪憲法。"
+ },
+ "81": {
+  "註": "中共中央總書記。2026 年 4 月 10 日在北京人民大會堂東大廳會見中國國民黨主席鄭麗文。"
+ },
+ "84": {
+  "註": "台灣民眾黨主席。前主席柯文哲涉京華城案等案遭羈押禁見，於 2025 年元旦請辭黨主席，推薦黃國昌代理職務；同年 2 月 15 日黨主席補選，黃國昌得票 8,903 票，得票率百分之 96.11，當選。"
+ },
+ "88": {
+  "註": "英譯原文為「concepts like 'property', 'value', and 'freedom'」，即財產、價值、自由三個概念。Schmitt 稱美國最高法院經由對這些概念的權威式解釋（authoritarian interpretation），取得「unique in all of world history」〔世界史上獨一無二〕的地位；其註 3 載此語出自 J. R. Commons, Legal Foundations of Capitalism (New York, 1924), p. 7。"
+ },
+ "91": {
+  "註": "德文，意為「法律效力」。德國聯邦憲法法院法（BVerfGG）第 31 條第 1 項規定聯邦憲法法院之裁判拘束聯邦與各邦之憲法機關及一切法院與官署；第 2 項規定，在第 13 條第 6、6a、11、12、14 款所定程序中，裁判具有法律效力；在第 13 條第 8a 款所定程序中，聯邦憲法法院宣告法律與基本法相符、不符或無效者，亦同。"
+ },
+ "92": {
+  "註": "德文，意為「國事法院」。威瑪憲法第 108 條規定依帝國法律設立德意志帝國國事法院；第 19 條第 1 項規定，邦內無法院可裁判之憲法爭議，以及邦與邦、帝國與邦之間非私法性質之爭議，除屬帝國其他法院管轄者外，經爭議一方聲請，由國事法院裁判；1921 年 7 月 9 日公布之國事法院法據此設立，設於萊比錫帝國法院。"
+ },
+ "108": {
+  "註": "湯德宗〈新世紀憲改工程──「弱勢總統制」改進方案〉稱 1997 年第四次修憲後之現制為總統制，「但與美國相比，僅堪稱為『弱勢總統制』」，指第四次修憲降低覆議表決門檻對行政權推動施政的影響。該文初稿發表於臺灣法學會 2004 年年度法學會議，收於《權力分立新論 卷一》增訂三版（2005），頁 59 以下。湯德宗另有〈論九七修憲後的權力分立──憲改工程的另類選擇〉，刊於《台大法學論叢》第 27 卷第 2 期，頁 135–178（1998 年 1 月）；該文收入《權力分立新論 卷一》時題為〈論九七修憲後的憲法結構──憲改工程的另類選擇〉，頁 1 以下。"
+ },
+ "110": {
+  "註": "公民投票法第 3 條第 1 項規定全國性公民投票之主管機關為中央選舉委員會；第 10 條第 3 項規定主管機關應於收到公民投票提案或補正之提案後 60 日內完成審核，提案非屬第 2 條所定全國性公民投票適用事項、內容不能瞭解其提案真意等情形，應敘明理由，通知提案人之領銜人於 30 日內補正，並以一次為限，屆期未補正或經補正仍不符規定者予以駁回。"
+ },
+ "94": {
+  "出處": "https://www.bundesfinanzhof.de/de/gericht/geschichte/onlineausstellung-rfh/bfh/epoche-1918-1933/"
+ },
+ "112": {
+  "出處": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010 ; https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020053"
+ }
+}

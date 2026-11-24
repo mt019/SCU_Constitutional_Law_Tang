@@ -1,0 +1,32 @@
+列號	判定	新註	新出處	新引	缺什麼	依據
+31	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310600（解釋文第三段，與本機 constitutional-court-app.json 一致）
+32	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030018 第 2 條第 1 項第 3 款
+33	維持					https://www.president.gov.tw/Page/694（1959 年出生；2024.05.20 就任）
+34	維持					https://web.cec.gov.tw/ 首頁選舉日曆：11/28 115年地方公職人員選舉投票
+35	維持					https://www.cna.com.tw/news/aipl/202512165003.aspx（15 日宣布不副署、11 月 14 日三讀）
+36	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 37 條；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002 第 2 條第 2 項
+37	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310356（71.05.25）
+38	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310184（41.05.21；解釋理由書援引憲法第 71、87 條制憲經過）
+39	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310201（42.07.10）
+40	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310196（42.04.24）
+41	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 87 條；釋字第 3、175 號官方頁
+42	未決				臺灣法學用語中 obiter dictum 的通行譯名原文；檢索摘要稱中文通譯「旁論」或「附帶意見」、「傍論」為日本法用語，講者逐字稿亦作「旁論」，但未取得臺灣法學著作原文，故不改	https://www.law.cornell.edu/wex/dictum（obiter dictum 定義與不具拘束力屬實；「傍論」譯名無出處）
+43	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310195（42.03.21）
+44	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=38&id=355485（判決日期 114年12月19日；主文第一項）；refs.bib ccj114-1 之 title、date、url 與之相符
+45	維持					https://www.taipeitimes.com/News/front/archives/2025/07/27/2003840980（24 案全未通過）；.../2025/08/24/2003842566（7 案全未通過）
+46	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 97 條第 2 項；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000002 第 7 條第 3 項
+47	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310500（82.06.04；解釋文）
+48	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310500；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020016（修正日期民國 111 年 03 月 15 日，第 8 條）；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020001 第 26 條第 1 項
+49	未決				司法院官方頁載翁岳生 1972 年起任大法官與 1999-02-01 至 2007-09-30 任院長之日期原文；本機 justices.json 為人工核定，官方簡歷頁無日期	justices.json 與 opinions 內釋字第319號不同意見書署名三人屬實；司法院簡歷頁 https://cons.judicial.gov.tw/judge.aspx?fid=9&id=10126&class_per_id=10179 無任期日期
+50	未決				楊日然任期訖日 1994-07-14 之官方或公報原文；官方簡歷頁僅載起日 1982/06/11	justices.json「任期來源：人工核定」；司法院簡歷頁 https://cons.judicial.gov.tw/judge.aspx?fid=9&id=10117&class_per_id=10084 僅載 1982/06/11-1985，與起日相符、無訖日
+51	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020001 第 3 條第 2 項、第 9 條第 1 項
+52	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 16 條；opinions 內釋字第319號不同意見書第二點「憲法第十六條參照」
+53	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310642（87.07.24；解釋文第一段、第二段）
+54	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0010030 第 13 條
+55	維持					https://www.president.gov.tw/Page/81（蔣中正 1887-1975；民國 37-64 年；第1~5任）
+56	維持					https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=F0010030（公布民國 89 年 01 月 29 日；行政院函定自 91 年 3 月 1 日施行）；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0010030 第 8 條
+57	維持					https://www.ey.gov.tw/Page/D4A3B8D669A4B277（郝柏村 79.06.01-82.02.27）；https://www.cna.com.tw/news/firstnews/202003300246.aspx（民國 8 年生，2020/3/30 訃聞，歷任參謀總長、國防部長、行政院長）
+58	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310642（解釋文第一段，86 年 7 月 21 日公布施行之增修條文）；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001 第 57 條第 1 款
+59	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310642（解釋文末段逐字相符）
+60	維持					https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0010044 第 10 條第 1 項第 7 款
+61	維持					https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310813（96.08.15；引文逐字相符）；課綱第 6 週列釋字 461、632

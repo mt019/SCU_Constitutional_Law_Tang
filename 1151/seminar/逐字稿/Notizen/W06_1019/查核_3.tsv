@@ -1,0 +1,38 @@
+列號	判定	新註文或缺什麼	依據
+41	維持		課綱 syllabus 第 9 週列 Ferejohn 與 Pasquino 篇、第 12 週列 Castro 篇，篇名均含 Deliberative
+42	維持		law.moj.gov.tw 憲法增修條文第 4 條（curl 存檔全文）：第 1 項 113 人及各款名額，第 2 項第 3 款依政黨名單投票、百分之五門檻依得票比率
+43	維持	（投票日 2025 年 7 月 26 日、8 月 23 日未見於兩份公告 PDF，沿用註文既有日期，無反證）	web.cec.gov.tw 兩份公告 PDF（curl 存檔、pdftotext）：114 年 8 月 1 日中選務字第 1143150602 號列 24 案、114 年 8 月 29 日中選務字第 1143150700 號列 7 案，共 31 案罷免結果均為否決，無一通過
+44	維持		本機 Waldron 全文 txt 1363 頁引句逐字相符；1358–1359 頁第三種區分（ex ante abstract assessment）相符；laws-lois.justice.gc.ca Supreme Court Act s.53(1) 全文：(a) 憲法解釋、(b) 聯邦或省法律之合憲性或解釋
+45	維持		law.moj.gov.tw 憲法第 78 條原文逐字相符；憲法訴訟法第 1 條第 1 項六款案件類型相符
+46	維持		本機 Waldron 全文 txt 1364 頁標題 C. A Commitment to Rights 與引句逐字相符
+47	改	英文，「關於權利之分歧」，Waldron 第四項假設之標題。該項假設社會對權利之承諾不免於現代自由社會一般政治問題上普遍存在之分歧，社會成員對於有哪些權利、權利之內容為何，存有相當程度之歧見（substantial dissensus as to what rights there are and what they amount to）。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1366–1367 (2006)。	本機 Waldron 全文 txt 1366 頁末段 D. Disagreement About Rights：「the commitment about rights is not exempt from the incidence of general disagreement」；原註文寫「共識」，原文為 commitment，應作「承諾」，與第 46 列譯詞一致
+48	維持		本機 Waldron 全文 txt 1371 頁正文與註 64（Leviathan 123, Richard Tuck ed., 1996）相符，正文原句「settle, not reignite, the controversies」；plato.stanford.edu Hobbes 條：1588–1679、Leviathan 1651
+49	維持		本機 Waldron 全文 txt 1376 頁正文 According to Raz 引句與註 77（Raz, supra note 71, at 45）；註 71 為 43 Am. J. Juris. 之 Disagreement in Politics；kcl.ac.uk 訃告：2022 年 5 月 2 日於 Charing Cross Hospital 去世；law.columbia.edu：1939 年 3 月 21 日生，2002 年起任教 Columbia，牛津任職至 2009，King's College London 研究教授 2011 年起
+50	維持		本機 Waldron 全文 txt 1376 頁：「initiated by the legal process school」及註 78（Hart & Sacks, supra note 49, at 640–47），全引見註 49（1363 頁，Eskridge & Frickey eds., 1994）
+51	維持		phenom-court-data constitutionalCourt-reasoning-fulltext.json「111年憲判字第9號」理由書【20】逐字相符；constitutional-court-app.json 日期 2022-06-24、官方頁 fid=38&id=339757
+52	維持		課綱 syllabus 指定教科書四部之第一部：湯德宗，《釋憲學思心路》（上、中、下冊）（二版，2026）
+53	維持		hls.harvard.edu Fuller 頁：1902–1978，1940–1978 任教，Carter 講座 1948–1972；本機 Waldron 全文 txt 1376 頁正文與註 79（Fuller, supra note 49, at 368–70），全引 92 Harv. L. Rev. 353 (1978) 見註 49
+54	維持		law.cornell.edu 323/214 全文：Decided Dec. 18, 1944、Black 執筆、San Leandro、Civilian Exclusion Order No. 34、1942 年 5 月 9 日；law.cornell.edu 17-965（Trump v. Hawaii）Decided June 26, 2018，引句 gravely wrong the day it was decided 逐字相符
+55	維持		law.cornell.edu 249/47 全文：Decided March 3, 1919、Holmes 執筆、clear and present danger、引句逐字相符；本機 Waldron 全文 txt 1377 頁註 82 概括語相符
+56	維持		fjc.gov Holmes 頁：Supreme Court Oath December 8, 1902，任期至 January 12, 1932；生 1841 年 3 月 8 日、卒 1935 年 3 月 6 日
+57	維持		law.cornell.edu 60/393 全文：Taney 執筆，引句逐字相符；archives.gov Dred Scott 頁：March 6, 1857 宣示
+58	維持		本機 Waldron 全文 txt 1382 頁 One final point 一段，positive (socioeconomic) 與 negative (liberty) rights，財產權與契約自由例相符
+59	改	Roe v. Wade, 410 U.S. 113，聯邦最高法院 1973 年 1 月 22 日判決，認定德州刑法之墮胎罪規定違反第十四修正案正當程序條款所保障之隱私權；2022 年 Dobbs v. Jackson Women's Health Organization, 597 U.S. 215 判決將之推翻。Waldron 指出該案五十頁之意見中，討論生育權相對於隱私之道德重要性者僅有兩段左右；其註 99 載明處理道德爭點之篇幅在第 153–155 頁。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1383 (2006)。	本機 Waldron 全文 txt 1383 頁正文：「there are but a couple of paragraphs dealing with the moral importance of reproductive rights in relation to privacy」；註 99：「only a few pages address the actual moral issues… 153-55」。原註文把「兩三段」與頁碼併為一句，正文只說兩段、頁碼出自註 99。cornell 410/113 Decided Jan. 22, 1973；supremecourt.gov Dobbs slip opinion Decided June 24, 2022（slip 本只印 597 U. S. ____，卷頁 215 取自 refs.bib dobbs2022，未見於本次打開的頁面）
+60	改	Ronald Dworkin（1931–2013），美國法律哲學家，曾任教於耶魯大學法學院、牛津大學，終任紐約大學法學院 Frank Henry Sommer 教授。法院為「原則的論壇」（forum of principle）之說出自其 A Matter of Principle（1985），Waldron 註 108 引該書第 33、69–71 頁。見 Jeremy Waldron, The Core of the Case Against Judicial Review, 115 Yale L.J. 1346, 1385 (2006)。	law.nyu.edu 追思頁：Frank Henry Sommer Professor of Law，曾任 Yale Hohfeld 講座、Oxford 法理學教授，2013 年 2 月 14 日去世，頁面未載到職年份；en.wikipedia 作 taught from the late 1970s（僅作線索）。原註文「1975 年起」在已打開的出處中找不到依據，且與維基衝突，刪去年份或另取 NYU 教職履歷。本機 Waldron 全文 txt 1385 頁正文及註 108、註 3（A Matter of Principle 9-32 (1985)）相符
+61	維持	（可補全第 19 條第 1 項「得依職權或依聲請，通知當事人或關係人到庭說明、陳述意見，並得指定專家學者、機關或團體就相關問題提供專業意見或資料」，非必要）	law.moj.gov.tw 憲法訴訟法全文：第 19 條第 1 項、第 20 條第 1 項相符；課程問答 refs.bib 鍵 csfa 存在
+62	維持		fjc.gov Scalia 頁：生 1936 年 3 月 11 日、卒 2016 年 2 月 13 日；supremecourt.gov members：Scalia, Antonin 就任 September 26, 1986
+63	維持		本機 Waldron 全文 txt 1390–1391 頁長引文，註 115（Casey, 505 U.S. 833, 999–1000 (Scalia, J., dissenting)）；law.cornell.edu 505/833：Decided June 29, 1992、Pennsylvania Abortion Control Act of 1982
+64	改	英文，「理性判斷」。Casey 案判決理由謂實體正當程序主張之裁判「may call upon the Court in interpreting the Constitution to exercise that same capacity which by tradition courts always have exercised: reasoned judgment」，Scalia 大法官之不同意見即針對此一用語，認其「turns out to be nothing but philosophical predilection and moral intuition」（Waldron 全文 1390 頁引，註 115，999–1000 頁）。	law.cornell.edu 505/833：註文引句「may require this Court to exercise its reasoned judgment in determining the boundaries…」僅見於判決前之 Syllabus（書記處撰寫之裁判要旨），不屬判決理由；理由本文為「may call upon the Court in interpreting the Constitution to exercise that same capacity… reasoned judgment」。Waldron 全文 1390 頁引 Scalia 原文
+65	維持		constitutional-court-app.json：113年憲判字第8號，案名死刑案，2024-09-20，主筆黃昭元；主文第一項引句逐字相符；課程問答 refs.bib 鍵 ccj113-8 存在且日期相符
+66	維持		law.moj.gov.tw 刑法第 160 條第 1 項全文逐字相符（第 2 項為國父遺像，註文未涉）。講者所述為假設語氣
+67	維持		constitutional-court-app.json 釋字第405號：1996-06-07，主文引句逐字相符，主文所稱「前開」為釋字第 278 號
+68	維持		constitutional-court-app.json 釋字第278號：1991-05-17，主文引句逐字相符
+69	維持		law.moj.gov.tw 憲法增修條文第 5 條第 1 項逐字相符
+70	維持		law.moj.gov.tw 環境影響評估法第 23 條全文：第 8 項（書面告知）、第 9 項（六十日、行政法院）相符
+71	維持		law.moj.gov.tw 憲法訴訟法第 59 條第 1 項逐字相符；課程問答 refs.bib 鍵 csfa 存在
+72	維持		W05 sources DeGruyter-VVDStRL-Heft5-1929-Staatsgerichtsbarkeit.txt 第 74 頁：「Die stärkste Garantie böte sicher die Zulassung einer actio popularis… kann eine solche Lösung… nicht empfohlen werden. Die Möglichkeit mutwilliger Anfechtung, die Gefahr einer unerträglichen Überlastung…」；bpb.de Kelsen 條：1881 年 10 月 11 日生、1973 年 4 月 19 日卒、聯邦憲法草案、憲法法院法官；課程問答 refs.bib 鍵 kelsen1929 存在。britannica.com 頁面回 Cloudflare 驗證，未能打開
+73	維持		本機 Waldron 全文 txt 1397 頁 decisional／topical majority 與白人議員例相符
+74	維持		law.cornell.edu 304/144：Decided April 25, 1938，註 4 引句逐字相符；本機 Waldron 全文 txt 1403 頁正文與註 137
+75	維持		moi.gov.tw 內政統計通報：上版日期 115-02-21，戶籍登記為原住民身分 62 萬 9,456 人，占全國人口 2.7%
+76	維持		gesetze-im-internet.de GG 第 18 條、第 21 條第 2 項全文相符；law.moj.gov.tw 增修條文第 5 條第 5 項逐字相符；bpb.de 該條：防衛式民主概念自 1930 年代討論（Loewenstein 之名未見於所取頁面，註文該句屬未核）
+統計		親自打開核對之出處 34 件（本機 Waldron 全文、課綱、Kelsen 全文、phenom-court-data 兩份 JSON；curl 存檔全文之 law.moj.gov.tw 8 頁、law.cornell.edu 7 案、supremecourt.gov Dobbs、laws-lois.justice.gc.ca、gesetze-im-internet 2 頁、moi.gov.tw、web.cec.gov.tw 2 份 PDF、kcl、columbia、nyu、hls、fjc 2 頁、supremecourt members、plato SEP、archives.gov、bpb 2 頁）；只看到摘要者 0（未用 WebFetch）；未能打開 1（britannica.com）	
